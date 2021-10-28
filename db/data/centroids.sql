@@ -54,5 +54,6 @@ create table centroids
     imd       numeric,
     calncv    text,
     stp       text,
-    itl       text
+    itl       text,
+    shape     text
 )
