@@ -1,0 +1,1 @@
+\copy mps from 'download/mps.csv' delimiter ',' csv header;
