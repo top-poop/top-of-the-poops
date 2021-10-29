@@ -252,7 +252,7 @@
     .then(data => {
         document.getElementById("data-match-by-company").appendChild(
             Plot.plot({
-                caption: htl.html`Figure: <i>Spill events matching consents</i>`,
+                caption: htl.html`Figure: <i>Spill events matching / not matching consents</i>`,
                 marginTop: 50,
                 marginLeft: 100,
                 marginBottom: 150,
@@ -265,7 +265,7 @@
                 },
                 y: {
                     grid: true,
-                    label: "",
+                    label: "count of sewage spills ↑",
                 },
                 marks: [
                     Plot.barY(data, {
