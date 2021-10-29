@@ -101,6 +101,7 @@ if __name__ == "__main__":
                 next(sewage)
 
                 for discharge in sewage:
+                    discharge = [s.strip() for s in discharge]
                     bodged = bodge(discharge)
 
                     # various records have multiple comments at end
