@@ -2,6 +2,8 @@
 
 # Top Of The Poops
 
+Website: [top-of-the-poops.org](https://top-of-the-poops.org)
+
 Seems that [#sewage](https://twitter.com/search?q=%23sewage) is on people's minds right now.
 
 The UK publishes some information about sewage outfalls - here are some scripts to get this information, analyse it, and
@@ -9,14 +11,30 @@ perhaps publish some interesting findings.
 
 ## How to use
 
+You can clone the repo - I use IntelliJ IDEA to make a hot-reloading web page. There's no javascript build, it just uses some generated json files, which are committed to the repo. 
+
+## Contributing
+
+Contributions are welcome - especially CSS / Javascript improvements! But please chat before doing any real work - to make sure everyone is aligned with direction. 
+
+### Development Environment
+
+This has been developed on Linux, the makefiles may or may not work on a Mac.
+
 ### Setting up the database
 
 ```shell
-
 cd db/data
 make load-all
 ```
 
+### Generating json data files
+
+You'll need to have set up the database stuff first
+
+```shell
+make generated
+```
 
 ### MP Data 
 
