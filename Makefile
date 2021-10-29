@@ -10,10 +10,16 @@ GENERATED=$(foreach sql,$(SQLS),web/data/generated/$(basename $(notdir $(sql))).
 
 all: generated
 
-$(PYTHON):
+.PHONY: python
+python: $(PYTHON)
+
+.python_uptodate: requirements.txt
 	python3 -m venv venv
 	$(PYTHON) -m pip install --upgrade pip
-	$(PIP) install -r requirements.txt
+	$(PIP) install -r $<
+	touch $@
+
+$(PYTHON): .python_uptodate
 
 web/data/generated/%.json: generate/$(basename $(notdir %)).sql $(PYTHON) $(GENERATE)
 	$(PYTHON) $(GENERATE) $< $@
