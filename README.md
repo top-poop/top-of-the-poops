@@ -24,6 +24,7 @@ This has been developed on Linux, the makefiles may or may not work on a Mac.
 ### Setting up the database
 
 ```shell
+make python
 cd db/data
 make load-all
 ```

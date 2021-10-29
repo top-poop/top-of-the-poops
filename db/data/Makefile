@@ -10,7 +10,7 @@ ROOT_DIR:=$(shell dirname $(realpath $(firstword $(MAKEFILE_LIST))))
 export PGPASSWORD=docker
 PSQL=psql -h localhost -d gis -U docker -q
 CURL=curl --fail --silent
-PYTHON=python3
+PYTHON=../../venv/bin/python3
 
 ## MPs
 
@@ -35,10 +35,11 @@ $(DOWNLOAD)/PCON_DEC_2020_UK_BFC.shp: $(DOWNLOAD)/$(CONSTITUENCIES_NAME)
 
 $(DOWNLOAD)/PCON_DEC_2020_UK_BFC.sql: $(DOWNLOAD)/PCON_DEC_2020_UK_BFC.shp
 	ogr2ogr -nlt PROMOTE_TO_MULTI -f PGDump -t_srs "EPSG:4326" $@ $<
+	sed -i -e 's/NUMERIC(24,15)/NUMERIC/' $@
 
 .PHONY: load-constituencies
 load-constituencies: $(DOWNLOAD)/PCON_DEC_2020_UK_BFC.sql
-	$(PSQL) -f PCON_DEC_2020_UK_BFC.sql
+	$(PSQL) -f $<
 
 
 ## Sewage Data
@@ -76,6 +77,16 @@ load-edm: edm.sql load_edm.sql $(DOWNLOAD)/standardised-returns.csv
 	$(PSQL) -f $<
 	$(PSQL) -f $(word 2,$^)
 
+## Grid References
+
+$(DOWNLOAD)/grid-references.csv: $(DOWNLOAD)/consents_active.csv
+	$(PYTHON) convert-grid-references.py $< $@
+
+.PHONY: load-grid-references
+load-grid-references: grid_references.sql load_grid_references.sql $(DOWNLOAD)/grid-references.csv
+	$(PSQL) -f $<
+	$(PSQL) -f $(word 2,$^)
+
 ## Postcodes
 
 POSTCODE_CSV=postcode-centroids.csv
@@ -93,7 +104,7 @@ load-postcodes: centroids.sql load_centroids.sql $(DOWNLOAD)/$(POSTCODE_CSV)
 load-sewage: load-consents load-edm
 
 .PHONY: load-all
-load-all: load-constituencies load-sewage load-postcodes
+load-all: load-constituencies load-sewage load-grid-references
 
 clean:
 	rm -rf $(DOWNLOAD)
