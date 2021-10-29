@@ -53,6 +53,20 @@
 
 <div id="shellfish-top-10"></div>
 
+<h3>Data Quality</h3>
+
+<div>
+    Data quality appears very poor. In our naive understanding, each spill event record should be matched with a 'consent' - however
+    some companies don't seem to match up very well at all. In this graph the "matched" values are overstated due to multiple 'consent'
+    records existing with the same id.
+</div>
+
+<div>
+    To put this another way - if the spill records list 'consents' that are no listed, do such consents exist at all?
+</div>
+
+<div id="data-match-by-company"></div>
+
 <h3>Incomplete Monitoring</h3>
 
 <div>
@@ -116,6 +130,7 @@
                         insetLeft: 0.5,
                         insetRight: 0.5,
                         fill: options.category,
+                        title: options.category,
                     }
                 ),
                 Plot.ruleY([0])
@@ -221,6 +236,42 @@
             document.getElementById("company-contacts").appendChild(t)
         });
 
+    fetch("data/generated/data-match-by-company.json")
+    .then(r => r.json())
+    .then(data => {
+        document.getElementById("data-match-by-company").appendChild(
+            Plot.plot({
+                caption: htl.html`Figure: <i>Spill events matching consents</i>`,
+                marginTop: 50,
+                marginLeft: 100,
+                marginBottom: 150,
+                width: 1000,
+                height: 500,
+                x: {
+                    padding: 0,
+                    tickRotate: 45,
+                    label: "",
+                },
+                y: {
+                    grid: true,
+                    label: "",
+                },
+                marks: [
+                    Plot.barY(data, {
+                        x: "company_name",
+                        y: "count",
+                        fill: "type",
+                        title: d => d.type + " " + formatNumber(d.count),
+                        insetLeft: 0.5,
+                        insetRight: 0.5,
+                    }),
+                    Plot.ruleY([0]),
+                ]
+            })
+
+        )
+    });
+
     fetch("data/generated/reporting-by-company.json")
         .then(r => r.json())
         .then(data => {
@@ -229,8 +280,6 @@
 
             names.forEach(name => {
                 const company_data = data.filter(c => c.company_name === name);
-
-                console.log(company_data);
 
                 document.getElementById("graph-reporting").appendChild(
                     Plot.plot({

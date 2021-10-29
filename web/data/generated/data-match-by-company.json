@@ -1,0 +1,102 @@
+[
+  {
+    "company_name": "Anglian Water",
+    "type": "matched",
+    "count": 21
+  },
+  {
+    "company_name": "Anglian Water",
+    "type": "unmatched",
+    "count": 719
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "type": "matched",
+    "count": 117
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "type": "unmatched",
+    "count": 19
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "type": "matched",
+    "count": 2185
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "type": "unmatched",
+    "count": 58
+  },
+  {
+    "company_name": "Severn Trent Water",
+    "type": "matched",
+    "count": 2836
+  },
+  {
+    "company_name": "Severn Trent Water",
+    "type": "unmatched",
+    "count": 423
+  },
+  {
+    "company_name": "South West Water",
+    "type": "matched",
+    "count": 1485
+  },
+  {
+    "company_name": "South West Water",
+    "type": "unmatched",
+    "count": 176
+  },
+  {
+    "company_name": "Southern Water",
+    "type": "matched",
+    "count": 144
+  },
+  {
+    "company_name": "Southern Water",
+    "type": "unmatched",
+    "count": 1401
+  },
+  {
+    "company_name": "Thames Water",
+    "type": "matched",
+    "count": 588
+  },
+  {
+    "company_name": "Thames Water",
+    "type": "unmatched",
+    "count": 17
+  },
+  {
+    "company_name": "United Utilities",
+    "type": "matched",
+    "count": 775
+  },
+  {
+    "company_name": "United Utilities",
+    "type": "unmatched",
+    "count": 1648
+  },
+  {
+    "company_name": "Wessex Water",
+    "type": "matched",
+    "count": 1372
+  },
+  {
+    "company_name": "Wessex Water",
+    "type": "unmatched",
+    "count": 53
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "type": "matched",
+    "count": 3537
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "type": "unmatched",
+    "count": 206
+  }
+]
