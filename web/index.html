@@ -38,20 +38,27 @@
     impossible to know where they are.
 </div>
 
-<div id="graph-spills-count"></div>
+<div class="center">
+    <div id="graph-spills-count"></div>
+</div>
+
 <div id="graph-spills-hours"></div>
 
 <h3>Seasides</h3>
 
 <div>We would like clean beaches - but sewage spills are happening all the time at beach locations.</div>
 
-<div id="bathing-top-10"></div>
+<div class="center">
+    <div id="bathing-top-10"></div>
+</div>
 
 <h3>Shellfisheries</h3>
 
 <div>Shellfish can become unfit for human consumption when polluted by sewage.</div>
 
-<div id="shellfish-top-10"></div>
+<div class="center">
+    <div id="shellfish-top-10"></div>
+</div>
 
 <h3>Data Quality</h3>
 
@@ -67,7 +74,9 @@
     519 as 'Permit Anomaly'
 </div>
 
-<div id="data-match-by-company"></div>
+<div class="center">
+    <div id="data-match-by-company"></div>
+</div>
 
 <h3>Incomplete Monitoring</h3>
 
@@ -182,7 +191,7 @@
     fetch("data/generated/top-10-bathing.json")
         .then(r => r.json())
         .then(data => {
-            const t = htl.html`<table class="top-10">
+            const t = htl.html`<table class="top-10 styled-table">
             <thead>
             <tr>
             <th>Company Name</th>
@@ -202,7 +211,7 @@
     fetch("data/generated/top-10-shellfish.json")
         .then(r => r.json())
         .then(data => {
-            const t = htl.html`<table class="top-10">
+            const t = htl.html`<table class="top-10 styled-table">
             <thead>
             <tr>
             <th>Company Name</th>
@@ -222,7 +231,7 @@
     fetch("data/static/companies.json")
         .then(r => r.json())
         .then(data => {
-            const t = htl.html`<table class="company-contact">
+            const t = htl.html`<table class="company-contact styled-table">
                 <thead></thead>
                 <tbody>${data.map(company => htl.html.fragment`<tr>
                 <td class="logo"><img src="assets/logos/${toKebabCase(company.name)}.png"/></td>
