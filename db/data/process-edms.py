@@ -69,6 +69,12 @@ def ensure_numeric(thing):
         return 0.0
 
 
+def ensure_not_na(thing):
+    if thing.lower() == "n/a":
+        return ""
+    return thing
+
+
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="process mess of EDM files")
@@ -104,6 +110,9 @@ if __name__ == "__main__":
 
                     # various have % or not
                     bodged[8] = bodged[8].replace("%", "")
+
+                    bodged[4] = ensure_not_na(bodged[4])
+                    bodged[5] = ensure_not_na(bodged[5])
 
                     # some records are "n/a" or similar
                     bodged[6] = ensure_numeric(bodged[6])

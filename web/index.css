@@ -1,0 +1,41 @@
+
+body {
+    line-height: 1.5;
+    color: black;
+    background-color: #ffffff;
+}
+
+blockquote {
+    padding: 20px 20px 20px 50px;
+    font-size: 24px;
+    line-height: 40px;
+    font-weight: 700;
+}
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero img {
+    height: 100px;
+}
+
+.hero .title {
+    font-size: 60pt;
+    margin: 0 0 10px;
+    text-align: center;
+}
+
+#graph-reporting figure {
+    display: inline-block;
+}
+
+.company-contact .logo img {
+    width: 100px;
+}
+
+table.top-10 {
+    width: 80%;
+}

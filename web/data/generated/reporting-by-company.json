@@ -1,0 +1,902 @@
+[
+  {
+    "bin": 0.0,
+    "company_name": "Anglian Water",
+    "count": 27
+  },
+  {
+    "bin": 10.0,
+    "company_name": "Anglian Water",
+    "count": 1
+  },
+  {
+    "bin": 20.0,
+    "company_name": "Anglian Water",
+    "count": 1
+  },
+  {
+    "bin": 25.0,
+    "company_name": "Anglian Water",
+    "count": 1
+  },
+  {
+    "bin": 35.0,
+    "company_name": "Anglian Water",
+    "count": 3
+  },
+  {
+    "bin": 40.0,
+    "company_name": "Anglian Water",
+    "count": 1
+  },
+  {
+    "bin": 50.0,
+    "company_name": "Anglian Water",
+    "count": 1
+  },
+  {
+    "bin": 55.0,
+    "company_name": "Anglian Water",
+    "count": 1
+  },
+  {
+    "bin": 60.0,
+    "company_name": "Anglian Water",
+    "count": 1
+  },
+  {
+    "bin": 65.0,
+    "company_name": "Anglian Water",
+    "count": 4
+  },
+  {
+    "bin": 70.0,
+    "company_name": "Anglian Water",
+    "count": 1
+  },
+  {
+    "bin": 75.0,
+    "company_name": "Anglian Water",
+    "count": 3
+  },
+  {
+    "bin": 80.0,
+    "company_name": "Anglian Water",
+    "count": 1
+  },
+  {
+    "bin": 85.0,
+    "company_name": "Anglian Water",
+    "count": 6
+  },
+  {
+    "bin": 90.0,
+    "company_name": "Anglian Water",
+    "count": 23
+  },
+  {
+    "bin": 95.0,
+    "company_name": "Anglian Water",
+    "count": 205
+  },
+  {
+    "bin": 100.0,
+    "company_name": "Anglian Water",
+    "count": 455
+  },
+  {
+    "bin": 0.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 5
+  },
+  {
+    "bin": 5.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 1
+  },
+  {
+    "bin": 30.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 1
+  },
+  {
+    "bin": 45.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 1
+  },
+  {
+    "bin": 55.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 2
+  },
+  {
+    "bin": 65.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 4
+  },
+  {
+    "bin": 80.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 1
+  },
+  {
+    "bin": 95.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 70
+  },
+  {
+    "bin": 100.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 35
+  },
+  {
+    "bin": 0.0,
+    "company_name": "Northumbrian Water",
+    "count": 63
+  },
+  {
+    "bin": 5.0,
+    "company_name": "Northumbrian Water",
+    "count": 5
+  },
+  {
+    "bin": 10.0,
+    "company_name": "Northumbrian Water",
+    "count": 3
+  },
+  {
+    "bin": 15.0,
+    "company_name": "Northumbrian Water",
+    "count": 3
+  },
+  {
+    "bin": 25.0,
+    "company_name": "Northumbrian Water",
+    "count": 2
+  },
+  {
+    "bin": 30.0,
+    "company_name": "Northumbrian Water",
+    "count": 1
+  },
+  {
+    "bin": 40.0,
+    "company_name": "Northumbrian Water",
+    "count": 1
+  },
+  {
+    "bin": 45.0,
+    "company_name": "Northumbrian Water",
+    "count": 1
+  },
+  {
+    "bin": 50.0,
+    "company_name": "Northumbrian Water",
+    "count": 1
+  },
+  {
+    "bin": 55.0,
+    "company_name": "Northumbrian Water",
+    "count": 4
+  },
+  {
+    "bin": 60.0,
+    "company_name": "Northumbrian Water",
+    "count": 4
+  },
+  {
+    "bin": 65.0,
+    "company_name": "Northumbrian Water",
+    "count": 6
+  },
+  {
+    "bin": 70.0,
+    "company_name": "Northumbrian Water",
+    "count": 10
+  },
+  {
+    "bin": 75.0,
+    "company_name": "Northumbrian Water",
+    "count": 8
+  },
+  {
+    "bin": 80.0,
+    "company_name": "Northumbrian Water",
+    "count": 20
+  },
+  {
+    "bin": 85.0,
+    "company_name": "Northumbrian Water",
+    "count": 37
+  },
+  {
+    "bin": 90.0,
+    "company_name": "Northumbrian Water",
+    "count": 81
+  },
+  {
+    "bin": 95.0,
+    "company_name": "Northumbrian Water",
+    "count": 1053
+  },
+  {
+    "bin": 100.0,
+    "company_name": "Northumbrian Water",
+    "count": 217
+  },
+  {
+    "bin": 0.0,
+    "company_name": "Severn Trent Water",
+    "count": 12
+  },
+  {
+    "bin": 5.0,
+    "company_name": "Severn Trent Water",
+    "count": 3
+  },
+  {
+    "bin": 10.0,
+    "company_name": "Severn Trent Water",
+    "count": 2
+  },
+  {
+    "bin": 15.0,
+    "company_name": "Severn Trent Water",
+    "count": 2
+  },
+  {
+    "bin": 20.0,
+    "company_name": "Severn Trent Water",
+    "count": 3
+  },
+  {
+    "bin": 25.0,
+    "company_name": "Severn Trent Water",
+    "count": 7
+  },
+  {
+    "bin": 30.0,
+    "company_name": "Severn Trent Water",
+    "count": 8
+  },
+  {
+    "bin": 35.0,
+    "company_name": "Severn Trent Water",
+    "count": 7
+  },
+  {
+    "bin": 40.0,
+    "company_name": "Severn Trent Water",
+    "count": 9
+  },
+  {
+    "bin": 45.0,
+    "company_name": "Severn Trent Water",
+    "count": 14
+  },
+  {
+    "bin": 50.0,
+    "company_name": "Severn Trent Water",
+    "count": 10
+  },
+  {
+    "bin": 55.0,
+    "company_name": "Severn Trent Water",
+    "count": 15
+  },
+  {
+    "bin": 60.0,
+    "company_name": "Severn Trent Water",
+    "count": 21
+  },
+  {
+    "bin": 65.0,
+    "company_name": "Severn Trent Water",
+    "count": 26
+  },
+  {
+    "bin": 70.0,
+    "company_name": "Severn Trent Water",
+    "count": 30
+  },
+  {
+    "bin": 75.0,
+    "company_name": "Severn Trent Water",
+    "count": 54
+  },
+  {
+    "bin": 80.0,
+    "company_name": "Severn Trent Water",
+    "count": 118
+  },
+  {
+    "bin": 85.0,
+    "company_name": "Severn Trent Water",
+    "count": 115
+  },
+  {
+    "bin": 90.0,
+    "company_name": "Severn Trent Water",
+    "count": 117
+  },
+  {
+    "bin": 95.0,
+    "company_name": "Severn Trent Water",
+    "count": 1110
+  },
+  {
+    "bin": 100.0,
+    "company_name": "Severn Trent Water",
+    "count": 605
+  },
+  {
+    "bin": 5.0,
+    "company_name": "South West Water",
+    "count": 1
+  },
+  {
+    "bin": 10.0,
+    "company_name": "South West Water",
+    "count": 20
+  },
+  {
+    "bin": 15.0,
+    "company_name": "South West Water",
+    "count": 22
+  },
+  {
+    "bin": 20.0,
+    "company_name": "South West Water",
+    "count": 17
+  },
+  {
+    "bin": 25.0,
+    "company_name": "South West Water",
+    "count": 13
+  },
+  {
+    "bin": 30.0,
+    "company_name": "South West Water",
+    "count": 13
+  },
+  {
+    "bin": 35.0,
+    "company_name": "South West Water",
+    "count": 6
+  },
+  {
+    "bin": 40.0,
+    "company_name": "South West Water",
+    "count": 7
+  },
+  {
+    "bin": 45.0,
+    "company_name": "South West Water",
+    "count": 3
+  },
+  {
+    "bin": 50.0,
+    "company_name": "South West Water",
+    "count": 8
+  },
+  {
+    "bin": 55.0,
+    "company_name": "South West Water",
+    "count": 3
+  },
+  {
+    "bin": 60.0,
+    "company_name": "South West Water",
+    "count": 4
+  },
+  {
+    "bin": 65.0,
+    "company_name": "South West Water",
+    "count": 3
+  },
+  {
+    "bin": 70.0,
+    "company_name": "South West Water",
+    "count": 5
+  },
+  {
+    "bin": 75.0,
+    "company_name": "South West Water",
+    "count": 13
+  },
+  {
+    "bin": 80.0,
+    "company_name": "South West Water",
+    "count": 9
+  },
+  {
+    "bin": 85.0,
+    "company_name": "South West Water",
+    "count": 16
+  },
+  {
+    "bin": 90.0,
+    "company_name": "South West Water",
+    "count": 4
+  },
+  {
+    "bin": 95.0,
+    "company_name": "South West Water",
+    "count": 3
+  },
+  {
+    "bin": 100.0,
+    "company_name": "South West Water",
+    "count": 925
+  },
+  {
+    "bin": 0.0,
+    "company_name": "Southern Water",
+    "count": 63
+  },
+  {
+    "bin": 5.0,
+    "company_name": "Southern Water",
+    "count": 2
+  },
+  {
+    "bin": 10.0,
+    "company_name": "Southern Water",
+    "count": 2
+  },
+  {
+    "bin": 15.0,
+    "company_name": "Southern Water",
+    "count": 1
+  },
+  {
+    "bin": 20.0,
+    "company_name": "Southern Water",
+    "count": 5
+  },
+  {
+    "bin": 25.0,
+    "company_name": "Southern Water",
+    "count": 3
+  },
+  {
+    "bin": 30.0,
+    "company_name": "Southern Water",
+    "count": 5
+  },
+  {
+    "bin": 35.0,
+    "company_name": "Southern Water",
+    "count": 2
+  },
+  {
+    "bin": 45.0,
+    "company_name": "Southern Water",
+    "count": 8
+  },
+  {
+    "bin": 50.0,
+    "company_name": "Southern Water",
+    "count": 10
+  },
+  {
+    "bin": 55.0,
+    "company_name": "Southern Water",
+    "count": 12
+  },
+  {
+    "bin": 60.0,
+    "company_name": "Southern Water",
+    "count": 7
+  },
+  {
+    "bin": 65.0,
+    "company_name": "Southern Water",
+    "count": 6
+  },
+  {
+    "bin": 70.0,
+    "company_name": "Southern Water",
+    "count": 14
+  },
+  {
+    "bin": 75.0,
+    "company_name": "Southern Water",
+    "count": 19
+  },
+  {
+    "bin": 80.0,
+    "company_name": "Southern Water",
+    "count": 29
+  },
+  {
+    "bin": 85.0,
+    "company_name": "Southern Water",
+    "count": 29
+  },
+  {
+    "bin": 90.0,
+    "company_name": "Southern Water",
+    "count": 87
+  },
+  {
+    "bin": 95.0,
+    "company_name": "Southern Water",
+    "count": 926
+  },
+  {
+    "bin": 100.0,
+    "company_name": "Southern Water",
+    "count": 247
+  },
+  {
+    "bin": 0.0,
+    "company_name": "Thames Water",
+    "count": 5
+  },
+  {
+    "bin": 30.0,
+    "company_name": "Thames Water",
+    "count": 2
+  },
+  {
+    "bin": 45.0,
+    "company_name": "Thames Water",
+    "count": 2
+  },
+  {
+    "bin": 55.0,
+    "company_name": "Thames Water",
+    "count": 1
+  },
+  {
+    "bin": 60.0,
+    "company_name": "Thames Water",
+    "count": 2
+  },
+  {
+    "bin": 65.0,
+    "company_name": "Thames Water",
+    "count": 5
+  },
+  {
+    "bin": 70.0,
+    "company_name": "Thames Water",
+    "count": 8
+  },
+  {
+    "bin": 75.0,
+    "company_name": "Thames Water",
+    "count": 5
+  },
+  {
+    "bin": 80.0,
+    "company_name": "Thames Water",
+    "count": 12
+  },
+  {
+    "bin": 85.0,
+    "company_name": "Thames Water",
+    "count": 8
+  },
+  {
+    "bin": 90.0,
+    "company_name": "Thames Water",
+    "count": 16
+  },
+  {
+    "bin": 95.0,
+    "company_name": "Thames Water",
+    "count": 197
+  },
+  {
+    "bin": 100.0,
+    "company_name": "Thames Water",
+    "count": 205
+  },
+  {
+    "bin": 0.0,
+    "company_name": "United Utilities",
+    "count": 43
+  },
+  {
+    "bin": 5.0,
+    "company_name": "United Utilities",
+    "count": 1
+  },
+  {
+    "bin": 10.0,
+    "company_name": "United Utilities",
+    "count": 1
+  },
+  {
+    "bin": 15.0,
+    "company_name": "United Utilities",
+    "count": 1
+  },
+  {
+    "bin": 20.0,
+    "company_name": "United Utilities",
+    "count": 1
+  },
+  {
+    "bin": 25.0,
+    "company_name": "United Utilities",
+    "count": 3
+  },
+  {
+    "bin": 30.0,
+    "company_name": "United Utilities",
+    "count": 1
+  },
+  {
+    "bin": 40.0,
+    "company_name": "United Utilities",
+    "count": 5
+  },
+  {
+    "bin": 45.0,
+    "company_name": "United Utilities",
+    "count": 1
+  },
+  {
+    "bin": 50.0,
+    "company_name": "United Utilities",
+    "count": 10
+  },
+  {
+    "bin": 55.0,
+    "company_name": "United Utilities",
+    "count": 5
+  },
+  {
+    "bin": 60.0,
+    "company_name": "United Utilities",
+    "count": 9
+  },
+  {
+    "bin": 65.0,
+    "company_name": "United Utilities",
+    "count": 8
+  },
+  {
+    "bin": 70.0,
+    "company_name": "United Utilities",
+    "count": 10
+  },
+  {
+    "bin": 75.0,
+    "company_name": "United Utilities",
+    "count": 21
+  },
+  {
+    "bin": 80.0,
+    "company_name": "United Utilities",
+    "count": 18
+  },
+  {
+    "bin": 85.0,
+    "company_name": "United Utilities",
+    "count": 32
+  },
+  {
+    "bin": 90.0,
+    "company_name": "United Utilities",
+    "count": 77
+  },
+  {
+    "bin": 95.0,
+    "company_name": "United Utilities",
+    "count": 755
+  },
+  {
+    "bin": 100.0,
+    "company_name": "United Utilities",
+    "count": 923
+  },
+  {
+    "bin": 0.0,
+    "company_name": "Wessex Water",
+    "count": 4
+  },
+  {
+    "bin": 5.0,
+    "company_name": "Wessex Water",
+    "count": 3
+  },
+  {
+    "bin": 10.0,
+    "company_name": "Wessex Water",
+    "count": 1
+  },
+  {
+    "bin": 15.0,
+    "company_name": "Wessex Water",
+    "count": 3
+  },
+  {
+    "bin": 20.0,
+    "company_name": "Wessex Water",
+    "count": 2
+  },
+  {
+    "bin": 25.0,
+    "company_name": "Wessex Water",
+    "count": 1
+  },
+  {
+    "bin": 30.0,
+    "company_name": "Wessex Water",
+    "count": 2
+  },
+  {
+    "bin": 35.0,
+    "company_name": "Wessex Water",
+    "count": 1
+  },
+  {
+    "bin": 40.0,
+    "company_name": "Wessex Water",
+    "count": 1
+  },
+  {
+    "bin": 45.0,
+    "company_name": "Wessex Water",
+    "count": 2
+  },
+  {
+    "bin": 50.0,
+    "company_name": "Wessex Water",
+    "count": 6
+  },
+  {
+    "bin": 60.0,
+    "company_name": "Wessex Water",
+    "count": 1
+  },
+  {
+    "bin": 65.0,
+    "company_name": "Wessex Water",
+    "count": 4
+  },
+  {
+    "bin": 70.0,
+    "company_name": "Wessex Water",
+    "count": 7
+  },
+  {
+    "bin": 75.0,
+    "company_name": "Wessex Water",
+    "count": 16
+  },
+  {
+    "bin": 80.0,
+    "company_name": "Wessex Water",
+    "count": 20
+  },
+  {
+    "bin": 85.0,
+    "company_name": "Wessex Water",
+    "count": 19
+  },
+  {
+    "bin": 90.0,
+    "company_name": "Wessex Water",
+    "count": 47
+  },
+  {
+    "bin": 95.0,
+    "company_name": "Wessex Water",
+    "count": 373
+  },
+  {
+    "bin": 100.0,
+    "company_name": "Wessex Water",
+    "count": 462
+  },
+  {
+    "bin": 0.0,
+    "company_name": "Yorkshire Water",
+    "count": 133
+  },
+  {
+    "bin": 5.0,
+    "company_name": "Yorkshire Water",
+    "count": 8
+  },
+  {
+    "bin": 10.0,
+    "company_name": "Yorkshire Water",
+    "count": 5
+  },
+  {
+    "bin": 15.0,
+    "company_name": "Yorkshire Water",
+    "count": 6
+  },
+  {
+    "bin": 20.0,
+    "company_name": "Yorkshire Water",
+    "count": 3
+  },
+  {
+    "bin": 25.0,
+    "company_name": "Yorkshire Water",
+    "count": 9
+  },
+  {
+    "bin": 30.0,
+    "company_name": "Yorkshire Water",
+    "count": 10
+  },
+  {
+    "bin": 35.0,
+    "company_name": "Yorkshire Water",
+    "count": 11
+  },
+  {
+    "bin": 40.0,
+    "company_name": "Yorkshire Water",
+    "count": 5
+  },
+  {
+    "bin": 45.0,
+    "company_name": "Yorkshire Water",
+    "count": 24
+  },
+  {
+    "bin": 50.0,
+    "company_name": "Yorkshire Water",
+    "count": 15
+  },
+  {
+    "bin": 55.0,
+    "company_name": "Yorkshire Water",
+    "count": 15
+  },
+  {
+    "bin": 60.0,
+    "company_name": "Yorkshire Water",
+    "count": 17
+  },
+  {
+    "bin": 65.0,
+    "company_name": "Yorkshire Water",
+    "count": 19
+  },
+  {
+    "bin": 70.0,
+    "company_name": "Yorkshire Water",
+    "count": 20
+  },
+  {
+    "bin": 75.0,
+    "company_name": "Yorkshire Water",
+    "count": 43
+  },
+  {
+    "bin": 80.0,
+    "company_name": "Yorkshire Water",
+    "count": 47
+  },
+  {
+    "bin": 85.0,
+    "company_name": "Yorkshire Water",
+    "count": 71
+  },
+  {
+    "bin": 90.0,
+    "company_name": "Yorkshire Water",
+    "count": 117
+  },
+  {
+    "bin": 95.0,
+    "company_name": "Yorkshire Water",
+    "count": 782
+  },
+  {
+    "bin": 100.0,
+    "company_name": "Yorkshire Water",
+    "count": 825
+  }
+]

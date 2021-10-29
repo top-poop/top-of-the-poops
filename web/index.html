@@ -1,0 +1,273 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Top of the Poops</title>
+    <link rel="stylesheet" type="text/css" href="index.css"/>
+    <link rel="stylesheet" type="text/css" href="fork.css"/>
+</head>
+
+<body>
+
+<div class="hero">
+    <img src="assets/poop.png"/>
+    <div class="title">Top of the Poops</div>
+    <img src="assets/poop.png"/>
+</div>
+
+<div class="fork-me-wrapper">
+    <div class="fork-me">
+        <a class="fork-me-link" href="https://github.com/top-poop/top-of-the-poops">
+            <span class="fork-me-text">Source Code On GitHub</span>
+        </a>
+    </div>
+</div>
+
+<blockquote>
+    There were at least <span id="total-count">...</span> sewage spills in the UK in 2020
+</blockquote>
+
+<div>
+    Each spill is feeding raw or partially treated sewage into rivers, watersheds or into the sea for at least <span
+        id="total-hours">...</span> hours (that's the equivalent of <span
+        id="total-years">..</span> years!) continuously.
+</div>
+
+<div>
+    This is an underestimate, as the data is poorly collected by the Water Companies, with monitoring defective or in
+    many cases completely absent. Many recordings of data don't seem to be associated with a valid permit, so it is
+    impossible to know where they are.
+</div>
+
+<div id="graph-spills-count"></div>
+<div id="graph-spills-hours"></div>
+
+<h3>Seasides</h3>
+
+<div>We would like clean beaches - but sewage spills are happening all the time at beach locations.</div>
+
+<div id="bathing-top-10"></div>
+
+<h3>Shellfisheries</h3>
+
+<div>Shellfish can become unfit for human consumption when polluted by sewage.</div>
+
+<div id="shellfish-top-10"></div>
+
+<h3>Incomplete Monitoring</h3>
+
+<div>
+    Monitoring is incomplete for many events. These graphs show how complete the monitoring is for the various spill
+    events, as a percentage of time that the spill was happening. Notice how quite a few events have <i>zero</i> percent
+    monitoring. They were completely unmonitored, for various reasons.
+</div>
+
+<div id="graph-reporting"></div>
+
+<div>
+    More information to come... just exploring the surface of this data right now... please add suggestions (see issues
+    link at the bottom of the page)
+</div>
+
+<h3>Company Contact Information</h3>
+<div id="company-contacts"></div>
+
+<div>
+    This website is intended to provide an accurate representation of the Environment Agency data. The data is hard to
+    use, and
+    thus some errors may have been made. If you find something that is incorrect, please raise an issue at
+    <a href="https://github.com/top-poop/top-of-the-poops/issues">the GitHub issues page</a> and we'll endeavour to fix
+    it quickly.
+</div>
+
+<script type="module">
+
+    import * as Plot
+        from 'https://cdn.skypack.dev/pin/@observablehq/plot@v0.2.9-U6ayKsMWc94MkQWw0T2c/mode=imports,min/optimized/@observablehq/plot.js';
+    import * as htl from 'https://cdn.skypack.dev/htl';
+
+    const toKebabCase = str =>
+        str &&
+        str
+            .match(/[A-Z]{2,}(?=[A-Z][a-z]+[0-9]*|\b)|[A-Z]?[a-z]+[0-9]*|[A-Z]|[0-9]+/g)
+            .map(x => x.toLowerCase())
+            .join('-');
+
+    function big_bar_chart(data, options) {
+        return Plot.plot({
+            caption: options.caption,
+            marginTop: 50,
+            marginLeft: 100,
+            marginBottom: 150,
+            width: 1000,
+            height: 500,
+            x: {
+                padding: 0,
+                tickRotate: 45,
+                label: "",
+            },
+            y: {
+                grid: true,
+                label: options.label_y,
+            },
+            marks: [
+                Plot.barY(data, {
+                        x: options.category,
+                        y: options.value,
+                        insetLeft: 0.5,
+                        insetRight: 0.5,
+                        fill: options.category,
+                    }
+                ),
+                Plot.ruleY([0])
+            ]
+        })
+    }
+
+    const formatNumber = n => n.toLocaleString(undefined, {minimumFractionDigits: 0, maximumFractionDigits: 0});
+
+    function update_stat(id, number) {
+        document.getElementById(id).childNodes[0].replaceWith(
+            htl.html`<i>${formatNumber(number)}</i>`
+        );
+    }
+
+    fetch("data/generated/totals.json")
+        .then(r => r.json())
+        .then(d => {
+            update_stat("total-count", d.count);
+            update_stat("total-hours", d.hours)
+            update_stat("total-years", d.hours / (24 * 365))
+        });
+
+    fetch("data/generated/spills-by-company.json")
+        .then(r => r.json())
+        .then(j => {
+                document.getElementById("graph-spills-count").appendChild(
+                    big_bar_chart(j, {
+                        caption: htl.html`Figure: <i>number of sewage overflows in the UK in 2020, by water company</i>`,
+                        label_y: "count of sewage spills ↑",
+                        category: "company_name",
+                        value: "count"
+                    })
+                );
+                document.getElementById("graph-spills-count").appendChild(
+                    big_bar_chart(j, {
+                        caption: htl.html`Figure: <i>duration (hours) of sewage overflows in the UK in 2020, by water company</i>`,
+                        label_y: "duration of sewage spills (h) ↑",
+                        category: "company_name",
+                        value: "hours"
+                    })
+                );
+
+            }
+        )
+
+    fetch("data/generated/top-10-bathing.json")
+        .then(r => r.json())
+        .then(data => {
+            const t = htl.html`<table class="top-10">
+            <thead>
+            <tr>
+            <th>Company Name</th>
+            <th>Beach Location</th>
+            <th>Hours of Sewage Spills</th>
+            </tr>
+            </thead>
+                <tbody>${data.map(item => htl.html.fragment`<tr>
+                    <td>${item.company_name}</td>
+                    <td>${item.bathing}</td>
+                    <td>${formatNumber(item.total_hours)}</td>
+                </tr>`)}
+            </table>`;
+            document.getElementById("bathing-top-10").appendChild(t)
+        });
+
+    fetch("data/generated/top-10-shellfish.json")
+        .then(r => r.json())
+        .then(data => {
+            const t = htl.html`<table class="top-10">
+            <thead>
+            <tr>
+            <th>Company Name</th>
+            <th>Shellfishery</th>
+            <th>Hours of Sewage Spills</th>
+            </tr>
+            </thead>
+                <tbody>${data.map(item => htl.html.fragment`<tr>
+                    <td>${item.company_name}</td>
+                    <td>${item.shellfishery}</td>
+                    <td>${formatNumber(item.total_hours)}</td>
+                </tr>`)}
+            </table>`;
+            document.getElementById("shellfish-top-10").appendChild(t)
+        });
+
+    fetch("data/static/companies.json")
+        .then(r => r.json())
+        .then(data => {
+            const t = htl.html`<table class="company-contact">
+                <thead></thead>
+                <tbody>${data.map(company => htl.html.fragment`<tr>
+                <td class="logo"><img src="assets/logos/${toKebabCase(company.name)}.png"/></td>
+                <td>${company.name}</td>
+                <td>${company.address.line1} ${company.address.line2} ${company.address.line3} </td>
+                <td>${company.address.town}</td>
+                <td>${company.address.postcode}</td>
+                <td><a href="tel:${company.phone}">${company.phone}</a></td>
+                <td><a href="${company.web}">${company.web}</a></td>
+                <td></td>
+                </tr>`)}</tbody>
+                </table>`
+            document.getElementById("company-contacts").appendChild(t)
+        });
+
+    fetch("data/generated/reporting-by-company.json")
+        .then(r => r.json())
+        .then(data => {
+
+            const names = Array.from(new Set(data.map(d => d.company_name))).sort()
+
+            names.forEach(name => {
+                const company_data = data.filter(c => c.company_name === name);
+
+                console.log(company_data);
+
+                document.getElementById("graph-reporting").appendChild(
+                    Plot.plot({
+                        caption: htl.html`<i>${name}</i>`,
+                        marginTop: 50,
+                        marginLeft: 80,
+                        marginBottom: 30,
+                        width: 250,
+                        height: 200,
+                        x: {
+                            padding: 0,
+                            tickRotate: 45,
+                            label: "",
+                            fontSize: 6,
+                        },
+                        y: {
+                            // type: "log",
+                            grid: true,
+                            label: "",
+                        },
+                        marks: [
+                            Plot.areaY(
+                                company_data,
+                                {
+                                    x: "bin",
+                                    y: "count",
+                                    insetLeft: 0.5,
+                                    insetRight: 0.5,
+                                }
+                            ),
+                            // Plot.text(company_data, {x: "bin", y: "count", text: d => d.count, dy: -5, fontSize: 6}),
+                        ]
+                    })
+                )
+            })
+        })
+
+</script>
+</body>
+</html>

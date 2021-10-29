@@ -1,0 +1,52 @@
+[
+  {
+    "company_name": "Anglian Water",
+    "hours": 170546.61,
+    "count": 17428.0
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "hours": 21300.75,
+    "count": 3969.0
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "hours": 178229.59,
+    "count": 32497.0
+  },
+  {
+    "company_name": "Severn Trent Water",
+    "hours": 558699.36,
+    "count": 60982.0
+  },
+  {
+    "company_name": "South West Water",
+    "hours": 375372.31,
+    "count": 42053.0
+  },
+  {
+    "company_name": "Southern Water",
+    "hours": 201003.14,
+    "count": 20313.0
+  },
+  {
+    "company_name": "Thames Water",
+    "hours": 215886.57,
+    "count": 18443.0
+  },
+  {
+    "company_name": "United Utilities",
+    "hours": 726450.26,
+    "count": 113940.0
+  },
+  {
+    "company_name": "Wessex Water",
+    "hours": 236908.6,
+    "count": 29014.0
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "hours": 420419.42,
+    "count": 65083.0
+  }
+]

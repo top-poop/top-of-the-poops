@@ -12,6 +12,7 @@ perhaps publish some interesting findings.
 ### Setting up the database
 
 ```shell
+
 cd db/data
 make load-all
 ```
