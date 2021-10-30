@@ -37,9 +37,10 @@ if __name__ == "__main__":
         references = set()
 
         for row in input_csv:
-            grid_reference = row[28]
-
-            references.add(grid_reference)
+            outlet_grid_reference = row[28]
+            references.add(outlet_grid_reference)
+            effluent_grid_ref = row[32]
+            references.add(effluent_grid_ref)
 
     with smart_open(args.output) as fp:
 
