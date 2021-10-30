@@ -1,4 +1,4 @@
-DROP table if exists edm;
+DROP table if exists edm CASCADE;
 
 create table edm (
     company_name text,

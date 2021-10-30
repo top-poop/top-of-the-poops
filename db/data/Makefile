@@ -87,6 +87,11 @@ load-grid-references: grid_references.sql load_grid_references.sql $(DOWNLOAD)/g
 	$(PSQL) -f $<
 	$(PSQL) -f $(word 2,$^)
 
+##
+
+load-edm-consent-view: edm_consent_view.sql load-edm load-consents
+	$(PSQL) -f $<
+
 ## Postcodes
 
 POSTCODE_CSV=postcode-centroids.csv
@@ -101,7 +106,7 @@ load-postcodes: centroids.sql load_centroids.sql $(DOWNLOAD)/$(POSTCODE_CSV)
 	$(PSQL) -f $(word 2,$^)
 
 .PHONY: load-sewage
-load-sewage: load-consents load-edm
+load-sewage: load-consents load-edm load-edm-consent-view
 
 .PHONY: load-all
 load-all: load-constituencies load-sewage load-grid-references
