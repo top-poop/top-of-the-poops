@@ -1,25 +1,9 @@
 #!/usr/bin/env python
 import argparse
-import contextlib
 import os
 import re
-import sys
 
 import psycopg2
-
-
-@contextlib.contextmanager
-def smart_open(filename=None):
-    if filename and filename != '-':
-        fh = open(filename, 'w')
-    else:
-        fh = sys.stdout
-
-    try:
-        yield fh
-    finally:
-        if fh is not sys.stdout:
-            fh.close()
 
 
 # https://github.com/zhoujin7/casestyle/blob/master/casestyle.py
@@ -65,6 +49,7 @@ def casepreprocess(string):
         return s_list
     else:
         raise TypeError("casepreprocess() argument must be str")
+
 
 def iter_row(cursor, size=10):
     while True:
