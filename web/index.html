@@ -48,6 +48,7 @@
 
 <div>
     This pollution affects the whole country. Here are the top 10 constituencies by hours of spill events, that we've managed to match.
+    ( <span id="spills-total-matched">..</span> out of <span id="spills-total-count">..</span> )
 </div>
 
 <div class="center">
@@ -180,6 +181,39 @@
             update_stat("total-count", d.count);
             update_stat("total-hours", d.hours)
             update_stat("total-years", d.hours / (24 * 365))
+
+            fetch("data/generated/spills-by-constituency.json")
+                .then(r => r.json())
+                .then(data => {
+                    const total_matched = data.reduce((a,b) => a + b.total_spills, 0)
+
+                    update_stat("spills-total-count", d.count);
+                    update_stat("spills-total-matched", total_matched);
+
+                    data = data.slice(0, 10)
+                    const t = htl.html`<table class="top-10 styled-table">
+            <thead>
+            <tr>
+            <th>Constituency</th>
+            <th>MP</th>
+            <th>Party</th>
+            <th>Count of Sewage Spills</th>
+            <th>Hours of Sewage Spills</th>
+            </tr>
+            </thead>
+                <tbody>${data.map(item => htl.html.fragment`<tr>
+                    <td>${item.constituency}</td>
+                    <td><a href="${item.mp_uri}">${item.mp_name}</a></td>
+                    <td>${item.mp_party}</td>
+                    <td>${formatNumber(item.total_spills)}</td>
+                    <td>${formatNumber(item.total_hours)}</td>
+                </tr>`)}
+            </table>`;
+                    document.getElementById("table-spills-by-constituency").appendChild(t)
+                });
+
+
+
         });
 
     fetch("data/generated/spills-by-company.json")
@@ -205,30 +239,7 @@
             }
         )
 
-    fetch("data/generated/spills-by-constituency.json")
-    .then(r => r.json())
-    .then(data => {
-        data = data.slice(0, 10)
-        const t = htl.html`<table class="top-10 styled-table">
-            <thead>
-            <tr>
-            <th>Constituency</th>
-            <th>MP</th>
-            <th>Party</th>
-            <th>Count of Sewage Spills</th>
-            <th>Hours of Sewage Spills</th>
-            </tr>
-            </thead>
-                <tbody>${data.map(item => htl.html.fragment`<tr>
-                    <td>${item.constituency}</td>
-                    <td><a href="${item.mp_uri}">${item.mp_name}</a></td>
-                    <td>${item.mp_party}</td>
-                    <td>${formatNumber(item.total_spills)}</td>
-                    <td>${formatNumber(item.total_hours)}</td>
-                </tr>`)}
-            </table>`;
-        document.getElementById("table-spills-by-constituency").appendChild(t)
-    });
+
 
     fetch("data/generated/top-10-bathing.json")
         .then(r => r.json())
