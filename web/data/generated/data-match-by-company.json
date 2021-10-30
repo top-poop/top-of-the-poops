@@ -12,12 +12,12 @@
   {
     "company_name": "Dwr Cymru Welsh Water",
     "type": "matched",
-    "count": 3605.0
+    "count": 3616.0
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
     "type": "unmatched",
-    "count": 820.0
+    "count": 809.0
   },
   {
     "company_name": "Northumbrian Water",
@@ -42,32 +42,32 @@
   {
     "company_name": "South West Water",
     "type": "matched",
-    "count": 73604.0
+    "count": 74025.0
   },
   {
     "company_name": "South West Water",
     "type": "unmatched",
-    "count": 5037.0
+    "count": 4768.0
   },
   {
     "company_name": "Southern Water",
     "type": "matched",
-    "count": 1585.0
+    "count": 2035.0
   },
   {
     "company_name": "Southern Water",
     "type": "unmatched",
-    "count": 19450.0
+    "count": 19209.0
   },
   {
     "company_name": "Thames Water",
     "type": "matched",
-    "count": 25431.0
+    "count": 25508.0
   },
   {
     "company_name": "Thames Water",
     "type": "unmatched",
-    "count": 682.0
+    "count": 605.0
   },
   {
     "company_name": "United Utilities",
@@ -82,21 +82,21 @@
   {
     "company_name": "Wessex Water",
     "type": "matched",
-    "count": 46252.0
+    "count": 47021.0
   },
   {
     "company_name": "Wessex Water",
     "type": "unmatched",
-    "count": 1245.0
+    "count": 628.0
   },
   {
     "company_name": "Yorkshire Water",
     "type": "matched",
-    "count": 119697.0
+    "count": 122934.0
   },
   {
     "company_name": "Yorkshire Water",
     "type": "unmatched",
-    "count": 4895.0
+    "count": 3772.0
   }
 ]

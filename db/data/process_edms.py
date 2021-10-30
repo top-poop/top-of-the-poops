@@ -13,9 +13,17 @@ import re
 # some have % in the percentages, some not
 # some format hours as floats, some as hh:mm:ss
 
+def epr_consent(provided):
+    if provided.startswith("EPR"):
+        provided = "".join(provided.split("/"))
+    return provided
+
+
 def southern_water(row):
     # has random extra duplicated fields
-    return row[0:1] + row[2:3] + row[4:]
+    standard = row[0:1] + row[2:3] + row[4:]
+    standard[2] = epr_consent(standard[2])
+    return standard
 
 
 def anglian_water_consent(provided):
@@ -56,7 +64,9 @@ def anglian_water(row):
 
 def thames_water(row):
     # has extra field at end
-    return row[:-1]
+    standard = row[:-1]
+    standard[2] = epr_consent(standard[2])
+    return standard
 
 
 def united_utilities(row):
@@ -74,6 +84,27 @@ def united_utilities(row):
 def northumbrian_water(row):
     # bundles multiple numbers into single value field reporting_pct
     row[8] = str(min([float(x.replace("%", "")) for x in row[8].split("/")]))
+    row[2] = epr_consent(row[2])
+    return row
+
+
+def wessex_water(row):
+    row[2] = epr_consent(row[2])
+    return row
+
+
+def south_west_water(row):
+    row[2] = epr_consent(row[2])
+    return row
+
+
+def yorkshire_water(row):
+    row[2] = epr_consent(row[2])
+    return row
+
+
+def welsh_water(row):
+    row[2] = epr_consent(row[2])
     return row
 
 
@@ -83,6 +114,10 @@ bodges = {
     "Southern_Water": southern_water,
     "United_Utilities": united_utilities,
     "Northumbrian_Water": northumbrian_water,
+    "Wessex_Water": wessex_water,
+    "South_West_Water": south_west_water,
+    "Yorkshire_Water": yorkshire_water,
+    "Dwr_Cymru_Welsh_Water": welsh_water,
 }
 
 
