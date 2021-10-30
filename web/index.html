@@ -315,7 +315,7 @@
             </thead>
                 <tbody>${data.map(item => htl.html.fragment`<tr>
                     <td>${item.company_name}</td>
-                    <td>${item.bathing}</td>
+                    <td class="upcase">${item.bathing.toLowerCase()}</td>
                     <td>${formatNumber(item.total_hours)}</td>
                 </tr>`)}
             </table>`;
@@ -335,7 +335,7 @@
             </thead>
                 <tbody>${data.map(item => htl.html.fragment`<tr>
                     <td>${item.company_name}</td>
-                    <td>${item.shellfishery}</td>
+                    <td class="upcase">${item.shellfishery.toLowerCase()}</td>
                     <td>${formatNumber(item.total_hours)}</td>
                 </tr>`)}
             </table>`;
