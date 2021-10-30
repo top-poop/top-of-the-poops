@@ -8,6 +8,9 @@ GENERATE=generate/generic.py
 SQLS=$(wildcard generate/*.sql)
 GENERATED=$(foreach sql,$(SQLS),web/data/generated/$(basename $(notdir $(sql))).json)
 
+DOWNLOAD=db/data/download
+FILES=$(DOWNLOAD)/standardised-returns.csv $(DOWNLOAD)/consents_active.csv
+
 all: generated
 
 .PHONY: python
@@ -21,7 +24,7 @@ python: $(PYTHON)
 
 $(PYTHON): .python_uptodate
 
-web/data/generated/%.json: generate/$(basename $(notdir %)).sql $(PYTHON) $(GENERATE)
+web/data/generated/%.json: generate/$(basename $(notdir %)).sql $(PYTHON) $(GENERATE) $(FILES)
 	$(PYTHON) $(GENERATE) $< $@
 
 generated: $(GENERATED)

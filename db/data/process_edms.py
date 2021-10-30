@@ -18,9 +18,40 @@ def southern_water(row):
     return row[0:1] + row[2:3] + row[4:]
 
 
+def anglian_water_consent(provided):
+    provided = re.sub(r"v(\d+)$", r"/V\1", provided)
+    provided = "/".join([p for p in provided.split("/") if not re.search(r"[vV]\d+", p)])
+
+    if provided.startswith("EPR"):
+        provided = "".join(provided.split("/"))
+    else:
+        stem, *others = provided.split("/")
+        if others:
+            stem = provided[:5]
+            provided = stem + others[-1]
+
+        if re.search(r"[a-zA-Z]$", provided):
+            provided = provided[:-1]
+
+    return provided
+
+
+def test_anglian_water_consent():
+    # Anglian looks like ANNNF3244/13375/V001 or AW1NF2723v002 or AW1NF947/V001 or EPR/NB3993AQ/V001 or EPR/CB3597EV
+    assert anglian_water_consent("AW1NF2723v002") == "AW1NF2723"
+    assert anglian_water_consent("EPR/NB3993AQ/V001") == "EPRNB3993AQ"
+    assert anglian_water_consent("EPR/CB3597EV") == "EPRCB3597EV"
+    assert anglian_water_consent("ANNNF3244/13375/V001") == "ANNNF13375"
+    assert anglian_water_consent("AW1NF947/V001") == "AW1NF947"
+    assert anglian_water_consent("ANNNF1192C") == "ANNNF1192"
+
+
 def anglian_water(row):
     # has extra (blank) field at start
-    return row[1:]
+    row = row[1:]
+    row[2] = anglian_water_consent(row[2])
+
+    return row
 
 
 def thames_water(row):

@@ -67,10 +67,10 @@ EDM_ZIP=Event_Duration_Monitoring_-_Storm_Overflows_-2020.zip
 $(DOWNLOAD)/$(EDM_ZIP):
 	$(CURL) -o $@ 'https://environment.data.gov.uk/portalstg/sharing/rest/content/items/045af51b3be545b79b0c219811d3d243/data'
 
-$(DOWNLOAD)/standardised-returns.csv: $(DOWNLOAD)/$(EDM_ZIP) process-edms.py
+$(DOWNLOAD)/standardised-returns.csv: $(DOWNLOAD)/$(EDM_ZIP) process_edms.py
 	unzip -o -d $(DOWNLOAD) $<
 	./convert-edm-xlsx.sh $(DOWNLOAD)
-	$(PYTHON) process-edms.py $(DOWNLOAD)
+	$(PYTHON) process_edms.py $(DOWNLOAD)
 
 .PHONY: load-edm
 load-edm: edm.sql load_edm.sql $(DOWNLOAD)/standardised-returns.csv
