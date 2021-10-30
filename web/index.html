@@ -197,6 +197,7 @@
             <th>Constituency</th>
             <th>MP</th>
             <th>Party</th>
+            <th>Water Company</th>
             <th>Count of Sewage Spills</th>
             <th>Hours of Sewage Spills</th>
             </tr>
@@ -205,6 +206,7 @@
                     <td>${item.constituency}</td>
                     <td><a href="${item.mp_uri}">${item.mp_name}</a></td>
                     <td>${item.mp_party}</td>
+                    <td>${item.company}</td>
                     <td>${formatNumber(item.total_spills)}</td>
                     <td>${formatNumber(item.total_hours)}</td>
                 </tr>`)}
