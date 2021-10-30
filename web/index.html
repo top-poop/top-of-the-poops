@@ -55,6 +55,22 @@
     <div id="table-spills-by-constituency"></div>
 </div>
 
+<h3>Into all water courses</h3>
+
+<div>Sewage overflows happen into all types of water system. Freshwater doesn't sound so fresh.</div>
+
+<div class="center">
+    <div id="table-spills-by-water-type"></div>
+</div>
+
+<h3>Into all rivers</h3>
+
+<div>Some rivers seem to receive more sewage than others</div>
+
+<div class="center">
+    <div id="table-spills-by-river"></div>
+</div>
+
 <h3>Seasides</h3>
 
 <div>We would like clean beaches - but sewage spills are happening all the time at beach locations.</div>
@@ -240,6 +256,49 @@
 
             }
         )
+
+
+    fetch("data/generated/spills-by-water-type.json")
+    .then(r => r.json())
+    .then(data => {
+        const t = htl.html`<table class="top-10 styled-table">
+            <thead>
+            <tr>
+            <th>Water Type</th>
+            <th>Spill Count</th>
+            <th>Hours of Sewage Spills</th>
+            </tr>
+            </thead>
+                <tbody>${data.map(item => htl.html.fragment`<tr>
+                    <td>${item.water_type}</td>
+                    <td>${formatNumber(item.total_count)}</td>
+                    <td>${formatNumber(item.total_hours)}</td>
+                </tr>`)}
+            </table>`;
+        document.getElementById("table-spills-by-water-type").appendChild(t)
+    });
+
+    fetch("data/generated/spills-by-river.json")
+        .then(r => r.json())
+        .then(data => {
+            const t = htl.html`<table class="top-10 styled-table">
+            <thead>
+            <tr>
+            <th>Company</th>
+            <th>River</th>
+            <th>Spill Count</th>
+            <th>Hours of Sewage Spills</th>
+            </tr>
+            </thead>
+                <tbody>${data.map(item => htl.html.fragment`<tr>
+                    <td>${item.company_name}</td>
+                    <td class="upcase">${item.river_name.toLowerCase()}</td>
+                    <td>${formatNumber(item.total_count)}</td>
+                    <td>${formatNumber(item.total_hours)}</td>
+                </tr>`)}
+            </table>`;
+            document.getElementById("table-spills-by-river").appendChild(t)
+        })
 
 
 

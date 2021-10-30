@@ -1,0 +1,122 @@
+[
+  {
+    "company_name": "Severn Trent Water",
+    "river_name": "RIVER SEVERN",
+    "total_count": 2854.0,
+    "total_hours": 32489.73
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "river_name": "RIVER CALDER",
+    "total_count": 2909.0,
+    "total_hours": 21809.84
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "river_name": "RIVER WHARFE",
+    "total_count": 1904.0,
+    "total_hours": 17813.18
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "RIVER TAME",
+    "total_count": 1217.0,
+    "total_hours": 17777.71
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "river_name": "RIVER AIRE",
+    "total_count": 2863.0,
+    "total_hours": 17691.45
+  },
+  {
+    "company_name": "Severn Trent Water",
+    "river_name": "RIVER DERWENT",
+    "total_count": 1813.0,
+    "total_hours": 17612.04
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "RIVER EDEN",
+    "total_count": 1408.0,
+    "total_hours": 16657.78
+  },
+  {
+    "company_name": "Severn Trent Water",
+    "river_name": "RIVER TRENT",
+    "total_count": 1936.0,
+    "total_hours": 15504.36
+  },
+  {
+    "company_name": "Anglian Water",
+    "river_name": "RIVER WENSUM",
+    "total_count": 689.0,
+    "total_hours": 14908.75
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "river_name": "RIVER NIDD",
+    "total_count": 753.0,
+    "total_hours": 12773.98
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "river_name": "RIVER OUSE",
+    "total_count": 1565.0,
+    "total_hours": 12156.73
+  },
+  {
+    "company_name": "Severn Trent Water",
+    "river_name": "RIVER AVON",
+    "total_count": 831.0,
+    "total_hours": 10223.79
+  },
+  {
+    "company_name": "Severn Trent Water",
+    "river_name": "RIVER EREWASH",
+    "total_count": 833.0,
+    "total_hours": 10064.54
+  },
+  {
+    "company_name": "Wessex Water",
+    "river_name": "RIVER AVON",
+    "total_count": 1836.0,
+    "total_hours": 9911.74
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "river_name": "RIVER DON",
+    "total_count": 1421.0,
+    "total_hours": 9732.2
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "BLEA BECK",
+    "total_count": 430.0,
+    "total_hours": 9699.16
+  },
+  {
+    "company_name": "Severn Trent Water",
+    "river_name": "RIVER TAME",
+    "total_count": 851.0,
+    "total_hours": 9549.22
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "RIVER ELLEN",
+    "total_count": 749.0,
+    "total_hours": 9085.64
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "RIVER DERWENT",
+    "total_count": 714.0,
+    "total_hours": 8947.1
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "river_name": "RIVER RYBURN",
+    "total_count": 670.0,
+    "total_hours": 8893.68
+  }
+]
