@@ -26,3 +26,14 @@ def test_can_resolve_lat_long_for_every_grid_reference_in_consents():
 
     assert count == 0
 
+
+def test_can_match_every_constituency_to_an_mp():
+    result = run_sql("""
+select * from pcon_dec_2020_uk_bfc as con
+left join mps on con.pcon20nm = mps.constituency
+where mps.constituency is null    
+    """)
+
+    # due to tragic incident, no current MP for Southend West
+
+    assert len(result) == 1

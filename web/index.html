@@ -44,6 +44,16 @@
 
 <div id="graph-spills-hours"></div>
 
+<h3>Affects the whole Country</h3>
+
+<div>
+    This pollution affects the whole country. Here are the top 10 constituencies by hours of spill events, that we've managed to match.
+</div>
+
+<div class="center">
+    <div id="table-spills-by-constituency"></div>
+</div>
+
 <h3>Seasides</h3>
 
 <div>We would like clean beaches - but sewage spills are happening all the time at beach locations.</div>
@@ -96,6 +106,8 @@
 <h3>Company Contact Information</h3>
 <div id="company-contacts"></div>
 
+<h3>Data Sources & Accuracy</h3>
+
 <div>
     This website is intended to provide an accurate representation of the Environment Agency data. The data is hard to
     use, and
@@ -103,6 +115,11 @@
     <a href="https://github.com/top-poop/top-of-the-poops/issues">the GitHub issues page</a> and we'll endeavour to fix
     it quickly.
 </div>
+
+<div>
+    All the data sources are listed on the <a href="https://github.com/top-poop/top-of-the-poops/">source code</a> website
+</div>
+
 
 <script type="module">
 
@@ -187,6 +204,31 @@
 
             }
         )
+
+    fetch("data/generated/spills-by-constituency.json")
+    .then(r => r.json())
+    .then(data => {
+        data = data.slice(0, 10)
+        const t = htl.html`<table class="top-10 styled-table">
+            <thead>
+            <tr>
+            <th>Constituency</th>
+            <th>MP</th>
+            <th>Party</th>
+            <th>Count of Sewage Spills</th>
+            <th>Hours of Sewage Spills</th>
+            </tr>
+            </thead>
+                <tbody>${data.map(item => htl.html.fragment`<tr>
+                    <td>${item.constituency}</td>
+                    <td><a href="${item.mp_uri}">${item.mp_name}</a></td>
+                    <td>${item.mp_party}</td>
+                    <td>${formatNumber(item.total_spills)}</td>
+                    <td>${formatNumber(item.total_hours)}</td>
+                </tr>`)}
+            </table>`;
+        document.getElementById("table-spills-by-constituency").appendChild(t)
+    });
 
     fetch("data/generated/top-10-bathing.json")
         .then(r => r.json())
