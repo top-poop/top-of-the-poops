@@ -10,6 +10,27 @@ const renderMPCell = ({value, row}) => {
   return <a href={row.original.mp_uri}>{value}</a>
 }
 
+const SpillsByRiver = () => {
+  const url = "data/generated/spills-by-river.json"
+  const columns = [
+    {title: "Company", accessor: "company_name"},
+    {title: "River", accessor: "river_name"},
+    {title: "Sewage Incidents", accessor: "total_count", Cell: renderNumericCell},
+    {title: "Hours of Sewage", accessor: "total_hours", Cell: renderNumericCell},
+  ]
+  return <LoadingTable url={url} columns={columns}/>
+}
+
+const SpillsByWaterType = () => {
+  const url = "data/generated/spills-by-water-type.json"
+  const columns = [
+    {title: "Water Type", accessor: "water_type"},
+    {title: "Sewage Incidents", accessor: "total_count", Cell: renderNumericCell},
+    {title: "Hours of Sewage", accessor: "total_hours", Cell: renderNumericCell},
+  ]
+  return <LoadingTable url={url} columns={columns}/>
+}
+
 const SpillsByConstituency = () => {
   const spillsByConstituencyURL = "data/generated/spills-by-constituency.json"
   const columns = [
@@ -25,7 +46,11 @@ const SpillsByConstituency = () => {
 
 class App extends React.Component {
   render() {
-    return <SpillsByConstituency/>;
+    return <div>
+      <SpillsByRiver/>
+      <SpillsByWaterType/>
+      <SpillsByConstituency/>
+    </div>
   }
 }
 
