@@ -8,7 +8,7 @@ ROOT_DIR:=$(shell dirname $(realpath $(firstword $(MAKEFILE_LIST))))
 
 #Don't care about this.. its just a local database
 export PGPASSWORD=docker
-PSQL=psql -h localhost -d gis -U docker -q
+PSQL=psql -h localhost -d gis -U docker -q --pset=pager=off
 CURL=curl --fail --silent
 PYTHON=../../venv/bin/python3
 
