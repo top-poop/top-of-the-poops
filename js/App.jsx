@@ -10,6 +10,17 @@ const renderMPCell = ({value, row}) => {
   return <a href={row.original.mp_uri}>{value}</a>
 }
 
+const ShellfishSewage = () =>{
+  const url = "data/generated/shellfish-sewage.json"
+  const columns = [
+    {title: "Company", accessor: "company_name"},
+    {title: "Shellfishery Area", accessor: "shellfishery"},
+    {title: "Hours of Sewage", accessor: "total_hours", Cell: renderNumericCell},
+  ]
+  return <LoadingTable url={url} columns={columns}/>
+}
+
+
 const BathingSewage = () =>{
   const url = "data/generated/bathing-sewage.json"
   const columns = [
@@ -57,6 +68,7 @@ const SpillsByConstituency = () => {
 class App extends React.Component {
   render() {
     return <div>
+      <ShellfishSewage/>
       <BathingSewage/>
       <SpillsByRiver/>
       <SpillsByWaterType/>
