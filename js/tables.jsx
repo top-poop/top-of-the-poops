@@ -1,25 +1,51 @@
 import * as React from 'react';
-import {usePagination, useSortBy, useTable} from 'react-table';
+import {useAsyncDebounce, useGlobalFilter, usePagination, useSortBy, useTable} from 'react-table';
 import {PageItem, Pagination, Table} from "react-bootstrap";
+
+function GlobalFilter({
+                        preGlobalFilteredRows,
+                        globalFilter,
+                        setGlobalFilter,
+                      }) {
+  const count = preGlobalFilteredRows.length
+  const [value, setValue] = React.useState(globalFilter)
+  const onChange = value => {setGlobalFilter(value || undefined)}
+
+  return (
+    <span>
+      <input
+        className="form-control"
+        value={value || ""}
+        onChange={e => {
+          setValue(e.target.value);
+          onChange(e.target.value);
+        }}
+        placeholder={`Search ${count} records...`}
+      />
+        </span>
+  )
+}
 
 function PaginatedTable({columns, data}) {
   const {
     getTableProps, getTableBodyProps, headerGroups, prepareRow,
     page, canPreviousPage, canNextPage, pageOptions, pageCount,
     gotoPage, nextPage, previousPage, setPageSize,
-    state: {pageIndex, pageSize},
+    preGlobalFilteredRows, setGlobalFilter,
+    state: {pageIndex, pageSize, globalFilter},
   } = useTable(
     {
       columns,
       data,
       initialState: {pageIndex: 0, pageSize: 10},
     },
+    useGlobalFilter,
     useSortBy,
     usePagination,
   )
 
   const pagination = () => {
-    if ( pageCount > 1 ) {
+    if (pageCount > 1) {
       return <Pagination>
         <PageItem onClick={() => gotoPage(0)} disabled={!canPreviousPage}>First</PageItem>
         <PageItem onClick={() => previousPage()} disabled={!canPreviousPage}>&lt;</PageItem>
@@ -27,14 +53,16 @@ function PaginatedTable({columns, data}) {
         <PageItem onClick={() => gotoPage(pageCount - 1)} disabled={!canNextPage}>Last</PageItem>
         <li><a className="page-link">Page {pageIndex + 1} of {pageCount}</a></li>
       </Pagination>
-    }
-    else {
+    } else {
       return <div></div>
     }
   }
 
   return <div>
-    { pagination() }
+    <GlobalFilter preGlobalFilteredRows={preGlobalFilteredRows}
+                  globalFilter={globalFilter}
+                  setGlobalFilter={setGlobalFilter}/>
+    {pagination()}
     <Table {...getTableProps()}>
       <thead>
       {headerGroups.map(headerGroup => (
@@ -45,8 +73,8 @@ function PaginatedTable({columns, data}) {
               <span>
                 {column.isSorted
                   ? column.isSortedDesc
-                    ? ' 🔽'
-                    : ' 🔼'
+                    ? ' ↓'
+                    : ' ↑'
                   : ''}
                 </span>
             </th>
