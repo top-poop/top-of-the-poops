@@ -66,6 +66,41 @@ const SpillsByConstituency = () => {
   return <LoadingTable url={spillsByConstituencyURL} columns={columns}/>
 }
 
+const SewageDumpsChart = () => {
+  const url = "data/generated/spills-by-company.json"
+  const optionsFn = (Plot, data) => {
+    return {
+      marginTop: 50,
+      marginLeft: 100,
+      marginBottom: 150,
+      width: 1000,
+      height: 500,
+      x: {
+        padding: 0,
+        tickRotate: 45,
+        label: "",
+      },
+      y: {
+        grid: true,
+        label: "count of sewage spills ↑",
+      },
+      marks: [
+        Plot.barY(data, {
+            x: "company_name",
+            y: "count",
+            insetLeft: 0.5,
+            insetRight: 0.5,
+            fill: "company_name",
+            title: "company_name",
+          }
+        ),
+        Plot.ruleY([0])
+      ]
+    }
+  }
+  return <LoadingPlot url={url} options={optionsFn}/>
+}
+
 const DataMatch = () => {
   const url = "data/generated/data-match-by-company.json"
   const optionsFn = (Plot, data) => {
@@ -136,7 +171,7 @@ class App extends React.Component {
       </div>
 
       <div className="center">
-        <div id="graph-spills-count"></div>
+        <SewageDumpsChart/>
       </div>
 
       <div className="center">
