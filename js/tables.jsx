@@ -58,10 +58,18 @@ function PaginatedTable({columns, data}) {
     }
   }
 
+  const filter = () => {
+    if ( data.length > pageSize) {
+      return <GlobalFilter preGlobalFilteredRows={preGlobalFilteredRows}
+                    globalFilter={globalFilter}
+                    setGlobalFilter={setGlobalFilter}/>
+    } else {
+      return <div></div>
+    }
+  }
+
   return <div>
-    <GlobalFilter preGlobalFilteredRows={preGlobalFilteredRows}
-                  globalFilter={globalFilter}
-                  setGlobalFilter={setGlobalFilter}/>
+    {filter()}
     {pagination()}
     <Table {...getTableProps()}>
       <thead>
