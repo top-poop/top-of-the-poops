@@ -3,6 +3,10 @@
 prod:
 	npm run build-prod
 
+.PHONY: dev
+dev:
+	npm run build
+
 .PHONY: watch
 watch:
 	@npm run build; \

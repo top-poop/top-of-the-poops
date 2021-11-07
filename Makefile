@@ -30,3 +30,16 @@ web/data/generated/%.json: generate/$(basename $(notdir %)).sql $(PYTHON) $(GENE
 
 generated: $(GENERATED)
 
+.PHONY: it
+it:
+	$(MAKE) generated
+	$(MAKE) -C js dev
+
+.PHONY: watch
+watch:
+	$(MAKE) it
+	while true; \
+	do \
+		inotifywait -q -r -e modify,create,delete .; \
+		$(MAKE) it; \
+	done

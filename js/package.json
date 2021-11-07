@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@observablehq/plot": "^0.2.9",
     "esbuild": "^0.13.12",
     "react": "^17.0.2",
     "react-bootstrap": "^1.6.4",

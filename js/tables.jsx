@@ -18,15 +18,23 @@ function PaginatedTable({columns, data}) {
     usePagination,
   )
 
-  return <div>
-    <Pagination>
-      <PageItem onClick={() => gotoPage(0)} disabled={!canPreviousPage}>First</PageItem>
-      <PageItem onClick={() => previousPage()} disabled={!canPreviousPage}>&lt;</PageItem>
-      <PageItem onClick={() => nextPage()} disabled={!canNextPage}>&gt;</PageItem>
-      <PageItem onClick={() => gotoPage(pageCount - 1)} disabled={!canNextPage}>Last</PageItem>
-      <li><a className="page-link">Page {pageIndex + 1} of {pageCount}</a></li>
-    </Pagination>
+  const pagination = () => {
+    if ( pageCount > 1 ) {
+      return <Pagination>
+        <PageItem onClick={() => gotoPage(0)} disabled={!canPreviousPage}>First</PageItem>
+        <PageItem onClick={() => previousPage()} disabled={!canPreviousPage}>&lt;</PageItem>
+        <PageItem onClick={() => nextPage()} disabled={!canNextPage}>&gt;</PageItem>
+        <PageItem onClick={() => gotoPage(pageCount - 1)} disabled={!canNextPage}>Last</PageItem>
+        <li><a className="page-link">Page {pageIndex + 1} of {pageCount}</a></li>
+      </Pagination>
+    }
+    else {
+      return <div></div>
+    }
+  }
 
+  return <div>
+    { pagination() }
     <Table {...getTableProps()}>
       <thead>
       {headerGroups.map(headerGroup => (
