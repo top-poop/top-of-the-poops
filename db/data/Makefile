@@ -58,7 +58,10 @@ $(DOWNLOAD)/consented.accdb: $(DOWNLOAD)/$(CONSENTED_ZIP)
 $(DOWNLOAD)/consents_active.csv: $(DOWNLOAD)/consented.accdb
 	$(PYTHON) mdb-extract-all.py --output $(DOWNLOAD) $<
 
-load-consents: consents.sql load_consents.sql $(DOWNLOAD)/consents_active.csv
+$(DOWNLOAD)/consents-processed.csv: $(DOWNLOAD)/consents_active.csv process_consents.py
+	$(PYTHON) process_consents.py $< $@
+
+load-consents: consents.sql load_consents.sql $(DOWNLOAD)/consents-processed.csv
 	$(PSQL) -f $<
 	$(PSQL) -f $(word 2,$^)
 
@@ -109,7 +112,7 @@ load-postcodes: centroids.sql load_centroids.sql $(DOWNLOAD)/$(POSTCODE_CSV)
 load-sewage: load-consents load-edm load-edm-consent-view
 
 .PHONY: load-all
-load-all: load-constituencies load-sewage load-grid-references
+load-all: load-constituencies load-mps load-sewage load-grid-references
 
 clean:
 	rm -rf $(DOWNLOAD)

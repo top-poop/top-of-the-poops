@@ -125,7 +125,7 @@ def write_row(writer, row):
     if len(row) != 10:
         raise IOError(f"bodge was wrong, got {row}")
 
-    writer.writerow(bodged)
+    writer.writerow(row)
 
 
 def ensure_numeric(thing):
