@@ -44,6 +44,13 @@ make generated
 
 https://www.theyworkforyou.com/mps/?f=csv
 
+## Not fetched yet
+
+http://everypolitician.org/uk/commons/download.html
+
+https://www.ukinbound.org/wp-content/uploads/2020/07/List-of-MPs-with-active-Twitter-accounts-organised-by.pdf
+
+
 ### Constituency Shapes
 
 https://opendata.arcgis.com/api/v3/datasets/19841da5f8f6403e9fdcfb35c16e11e9_0/downloads/data?format=shp&spatialRefId=27700
