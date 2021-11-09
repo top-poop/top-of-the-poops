@@ -17,7 +17,7 @@ all: generated
 .PHONY: python
 python: $(PYTHON)
 
-.python_uptodate: requirements.txt
+.python_uptodate: requirements-dev.txt
 	python3 -m venv venv
 	$(PYTHON) -m pip install --upgrade pip
 	$(PIP) install -r $<
