@@ -16,3 +16,7 @@ watch:
 		npm run build; \
 	done
 
+.PHONY: ci
+ci:
+	npm install
+	$(MAKE) prod

@@ -49,3 +49,7 @@ watch:
 prod:
 	$(MAKE) generated
 	$(MAKE) -C js prod
+
+.PHONY: ci
+ci:
+	$(MAKE) -C js ci
