@@ -86,7 +86,8 @@ const SewageDumpsChart = () => {
             insetLeft: 0.5,
             insetRight: 0.5,
             fill: "company_name",
-            title: "company_name",
+            title: d => d.company_name + " " + formatNumber(d.count),
+
           }
         ),
         Plot.ruleY([0])
