@@ -11,7 +11,10 @@ perhaps publish some interesting findings.
 
 ## How to use
 
-You can clone the repo - I use IntelliJ IDEA to make a hot-reloading web page. There's no javascript build, it just uses some generated json files, which are committed to the repo. 
+You can clone the repo - I use IntelliJ IDEA to make a hot-reloading web page. 
+The javascript build runs with `make watch` - then make sure to `make prod` before pushing to prod.
+
+`make watch` uses inotify - this may not work on MacOS.
 
 ## Contributing
 
