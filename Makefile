@@ -43,3 +43,9 @@ watch:
 		inotifywait -q -r -e modify,create,delete .; \
 		$(MAKE) it; \
 	done
+
+
+.PHONY: prod
+prod:
+	$(MAKE) generated
+	$(MAKE) -C js prod
