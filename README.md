@@ -88,3 +88,10 @@ You'll need the following:
 - python3
 - libreoffice
 - gdal-bin
+
+# Things to do
+
+- Improve consent matching - esp for Southern Water & United Utilities - if possible!
+- Improve matching of constituencies - some points lie just outside
+- Link with voting results - need to find the division results...
+- Improve River name clean up - still lots of () and & in there.
