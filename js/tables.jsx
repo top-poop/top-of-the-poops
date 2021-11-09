@@ -1,5 +1,5 @@
 import * as React from 'react';
-import {useAsyncDebounce, useGlobalFilter, usePagination, useSortBy, useTable} from 'react-table';
+import {useGlobalFilter, usePagination, useSortBy, useTable} from 'react-table';
 import {PageItem, Pagination, Table} from "react-bootstrap";
 
 function GlobalFilter({
@@ -9,7 +9,9 @@ function GlobalFilter({
                       }) {
   const count = preGlobalFilteredRows.length
   const [value, setValue] = React.useState(globalFilter)
-  const onChange = value => {setGlobalFilter(value || undefined)}
+  const onChange = value => {
+    setGlobalFilter(value || undefined)
+  }
 
   return (
     <span>
@@ -26,7 +28,7 @@ function GlobalFilter({
   )
 }
 
-function PaginatedTable({columns, data}) {
+function PaginatedTable({columns, data, ...props}) {
   const {
     getTableProps, getTableBodyProps, headerGroups, prepareRow,
     page, canPreviousPage, canNextPage, pageOptions, pageCount,
@@ -59,19 +61,21 @@ function PaginatedTable({columns, data}) {
   }
 
   const filter = () => {
-    if ( data.length > pageSize) {
+    if (data.length > pageSize) {
       return <GlobalFilter preGlobalFilteredRows={preGlobalFilteredRows}
-                    globalFilter={globalFilter}
-                    setGlobalFilter={setGlobalFilter}/>
+                           globalFilter={globalFilter}
+                           setGlobalFilter={setGlobalFilter}/>
     } else {
       return <div></div>
     }
   }
 
-  return <div>
-    {filter()}
-    {pagination()}
-    <Table {...getTableProps()}>
+  return <div className="table-wrapper">
+    <div className="filter-pagination">
+      {filter()}
+      {pagination()}
+    </div>
+    <Table {...getTableProps()} {...props}>
       <thead>
       {headerGroups.map(headerGroup => (
         <tr {...headerGroup.getHeaderGroupProps()}>
@@ -120,7 +124,7 @@ class LoadingTable extends React.Component {
   }
 
   render() {
-    return <PaginatedTable columns={this.props.columns} data={this.state.data}/>
+    return <PaginatedTable striped columns={this.props.columns} data={this.state.data}/>
   }
 }
 
