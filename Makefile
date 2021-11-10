@@ -10,7 +10,7 @@ GENERATED=$(foreach sql,$(SQLS),web/data/generated/$(basename $(notdir $(sql))).
 
 DOWNLOAD=db/data/download
 TABLES=$(wildcard db/data/*.sql) $(wildcard db/data/*.py)
-FILES=$(DOWNLOAD)/standardised-returns.csv $(DOWNLOAD)/consents_active.csv $(TABLES)
+FILES=$(DOWNLOAD)/standardised-returns.csv $(DOWNLOAD)/consents-processed.csv $(TABLES)
 
 all: generated
 
