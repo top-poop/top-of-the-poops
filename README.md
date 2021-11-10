@@ -91,9 +91,7 @@ You'll need the following:
 
 # Things to do
 
-- Improve consent matching - esp for Southern Water & United Utilities - if possible!
 - Improve matching of constituencies - some points lie just outside
 - Link with voting results - need to find the division results...
-- Improve River name clean up - still lots of () and & in there.
 - Add sewage dump count to beaches & shellfisheries
 - Add Tweet to MP / Facebook MP.
