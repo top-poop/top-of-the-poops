@@ -1,38 +1,43 @@
 [
   {
     "water_type": "Freshwater river",
-    "total_count": 248306.0,
-    "total_hours": 2155297.83
+    "total_count": 293829.0,
+    "total_hours": 2346312.36
   },
   {
     "water_type": "Estuary/Tidal River",
-    "total_count": 25745.0,
-    "total_hours": 150268.14
+    "total_count": 26690.0,
+    "total_hours": 152365.3
+  },
+  {
+    "water_type": "Permit does not specify",
+    "total_count": 10962.0,
+    "total_hours": 55640.76
   },
   {
     "water_type": "Sea",
-    "total_count": 7467.0,
-    "total_hours": 50988.74
+    "total_count": 7588.0,
+    "total_hours": 51610.36
   },
   {
     "water_type": "Canal",
-    "total_count": 1089.0,
-    "total_hours": 11200.84
-  },
-  {
-    "water_type": "Pond/Lake/Reservoir",
-    "total_count": 439.0,
-    "total_hours": 3615.62
+    "total_count": 2439.0,
+    "total_hours": 15622.29
   },
   {
     "water_type": "Into land / infiltration system",
-    "total_count": 313.0,
-    "total_hours": 1805.25
+    "total_count": 546.0,
+    "total_hours": 4697.85
+  },
+  {
+    "water_type": "Pond/Lake/Reservoir",
+    "total_count": 537.0,
+    "total_hours": 3223.77
   },
   {
     "water_type": "Grass plots / irrigation area",
-    "total_count": 222.0,
-    "total_hours": 1666.69
+    "total_count": 141.0,
+    "total_hours": 1157.19
   },
   {
     "water_type": "Into land then to watercourse",

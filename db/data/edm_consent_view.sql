@@ -10,7 +10,7 @@ drop view if exists edm_consents_view;
 create view edm_consent_view as
 with duplicate_consents as (
     select count(*) over (partition by consents.permit_number)                as count,
-           row_number() over (partition by consents.permit_number order by 1) as rn,
+           row_number() over (partition by consents.permit_number order by revocation_date desc nulls first) as rn,
            consents.*
     from consents
 ),

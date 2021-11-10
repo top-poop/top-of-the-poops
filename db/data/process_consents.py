@@ -5,13 +5,6 @@ import csv
 import re
 
 
-def write_row(writer, row):
-    if len(row) != 10:
-        raise IOError(f"bodge was wrong, got {row}")
-
-    writer.writerow(row)
-
-
 def process_receiving_water(value):
     if value == "":
         value = "UNKNOWN"
@@ -82,6 +75,16 @@ def test_process_receiving_water():
     assert process_receiving_water("CRAWTERS BROOK") == "Crawters Brook"
 
 
+def process_permit_number(permit):
+    permit = re.sub(r"\d\d([A-Z]{3}\d{4})", r"\1", permit)
+    return permit
+
+
+def test_process_permit_number():
+    assert process_permit_number("01WIG0130") == "WIG0130"
+    assert process_permit_number("016993399") == "016993399"
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="process mess of consent files")
 
@@ -98,5 +101,12 @@ if __name__ == "__main__":
 
             for row in inputcsv:
                 row[17] = process_receiving_water(row[17])
+
+                company = row[0].lower()
+                if "united utilities" in company:
+                    row[15] = process_permit_number(row[15])
+
+                if row[19] == "":
+                    row[19] = "Permit does not specify"
 
                 outputcsv.writerow(row)

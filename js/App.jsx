@@ -263,9 +263,13 @@ class App extends React.Component {
           <Col>
             <p>
               Data quality appears very poor. In our naive understanding, each spill event record should be matched with
-              a 'consent' - however
-              some companies don't seem to match up very well at all. In this graph the "matched" values are overstated
-              due to multiple 'consent' records existing with the same id.
+              a 'consent' - however some companies don't seem to match up very well at all.
+            </p>
+
+            <p>
+              In particular, United Utilities registers very many sewage dump incidents against permit numbers that appear to be
+              expired. We don't know the reason for this - it could be that they have no legal basis for the sewage dump, or it could be that
+              the Environment Agency have supplied only partial data for the consent data set.
             </p>
 
             <p>

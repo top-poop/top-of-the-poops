@@ -2,101 +2,101 @@
   {
     "company_name": "Anglian Water",
     "type": "matched",
-    "count": 26443.0
+    "count": 15531.0
   },
   {
     "company_name": "Anglian Water",
     "type": "unmatched",
-    "count": 2464.0
+    "count": 2405.0
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
     "type": "matched",
-    "count": 3616.0
+    "count": 3527.0
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
     "type": "unmatched",
-    "count": 809.0
+    "count": 442.0
   },
   {
     "company_name": "Northumbrian Water",
     "type": "matched",
-    "count": 55454.0
+    "count": 35578.0
   },
   {
     "company_name": "Northumbrian Water",
     "type": "unmatched",
-    "count": 989.0
+    "count": 984.0
   },
   {
     "company_name": "Severn Trent Water",
     "type": "matched",
-    "count": 96363.0
+    "count": 60088.0
   },
   {
     "company_name": "Severn Trent Water",
     "type": "unmatched",
-    "count": 6922.0
+    "count": 5877.0
   },
   {
     "company_name": "South West Water",
     "type": "matched",
-    "count": 74025.0
+    "count": 46328.0
   },
   {
     "company_name": "South West Water",
     "type": "unmatched",
-    "count": 4768.0
+    "count": 4697.0
   },
   {
     "company_name": "Southern Water",
     "type": "matched",
-    "count": 2035.0
+    "count": 1867.0
   },
   {
     "company_name": "Southern Water",
     "type": "unmatched",
-    "count": 19209.0
+    "count": 19160.0
   },
   {
     "company_name": "Thames Water",
     "type": "matched",
-    "count": 25508.0
+    "count": 18103.0
   },
   {
     "company_name": "Thames Water",
     "type": "unmatched",
-    "count": 605.0
+    "count": 448.0
   },
   {
     "company_name": "United Utilities",
     "type": "matched",
-    "count": 98603.0
+    "count": 97367.0
   },
   {
     "company_name": "United Utilities",
     "type": "unmatched",
-    "count": 79958.0
+    "count": 22945.0
   },
   {
     "company_name": "Wessex Water",
     "type": "matched",
-    "count": 47021.0
+    "count": 30872.0
   },
   {
     "company_name": "Wessex Water",
     "type": "unmatched",
-    "count": 628.0
+    "count": 538.0
   },
   {
     "company_name": "Yorkshire Water",
     "type": "matched",
-    "count": 122934.0
+    "count": 85722.0
   },
   {
     "company_name": "Yorkshire Water",
     "type": "unmatched",
-    "count": 3772.0
+    "count": 3477.0
   }
 ]

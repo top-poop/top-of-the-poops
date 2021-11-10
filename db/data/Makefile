@@ -55,10 +55,10 @@ $(DOWNLOAD)/consented.accdb: $(DOWNLOAD)/$(CONSENTED_ZIP)
 	mv download/$(CONSENTED_ACCDB) $@
 	touch "$@"
 
-$(DOWNLOAD)/consents_active.csv: $(DOWNLOAD)/consented.accdb
+$(DOWNLOAD)/consents_all.csv: $(DOWNLOAD)/consented.accdb
 	$(PYTHON) mdb-extract-all.py --output $(DOWNLOAD) $<
 
-$(DOWNLOAD)/consents-processed.csv: $(DOWNLOAD)/consents_active.csv process_consents.py
+$(DOWNLOAD)/consents-processed.csv: $(DOWNLOAD)/consents_all.csv process_consents.py
 	$(PYTHON) process_consents.py $< $@
 
 load-consents: consents.sql load_consents.sql $(DOWNLOAD)/consents-processed.csv
