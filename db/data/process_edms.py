@@ -20,9 +20,10 @@ def epr_consent(provided):
 
 
 def southern_water(row):
-    # has random extra duplicated fields
+    # has random extra duplicated fields, field permit number doesn't relate to anything,
+    # use 'folio' instead.
     standard = row[0:1] + row[2:3] + row[4:]
-    standard[2] = epr_consent(standard[2])
+    standard[2] = epr_consent(standard[10])
     return standard
 
 

@@ -84,6 +84,12 @@
     "total_hours": 15337.68
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "River Rother",
+    "total_count": 1095.0,
+    "total_hours": 15043.56
+  },
+  {
     "company_name": "United Utilities",
     "river_name": "Unknown",
     "total_count": 3311.0,
@@ -94,6 +100,12 @@
     "river_name": "River Calder",
     "total_count": 1464.0,
     "total_hours": 12416.38
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Freshwater River",
+    "total_count": 1591.0,
+    "total_hours": 11449.46
   },
   {
     "company_name": "United Utilities",
@@ -124,6 +136,12 @@
     "river_name": "River Tame",
     "total_count": 1196.0,
     "total_hours": 10583.43
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Solent",
+    "total_count": 1083.0,
+    "total_hours": 10231.85
   },
   {
     "company_name": "Yorkshire Water",
@@ -214,6 +232,12 @@
     "river_name": "Dean Brook",
     "total_count": 498.0,
     "total_hours": 8179.73
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "English Channel",
+    "total_count": 908.0,
+    "total_hours": 8175.01
   },
   {
     "company_name": "Northumbrian Water",
@@ -388,6 +412,12 @@
     "river_name": "River Mersey",
     "total_count": 1627.0,
     "total_hours": 6161.83
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Blackwater",
+    "total_count": 332.0,
+    "total_hours": 6124.46
   },
   {
     "company_name": "South West Water",
@@ -876,10 +906,22 @@
     "total_hours": 3791.36
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "River Medway",
+    "total_count": 649.0,
+    "total_hours": 3776.72
+  },
+  {
     "company_name": "Severn Trent Water",
     "river_name": "River Penk",
     "total_count": 240.0,
     "total_hours": 3765.95
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Hexden Channel",
+    "total_count": 280.0,
+    "total_hours": 3761.38
   },
   {
     "company_name": "South West Water",
@@ -928,6 +970,12 @@
     "river_name": "Gleaston Beck",
     "total_count": 163.0,
     "total_hours": 3648.87
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Tidal River Ouse",
+    "total_count": 201.0,
+    "total_hours": 3625.43
   },
   {
     "company_name": "United Utilities",
@@ -990,6 +1038,12 @@
     "total_hours": 3436.01
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "River Test",
+    "total_count": 257.0,
+    "total_hours": 3428.17
+  },
+  {
     "company_name": "Wessex Water",
     "river_name": "River Iwerne",
     "total_count": 156.0,
@@ -1030,6 +1084,12 @@
     "river_name": "Limb Brook",
     "total_count": 154.0,
     "total_hours": 3342.86
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Beult",
+    "total_count": 287.0,
+    "total_hours": 3329.78
   },
   {
     "company_name": "South West Water",
@@ -1084,6 +1144,12 @@
     "river_name": "River Axe",
     "total_count": 193.0,
     "total_hours": 3201.63
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Ford Lake Via Stream",
+    "total_count": 162.0,
+    "total_hours": 3193.67
   },
   {
     "company_name": "Yorkshire Water",
@@ -1156,6 +1222,18 @@
     "river_name": "Rea Brook",
     "total_count": 468.0,
     "total_hours": 3056.55
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Arun",
+    "total_count": 201.0,
+    "total_hours": 3031.53
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Controlled Sea",
+    "total_count": 365.0,
+    "total_hours": 3029.85
   },
   {
     "company_name": "South West Water",
@@ -1266,6 +1344,12 @@
     "total_hours": 2859.75
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Chichester Harbour",
+    "total_count": 152.0,
+    "total_hours": 2849.0
+  },
+  {
     "company_name": "Wessex Water",
     "river_name": "Bristol Channel",
     "total_count": 234.0,
@@ -1350,6 +1434,18 @@
     "total_hours": 2733.86
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "River Adur",
+    "total_count": 270.0,
+    "total_hours": 2723.43
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Medina",
+    "total_count": 399.0,
+    "total_hours": 2698.05
+  },
+  {
     "company_name": "Severn Trent Water",
     "river_name": "Wyaston Brook",
     "total_count": 155.0,
@@ -1414,6 +1510,12 @@
     "river_name": "Mill Avon",
     "total_count": 175.0,
     "total_hours": 2603.73
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Lidsey Rife",
+    "total_count": 126.0,
+    "total_hours": 2593.82
   },
   {
     "company_name": "Yorkshire Water",
@@ -1524,6 +1626,12 @@
     "total_hours": 2453.61
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Lymington River",
+    "total_count": 200.0,
+    "total_hours": 2446.57
+  },
+  {
     "company_name": "South West Water",
     "river_name": "Holbeck/Wharfe",
     "total_count": 143.0,
@@ -1572,6 +1680,12 @@
     "total_hours": 2424.78
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "River Grom",
+    "total_count": 231.0,
+    "total_hours": 2424.55
+  },
+  {
     "company_name": "Severn Trent Water",
     "river_name": "Callow Brook",
     "total_count": 155.0,
@@ -1594,6 +1708,12 @@
     "river_name": "River Loxley",
     "total_count": 263.0,
     "total_hours": 2404.94
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Itchen",
+    "total_count": 186.0,
+    "total_hours": 2403.34
   },
   {
     "company_name": "South West Water",
@@ -1710,6 +1830,12 @@
     "total_hours": 2300.97
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Loxwood Stream",
+    "total_count": 148.0,
+    "total_hours": 2300.25
+  },
+  {
     "company_name": "Thames Water",
     "river_name": "Cherwell",
     "total_count": 227.0,
@@ -1800,6 +1926,12 @@
     "total_hours": 2249.79
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "River Meon",
+    "total_count": 152.0,
+    "total_hours": 2242.27
+  },
+  {
     "company_name": "Severn Trent Water",
     "river_name": "Hockley Brook",
     "total_count": 416.0,
@@ -1816,6 +1948,12 @@
     "river_name": "North Sea",
     "total_count": 687.0,
     "total_hours": 2229.79
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Ridgewood Stream",
+    "total_count": 127.0,
+    "total_hours": 2227.42
   },
   {
     "company_name": "Northumbrian Water",
@@ -1872,6 +2010,12 @@
     "total_hours": 2201.3
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Marshcourt River",
+    "total_count": 124.0,
+    "total_hours": 2200.99
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "River Sheaf",
     "total_count": 489.0,
@@ -1926,6 +2070,12 @@
     "total_hours": 2142.82
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "River Yar",
+    "total_count": 169.0,
+    "total_hours": 2132.16
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "River Derwent",
     "total_count": 346.0,
@@ -1972,6 +2122,18 @@
     "river_name": "Collier Brook",
     "total_count": 147.0,
     "total_hours": 2085.68
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Cockhaise Brook",
+    "total_count": 116.0,
+    "total_hours": 2082.39
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Ouse",
+    "total_count": 176.0,
+    "total_hours": 2080.18
   },
   {
     "company_name": "United Utilities",
@@ -2098,6 +2260,12 @@
     "river_name": "River Roden",
     "total_count": 379.0,
     "total_hours": 1978.76
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Honeybridge Striver R.Adur",
+    "total_count": 109.0,
+    "total_hours": 1975.79
   },
   {
     "company_name": "United Utilities",
@@ -2272,6 +2440,12 @@
     "river_name": "River Parrett",
     "total_count": 245.0,
     "total_hours": 1853.15
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Goddens Gill",
+    "total_count": 111.0,
+    "total_hours": 1844.16
   },
   {
     "company_name": "Yorkshire Water",
@@ -2454,6 +2628,18 @@
     "total_hours": 1736.11
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Hilden Brook",
+    "total_count": 148.0,
+    "total_hours": 1733.2
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Bevern Stream",
+    "total_count": 145.0,
+    "total_hours": 1729.74
+  },
+  {
     "company_name": "United Utilities",
     "river_name": "Dovenby Beck",
     "total_count": 153.0,
@@ -2482,6 +2668,12 @@
     "river_name": "Ford Brook",
     "total_count": 248.0,
     "total_hours": 1724.77
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Eridge Stream",
+    "total_count": 186.0,
+    "total_hours": 1721.56
   },
   {
     "company_name": "United Utilities",
@@ -2542,6 +2734,12 @@
     "river_name": "Trent And Mersey Canal",
     "total_count": 497.0,
     "total_hours": 1685.08
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Eastern Yar",
+    "total_count": 153.0,
+    "total_hours": 1682.65
   },
   {
     "company_name": "United Utilities",
@@ -2700,6 +2898,12 @@
     "total_hours": 1585.99
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "River Eden",
+    "total_count": 206.0,
+    "total_hours": 1581.51
+  },
+  {
     "company_name": "United Utilities",
     "river_name": "Pendle Water",
     "total_count": 496.0,
@@ -2796,6 +3000,12 @@
     "total_hours": 1494.38
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "River Brede",
+    "total_count": 159.0,
+    "total_hours": 1491.06
+  },
+  {
     "company_name": "Anglian Water",
     "river_name": "Pennys Brook",
     "total_count": 86.0,
@@ -2868,6 +3078,12 @@
     "total_hours": 1460.89
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Ray Brook",
+    "total_count": 97.0,
+    "total_hours": 1460.4
+  },
+  {
     "company_name": "Thames Water",
     "river_name": "Hamstead Stream",
     "total_count": 92.0,
@@ -2934,6 +3150,18 @@
     "total_hours": 1423.02
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Chiddingfold Stream",
+    "total_count": 85.0,
+    "total_hours": 1420.97
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Bartley Water",
+    "total_count": 141.0,
+    "total_hours": 1420.63
+  },
+  {
     "company_name": "South West Water",
     "river_name": "Looe River",
     "total_count": 154.0,
@@ -2950,6 +3178,12 @@
     "river_name": "Ipstones Brook",
     "total_count": 88.0,
     "total_hours": 1409.09
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Barnham Rife",
+    "total_count": 84.0,
+    "total_hours": 1408.87
   },
   {
     "company_name": "Wessex Water",
@@ -2974,6 +3208,12 @@
     "river_name": "Endon Brook",
     "total_count": 86.0,
     "total_hours": 1393.38
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Great Stour",
+    "total_count": 185.0,
+    "total_hours": 1392.43
   },
   {
     "company_name": "United Utilities",
@@ -3090,6 +3330,12 @@
     "total_hours": 1360.08
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Bewl Water",
+    "total_count": 96.0,
+    "total_hours": 1358.61
+  },
+  {
     "company_name": "United Utilities",
     "river_name": "River Wampool",
     "total_count": 283.0,
@@ -3154,6 +3400,12 @@
     "river_name": "Carlton Brook",
     "total_count": 89.0,
     "total_hours": 1327.94
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Uck",
+    "total_count": 83.0,
+    "total_hours": 1325.82
   },
   {
     "company_name": "Thames Water",
@@ -3252,12 +3504,6 @@
     "total_hours": 1283.2
   },
   {
-    "company_name": "Southern Water",
-    "river_name": "River Medina",
-    "total_count": 159.0,
-    "total_hours": 1282.69
-  },
-  {
     "company_name": "Thames Water",
     "river_name": "Burstow Stream",
     "total_count": 124.0,
@@ -3336,6 +3582,12 @@
     "total_hours": 1230.8
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Southampton Water",
+    "total_count": 139.0,
+    "total_hours": 1229.8
+  },
+  {
     "company_name": "United Utilities",
     "river_name": "Clvrt River Mersey",
     "total_count": 251.0,
@@ -3402,6 +3654,12 @@
     "total_hours": 1203.98
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "River Cuckmere",
+    "total_count": 80.0,
+    "total_hours": 1202.57
+  },
+  {
     "company_name": "Anglian Water",
     "river_name": "Tollesbury Fleet To Blackwater",
     "total_count": 68.0,
@@ -3448,6 +3706,12 @@
     "river_name": "Pow Burn",
     "total_count": 84.0,
     "total_hours": 1184.7
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Hawkhurst South Stream",
+    "total_count": 113.0,
+    "total_hours": 1181.56
   },
   {
     "company_name": "United Utilities",
@@ -3564,6 +3828,24 @@
     "total_hours": 1144.25
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Solent/Langstone Harbour",
+    "total_count": 85.0,
+    "total_hours": 1142.22
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Chichester Harbour Channel",
+    "total_count": 82.0,
+    "total_hours": 1140.33
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Avon Water",
+    "total_count": 87.0,
+    "total_hours": 1140.05
+  },
+  {
     "company_name": "Northumbrian Water",
     "river_name": "Whitton Beck",
     "total_count": 89.0,
@@ -3672,6 +3954,12 @@
     "total_hours": 1091.18
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "River Medway Estuary",
+    "total_count": 248.0,
+    "total_hours": 1090.36
+  },
+  {
     "company_name": "South West Water",
     "river_name": "Haye Valley Stream",
     "total_count": 145.0,
@@ -3688,6 +3976,12 @@
     "river_name": "Tarra Carr Gutter",
     "total_count": 118.0,
     "total_hours": 1087.52
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Groundwater/River Dun",
+    "total_count": 82.0,
+    "total_hours": 1084.81
   },
   {
     "company_name": "Severn Trent Water",
@@ -3732,6 +4026,12 @@
     "total_hours": 1075.51
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "River Kird",
+    "total_count": 74.0,
+    "total_hours": 1073.22
+  },
+  {
     "company_name": "Dwr Cymru Welsh Water",
     "river_name": "River Dee",
     "total_count": 579.0,
@@ -3750,10 +4050,22 @@
     "total_hours": 1072.58
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Tide Brook",
+    "total_count": 60.0,
+    "total_hours": 1070.76
+  },
+  {
     "company_name": "Thames Water",
     "river_name": "Pincey Brook",
     "total_count": 74.0,
     "total_hours": 1061.68
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Itchen Estuary",
+    "total_count": 125.0,
+    "total_hours": 1060.88
   },
   {
     "company_name": "United Utilities",
@@ -3774,10 +4086,28 @@
     "total_hours": 1049.0
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Somerhill Stream",
+    "total_count": 133.0,
+    "total_hours": 1048.22
+  },
+  {
     "company_name": "South West Water",
     "river_name": "Leigham Mill Stream",
     "total_count": 143.0,
     "total_hours": 1047.79
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Lywood Stream",
+    "total_count": 66.0,
+    "total_hours": 1047.72
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Nuthurst Stream",
+    "total_count": 55.0,
+    "total_hours": 1045.7
   },
   {
     "company_name": "Severn Trent Water",
@@ -3924,6 +4254,12 @@
     "total_hours": 1003.75
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Pagham Rife",
+    "total_count": 75.0,
+    "total_hours": 1002.93
+  },
+  {
     "company_name": "Thames Water",
     "river_name": "Blackwater",
     "total_count": 101.0,
@@ -3978,6 +4314,18 @@
     "total_hours": 991.81
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Chess Brook",
+    "total_count": 59.0,
+    "total_hours": 987.69
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Teise",
+    "total_count": 141.0,
+    "total_hours": 985.01
+  },
+  {
     "company_name": "Severn Trent Water",
     "river_name": "River Cam",
     "total_count": 121.0,
@@ -4018,6 +4366,12 @@
     "river_name": "River Calder And River Spen",
     "total_count": 78.0,
     "total_hours": 979.5
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Stanbridge Stream",
+    "total_count": 56.0,
+    "total_hours": 975.31
   },
   {
     "company_name": "Wessex Water",
@@ -4108,6 +4462,12 @@
     "river_name": "Whiteacres Brook",
     "total_count": 95.0,
     "total_hours": 947.53
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Hurst Haven",
+    "total_count": 89.0,
+    "total_hours": 947.11
   },
   {
     "company_name": "Thames Water",
@@ -4314,6 +4674,12 @@
     "total_hours": 895.53
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Broad Rife",
+    "total_count": 61.0,
+    "total_hours": 894.9
+  },
+  {
     "company_name": "United Utilities",
     "river_name": "Great Langdale Beck",
     "total_count": 67.0,
@@ -4470,12 +4836,6 @@
     "total_hours": 851.3
   },
   {
-    "company_name": "Southern Water",
-    "river_name": "Somerhill Stream",
-    "total_count": 56.0,
-    "total_hours": 850.8
-  },
-  {
     "company_name": "Wessex Water",
     "river_name": "Low Ham Rhyne",
     "total_count": 51.0,
@@ -4500,10 +4860,28 @@
     "total_hours": 840.27
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Boldings Brook, River Arun",
+    "total_count": 60.0,
+    "total_hours": 836.45
+  },
+  {
     "company_name": "Northumbrian Water",
     "river_name": "Mainsforth Stell",
     "total_count": 80.0,
     "total_hours": 833.88
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Hamble Estuary",
+    "total_count": 56.0,
+    "total_hours": 833.81
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Unnamed Tidal River Adur",
+    "total_count": 68.0,
+    "total_hours": 833.42
   },
   {
     "company_name": "United Utilities",
@@ -4536,12 +4914,6 @@
     "total_hours": 828.95
   },
   {
-    "company_name": "Southern Water",
-    "river_name": "River Hamble Estuary",
-    "total_count": 54.0,
-    "total_hours": 828.73
-  },
-  {
     "company_name": "Thames Water",
     "river_name": "Sichester Brook",
     "total_count": 43.0,
@@ -4560,6 +4932,12 @@
     "total_hours": 826.98
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Brighstone Stream",
+    "total_count": 69.0,
+    "total_hours": 823.84
+  },
+  {
     "company_name": "South West Water",
     "river_name": "An Unnamed -River Clyst",
     "total_count": 78.0,
@@ -4572,15 +4950,15 @@
     "total_hours": 822.59
   },
   {
-    "company_name": "United Utilities",
-    "river_name": "River Petteril",
-    "total_count": 210.0,
-    "total_hours": 821.97
-  },
-  {
     "company_name": "Northumbrian Water",
     "river_name": "Rookhope Burn",
     "total_count": 94.0,
+    "total_hours": 821.97
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "River Petteril",
+    "total_count": 210.0,
     "total_hours": 821.97
   },
   {
@@ -4612,6 +4990,12 @@
     "river_name": "Plymouth Sound/Plym Estuary",
     "total_count": 120.0,
     "total_hours": 811.06
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Adur East",
+    "total_count": 69.0,
+    "total_hours": 810.87
   },
   {
     "company_name": "Anglian Water",
@@ -4656,10 +5040,22 @@
     "total_hours": 807.52
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "North Sea",
+    "total_count": 136.0,
+    "total_hours": 806.36
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "Sheffield Beck",
     "total_count": 69.0,
     "total_hours": 806.29
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Par Brook",
+    "total_count": 80.0,
+    "total_hours": 805.1
   },
   {
     "company_name": "Severn Trent Water",
@@ -4758,6 +5154,12 @@
     "total_hours": 779.17
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Crane Brook",
+    "total_count": 69.0,
+    "total_hours": 772.95
+  },
+  {
     "company_name": "Wessex Water",
     "river_name": "Woodbridge Brook",
     "total_count": 73.0,
@@ -4812,12 +5214,6 @@
     "total_hours": 767.18
   },
   {
-    "company_name": "Southern Water",
-    "river_name": "River Rother",
-    "total_count": 121.0,
-    "total_hours": 763.66
-  },
-  {
     "company_name": "Severn Trent Water",
     "river_name": "Corn Brook",
     "total_count": 168.0,
@@ -4870,6 +5266,12 @@
     "river_name": "River Kennall",
     "total_count": 64.0,
     "total_hours": 752.63
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Bulldog Sewer / Glynde Reach",
+    "total_count": 57.0,
+    "total_hours": 751.87
   },
   {
     "company_name": "United Utilities",
@@ -4938,10 +5340,22 @@
     "total_hours": 736.18
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Glynde Reach",
+    "total_count": 98.0,
+    "total_hours": 736.11
+  },
+  {
     "company_name": "Thames Water",
     "river_name": "Shorncote Ditch",
     "total_count": 72.0,
     "total_hours": 735.33
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Pippingford Brook",
+    "total_count": 84.0,
+    "total_hours": 735.05
   },
   {
     "company_name": "Yorkshire Water",
@@ -4992,6 +5406,18 @@
     "total_hours": 720.5
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Speringbrook Sewer",
+    "total_count": 53.0,
+    "total_hours": 719.52
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Shovelstrode Stream",
+    "total_count": 42.0,
+    "total_hours": 717.98
+  },
+  {
     "company_name": "Dwr Cymru Welsh Water",
     "river_name": "Aldford Brook",
     "total_count": 107.0,
@@ -5002,6 +5428,12 @@
     "river_name": "Landrake Stream",
     "total_count": 111.0,
     "total_hours": 716.18
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Hamble",
+    "total_count": 100.0,
+    "total_hours": 716.08
   },
   {
     "company_name": "United Utilities",
@@ -5074,12 +5506,6 @@
     "river_name": "Adel Beck",
     "total_count": 244.0,
     "total_hours": 706.67
-  },
-  {
-    "company_name": "Southern Water",
-    "river_name": "Shovelstrode Stream",
-    "total_count": 39.0,
-    "total_hours": 705.76
   },
   {
     "company_name": "United Utilities",
@@ -5176,6 +5602,12 @@
     "river_name": "River Brue",
     "total_count": 81.0,
     "total_hours": 691.33
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Shortbridge Stream",
+    "total_count": 64.0,
+    "total_hours": 690.75
   },
   {
     "company_name": "United Utilities",
@@ -5472,6 +5904,12 @@
     "total_hours": 637.65
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Chichester Hbr Via Little Deep",
+    "total_count": 49.0,
+    "total_hours": 636.7
+  },
+  {
     "company_name": "Wessex Water",
     "river_name": "Cad Brook",
     "total_count": 41.0,
@@ -5494,6 +5932,12 @@
     "river_name": "Tees Estuary",
     "total_count": 225.0,
     "total_hours": 632.57
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Botany Stream",
+    "total_count": 73.0,
+    "total_hours": 632.05
   },
   {
     "company_name": "Severn Trent Water",
@@ -5568,12 +6012,6 @@
     "total_hours": 615.06
   },
   {
-    "company_name": "Southern Water",
-    "river_name": "River Medway Estuary",
-    "total_count": 75.0,
-    "total_hours": 614.84
-  },
-  {
     "company_name": "Severn Trent Water",
     "river_name": "Crich Brook",
     "total_count": 72.0,
@@ -5596,6 +6034,12 @@
     "river_name": "Bottesford Beck",
     "total_count": 270.0,
     "total_hours": 608.9
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Tillingham",
+    "total_count": 100.0,
+    "total_hours": 607.9
   },
   {
     "company_name": "Northumbrian Water",
@@ -5634,6 +6078,12 @@
     "total_hours": 602.5
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Black Sewer River Adur",
+    "total_count": 48.0,
+    "total_hours": 602.3
+  },
+  {
     "company_name": "Thames Water",
     "river_name": "Henton Stream",
     "total_count": 83.0,
@@ -5650,6 +6100,18 @@
     "river_name": "Tees",
     "total_count": 235.0,
     "total_hours": 599.54
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Tidal River Arun",
+    "total_count": 52.0,
+    "total_hours": 599.0
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Hammer Stream",
+    "total_count": 47.0,
+    "total_hours": 598.2
   },
   {
     "company_name": "Thames Water",
@@ -5686,6 +6148,12 @@
     "river_name": "Wallsend Burn Estuarine Waters",
     "total_count": 100.0,
     "total_hours": 591.25
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Hatchet Stream",
+    "total_count": 38.0,
+    "total_hours": 591.16
   },
   {
     "company_name": "Northumbrian Water",
@@ -5760,6 +6228,12 @@
     "total_hours": 578.85
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Barden Mill Stream",
+    "total_count": 55.0,
+    "total_hours": 578.85
+  },
+  {
     "company_name": "South West Water",
     "river_name": "Gwindra Stream",
     "total_count": 43.0,
@@ -5808,16 +6282,16 @@
     "total_hours": 573.58
   },
   {
-    "company_name": "Southern Water",
-    "river_name": "River Adur",
-    "total_count": 51.0,
-    "total_hours": 573.23
-  },
-  {
     "company_name": "United Utilities",
     "river_name": "Chisworth Brook",
     "total_count": 102.0,
     "total_hours": 572.77
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Wootton Creek",
+    "total_count": 120.0,
+    "total_hours": 570.54
   },
   {
     "company_name": "United Utilities",
@@ -5886,6 +6360,12 @@
     "total_hours": 560.91
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Tickerage Stream",
+    "total_count": 59.0,
+    "total_hours": 555.2
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "Stonley Goat Dyke",
     "total_count": 56.0,
@@ -5946,10 +6426,22 @@
     "total_hours": 547.84
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Caul Bourne",
+    "total_count": 65.0,
+    "total_hours": 547.05
+  },
+  {
     "company_name": "South West Water",
     "river_name": "Bryn Brook",
     "total_count": 62.0,
     "total_hours": 546.31
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Newmill Channel",
+    "total_count": 64.0,
+    "total_hours": 545.4
   },
   {
     "company_name": "Yorkshire Water",
@@ -6072,16 +6564,16 @@
     "total_hours": 526.97
   },
   {
-    "company_name": "Southern Water",
-    "river_name": "High Birks Beck",
-    "total_count": 40.0,
-    "total_hours": 525.73
-  },
-  {
     "company_name": "Yorkshire Water",
     "river_name": "Nearby Dyke",
     "total_count": 60.0,
     "total_hours": 525.52
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Mill Stream",
+    "total_count": 43.0,
+    "total_hours": 524.99
   },
   {
     "company_name": "Thames Water",
@@ -6132,6 +6624,12 @@
     "total_hours": 519.37
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Marsham Sewer",
+    "total_count": 78.0,
+    "total_hours": 518.63
+  },
+  {
     "company_name": "United Utilities",
     "river_name": "Solway Firth Estuarine Wt",
     "total_count": 93.0,
@@ -6142,6 +6640,12 @@
     "river_name": "Lashlake Stream",
     "total_count": 35.0,
     "total_hours": 516.24
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Mill Ditch",
+    "total_count": 75.0,
+    "total_hours": 516.23
   },
   {
     "company_name": "Northumbrian Water",
@@ -6166,6 +6670,12 @@
     "river_name": "Tidal River Orwell",
     "total_count": 95.0,
     "total_hours": 512.5
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Lavant",
+    "total_count": 29.0,
+    "total_hours": 512.27
   },
   {
     "company_name": "Severn Trent Water",
@@ -6312,6 +6822,18 @@
     "total_hours": 491.97
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Shorwell Stream",
+    "total_count": 56.0,
+    "total_hours": 490.6
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Medway Estaury",
+    "total_count": 107.0,
+    "total_hours": 489.98
+  },
+  {
     "company_name": "South West Water",
     "river_name": "Weston Mill Stream",
     "total_count": 44.0,
@@ -6346,6 +6868,12 @@
     "river_name": "Hindsford Brook",
     "total_count": 121.0,
     "total_hours": 486.46
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Coombe Brook",
+    "total_count": 46.0,
+    "total_hours": 486.0
   },
   {
     "company_name": "Northumbrian Water",
@@ -6412,6 +6940,12 @@
     "river_name": "River Whitting",
     "total_count": 73.0,
     "total_hours": 481.94
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "East Stream",
+    "total_count": 37.0,
+    "total_hours": 478.09
   },
   {
     "company_name": "Yorkshire Water",
@@ -6738,6 +7272,12 @@
     "total_hours": 440.49
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Beaulieu River",
+    "total_count": 33.0,
+    "total_hours": 439.96
+  },
+  {
     "company_name": "Anglian Water",
     "river_name": "River Lark",
     "total_count": 31.0,
@@ -6978,6 +7518,12 @@
     "total_hours": 411.14
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Controlled Waters",
+    "total_count": 46.0,
+    "total_hours": 409.95
+  },
+  {
     "company_name": "Severn Trent Water",
     "river_name": "Cam Brook",
     "total_count": 49.0,
@@ -7014,6 +7560,12 @@
     "total_hours": 401.88
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Swale Estuary",
+    "total_count": 56.0,
+    "total_hours": 400.94
+  },
+  {
     "company_name": "United Utilities",
     "river_name": "Dibbinsdale Brook",
     "total_count": 94.0,
@@ -7042,6 +7594,18 @@
     "river_name": "Hancock'S Water",
     "total_count": 53.0,
     "total_hours": 397.65
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Sheepwash",
+    "total_count": 44.0,
+    "total_hours": 397.24
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Lymore Stream",
+    "total_count": 49.0,
+    "total_hours": 396.74
   },
   {
     "company_name": "Severn Trent Water",
@@ -7242,10 +7806,22 @@
     "total_hours": 375.48
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Freshwater River Great Stour",
+    "total_count": 32.0,
+    "total_hours": 375.47
+  },
+  {
     "company_name": "Severn Trent Water",
     "river_name": "Brailsford Brook",
     "total_count": 89.0,
     "total_hours": 375.15
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Thames - Tidal",
+    "total_count": 89.0,
+    "total_hours": 375.08
   },
   {
     "company_name": "Thames Water",
@@ -7356,6 +7932,12 @@
     "total_hours": 363.6
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Unnamed Glynde Reach/Ouse",
+    "total_count": 37.0,
+    "total_hours": 363.54
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "River Little Went",
     "total_count": 59.0,
@@ -7408,6 +7990,12 @@
     "river_name": "Bowburn Beck",
     "total_count": 90.0,
     "total_hours": 360.08
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Line",
+    "total_count": 54.0,
+    "total_hours": 359.76
   },
   {
     "company_name": "Severn Trent Water",
@@ -7602,6 +8190,12 @@
     "total_hours": 340.08
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Rodge Brook",
+    "total_count": 33.0,
+    "total_hours": 340.07
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "Ouse Gill Beck",
     "total_count": 120.0,
@@ -7776,10 +8370,22 @@
     "total_hours": 325.3
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Cowfold Stream River Adur",
+    "total_count": 29.0,
+    "total_hours": 324.73
+  },
+  {
     "company_name": "Northumbrian Water",
     "river_name": "River Balder",
     "total_count": 61.0,
     "total_hours": 323.48
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Horse Eye Sewer",
+    "total_count": 56.0,
+    "total_hours": 322.8
   },
   {
     "company_name": "United Utilities",
@@ -7828,6 +8434,12 @@
     "river_name": "River Box",
     "total_count": 25.0,
     "total_hours": 316.0
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Felbridge Water",
+    "total_count": 28.0,
+    "total_hours": 315.71
   },
   {
     "company_name": "Thames Water",
@@ -7942,12 +8554,6 @@
     "river_name": "Jump Valley Stream",
     "total_count": 150.0,
     "total_hours": 301.99
-  },
-  {
-    "company_name": "Southern Water",
-    "river_name": "River Tillingham",
-    "total_count": 68.0,
-    "total_hours": 301.41
   },
   {
     "company_name": "United Utilities",
@@ -8070,6 +8676,12 @@
     "total_hours": 290.89
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Tidal River Thames",
+    "total_count": 89.0,
+    "total_hours": 290.26
+  },
+  {
     "company_name": "Severn Trent Water",
     "river_name": "River Redlake",
     "total_count": 17.0,
@@ -8086,6 +8698,18 @@
     "river_name": "St John'S Lake",
     "total_count": 36.0,
     "total_hours": 289.25
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Two S Of River Chidd",
+    "total_count": 58.0,
+    "total_hours": 288.93
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Kent Water",
+    "total_count": 43.0,
+    "total_hours": 288.63
   },
   {
     "company_name": "Wessex Water",
@@ -8140,6 +8764,12 @@
     "river_name": "Ringshaw Beck",
     "total_count": 87.0,
     "total_hours": 283.15
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Parsons Brook",
+    "total_count": 42.0,
+    "total_hours": 282.83
   },
   {
     "company_name": "Severn Trent Water",
@@ -8200,6 +8830,12 @@
     "river_name": "Rising Brook",
     "total_count": 55.0,
     "total_hours": 276.2
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Rhoden Stream",
+    "total_count": 27.0,
+    "total_hours": 275.86
   },
   {
     "company_name": "Wessex Water",
@@ -8268,10 +8904,34 @@
     "total_hours": 271.97
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Milton Creek",
+    "total_count": 64.0,
+    "total_hours": 271.84
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Unnamed Herrings Stream",
+    "total_count": 57.0,
+    "total_hours": 271.56
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "New Stream Ditch",
+    "total_count": 44.0,
+    "total_hours": 271.53
+  },
+  {
     "company_name": "United Utilities",
     "river_name": "Sewer",
     "total_count": 14.0,
     "total_hours": 271.07
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Portsmouth Harbour",
+    "total_count": 101.0,
+    "total_hours": 270.91
   },
   {
     "company_name": "Thames Water",
@@ -8280,16 +8940,16 @@
     "total_hours": 270.54
   },
   {
-    "company_name": "Southern Water",
-    "river_name": "Otterham Creek",
-    "total_count": 103.0,
-    "total_hours": 270.03
-  },
-  {
     "company_name": "South West Water",
     "river_name": "Looe Bay",
     "total_count": 154.0,
     "total_hours": 269.6
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Waldron Ghyll",
+    "total_count": 25.0,
+    "total_hours": 268.64
   },
   {
     "company_name": "Wessex Water",
@@ -8322,6 +8982,12 @@
     "total_hours": 266.38
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "North End Stream.River Ouse",
+    "total_count": 33.0,
+    "total_hours": 266.25
+  },
+  {
     "company_name": "United Utilities",
     "river_name": "Crossens Pool",
     "total_count": 47.0,
@@ -8332,6 +8998,12 @@
     "river_name": "Graveney",
     "total_count": 158.0,
     "total_hours": 265.58
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Medway Estuary",
+    "total_count": 119.0,
+    "total_hours": 264.03
   },
   {
     "company_name": "United Utilities",
@@ -8514,6 +9186,12 @@
     "total_hours": 253.73
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "East Stour River",
+    "total_count": 37.0,
+    "total_hours": 253.22
+  },
+  {
     "company_name": "United Utilities",
     "river_name": "Dyan Beck",
     "total_count": 112.0,
@@ -8550,6 +9228,12 @@
     "total_hours": 248.17
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "River Stor",
+    "total_count": 27.0,
+    "total_hours": 248.02
+  },
+  {
     "company_name": "Wessex Water",
     "river_name": "Braydon Brook",
     "total_count": 30.0,
@@ -8560,6 +9244,12 @@
     "river_name": "Stock Beck",
     "total_count": 35.0,
     "total_hours": 247.83
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Eden Vale Stream",
+    "total_count": 29.0,
+    "total_hours": 247.51
   },
   {
     "company_name": "United Utilities",
@@ -8638,12 +9328,6 @@
     "river_name": "Castle Carrock Beck",
     "total_count": 192.0,
     "total_hours": 243.02
-  },
-  {
-    "company_name": "Southern Water",
-    "river_name": "River Teise",
-    "total_count": 34.0,
-    "total_hours": 242.82
   },
   {
     "company_name": "Yorkshire Water",
@@ -8730,6 +9414,12 @@
     "total_hours": 238.75
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Guldeford Sewer",
+    "total_count": 17.0,
+    "total_hours": 238.1
+  },
+  {
     "company_name": "South West Water",
     "river_name": "Kingsbridge Estuary",
     "total_count": 112.0,
@@ -8814,6 +9504,12 @@
     "total_hours": 233.25
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Criddell Stream",
+    "total_count": 27.0,
+    "total_hours": 233.18
+  },
+  {
     "company_name": "Northumbrian Water",
     "river_name": "Horton Burn",
     "total_count": 51.0,
@@ -8830,6 +9526,12 @@
     "river_name": "River Torridge Estuary",
     "total_count": 57.0,
     "total_hours": 232.87
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Fareham Creek/Portsmouth Hbr",
+    "total_count": 88.0,
+    "total_hours": 232.54
   },
   {
     "company_name": "United Utilities",
@@ -8914,6 +9616,12 @@
     "river_name": "Stonethwaite Beck",
     "total_count": 64.0,
     "total_hours": 228.21
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Badnam Creek",
+    "total_count": 44.0,
+    "total_hours": 228.08
   },
   {
     "company_name": "Anglian Water",
@@ -9048,10 +9756,22 @@
     "total_hours": 216.91
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Ham Brook",
+    "total_count": 23.0,
+    "total_hours": 216.86
+  },
+  {
     "company_name": "South West Water",
     "river_name": "Dittisham Mill Creek-Estuarine",
     "total_count": 28.0,
     "total_hours": 216.81
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Pevensey",
+    "total_count": 37.0,
+    "total_hours": 216.44
   },
   {
     "company_name": "Yorkshire Water",
@@ -9078,15 +9798,15 @@
     "total_hours": 215.97
   },
   {
-    "company_name": "Anglian Water",
-    "river_name": "Bentley Brook",
-    "total_count": 42.0,
-    "total_hours": 215.0
-  },
-  {
     "company_name": "Northumbrian Water",
     "river_name": "Priest Burn",
     "total_count": 66.0,
+    "total_hours": 215.0
+  },
+  {
+    "company_name": "Anglian Water",
+    "river_name": "Bentley Brook",
+    "total_count": 42.0,
     "total_hours": 215.0
   },
   {
@@ -9112,6 +9832,12 @@
     "river_name": "Snebra Ghyll",
     "total_count": 52.0,
     "total_hours": 213.78
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Len",
+    "total_count": 47.0,
+    "total_hours": 213.58
   },
   {
     "company_name": "South West Water",
@@ -9150,6 +9876,12 @@
     "total_hours": 212.04
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Celery Sewer River Ouse",
+    "total_count": 37.0,
+    "total_hours": 212.0
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "Colden Water",
     "total_count": 17.0,
@@ -9160,12 +9892,6 @@
     "river_name": "Haigh Beck",
     "total_count": 62.0,
     "total_hours": 211.49
-  },
-  {
-    "company_name": "Southern Water",
-    "river_name": "River Yar",
-    "total_count": 36.0,
-    "total_hours": 211.36
   },
   {
     "company_name": "Yorkshire Water",
@@ -9196,6 +9922,12 @@
     "river_name": "Brislington Brook",
     "total_count": 43.0,
     "total_hours": 209.5
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Scrase Stream",
+    "total_count": 44.0,
+    "total_hours": 209.41
   },
   {
     "company_name": "Yorkshire Water",
@@ -9250,6 +9982,12 @@
     "river_name": "Newmarket No.1 Public Drain",
     "total_count": 40.0,
     "total_hours": 206.5
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Knelle Petty Sewer",
+    "total_count": 26.0,
+    "total_hours": 206.21
   },
   {
     "company_name": "Anglian Water",
@@ -9378,6 +10116,12 @@
     "total_hours": 199.62
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Chalybeate Spring",
+    "total_count": 19.0,
+    "total_hours": 199.58
+  },
+  {
     "company_name": "South West Water",
     "river_name": "Babbacombe Bay",
     "total_count": 57.0,
@@ -9486,6 +10230,12 @@
     "total_hours": 193.97
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "River Bourne",
+    "total_count": 35.0,
+    "total_hours": 193.84
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "Nether Ends Beck",
     "total_count": 32.0,
@@ -9546,15 +10296,15 @@
     "total_hours": 189.57
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Rainton Burn",
-    "total_count": 125.0,
-    "total_hours": 189.5
-  },
-  {
     "company_name": "Yorkshire Water",
     "river_name": "Choke Churl Beck",
     "total_count": 124.0,
+    "total_hours": 189.5
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Rainton Burn",
+    "total_count": 125.0,
     "total_hours": 189.5
   },
   {
@@ -9624,6 +10374,12 @@
     "total_hours": 185.31
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Pannel Sewer",
+    "total_count": 40.0,
+    "total_hours": 185.25
+  },
+  {
     "company_name": "Wessex Water",
     "river_name": "A Stormwater Ditch",
     "total_count": 49.0,
@@ -9648,15 +10404,15 @@
     "total_hours": 183.75
   },
   {
-    "company_name": "Severn Trent Water",
-    "river_name": "Croxton Park Brook",
-    "total_count": 50.0,
-    "total_hours": 182.87
-  },
-  {
     "company_name": "Wessex Water",
     "river_name": "Corston Brook",
     "total_count": 61.0,
+    "total_hours": 182.87
+  },
+  {
+    "company_name": "Severn Trent Water",
+    "river_name": "Croxton Park Brook",
+    "total_count": 50.0,
     "total_hours": 182.87
   },
   {
@@ -9694,6 +10450,12 @@
     "river_name": "Kenton Brook",
     "total_count": 63.0,
     "total_hours": 181.67
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Hogwell Sewer",
+    "total_count": 18.0,
+    "total_hours": 181.56
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -9834,6 +10596,12 @@
     "total_hours": 173.95
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Combe Haven",
+    "total_count": 20.0,
+    "total_hours": 173.82
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "Great Common Drain",
     "total_count": 17.0,
@@ -9852,15 +10620,15 @@
     "total_hours": 173.0
   },
   {
-    "company_name": "Anglian Water",
-    "river_name": "Sywell Reservoir",
-    "total_count": 31.0,
-    "total_hours": 172.5
-  },
-  {
     "company_name": "Wessex Water",
     "river_name": "River Wyle Via Were",
     "total_count": 122.0,
+    "total_hours": 172.5
+  },
+  {
+    "company_name": "Anglian Water",
+    "river_name": "Sywell Reservoir",
+    "total_count": 31.0,
     "total_hours": 172.5
   },
   {
@@ -9898,6 +10666,12 @@
     "river_name": "Three Pools Waterway",
     "total_count": 62.0,
     "total_hours": 171.13
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Tidal Waters Of River Arun",
+    "total_count": 35.0,
+    "total_hours": 170.45
   },
   {
     "company_name": "Wessex Water",
@@ -9942,6 +10716,12 @@
     "total_hours": 169.66
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Herons Ghyll",
+    "total_count": 45.0,
+    "total_hours": 169.57
+  },
+  {
     "company_name": "South West Water",
     "river_name": "Silford Stream",
     "total_count": 22.0,
@@ -9958,6 +10738,12 @@
     "river_name": "Harmby Beck",
     "total_count": 32.0,
     "total_hours": 169.02
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Wroxall Stream",
+    "total_count": 45.0,
+    "total_hours": 167.4
   },
   {
     "company_name": "Yorkshire Water",
@@ -10026,15 +10812,15 @@
     "total_hours": 164.12
   },
   {
-    "company_name": "Yorkshire Water",
-    "river_name": "Firth Park Stream",
-    "total_count": 112.0,
-    "total_hours": 164.07
-  },
-  {
     "company_name": "Wessex Water",
     "river_name": "River Trym",
     "total_count": 119.0,
+    "total_hours": 164.07
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "river_name": "Firth Park Stream",
+    "total_count": 112.0,
     "total_hours": 164.07
   },
   {
@@ -10242,6 +11028,12 @@
     "total_hours": 155.54
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Forge Stream",
+    "total_count": 42.0,
+    "total_hours": 155.53
+  },
+  {
     "company_name": "South West Water",
     "river_name": "Higher Leat Via Sw Sewer",
     "total_count": 98.0,
@@ -10266,6 +11058,12 @@
     "total_hours": 154.5
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Unnamed Strm To Tilmore Brook",
+    "total_count": 15.0,
+    "total_hours": 154.34
+  },
+  {
     "company_name": "Northumbrian Water",
     "river_name": "Unnamed Of River Wear",
     "total_count": 21.0,
@@ -10288,12 +11086,6 @@
     "river_name": "Pinch Beck",
     "total_count": 82.0,
     "total_hours": 152.82
-  },
-  {
-    "company_name": "Southern Water",
-    "river_name": "River Bourne",
-    "total_count": 22.0,
-    "total_hours": 152.17
   },
   {
     "company_name": "Severn Trent Water",
@@ -10362,6 +11154,12 @@
     "total_hours": 150.58
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Unnamed Wc To Scotchells Brook",
+    "total_count": 27.0,
+    "total_hours": 150.12
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "Farsley Beck",
     "total_count": 118.0,
@@ -10422,6 +11220,12 @@
     "total_hours": 147.76
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Unnamed Dicth/Stream",
+    "total_count": 30.0,
+    "total_hours": 147.29
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "Bentley Mill Stream",
     "total_count": 39.0,
@@ -10480,6 +11284,12 @@
     "river_name": "Kent Channel Morecambe Estuary",
     "total_count": 49.0,
     "total_hours": 144.17
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "East Stour",
+    "total_count": 27.0,
+    "total_hours": 143.84
   },
   {
     "company_name": "Anglian Water",
@@ -10740,6 +11550,12 @@
     "total_hours": 135.93
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "River Rother West",
+    "total_count": 30.0,
+    "total_hours": 135.68
+  },
+  {
     "company_name": "Severn Trent Water",
     "river_name": "Newnes Brook",
     "total_count": 88.0,
@@ -10780,6 +11596,12 @@
     "river_name": "Cropwell Bishop Brook",
     "total_count": 22.0,
     "total_hours": 133.85
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Lod",
+    "total_count": 14.0,
+    "total_hours": 133.83
   },
   {
     "company_name": "Yorkshire Water",
@@ -11142,6 +11964,12 @@
     "total_hours": 118.64
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Un River Arun",
+    "total_count": 16.0,
+    "total_hours": 118.46
+  },
+  {
     "company_name": "Wessex Water",
     "river_name": "Monksilver Stream",
     "total_count": 16.0,
@@ -11160,6 +11988,12 @@
     "total_hours": 118.14
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Western Yar",
+    "total_count": 52.0,
+    "total_hours": 118.08
+  },
+  {
     "company_name": "United Utilities",
     "river_name": "Longclough Brook",
     "total_count": 73.0,
@@ -11170,6 +12004,12 @@
     "river_name": "Polecat End Ditch",
     "total_count": 27.0,
     "total_hours": 117.6
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Faversham Creek",
+    "total_count": 56.0,
+    "total_hours": 117.52
   },
   {
     "company_name": "Northumbrian Water",
@@ -11200,6 +12040,12 @@
     "river_name": "Mobberley Brook",
     "total_count": 35.0,
     "total_hours": 116.61
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Unnamed Stream To River Medway",
+    "total_count": 56.0,
+    "total_hours": 115.87
   },
   {
     "company_name": "Northumbrian Water",
@@ -11284,6 +12130,12 @@
     "river_name": "Pingle Brook",
     "total_count": 23.0,
     "total_hours": 114.15
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Wallington",
+    "total_count": 13.0,
+    "total_hours": 114.07
   },
   {
     "company_name": "Yorkshire Water",
@@ -11388,15 +12240,15 @@
     "total_hours": 110.21
   },
   {
-    "company_name": "United Utilities",
-    "river_name": "Un Cross Brook",
-    "total_count": 37.0,
-    "total_hours": 110.15
-  },
-  {
     "company_name": "Severn Trent Water",
     "river_name": "Sapey Brook",
     "total_count": 27.0,
+    "total_hours": 110.15
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "Un Cross Brook",
+    "total_count": 37.0,
     "total_hours": 110.15
   },
   {
@@ -11436,15 +12288,21 @@
     "total_hours": 108.33
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Loftus Beck",
-    "total_count": 29.0,
-    "total_hours": 108.0
+    "company_name": "Southern Water",
+    "river_name": "Fareham Lake",
+    "total_count": 30.0,
+    "total_hours": 108.31
   },
   {
     "company_name": "Northumbrian Water",
     "river_name": "Derwent,",
     "total_count": 51.0,
+    "total_hours": 108.0
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Loftus Beck",
+    "total_count": 29.0,
     "total_hours": 108.0
   },
   {
@@ -11532,6 +12390,12 @@
     "total_hours": 106.5
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Thames Estuary",
+    "total_count": 54.0,
+    "total_hours": 106.35
+  },
+  {
     "company_name": "Northumbrian Water",
     "river_name": "Chapel Beck",
     "total_count": 50.0,
@@ -11586,15 +12450,15 @@
     "total_hours": 105.0
   },
   {
-    "company_name": "Southern Water",
-    "river_name": "Greens Beck",
-    "total_count": 9.0,
-    "total_hours": 104.73
-  },
-  {
     "company_name": "Yorkshire Water",
     "river_name": "Gledhow Beck",
     "total_count": 120.0,
+    "total_hours": 104.61
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Robertsbridge Petty Sewer",
+    "total_count": 22.0,
     "total_hours": 104.61
   },
   {
@@ -11742,10 +12606,22 @@
     "total_hours": 101.25
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Gibbs Brook",
+    "total_count": 15.0,
+    "total_hours": 100.92
+  },
+  {
     "company_name": "Anglian Water",
     "river_name": "Sturton Beck River Till",
     "total_count": 14.0,
     "total_hours": 100.75
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Tider Gill",
+    "total_count": 20.0,
+    "total_hours": 100.66
   },
   {
     "company_name": "Northumbrian Water",
@@ -11776,6 +12652,12 @@
     "river_name": "River Win",
     "total_count": 23.0,
     "total_hours": 98.67
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Picknill Green Stream",
+    "total_count": 21.0,
+    "total_hours": 98.65
   },
   {
     "company_name": "United Utilities",
@@ -11824,6 +12706,12 @@
     "river_name": "Bidston Stream",
     "total_count": 108.0,
     "total_hours": 97.08
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Little Hawden Stream",
+    "total_count": 13.0,
+    "total_hours": 96.82
   },
   {
     "company_name": "Wessex Water",
@@ -11928,16 +12816,16 @@
     "total_hours": 95.01
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Monks Brook Via Drain",
+    "total_count": 10.0,
+    "total_hours": 94.79
+  },
+  {
     "company_name": "Northumbrian Water",
     "river_name": "White Cross Beck",
     "total_count": 36.0,
     "total_hours": 94.08
-  },
-  {
-    "company_name": "Southern Water",
-    "river_name": "Field Drain To Myton Pasture",
-    "total_count": 17.0,
-    "total_hours": 93.85
   },
   {
     "company_name": "Yorkshire Water",
@@ -12150,6 +13038,12 @@
     "total_hours": 87.89
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Newtown River",
+    "total_count": 15.0,
+    "total_hours": 87.58
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "Cow Beck",
     "total_count": 63.0,
@@ -12196,6 +13090,12 @@
     "river_name": "Cawdel Head Drain",
     "total_count": 23.0,
     "total_hours": 86.22
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Medina Estuary",
+    "total_count": 46.0,
+    "total_hours": 86.08
   },
   {
     "company_name": "Anglian Water",
@@ -12258,6 +13158,12 @@
     "total_hours": 85.05
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Littlestone Sewer",
+    "total_count": 6.0,
+    "total_hours": 84.7
+  },
+  {
     "company_name": "Severn Trent Water",
     "river_name": "Polser Brook",
     "total_count": 20.0,
@@ -12274,6 +13180,12 @@
     "river_name": "Sheepscar Beck",
     "total_count": 65.0,
     "total_hours": 84.55
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Hungerford Stream",
+    "total_count": 15.0,
+    "total_hours": 84.5
   },
   {
     "company_name": "Northumbrian Water",
@@ -12426,16 +13338,22 @@
     "total_hours": 80.63
   },
   {
+    "company_name": "Northumbrian Water",
+    "river_name": "Longnewton Beck",
+    "total_count": 46.0,
+    "total_hours": 80.5
+  },
+  {
     "company_name": "Anglian Water",
     "river_name": "Kirby Brook",
     "total_count": 69.0,
     "total_hours": 80.5
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Longnewton Beck",
-    "total_count": 46.0,
-    "total_hours": 80.5
+    "company_name": "Southern Water",
+    "river_name": "Longford Stream",
+    "total_count": 16.0,
+    "total_hours": 80.27
   },
   {
     "company_name": "Severn Trent Water",
@@ -12504,10 +13422,22 @@
     "total_hours": 79.51
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Felbridge Wtr",
+    "total_count": 10.0,
+    "total_hours": 79.5
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "Welton Bank Drain",
     "total_count": 32.0,
     "total_hours": 79.47
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Black Brook",
+    "total_count": 48.0,
+    "total_hours": 79.46
   },
   {
     "company_name": "Northumbrian Water",
@@ -12600,6 +13530,12 @@
     "total_hours": 78.0
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Cuckmere River",
+    "total_count": 20.0,
+    "total_hours": 77.77
+  },
+  {
     "company_name": "South West Water",
     "river_name": "Stonehouse Creek Via Sws",
     "total_count": 119.0,
@@ -12672,6 +13608,12 @@
     "total_hours": 75.81
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Barrows Brook",
+    "total_count": 15.0,
+    "total_hours": 75.59
+  },
+  {
     "company_name": "Northumbrian Water",
     "river_name": "Houghwell Burn",
     "total_count": 45.0,
@@ -12694,12 +13636,6 @@
     "river_name": "Cornwell Brook",
     "total_count": 17.0,
     "total_hours": 75.07
-  },
-  {
-    "company_name": "Southern Water",
-    "river_name": "Scrase Stream",
-    "total_count": 11.0,
-    "total_hours": 75.0
   },
   {
     "company_name": "Wessex Water",
@@ -12756,6 +13692,12 @@
     "total_hours": 74.06
   },
   {
+    "company_name": "Wessex Water",
+    "river_name": "Rushcombe Stream",
+    "total_count": 21.0,
+    "total_hours": 74.0
+  },
+  {
     "company_name": "Thames Water",
     "river_name": "Cholsey Brook",
     "total_count": 13.0,
@@ -12763,15 +13705,15 @@
   },
   {
     "company_name": "Wessex Water",
-    "river_name": "Rushcombe Stream",
-    "total_count": 21.0,
-    "total_hours": 74.0
-  },
-  {
-    "company_name": "Wessex Water",
     "river_name": "River Cary",
     "total_count": 22.0,
     "total_hours": 73.75
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Stour",
+    "total_count": 15.0,
+    "total_hours": 73.72
   },
   {
     "company_name": "United Utilities",
@@ -12810,10 +13752,22 @@
     "total_hours": 72.7
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Tankerton Bay",
+    "total_count": 16.0,
+    "total_hours": 72.69
+  },
+  {
     "company_name": "South West Water",
     "river_name": "River Avon Estuary",
     "total_count": 16.0,
     "total_hours": 72.42
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Coggins Mill Stream",
+    "total_count": 18.0,
+    "total_hours": 72.35
   },
   {
     "company_name": "United Utilities",
@@ -12832,6 +13786,12 @@
     "river_name": "Sister Beck",
     "total_count": 11.0,
     "total_hours": 72.15
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Hook Lake",
+    "total_count": 7.0,
+    "total_hours": 72.11
   },
   {
     "company_name": "Severn Trent Water",
@@ -12906,6 +13866,12 @@
     "total_hours": 70.94
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Windmill Creek",
+    "total_count": 10.0,
+    "total_hours": 70.52
+  },
+  {
     "company_name": "Anglian Water",
     "river_name": "River Tas",
     "total_count": 20.0,
@@ -12966,10 +13932,22 @@
     "total_hours": 69.19
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Nunningham Stream",
+    "total_count": 12.0,
+    "total_hours": 69.14
+  },
+  {
     "company_name": "South West Water",
     "river_name": "Torquay Harbour",
     "total_count": 38.0,
     "total_hours": 69.13
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Great Stour River",
+    "total_count": 12.0,
+    "total_hours": 69.1
   },
   {
     "company_name": "Yorkshire Water",
@@ -12984,15 +13962,15 @@
     "total_hours": 69.06
   },
   {
-    "company_name": "Severn Trent Water",
-    "river_name": "Thistlewood Brook",
-    "total_count": 16.0,
-    "total_hours": 68.99
-  },
-  {
     "company_name": "Yorkshire Water",
     "river_name": "Herringthorpe Beck",
     "total_count": 65.0,
+    "total_hours": 68.99
+  },
+  {
+    "company_name": "Severn Trent Water",
+    "river_name": "Thistlewood Brook",
+    "total_count": 16.0,
     "total_hours": 68.99
   },
   {
@@ -13074,6 +14052,18 @@
     "total_hours": 67.2
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Hens Brook",
+    "total_count": 10.0,
+    "total_hours": 66.9
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Maplehurst Stream",
+    "total_count": 10.0,
+    "total_hours": 66.9
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "River Don Via Pubic Sewer",
     "total_count": 28.0,
@@ -13116,22 +14106,28 @@
     "total_hours": 65.71
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Tidal River Stour",
+    "total_count": 20.0,
+    "total_hours": 65.67
+  },
+  {
     "company_name": "Northumbrian Water",
     "river_name": "Philip Burn",
     "total_count": 23.0,
     "total_hours": 65.61
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Monktonmead Brook",
+    "total_count": 17.0,
+    "total_hours": 65.42
+  },
+  {
     "company_name": "United Utilities",
     "river_name": "Prestwich Clough Via Sws",
     "total_count": 25.0,
     "total_hours": 65.17
-  },
-  {
-    "company_name": "Southern Water",
-    "river_name": "Great Stour River",
-    "total_count": 10.0,
-    "total_hours": 65.05
   },
   {
     "company_name": "Yorkshire Water",
@@ -13266,6 +14262,12 @@
     "total_hours": 62.28
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Hoeford Lake",
+    "total_count": 17.0,
+    "total_hours": 62.26
+  },
+  {
     "company_name": "Northumbrian Water",
     "river_name": "Scawpie Dean",
     "total_count": 24.0,
@@ -13332,6 +14334,18 @@
     "total_hours": 60.29
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Rye Harbour",
+    "total_count": 15.0,
+    "total_hours": 60.28
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Horn Brook",
+    "total_count": 8.0,
+    "total_hours": 60.18
+  },
+  {
     "company_name": "United Utilities",
     "river_name": "Swineshaw Brook Rvr Tame",
     "total_count": 62.0,
@@ -13366,6 +14380,12 @@
     "river_name": "Culverted Wyke Beck",
     "total_count": 63.0,
     "total_hours": 59.64
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Aldingbourne Rife",
+    "total_count": 5.0,
+    "total_hours": 59.6
   },
   {
     "company_name": "Severn Trent Water",
@@ -13494,6 +14514,12 @@
     "total_hours": 57.5
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Drainage Minster Marshes",
+    "total_count": 9.0,
+    "total_hours": 57.48
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "Hoyle Mill Beck",
     "total_count": 18.0,
@@ -13536,15 +14562,15 @@
     "total_hours": 57.01
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Dalton Beck",
-    "total_count": 13.0,
-    "total_hours": 57.0
-  },
-  {
     "company_name": "Dwr Cymru Welsh Water",
     "river_name": "Morlais Brook",
     "total_count": 8.0,
+    "total_hours": 57.0
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Dalton Beck",
+    "total_count": 13.0,
     "total_hours": 57.0
   },
   {
@@ -13608,15 +14634,15 @@
     "total_hours": 56.0
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Redcar Beck",
-    "total_count": 43.0,
-    "total_hours": 56.0
-  },
-  {
     "company_name": "Anglian Water",
     "river_name": "Swanspool Brook",
     "total_count": 20.0,
+    "total_hours": 56.0
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Redcar Beck",
+    "total_count": 43.0,
     "total_hours": 56.0
   },
   {
@@ -13692,6 +14718,12 @@
     "total_hours": 54.63
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Broom Channel",
+    "total_count": 22.0,
+    "total_hours": 54.46
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "River Calder Via Pumped Outlet",
     "total_count": 17.0,
@@ -13728,6 +14760,18 @@
     "total_hours": 53.7
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Frater Lake",
+    "total_count": 5.0,
+    "total_hours": 53.7
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Dour",
+    "total_count": 4.0,
+    "total_hours": 53.63
+  },
+  {
     "company_name": "Northumbrian Water",
     "river_name": "Wash Burn",
     "total_count": 45.0,
@@ -13756,6 +14800,18 @@
     "river_name": "Holywell Brook",
     "total_count": 46.0,
     "total_hours": 53.09
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Binstead Stream",
+    "total_count": 13.0,
+    "total_hours": 53.05
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Ports Creek",
+    "total_count": 22.0,
+    "total_hours": 52.98
   },
   {
     "company_name": "South West Water",
@@ -13890,10 +14946,22 @@
     "total_hours": 50.98
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Godshill Stream",
+    "total_count": 14.0,
+    "total_hours": 50.67
+  },
+  {
     "company_name": "United Utilities",
     "river_name": "Micker Brook",
     "total_count": 62.0,
     "total_hours": 50.61
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Blackbridge Brook",
+    "total_count": 17.0,
+    "total_hours": 50.38
   },
   {
     "company_name": "United Utilities",
@@ -14022,6 +15090,12 @@
     "total_hours": 48.51
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Blackbrook Stream",
+    "total_count": 18.0,
+    "total_hours": 48.49
+  },
+  {
     "company_name": "Wessex Water",
     "river_name": "Bridport Harbour",
     "total_count": 14.0,
@@ -14082,15 +15156,15 @@
     "total_hours": 47.44
   },
   {
-    "company_name": "Wessex Water",
-    "river_name": "Winniford",
-    "total_count": 14.0,
-    "total_hours": 47.25
-  },
-  {
     "company_name": "Northumbrian Water",
     "river_name": "Castle Eden Burn",
     "total_count": 10.0,
+    "total_hours": 47.25
+  },
+  {
+    "company_name": "Wessex Water",
+    "river_name": "Winniford",
+    "total_count": 14.0,
     "total_hours": 47.25
   },
   {
@@ -14172,6 +15246,12 @@
     "total_hours": 46.14
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Warbleton Stream",
+    "total_count": 15.0,
+    "total_hours": 46.13
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "River Worth Via Knowle Pk Spng",
     "total_count": 46.0,
@@ -14182,6 +15262,12 @@
     "river_name": "Congressbury Yeo",
     "total_count": 17.0,
     "total_hours": 46.07
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Tidal River Rother",
+    "total_count": 10.0,
+    "total_hours": 46.04
   },
   {
     "company_name": "United Utilities",
@@ -14269,8 +15355,8 @@
   },
   {
     "company_name": "Northumbrian Water",
-    "river_name": "Hart Beck",
-    "total_count": 21.0,
+    "river_name": "North Dene Burn",
+    "total_count": 34.0,
     "total_hours": 44.5
   },
   {
@@ -14281,13 +15367,13 @@
   },
   {
     "company_name": "Northumbrian Water",
-    "river_name": "North Dene Burn",
-    "total_count": 34.0,
+    "river_name": "Goat",
+    "total_count": 21.0,
     "total_hours": 44.5
   },
   {
     "company_name": "Northumbrian Water",
-    "river_name": "Goat",
+    "river_name": "Hart Beck",
     "total_count": 21.0,
     "total_hours": 44.5
   },
@@ -14298,15 +15384,15 @@
     "total_hours": 44.42
   },
   {
-    "company_name": "United Utilities",
-    "river_name": "Mill Beck/ Cavendish Dock",
-    "total_count": 11.0,
-    "total_hours": 44.34
-  },
-  {
     "company_name": "Severn Trent Water",
     "river_name": "Potwell Dyke",
     "total_count": 39.0,
+    "total_hours": 44.34
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "Mill Beck/ Cavendish Dock",
+    "total_count": 11.0,
     "total_hours": 44.34
   },
   {
@@ -14341,14 +15427,14 @@
   },
   {
     "company_name": "Severn Trent Water",
-    "river_name": "Henmore/Scow Brook",
-    "total_count": 22.0,
+    "river_name": "Stoney Brook Via Sws",
+    "total_count": 31.0,
     "total_hours": 43.86
   },
   {
     "company_name": "Severn Trent Water",
-    "river_name": "Stoney Brook Via Sws",
-    "total_count": 31.0,
+    "river_name": "Henmore/Scow Brook",
+    "total_count": 22.0,
     "total_hours": 43.86
   },
   {
@@ -14461,6 +15547,12 @@
   },
   {
     "company_name": "Northumbrian Water",
+    "river_name": "Coldwell Burn,",
+    "total_count": 21.0,
+    "total_hours": 42.25
+  },
+  {
+    "company_name": "Northumbrian Water",
     "river_name": "Wallsend Burn",
     "total_count": 30.0,
     "total_hours": 42.25
@@ -14469,12 +15561,6 @@
     "company_name": "Northumbrian Water",
     "river_name": "Hetton Burn",
     "total_count": 33.0,
-    "total_hours": 42.25
-  },
-  {
-    "company_name": "Northumbrian Water",
-    "river_name": "Coldwell Burn,",
-    "total_count": 21.0,
     "total_hours": 42.25
   },
   {
@@ -14536,6 +15622,12 @@
     "river_name": "Stort Navigation",
     "total_count": 9.0,
     "total_hours": 40.88
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Onto Land Adj To Ps",
+    "total_count": 4.0,
+    "total_hours": 40.79
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -14646,6 +15738,12 @@
     "total_hours": 39.25
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Cradlebridge Petty Swr",
+    "total_count": 7.0,
+    "total_hours": 39.23
+  },
+  {
     "company_name": "United Utilities",
     "river_name": "Chorlton Brook",
     "total_count": 24.0,
@@ -14653,14 +15751,14 @@
   },
   {
     "company_name": "Wessex Water",
-    "river_name": "Sheene Road Culvert",
-    "total_count": 11.0,
+    "river_name": "River Stour Via Sws",
+    "total_count": 15.0,
     "total_hours": 38.7
   },
   {
     "company_name": "Wessex Water",
-    "river_name": "River Stour Via Sws",
-    "total_count": 15.0,
+    "river_name": "Sheene Road Culvert",
+    "total_count": 11.0,
     "total_hours": 38.7
   },
   {
@@ -14680,6 +15778,12 @@
     "river_name": "Decoy Brook",
     "total_count": 26.0,
     "total_hours": 38.52
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Royal Military Canal",
+    "total_count": 10.0,
+    "total_hours": 38.37
   },
   {
     "company_name": "Wessex Water",
@@ -14724,6 +15828,12 @@
     "total_hours": 37.98
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "River Limden",
+    "total_count": 15.0,
+    "total_hours": 37.83
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "Nun Royd Beck",
     "total_count": 32.0,
@@ -14758,6 +15868,12 @@
     "river_name": "Rotherwick Brook",
     "total_count": 6.0,
     "total_hours": 37.43
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Nore Rithe/Emsworth Harbour",
+    "total_count": 6.0,
+    "total_hours": 37.38
   },
   {
     "company_name": "Severn Trent Water",
@@ -14800,12 +15916,6 @@
     "river_name": "Dollis Brook",
     "total_count": 16.0,
     "total_hours": 36.84
-  },
-  {
-    "company_name": "Southern Water",
-    "river_name": "Chichester Harbour",
-    "total_count": 5.0,
-    "total_hours": 36.8
   },
   {
     "company_name": "Severn Trent Water",
@@ -14892,6 +16002,12 @@
     "total_hours": 36.0
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Balcombe Lake",
+    "total_count": 10.0,
+    "total_hours": 35.87
+  },
+  {
     "company_name": "South West Water",
     "river_name": "Kirkham Stream",
     "total_count": 22.0,
@@ -14946,6 +16062,12 @@
     "total_hours": 35.5
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Drain To Western Yar",
+    "total_count": 10.0,
+    "total_hours": 35.45
+  },
+  {
     "company_name": "Wessex Water",
     "river_name": "Holes Bay Via Sws",
     "total_count": 7.0,
@@ -14974,6 +16096,12 @@
     "river_name": "Mere Brook",
     "total_count": 4.0,
     "total_hours": 35.11
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Unnamed Of River Test",
+    "total_count": 8.0,
+    "total_hours": 34.95
   },
   {
     "company_name": "Yorkshire Water",
@@ -15018,21 +16146,39 @@
     "total_hours": 34.35
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Shawfords Lake",
+    "total_count": 6.0,
+    "total_hours": 34.35
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Langstone Harbour",
+    "total_count": 9.0,
+    "total_hours": 34.35
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Leading To River Swale",
+    "total_count": 6.0,
+    "total_hours": 34.32
+  },
+  {
     "company_name": "Thames Water",
     "river_name": "Hogsmill",
     "total_count": 13.0,
     "total_hours": 34.32
   },
   {
-    "company_name": "Anglian Water",
-    "river_name": "Baddow Brook",
-    "total_count": 17.0,
-    "total_hours": 34.25
-  },
-  {
     "company_name": "Northumbrian Water",
     "river_name": "Whittle Burn, Tyne",
     "total_count": 12.0,
+    "total_hours": 34.25
+  },
+  {
+    "company_name": "Anglian Water",
+    "river_name": "Baddow Brook",
+    "total_count": 17.0,
     "total_hours": 34.25
   },
   {
@@ -15046,6 +16192,12 @@
     "river_name": "Pugney'S Drain",
     "total_count": 9.0,
     "total_hours": 34.16
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Saline Estuary",
+    "total_count": 19.0,
+    "total_hours": 34.15
   },
   {
     "company_name": "Anglian Water",
@@ -15070,6 +16222,12 @@
     "river_name": "River Greet",
     "total_count": 17.0,
     "total_hours": 33.9
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Unnamed Powdermill Stream",
+    "total_count": 6.0,
+    "total_hours": 33.85
   },
   {
     "company_name": "Severn Trent Water",
@@ -15100,12 +16258,6 @@
     "river_name": "Askham Beck",
     "total_count": 21.0,
     "total_hours": 33.63
-  },
-  {
-    "company_name": "Southern Water",
-    "river_name": "River Test",
-    "total_count": 3.0,
-    "total_hours": 33.62
   },
   {
     "company_name": "South West Water",
@@ -15228,6 +16380,12 @@
     "total_hours": 32.5
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Dark Water",
+    "total_count": 9.0,
+    "total_hours": 32.26
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "Gingerbread Clough",
     "total_count": 7.0,
@@ -15258,6 +16416,12 @@
     "total_hours": 32.07
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Tidal Riverthames",
+    "total_count": 5.0,
+    "total_hours": 32.05
+  },
+  {
     "company_name": "United Utilities",
     "river_name": "Dog Beck",
     "total_count": 34.0,
@@ -15274,6 +16438,12 @@
     "river_name": "Nadrid Water",
     "total_count": 28.0,
     "total_hours": 31.65
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "North Sea Via A Ditch",
+    "total_count": 7.0,
+    "total_hours": 31.29
   },
   {
     "company_name": "South West Water",
@@ -15462,15 +16632,15 @@
     "total_hours": 28.63
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Dabholme Beck",
-    "total_count": 22.0,
-    "total_hours": 28.5
-  },
-  {
     "company_name": "Wessex Water",
     "river_name": "Dodham Brook",
     "total_count": 45.0,
+    "total_hours": 28.5
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Dabholme Beck",
+    "total_count": 22.0,
     "total_hours": 28.5
   },
   {
@@ -15600,21 +16770,27 @@
     "total_hours": 26.57
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Medina Estuary",
+    "total_count": 16.0,
+    "total_hours": 26.56
+  },
+  {
     "company_name": "United Utilities",
     "river_name": "Stock Brook",
     "total_count": 41.0,
     "total_hours": 26.55
   },
   {
-    "company_name": "Anglian Water",
-    "river_name": "River Granta",
-    "total_count": 7.0,
-    "total_hours": 26.5
-  },
-  {
     "company_name": "Wessex Water",
     "river_name": "Wellhams Brook",
     "total_count": 62.0,
+    "total_hours": 26.5
+  },
+  {
+    "company_name": "Anglian Water",
+    "river_name": "River Granta",
+    "total_count": 7.0,
     "total_hours": 26.5
   },
   {
@@ -15684,27 +16860,27 @@
     "total_hours": 25.73
   },
   {
-    "company_name": "United Utilities",
-    "river_name": "Drain, Valley Brook",
-    "total_count": 19.0,
-    "total_hours": 25.73
-  },
-  {
     "company_name": "Thames Water",
     "river_name": "Lyde River",
     "total_count": 5.0,
     "total_hours": 25.73
   },
   {
-    "company_name": "Severn Trent Water",
-    "river_name": "Tottle Brook",
-    "total_count": 30.0,
-    "total_hours": 25.65
+    "company_name": "United Utilities",
+    "river_name": "Drain, Valley Brook",
+    "total_count": 19.0,
+    "total_hours": 25.73
   },
   {
     "company_name": "Southern Water",
     "river_name": "Clippingham Stream",
     "total_count": 4.0,
+    "total_hours": 25.65
+  },
+  {
+    "company_name": "Severn Trent Water",
+    "river_name": "Tottle Brook",
+    "total_count": 30.0,
     "total_hours": 25.65
   },
   {
@@ -15738,15 +16914,15 @@
     "total_hours": 25.27
   },
   {
-    "company_name": "Thames Water",
-    "river_name": "Clifton Hampden Ditch",
-    "total_count": 5.0,
-    "total_hours": 25.18
-  },
-  {
     "company_name": "Yorkshire Water",
     "river_name": "Outgang Drain",
     "total_count": 29.0,
+    "total_hours": 25.18
+  },
+  {
+    "company_name": "Thames Water",
+    "river_name": "Clifton Hampden Ditch",
+    "total_count": 5.0,
     "total_hours": 25.18
   },
   {
@@ -15774,15 +16950,21 @@
     "total_hours": 24.96
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Wannock Mill Stream",
+    "total_count": 11.0,
+    "total_hours": 24.86
+  },
+  {
     "company_name": "Northumbrian Water",
     "river_name": "New Burn",
     "total_count": 25.0,
     "total_hours": 24.8
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Elm Tree Beck",
-    "total_count": 6.0,
+    "company_name": "Wessex Water",
+    "river_name": "Charlton Bottom Via Sws",
+    "total_count": 35.0,
     "total_hours": 24.75
   },
   {
@@ -15792,9 +16974,9 @@
     "total_hours": 24.75
   },
   {
-    "company_name": "Wessex Water",
-    "river_name": "Charlton Bottom Via Sws",
-    "total_count": 35.0,
+    "company_name": "Northumbrian Water",
+    "river_name": "Elm Tree Beck",
+    "total_count": 6.0,
     "total_hours": 24.75
   },
   {
@@ -15808,6 +16990,12 @@
     "river_name": "Nicky Nack Beck",
     "total_count": 28.0,
     "total_hours": 24.74
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Newknock Channel",
+    "total_count": 8.0,
+    "total_hours": 24.7
   },
   {
     "company_name": "United Utilities",
@@ -15882,6 +17070,12 @@
     "total_hours": 23.8
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Bockhanger Dyke",
+    "total_count": 4.0,
+    "total_hours": 23.8
+  },
+  {
     "company_name": "United Utilities",
     "river_name": "River Croco",
     "total_count": 15.0,
@@ -15916,6 +17110,12 @@
     "river_name": "Culverted Scour Gutter",
     "total_count": 22.0,
     "total_hours": 23.55
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Matley Bog Stream",
+    "total_count": 6.0,
+    "total_hours": 23.53
   },
   {
     "company_name": "Northumbrian Water",
@@ -16002,15 +17202,15 @@
     "total_hours": 22.8
   },
   {
-    "company_name": "United Utilities",
-    "river_name": "Caldy Brook River Dee",
-    "total_count": 3.0,
-    "total_hours": 22.77
-  },
-  {
     "company_name": "Yorkshire Water",
     "river_name": "Swaidike",
     "total_count": 30.0,
+    "total_hours": 22.77
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "Caldy Brook River Dee",
+    "total_count": 3.0,
     "total_hours": 22.77
   },
   {
@@ -16030,6 +17230,12 @@
     "river_name": "River Cole Via Surface Water S",
     "total_count": 10.0,
     "total_hours": 22.56
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Doleham Ditch",
+    "total_count": 5.0,
+    "total_hours": 22.51
   },
   {
     "company_name": "Northumbrian Water",
@@ -16054,6 +17260,12 @@
     "river_name": "Rakes Dyke",
     "total_count": 7.0,
     "total_hours": 22.25
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Wallington River Via Drain",
+    "total_count": 4.0,
+    "total_hours": 22.22
   },
   {
     "company_name": "United Utilities",
@@ -16113,6 +17325,12 @@
     "company_name": "South West Water",
     "river_name": "River Plym Estuary",
     "total_count": 5.0,
+    "total_hours": 21.49
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Glynde Reach River Ouse",
+    "total_count": 3.0,
     "total_hours": 21.49
   },
   {
@@ -16206,10 +17424,28 @@
     "total_hours": 20.7
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Pollards Moor Stream",
+    "total_count": 3.0,
+    "total_hours": 20.68
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Wingham River",
+    "total_count": 5.0,
+    "total_hours": 20.53
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "Oak Hill Clough",
     "total_count": 6.0,
     "total_hours": 20.42
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Tidal River Medway",
+    "total_count": 14.0,
+    "total_hours": 20.4
   },
   {
     "company_name": "Wessex Water",
@@ -16224,10 +17460,22 @@
     "total_hours": 20.25
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Reading Sewer",
+    "total_count": 6.0,
+    "total_hours": 20.25
+  },
+  {
     "company_name": "Northumbrian Water",
     "river_name": "West Beck",
     "total_count": 7.0,
     "total_hours": 20.25
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Great Stour",
+    "total_count": 3.0,
+    "total_hours": 20.11
   },
   {
     "company_name": "United Utilities",
@@ -16266,6 +17514,12 @@
     "total_hours": 20.0
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Barden Stream",
+    "total_count": 9.0,
+    "total_hours": 19.91
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "Holme Brook / River Hipper",
     "total_count": 15.0,
@@ -16278,15 +17532,15 @@
     "total_hours": 19.89
   },
   {
-    "company_name": "Yorkshire Water",
-    "river_name": "Todwick Beck",
-    "total_count": 13.0,
-    "total_hours": 19.8
-  },
-  {
     "company_name": "South West Water",
     "river_name": "Groundwater Via Infilt System",
     "total_count": 16.0,
+    "total_hours": 19.8
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "river_name": "Todwick Beck",
+    "total_count": 13.0,
     "total_hours": 19.8
   },
   {
@@ -16294,6 +17548,12 @@
     "river_name": "River Wandle",
     "total_count": 15.0,
     "total_hours": 19.65
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Bartons Lane Ald",
+    "total_count": 4.0,
+    "total_hours": 19.6
   },
   {
     "company_name": "Yorkshire Water",
@@ -16308,21 +17568,27 @@
     "total_hours": 19.47
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Groundwaters Via 2 Infilt Syst",
+    "total_count": 4.0,
+    "total_hours": 19.42
+  },
+  {
     "company_name": "South West Water",
     "river_name": "River Wash",
     "total_count": 5.0,
     "total_hours": 19.33
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Fleet",
-    "total_count": 8.0,
-    "total_hours": 19.25
-  },
-  {
     "company_name": "Wessex Water",
     "river_name": "Drayton Drain",
     "total_count": 10.0,
+    "total_hours": 19.25
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Fleet",
+    "total_count": 8.0,
     "total_hours": 19.25
   },
   {
@@ -16375,9 +17641,9 @@
   },
   {
     "company_name": "Southern Water",
-    "river_name": "Great Stour",
-    "total_count": 5.0,
-    "total_hours": 18.95
+    "river_name": "River Swale",
+    "total_count": 6.0,
+    "total_hours": 18.96
   },
   {
     "company_name": "Northumbrian Water",
@@ -16386,15 +17652,21 @@
     "total_hours": 18.75
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Groundwaters Via Infiltration",
+    "total_count": 9.0,
+    "total_hours": 18.68
+  },
+  {
     "company_name": "South West Water",
     "river_name": "Mincinglake Stream",
     "total_count": 10.0,
     "total_hours": 18.66
   },
   {
-    "company_name": "Dwr Cymru Welsh Water",
-    "river_name": "Balderton Brook",
-    "total_count": 9.0,
+    "company_name": "Northumbrian Water",
+    "river_name": "Team,",
+    "total_count": 23.0,
     "total_hours": 18.5
   },
   {
@@ -16404,9 +17676,9 @@
     "total_hours": 18.5
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Team,",
-    "total_count": 23.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "river_name": "Balderton Brook",
+    "total_count": 9.0,
     "total_hours": 18.5
   },
   {
@@ -16459,21 +17731,15 @@
   },
   {
     "company_name": "Northumbrian Water",
-    "river_name": "Green Letch",
-    "total_count": 13.0,
-    "total_hours": 18.0
-  },
-  {
-    "company_name": "Northumbrian Water",
     "river_name": "Church Burn",
     "total_count": 25.0,
     "total_hours": 18.0
   },
   {
-    "company_name": "Southern Water",
-    "river_name": "River Medway",
-    "total_count": 2.0,
-    "total_hours": 17.96
+    "company_name": "Northumbrian Water",
+    "river_name": "Green Letch",
+    "total_count": 13.0,
+    "total_hours": 18.0
   },
   {
     "company_name": "Yorkshire Water",
@@ -16510,6 +17776,12 @@
     "river_name": "Unnamed Millingford Brook",
     "total_count": 13.0,
     "total_hours": 17.57
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Beaulieu River Estuary",
+    "total_count": 2.0,
+    "total_hours": 17.53
   },
   {
     "company_name": "Anglian Water",
@@ -16566,12 +17838,6 @@
     "total_hours": 17.08
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Blackclose Burn",
-    "total_count": 8.0,
-    "total_hours": 17.0
-  },
-  {
     "company_name": "Anglian Water",
     "river_name": "Faxton Brook",
     "total_count": 8.0,
@@ -16587,6 +17853,12 @@
     "company_name": "Anglian Water",
     "river_name": "Old Fleet Drain Louth Canal N",
     "total_count": 7.0,
+    "total_hours": 17.0
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Blackclose Burn",
+    "total_count": 8.0,
     "total_hours": 17.0
   },
   {
@@ -16680,6 +17952,12 @@
     "total_hours": 16.07
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Colwell Bay",
+    "total_count": 6.0,
+    "total_hours": 16.0
+  },
+  {
     "company_name": "Anglian Water",
     "river_name": "River Flit",
     "total_count": 7.0,
@@ -16698,10 +17976,22 @@
     "total_hours": 15.87
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Plenty Brook",
+    "total_count": 3.0,
+    "total_hours": 15.87
+  },
+  {
     "company_name": "Severn Trent Water",
     "river_name": "Bourn Brook",
     "total_count": 36.0,
     "total_hours": 15.78
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Uunamed Lysdon Burn",
+    "total_count": 11.0,
+    "total_hours": 15.75
   },
   {
     "company_name": "Northumbrian Water",
@@ -16710,10 +18000,10 @@
     "total_hours": 15.75
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Uunamed Lysdon Burn",
-    "total_count": 11.0,
-    "total_hours": 15.75
+    "company_name": "Southern Water",
+    "river_name": "Whitewall Creek",
+    "total_count": 3.0,
+    "total_hours": 15.72
   },
   {
     "company_name": "Yorkshire Water",
@@ -16740,15 +18030,15 @@
     "total_hours": 15.61
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Woodham Burn",
-    "total_count": 12.0,
-    "total_hours": 15.5
-  },
-  {
     "company_name": "Anglian Water",
     "river_name": "Stalham Dyke",
     "total_count": 7.0,
+    "total_hours": 15.5
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Woodham Burn",
+    "total_count": 12.0,
     "total_hours": 15.5
   },
   {
@@ -16756,6 +18046,12 @@
     "river_name": "River Yeo Via Sws",
     "total_count": 30.0,
     "total_hours": 15.37
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Otterham Creek",
+    "total_count": 17.0,
+    "total_hours": 15.3
   },
   {
     "company_name": "Severn Trent Water",
@@ -16812,6 +18108,12 @@
     "total_hours": 15.0
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "River Ouze",
+    "total_count": 3.0,
+    "total_hours": 14.97
+  },
+  {
     "company_name": "Northumbrian Water",
     "river_name": "Old Durham Beck",
     "total_count": 8.0,
@@ -16848,15 +18150,15 @@
     "total_hours": 14.46
   },
   {
-    "company_name": "Wessex Water",
-    "river_name": "Were",
-    "total_count": 20.0,
-    "total_hours": 14.37
-  },
-  {
     "company_name": "United Utilities",
     "river_name": "Skirwith Beck",
     "total_count": 25.0,
+    "total_hours": 14.37
+  },
+  {
+    "company_name": "Wessex Water",
+    "river_name": "Were",
+    "total_count": 20.0,
     "total_hours": 14.37
   },
   {
@@ -16890,15 +18192,15 @@
     "total_hours": 14.07
   },
   {
-    "company_name": "South West Water",
-    "river_name": "River Bovey Via Sws",
-    "total_count": 6.0,
-    "total_hours": 14.0
-  },
-  {
     "company_name": "Northumbrian Water",
     "river_name": "Marton West Beck",
     "total_count": 11.0,
+    "total_hours": 14.0
+  },
+  {
+    "company_name": "South West Water",
+    "river_name": "River Bovey Via Sws",
+    "total_count": 6.0,
     "total_hours": 14.0
   },
   {
@@ -16909,8 +18211,8 @@
   },
   {
     "company_name": "Anglian Water",
-    "river_name": "Claypole Drain South",
-    "total_count": 5.0,
+    "river_name": "River Thet",
+    "total_count": 6.0,
     "total_hours": 13.75
   },
   {
@@ -16921,8 +18223,8 @@
   },
   {
     "company_name": "Anglian Water",
-    "river_name": "River Thet",
-    "total_count": 6.0,
+    "river_name": "Claypole Drain South",
+    "total_count": 5.0,
     "total_hours": 13.75
   },
   {
@@ -17002,6 +18304,12 @@
     "river_name": "St Blazey Stream",
     "total_count": 8.0,
     "total_hours": 13.31
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Wallers Haven",
+    "total_count": 6.0,
+    "total_hours": 13.29
   },
   {
     "company_name": "Wessex Water",
@@ -17172,6 +18480,12 @@
     "total_hours": 12.46
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Workhouse Lake, Portsmouth Hbr",
+    "total_count": 9.0,
+    "total_hours": 12.42
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "Swan Sike Drain",
     "total_count": 2.0,
@@ -17208,15 +18522,15 @@
     "total_hours": 12.05
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Cross Beck",
-    "total_count": 9.0,
-    "total_hours": 12.0
-  },
-  {
     "company_name": "Anglian Water",
     "river_name": "River Rase",
     "total_count": 11.0,
+    "total_hours": 12.0
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Cross Beck",
+    "total_count": 9.0,
     "total_hours": 12.0
   },
   {
@@ -17274,15 +18588,15 @@
     "total_hours": 11.38
   },
   {
-    "company_name": "Yorkshire Water",
-    "river_name": "Pocklington Beck",
-    "total_count": 19.0,
-    "total_hours": 11.25
-  },
-  {
     "company_name": "Anglian Water",
     "river_name": "Ripton Brook",
     "total_count": 3.0,
+    "total_hours": 11.25
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "river_name": "Pocklington Beck",
+    "total_count": 19.0,
     "total_hours": 11.25
   },
   {
@@ -17292,15 +18606,15 @@
     "total_hours": 11.23
   },
   {
-    "company_name": "Yorkshire Water",
-    "river_name": "Paddock Beck",
-    "total_count": 9.0,
-    "total_hours": 11.17
-  },
-  {
     "company_name": "Thames Water",
     "river_name": "Wayletts Ditch",
     "total_count": 5.0,
+    "total_hours": 11.17
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "river_name": "Paddock Beck",
+    "total_count": 9.0,
     "total_hours": 11.17
   },
   {
@@ -17316,15 +18630,15 @@
     "total_hours": 11.11
   },
   {
-    "company_name": "Yorkshire Water",
-    "river_name": "Lady Bank Drain",
-    "total_count": 2.0,
-    "total_hours": 11.09
-  },
-  {
     "company_name": "South West Water",
     "river_name": "Frogmore Creek To Kingsb Est",
     "total_count": 13.0,
+    "total_hours": 11.09
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "river_name": "Lady Bank Drain",
+    "total_count": 2.0,
     "total_hours": 11.09
   },
   {
@@ -17359,9 +18673,9 @@
   },
   {
     "company_name": "Southern Water",
-    "river_name": "River Grom",
-    "total_count": 11.0,
-    "total_hours": 10.95
+    "river_name": "Jarvis Brook",
+    "total_count": 8.0,
+    "total_hours": 10.93
   },
   {
     "company_name": "Northumbrian Water",
@@ -17382,12 +18696,6 @@
     "total_hours": 10.75
   },
   {
-    "company_name": "Yorkshire Water",
-    "river_name": "Bridgehouse Beck",
-    "total_count": 23.0,
-    "total_hours": 10.7
-  },
-  {
     "company_name": "United Utilities",
     "river_name": "Culvert To River Tame",
     "total_count": 54.0,
@@ -17395,9 +18703,27 @@
   },
   {
     "company_name": "Yorkshire Water",
+    "river_name": "Bridgehouse Beck",
+    "total_count": 23.0,
+    "total_hours": 10.7
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Lymington River Estuary",
+    "total_count": 7.0,
+    "total_hours": 10.64
+  },
+  {
+    "company_name": "Yorkshire Water",
     "river_name": "Unknown Beck",
     "total_count": 5.0,
     "total_hours": 10.62
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Pook Bourne",
+    "total_count": 1.0,
+    "total_hours": 10.6
   },
   {
     "company_name": "Thames Water",
@@ -17454,15 +18780,15 @@
     "total_hours": 10.33
   },
   {
-    "company_name": "Severn Trent Water",
-    "river_name": "Day Brook",
-    "total_count": 14.0,
-    "total_hours": 10.3
-  },
-  {
     "company_name": "United Utilities",
     "river_name": "Clvrt Back Lane / Kellet Rd",
     "total_count": 1.0,
+    "total_hours": 10.3
+  },
+  {
+    "company_name": "Severn Trent Water",
+    "river_name": "Day Brook",
+    "total_count": 14.0,
     "total_hours": 10.3
   },
   {
@@ -17472,9 +18798,9 @@
     "total_hours": 10.29
   },
   {
-    "company_name": "Wessex Water",
-    "river_name": "River Avon [Black Rocks] Sws",
-    "total_count": 14.0,
+    "company_name": "Northumbrian Water",
+    "river_name": "Skerne",
+    "total_count": 24.0,
     "total_hours": 10.25
   },
   {
@@ -17484,15 +18810,15 @@
     "total_hours": 10.25
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Skerne",
-    "total_count": 24.0,
-    "total_hours": 10.25
-  },
-  {
     "company_name": "Anglian Water",
     "river_name": "Stour Brook River Stour",
     "total_count": 10.0,
+    "total_hours": 10.25
+  },
+  {
+    "company_name": "Wessex Water",
+    "river_name": "River Avon [Black Rocks] Sws",
+    "total_count": 14.0,
     "total_hours": 10.25
   },
   {
@@ -17508,21 +18834,27 @@
     "total_hours": 10.17
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Drain To Picknell Green Stream",
+    "total_count": 1.0,
+    "total_hours": 10.12
+  },
+  {
     "company_name": "United Utilities",
     "river_name": "Lords Brook",
     "total_count": 44.0,
     "total_hours": 10.1
   },
   {
-    "company_name": "Severn Trent Water",
-    "river_name": "Marchington Brook",
-    "total_count": 3.0,
-    "total_hours": 10.0
-  },
-  {
     "company_name": "Dwr Cymru Welsh Water",
     "river_name": "Wych Brook",
     "total_count": 18.0,
+    "total_hours": 10.0
+  },
+  {
+    "company_name": "Severn Trent Water",
+    "river_name": "Marchington Brook",
+    "total_count": 3.0,
     "total_hours": 10.0
   },
   {
@@ -17568,6 +18900,12 @@
     "total_hours": 9.54
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Unamed Medway Via Pond",
+    "total_count": 2.0,
+    "total_hours": 9.53
+  },
+  {
     "company_name": "Northumbrian Water",
     "river_name": "River Team Estuarine Waters",
     "total_count": 6.0,
@@ -17610,6 +18948,12 @@
     "total_hours": 9.37
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Bremere Rife",
+    "total_count": 2.0,
+    "total_hours": 9.36
+  },
+  {
     "company_name": "Wessex Water",
     "river_name": "Bristol Avon Via Sws Estuarine",
     "total_count": 23.0,
@@ -17640,15 +18984,15 @@
     "total_hours": 9.18
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Wansbeck Estuary",
-    "total_count": 17.0,
-    "total_hours": 9.13
-  },
-  {
     "company_name": "Severn Trent Water",
     "river_name": "Local Ditch",
     "total_count": 6.0,
+    "total_hours": 9.13
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Wansbeck Estuary",
+    "total_count": 17.0,
     "total_hours": 9.13
   },
   {
@@ -17680,6 +19024,12 @@
     "river_name": "Inner Harbour To North Sea",
     "total_count": 11.0,
     "total_hours": 8.9
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Ferring Rife",
+    "total_count": 1.0,
+    "total_hours": 8.87
   },
   {
     "company_name": "Severn Trent Water",
@@ -17718,6 +19068,12 @@
     "total_hours": 8.8
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Ground Waters,Via Infilt Syste",
+    "total_count": 5.0,
+    "total_hours": 8.76
+  },
+  {
     "company_name": "Anglian Water",
     "river_name": "Idb River Bure",
     "total_count": 8.0,
@@ -17748,15 +19104,15 @@
     "total_hours": 8.57
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Bell Burn",
-    "total_count": 6.0,
-    "total_hours": 8.5
-  },
-  {
     "company_name": "Anglian Water",
     "river_name": "Willow Brook",
     "total_count": 2.0,
+    "total_hours": 8.5
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Bell Burn",
+    "total_count": 6.0,
     "total_hours": 8.5
   },
   {
@@ -17764,6 +19120,18 @@
     "river_name": "Donniford Stream",
     "total_count": 16.0,
     "total_hours": 8.43
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Halstow Creek: Medway",
+    "total_count": 3.0,
+    "total_hours": 8.4
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Bartley Mill Stream",
+    "total_count": 8.0,
+    "total_hours": 8.33
   },
   {
     "company_name": "Wessex Water",
@@ -17781,6 +19149,12 @@
     "company_name": "United Utilities",
     "river_name": "Bezza Brook",
     "total_count": 5.0,
+    "total_hours": 8.22
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Gunville Stream",
+    "total_count": 1.0,
     "total_hours": 8.22
   },
   {
@@ -17820,15 +19194,15 @@
     "total_hours": 8.0
   },
   {
-    "company_name": "Severn Trent Water",
-    "river_name": "Dunlop Conduit, River Tame",
-    "total_count": 6.0,
-    "total_hours": 7.95
-  },
-  {
     "company_name": "Yorkshire Water",
     "river_name": "Pits Beck Culverted",
     "total_count": 20.0,
+    "total_hours": 7.95
+  },
+  {
+    "company_name": "Severn Trent Water",
+    "river_name": "Dunlop Conduit, River Tame",
+    "total_count": 6.0,
     "total_hours": 7.95
   },
   {
@@ -17844,15 +19218,15 @@
     "total_hours": 7.9
   },
   {
-    "company_name": "Yorkshire Water",
-    "river_name": "Smithies Beck",
-    "total_count": 12.0,
-    "total_hours": 7.9
-  },
-  {
     "company_name": "Wessex Water",
     "river_name": "Horfield Brook Via Sws",
     "total_count": 9.0,
+    "total_hours": 7.9
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "river_name": "Smithies Beck",
+    "total_count": 12.0,
     "total_hours": 7.9
   },
   {
@@ -17868,15 +19242,21 @@
     "total_hours": 7.77
   },
   {
-    "company_name": "Anglian Water",
-    "river_name": "Slade River",
-    "total_count": 5.0,
+    "company_name": "Southern Water",
+    "river_name": "Tudely Brook",
+    "total_count": 1.0,
+    "total_hours": 7.76
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Edderacres Burn",
+    "total_count": 8.0,
     "total_hours": 7.75
   },
   {
-    "company_name": "Wessex Water",
-    "river_name": "Freshwater Bay",
-    "total_count": 8.0,
+    "company_name": "Anglian Water",
+    "river_name": "Slade River",
+    "total_count": 5.0,
     "total_hours": 7.75
   },
   {
@@ -17887,14 +19267,14 @@
   },
   {
     "company_name": "Northumbrian Water",
-    "river_name": "Edderacres Burn",
-    "total_count": 8.0,
+    "river_name": "Strait, Culverted Watercrs",
+    "total_count": 2.0,
     "total_hours": 7.75
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Strait, Culverted Watercrs",
-    "total_count": 2.0,
+    "company_name": "Wessex Water",
+    "river_name": "Freshwater Bay",
+    "total_count": 8.0,
     "total_hours": 7.75
   },
   {
@@ -17928,15 +19308,15 @@
     "total_hours": 7.57
   },
   {
-    "company_name": "United Utilities",
-    "river_name": "River Wyre Estuary",
-    "total_count": 17.0,
-    "total_hours": 7.5
-  },
-  {
     "company_name": "Dwr Cymru Welsh Water",
     "river_name": "Millbrook",
     "total_count": 4.0,
+    "total_hours": 7.5
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "River Wyre Estuary",
+    "total_count": 17.0,
     "total_hours": 7.5
   },
   {
@@ -17952,15 +19332,15 @@
     "total_hours": 7.32
   },
   {
-    "company_name": "Wessex Water",
-    "river_name": "West Sedgemoor M Drain",
-    "total_count": 5.0,
-    "total_hours": 7.25
-  },
-  {
     "company_name": "Anglian Water",
     "river_name": "Tingewick Brook",
     "total_count": 2.0,
+    "total_hours": 7.25
+  },
+  {
+    "company_name": "Wessex Water",
+    "river_name": "West Sedgemoor M Drain",
+    "total_count": 5.0,
     "total_hours": 7.25
   },
   {
@@ -17976,6 +19356,12 @@
     "total_hours": 7.23
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Nontidal Milton Creek",
+    "total_count": 7.0,
+    "total_hours": 7.21
+  },
+  {
     "company_name": "Wessex Water",
     "river_name": "Northstreet Moor Rhyne Via Sws",
     "total_count": 20.0,
@@ -17986,6 +19372,18 @@
     "river_name": "Moor Hey Brook",
     "total_count": 4.0,
     "total_hours": 7.17
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Unnamed Stream",
+    "total_count": 2.0,
+    "total_hours": 7.17
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Queens Road Ditch",
+    "total_count": 2.0,
+    "total_hours": 7.14
   },
   {
     "company_name": "Severn Trent Water",
@@ -18024,6 +19422,12 @@
     "total_hours": 7.0
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Hurstwood Stream",
+    "total_count": 5.0,
+    "total_hours": 6.98
+  },
+  {
     "company_name": "South West Water",
     "river_name": "Caerhays Stream",
     "total_count": 4.0,
@@ -18058,6 +19462,12 @@
     "river_name": "Anchor Brook",
     "total_count": 30.0,
     "total_hours": 6.65
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Discharging To Faversham Creek",
+    "total_count": 2.0,
+    "total_hours": 6.63
   },
   {
     "company_name": "Severn Trent Water",
@@ -18132,6 +19542,12 @@
     "total_hours": 6.4
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Brockhampton Creek",
+    "total_count": 4.0,
+    "total_hours": 6.37
+  },
+  {
     "company_name": "Thames Water",
     "river_name": "Old Pyl Ditch",
     "total_count": 3.0,
@@ -18144,15 +19560,15 @@
     "total_hours": 6.3
   },
   {
-    "company_name": "Thames Water",
-    "river_name": "Mill Stream",
-    "total_count": 1.0,
-    "total_hours": 6.3
-  },
-  {
     "company_name": "United Utilities",
     "river_name": "Shoresclough Brook",
     "total_count": 25.0,
+    "total_hours": 6.3
+  },
+  {
+    "company_name": "Thames Water",
+    "river_name": "Mill Stream",
+    "total_count": 1.0,
     "total_hours": 6.3
   },
   {
@@ -18169,32 +19585,26 @@
   },
   {
     "company_name": "United Utilities",
-    "river_name": "River Spodden",
-    "total_count": 13.0,
-    "total_hours": 6.2
-  },
-  {
-    "company_name": "United Utilities",
     "river_name": "Bradshaw Brook",
     "total_count": 7.0,
     "total_hours": 6.2
   },
   {
     "company_name": "United Utilities",
-    "river_name": "Dunkirk Dib",
-    "total_count": 3.0,
-    "total_hours": 6.19
-  },
-  {
-    "company_name": "Southern Water",
-    "river_name": "North Sea",
-    "total_count": 5.0,
-    "total_hours": 6.19
+    "river_name": "River Spodden",
+    "total_count": 13.0,
+    "total_hours": 6.2
   },
   {
     "company_name": "South West Water",
     "river_name": "Helford River",
     "total_count": 7.0,
+    "total_hours": 6.19
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "Dunkirk Dib",
+    "total_count": 3.0,
     "total_hours": 6.19
   },
   {
@@ -18205,14 +19615,14 @@
   },
   {
     "company_name": "Yorkshire Water",
-    "river_name": "Hartendale Gutter",
-    "total_count": 2.0,
+    "river_name": "Culverted Star Beck",
+    "total_count": 7.0,
     "total_hours": 6.1
   },
   {
     "company_name": "Yorkshire Water",
-    "river_name": "Culverted Star Beck",
-    "total_count": 7.0,
+    "river_name": "Hartendale Gutter",
+    "total_count": 2.0,
     "total_hours": 6.1
   },
   {
@@ -18252,22 +19662,40 @@
     "total_hours": 5.97
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "English Channel, Via Sewer",
+    "total_count": 3.0,
+    "total_hours": 5.94
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "To River Alver",
+    "total_count": 3.0,
+    "total_hours": 5.92
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "Ings Beck",
     "total_count": 4.0,
     "total_hours": 5.92
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "R Medway",
+    "total_count": 9.0,
+    "total_hours": 5.9
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Potwell",
+    "total_count": 8.0,
+    "total_hours": 5.87
+  },
+  {
     "company_name": "Severn Trent Water",
     "river_name": "Of Laneham Beck",
     "total_count": 5.0,
     "total_hours": 5.84
-  },
-  {
-    "company_name": "Northumbrian Water",
-    "river_name": "Bellows Burn",
-    "total_count": 7.0,
-    "total_hours": 5.75
   },
   {
     "company_name": "Wessex Water",
@@ -18279,6 +19707,12 @@
     "company_name": "Northumbrian Water",
     "river_name": "Potland Burn",
     "total_count": 9.0,
+    "total_hours": 5.75
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Bellows Burn",
+    "total_count": 7.0,
     "total_hours": 5.75
   },
   {
@@ -18306,15 +19740,15 @@
     "total_hours": 5.67
   },
   {
-    "company_name": "South West Water",
-    "river_name": "Malt Mill Lake Via Sw Sewer",
-    "total_count": 15.0,
-    "total_hours": 5.53
-  },
-  {
     "company_name": "Thames Water",
     "river_name": "Wembley Brook",
     "total_count": 11.0,
+    "total_hours": 5.53
+  },
+  {
+    "company_name": "South West Water",
+    "river_name": "Malt Mill Lake Via Sw Sewer",
+    "total_count": 15.0,
     "total_hours": 5.53
   },
   {
@@ -18330,6 +19764,12 @@
     "total_hours": 5.5
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "To River Arun",
+    "total_count": 2.0,
+    "total_hours": 5.47
+  },
+  {
     "company_name": "South West Water",
     "river_name": "White River",
     "total_count": 4.0,
@@ -18337,14 +19777,14 @@
   },
   {
     "company_name": "United Utilities",
-    "river_name": "Winder Beck",
-    "total_count": 13.0,
+    "river_name": "Bradley Brook Suf Wtr Sew",
+    "total_count": 12.0,
     "total_hours": 5.37
   },
   {
     "company_name": "United Utilities",
-    "river_name": "Bradley Brook Suf Wtr Sew",
-    "total_count": 12.0,
+    "river_name": "Winder Beck",
+    "total_count": 13.0,
     "total_hours": 5.37
   },
   {
@@ -18357,6 +19797,12 @@
     "company_name": "South West Water",
     "river_name": "Combe Stream",
     "total_count": 9.0,
+    "total_hours": 5.34
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Beaulieu River Via A Stream",
+    "total_count": 3.0,
     "total_hours": 5.34
   },
   {
@@ -18373,13 +19819,13 @@
   },
   {
     "company_name": "Northumbrian Water",
-    "river_name": "Green'S Beck",
+    "river_name": "Snows Green Burn",
     "total_count": 7.0,
     "total_hours": 5.25
   },
   {
     "company_name": "Northumbrian Water",
-    "river_name": "Snows Green Burn",
+    "river_name": "Green'S Beck",
     "total_count": 7.0,
     "total_hours": 5.25
   },
@@ -18396,21 +19842,33 @@
     "total_hours": 5.23
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Combe Haven River",
+    "total_count": 2.0,
+    "total_hours": 5.2
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Whitehouse Gill",
+    "total_count": 1.0,
+    "total_hours": 5.15
+  },
+  {
     "company_name": "Thames Water",
     "river_name": "Heywood Stream",
     "total_count": 4.0,
     "total_hours": 5.1
   },
   {
-    "company_name": "Anglian Water",
-    "river_name": "Orwell Estuary",
-    "total_count": 6.0,
-    "total_hours": 5.1
-  },
-  {
     "company_name": "United Utilities",
     "river_name": "Pendle Water Via Culvert",
     "total_count": 18.0,
+    "total_hours": 5.1
+  },
+  {
+    "company_name": "Anglian Water",
+    "river_name": "Orwell Estuary",
+    "total_count": 6.0,
     "total_hours": 5.1
   },
   {
@@ -18438,15 +19896,15 @@
     "total_hours": 5.03
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Culverted W/C To Bishopton Bec",
-    "total_count": 5.0,
-    "total_hours": 5.0
-  },
-  {
     "company_name": "Anglian Water",
     "river_name": "Unnamed River Waveney",
     "total_count": 1.0,
+    "total_hours": 5.0
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Culverted W/C To Bishopton Bec",
+    "total_count": 5.0,
     "total_hours": 5.0
   },
   {
@@ -18493,21 +19951,15 @@
   },
   {
     "company_name": "United Utilities",
-    "river_name": "Folly Brook",
-    "total_count": 18.0,
-    "total_hours": 4.83
-  },
-  {
-    "company_name": "United Utilities",
     "river_name": "Longford Brook",
     "total_count": 6.0,
     "total_hours": 4.83
   },
   {
     "company_name": "United Utilities",
-    "river_name": "Clarington Brook",
-    "total_count": 12.0,
-    "total_hours": 4.77
+    "river_name": "Folly Brook",
+    "total_count": 18.0,
+    "total_hours": 4.83
   },
   {
     "company_name": "United Utilities",
@@ -18516,15 +19968,21 @@
     "total_hours": 4.77
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Langton Beck, Tees Catch",
-    "total_count": 6.0,
-    "total_hours": 4.75
+    "company_name": "United Utilities",
+    "river_name": "Clarington Brook",
+    "total_count": 12.0,
+    "total_hours": 4.77
   },
   {
     "company_name": "Anglian Water",
     "river_name": "Of Spratton Brook",
     "total_count": 10.0,
+    "total_hours": 4.75
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Langton Beck, Tees Catch",
+    "total_count": 6.0,
     "total_hours": 4.75
   },
   {
@@ -18612,12 +20070,6 @@
     "total_hours": 4.43
   },
   {
-    "company_name": "Severn Trent Water",
-    "river_name": "River Swarbourn",
-    "total_count": 16.0,
-    "total_hours": 4.4
-  },
-  {
     "company_name": "South West Water",
     "river_name": "Rookery Brook",
     "total_count": 16.0,
@@ -18625,14 +20077,20 @@
   },
   {
     "company_name": "Severn Trent Water",
-    "river_name": "Nailstone Brook",
-    "total_count": 4.0,
-    "total_hours": 4.35
+    "river_name": "River Swarbourn",
+    "total_count": 16.0,
+    "total_hours": 4.4
   },
   {
     "company_name": "Northumbrian Water",
     "river_name": "Elsdon Burn",
     "total_count": 6.0,
+    "total_hours": 4.35
+  },
+  {
+    "company_name": "Severn Trent Water",
+    "river_name": "Nailstone Brook",
+    "total_count": 4.0,
     "total_hours": 4.35
   },
   {
@@ -18642,15 +20100,15 @@
     "total_hours": 4.33
   },
   {
-    "company_name": "Thames Water",
-    "river_name": "Boveney Ditch",
-    "total_count": 5.0,
-    "total_hours": 4.31
-  },
-  {
     "company_name": "Severn Trent Water",
     "river_name": "Swans Brook",
     "total_count": 3.0,
+    "total_hours": 4.31
+  },
+  {
+    "company_name": "Thames Water",
+    "river_name": "Boveney Ditch",
+    "total_count": 5.0,
     "total_hours": 4.31
   },
   {
@@ -18673,8 +20131,8 @@
   },
   {
     "company_name": "Northumbrian Water",
-    "river_name": "Broughs Gill",
-    "total_count": 5.0,
+    "river_name": "Gordon Beck",
+    "total_count": 7.0,
     "total_hours": 4.25
   },
   {
@@ -18684,9 +20142,9 @@
     "total_hours": 4.25
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Gordon Beck",
-    "total_count": 7.0,
+    "company_name": "Anglian Water",
+    "river_name": "Wootton Brook",
+    "total_count": 6.0,
     "total_hours": 4.25
   },
   {
@@ -18696,10 +20154,16 @@
     "total_hours": 4.25
   },
   {
-    "company_name": "Anglian Water",
-    "river_name": "Wootton Brook",
-    "total_count": 6.0,
+    "company_name": "Northumbrian Water",
+    "river_name": "Broughs Gill",
+    "total_count": 5.0,
     "total_hours": 4.25
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Tidal Estuary Of River Medway",
+    "total_count": 4.0,
+    "total_hours": 4.23
   },
   {
     "company_name": "South West Water",
@@ -18708,15 +20172,15 @@
     "total_hours": 4.22
   },
   {
-    "company_name": "United Utilities",
-    "river_name": "Clvrtd Section Gypsy Brook",
-    "total_count": 18.0,
-    "total_hours": 4.2
-  },
-  {
     "company_name": "Northumbrian Water",
     "river_name": "Stell",
     "total_count": 7.0,
+    "total_hours": 4.2
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "Clvrtd Section Gypsy Brook",
+    "total_count": 18.0,
     "total_hours": 4.2
   },
   {
@@ -18732,12 +20196,6 @@
     "total_hours": 4.1
   },
   {
-    "company_name": "United Utilities",
-    "river_name": "Carr Brook Via Sws",
-    "total_count": 10.0,
-    "total_hours": 4.07
-  },
-  {
     "company_name": "Yorkshire Water",
     "river_name": "Wortley Beck",
     "total_count": 4.0,
@@ -18750,10 +20208,28 @@
     "total_hours": 4.07
   },
   {
+    "company_name": "United Utilities",
+    "river_name": "Carr Brook Via Sws",
+    "total_count": 10.0,
+    "total_hours": 4.07
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Monks Brook",
+    "total_count": 13.0,
+    "total_hours": 4.05
+  },
+  {
     "company_name": "Severn Trent Water",
     "river_name": "Wordsley Brook",
     "total_count": 4.0,
     "total_hours": 4.01
+  },
+  {
+    "company_name": "Wessex Water",
+    "river_name": "Hinton Meads Brook",
+    "total_count": 12.0,
+    "total_hours": 4.0
   },
   {
     "company_name": "Wessex Water",
@@ -18765,12 +20241,6 @@
     "company_name": "Northumbrian Water",
     "river_name": "Sandy'S Letch, Seaton Burn",
     "total_count": 6.0,
-    "total_hours": 4.0
-  },
-  {
-    "company_name": "Wessex Water",
-    "river_name": "Hinton Meads Brook",
-    "total_count": 12.0,
     "total_hours": 4.0
   },
   {
@@ -18790,6 +20260,12 @@
     "river_name": "Derwent Mill Race",
     "total_count": 16.0,
     "total_hours": 3.92
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Non Tidal Milton Creek",
+    "total_count": 5.0,
+    "total_hours": 3.9
   },
   {
     "company_name": "South West Water",
@@ -18816,15 +20292,15 @@
     "total_hours": 3.79
   },
   {
-    "company_name": "Yorkshire Water",
-    "river_name": "Culv River Don",
-    "total_count": 2.0,
-    "total_hours": 3.77
-  },
-  {
     "company_name": "Severn Trent Water",
     "river_name": "Rothely Brook",
     "total_count": 12.0,
+    "total_hours": 3.77
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "river_name": "Culv River Don",
+    "total_count": 2.0,
     "total_hours": 3.77
   },
   {
@@ -18835,13 +20311,13 @@
   },
   {
     "company_name": "Anglian Water",
-    "river_name": "Stewton Beck",
+    "river_name": "Bumpstead Brook River Stour N",
     "total_count": 6.0,
     "total_hours": 3.75
   },
   {
     "company_name": "Anglian Water",
-    "river_name": "Bumpstead Brook River Stour N",
+    "river_name": "Stewton Beck",
     "total_count": 6.0,
     "total_hours": 3.75
   },
@@ -18906,6 +20382,12 @@
     "total_hours": 3.63
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Of Scrase Bridge Stream",
+    "total_count": 4.0,
+    "total_hours": 3.6
+  },
+  {
     "company_name": "Anglian Water",
     "river_name": "Drain Colne Estuary",
     "total_count": 12.0,
@@ -18936,27 +20418,21 @@
     "total_hours": 3.53
   },
   {
-    "company_name": "Severn Trent Water",
-    "river_name": "Beck Dyke",
-    "total_count": 7.0,
-    "total_hours": 3.52
-  },
-  {
     "company_name": "Yorkshire Water",
     "river_name": "Langham Drain",
     "total_count": 5.0,
     "total_hours": 3.52
   },
   {
+    "company_name": "Severn Trent Water",
+    "river_name": "Beck Dyke",
+    "total_count": 7.0,
+    "total_hours": 3.52
+  },
+  {
     "company_name": "Northumbrian Water",
     "river_name": "Blyth,",
     "total_count": 6.0,
-    "total_hours": 3.5
-  },
-  {
-    "company_name": "Southern Water",
-    "river_name": "River Line",
-    "total_count": 3.0,
     "total_hours": 3.5
   },
   {
@@ -18973,8 +20449,8 @@
   },
   {
     "company_name": "Yorkshire Water",
-    "river_name": "Culverted Green Dike",
-    "total_count": 6.0,
+    "river_name": "Intake Beck",
+    "total_count": 3.0,
     "total_hours": 3.48
   },
   {
@@ -18985,8 +20461,8 @@
   },
   {
     "company_name": "Yorkshire Water",
-    "river_name": "Intake Beck",
-    "total_count": 3.0,
+    "river_name": "Culverted Green Dike",
+    "total_count": 6.0,
     "total_hours": 3.48
   },
   {
@@ -19008,16 +20484,22 @@
     "total_hours": 3.4
   },
   {
+    "company_name": "United Utilities",
+    "river_name": "Stream",
+    "total_count": 5.0,
+    "total_hours": 3.35
+  },
+  {
     "company_name": "South West Water",
     "river_name": "Bigbury Bay",
     "total_count": 2.0,
     "total_hours": 3.35
   },
   {
-    "company_name": "United Utilities",
-    "river_name": "Stream",
-    "total_count": 5.0,
-    "total_hours": 3.35
+    "company_name": "Southern Water",
+    "river_name": "Sandown Bay",
+    "total_count": 4.0,
+    "total_hours": 3.33
   },
   {
     "company_name": "Northumbrian Water",
@@ -19030,6 +20512,12 @@
     "river_name": "Walsall Canal",
     "total_count": 9.0,
     "total_hours": 3.3
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Warden Bay Drain",
+    "total_count": 2.0,
+    "total_hours": 3.28
   },
   {
     "company_name": "United Utilities",
@@ -19045,19 +20533,13 @@
   },
   {
     "company_name": "Northumbrian Water",
-    "river_name": "River Till",
-    "total_count": 6.0,
+    "river_name": "Unnamed Watercouse - Tees Estu",
+    "total_count": 2.0,
     "total_hours": 3.25
   },
   {
     "company_name": "Anglian Water",
     "river_name": "One Bridge Brook",
-    "total_count": 2.0,
-    "total_hours": 3.25
-  },
-  {
-    "company_name": "Northumbrian Water",
-    "river_name": "Unnamed Watercouse - Tees Estu",
     "total_count": 2.0,
     "total_hours": 3.25
   },
@@ -19069,7 +20551,19 @@
   },
   {
     "company_name": "Northumbrian Water",
+    "river_name": "River Till",
+    "total_count": 6.0,
+    "total_hours": 3.25
+  },
+  {
+    "company_name": "Northumbrian Water",
     "river_name": "Pallins Burn",
+    "total_count": 2.0,
+    "total_hours": 3.24
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Stokes Bay",
     "total_count": 2.0,
     "total_hours": 3.24
   },
@@ -19080,10 +20574,34 @@
     "total_hours": 3.23
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Scrase Bridge Stream",
+    "total_count": 5.0,
+    "total_hours": 3.23
+  },
+  {
     "company_name": "United Utilities",
     "river_name": "Atherton Brook",
     "total_count": 9.0,
     "total_hours": 3.21
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Pookbourne Stream",
+    "total_count": 3.0,
+    "total_hours": 3.2
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Unnamed Drain To River Medway",
+    "total_count": 6.0,
+    "total_hours": 3.2
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Shedfield Stream",
+    "total_count": 2.0,
+    "total_hours": 3.17
   },
   {
     "company_name": "South West Water",
@@ -19110,15 +20628,15 @@
     "total_hours": 3.1
   },
   {
-    "company_name": "Wessex Water",
-    "river_name": "Pigeonhouse Stream Via Sws",
-    "total_count": 3.0,
-    "total_hours": 3.08
-  },
-  {
     "company_name": "Severn Trent Water",
     "river_name": "Latherford Brook",
     "total_count": 2.0,
+    "total_hours": 3.08
+  },
+  {
+    "company_name": "Wessex Water",
+    "river_name": "Pigeonhouse Stream Via Sws",
+    "total_count": 3.0,
     "total_hours": 3.08
   },
   {
@@ -19134,36 +20652,6 @@
     "total_hours": 3.02
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Willington Burn",
-    "total_count": 5.0,
-    "total_hours": 3.0
-  },
-  {
-    "company_name": "Anglian Water",
-    "river_name": "Rayleigh Brook",
-    "total_count": 2.0,
-    "total_hours": 3.0
-  },
-  {
-    "company_name": "South West Water",
-    "river_name": "Alren Stream",
-    "total_count": 2.0,
-    "total_hours": 3.0
-  },
-  {
-    "company_name": "Northumbrian Water",
-    "river_name": "Herrington Burn Via A Culvert",
-    "total_count": 5.0,
-    "total_hours": 3.0
-  },
-  {
-    "company_name": "Anglian Water",
-    "river_name": "Fen Drain River Great Ouse",
-    "total_count": 2.0,
-    "total_hours": 3.0
-  },
-  {
     "company_name": "Anglian Water",
     "river_name": "S.Killingholme Haven",
     "total_count": 6.0,
@@ -19176,16 +20664,40 @@
     "total_hours": 3.0
   },
   {
+    "company_name": "Anglian Water",
+    "river_name": "Rayleigh Brook",
+    "total_count": 2.0,
+    "total_hours": 3.0
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Herrington Burn Via A Culvert",
+    "total_count": 5.0,
+    "total_hours": 3.0
+  },
+  {
+    "company_name": "South West Water",
+    "river_name": "Alren Stream",
+    "total_count": 2.0,
+    "total_hours": 3.0
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Willington Burn",
+    "total_count": 5.0,
+    "total_hours": 3.0
+  },
+  {
+    "company_name": "Anglian Water",
+    "river_name": "Fen Drain River Great Ouse",
+    "total_count": 2.0,
+    "total_hours": 3.0
+  },
+  {
     "company_name": "Wessex Water",
     "river_name": "Haymoor Main Drain Sws",
     "total_count": 10.0,
     "total_hours": 2.97
-  },
-  {
-    "company_name": "Southern Water",
-    "river_name": "River Thames",
-    "total_count": 2.0,
-    "total_hours": 2.95
   },
   {
     "company_name": "Severn Trent Water",
@@ -19194,10 +20706,22 @@
     "total_hours": 2.95
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "River Thames",
+    "total_count": 2.0,
+    "total_hours": 2.95
+  },
+  {
     "company_name": "South West Water",
     "river_name": "River Kenwyn Via Sws",
     "total_count": 12.0,
     "total_hours": 2.92
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Frater Lake, Portsmouth Hbr",
+    "total_count": 1.0,
+    "total_hours": 2.9
   },
   {
     "company_name": "Severn Trent Water",
@@ -19222,6 +20746,12 @@
     "river_name": "River Foulness",
     "total_count": 2.0,
     "total_hours": 2.84
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Stoke Lake",
+    "total_count": 2.0,
+    "total_hours": 2.83
   },
   {
     "company_name": "Severn Trent Water",
@@ -19249,14 +20779,14 @@
   },
   {
     "company_name": "Anglian Water",
-    "river_name": "Hobhole Drain",
-    "total_count": 4.0,
+    "river_name": "Langton Brook",
+    "total_count": 6.0,
     "total_hours": 2.75
   },
   {
     "company_name": "Anglian Water",
-    "river_name": "Langton Brook",
-    "total_count": 6.0,
+    "river_name": "Hobhole Drain",
+    "total_count": 4.0,
     "total_hours": 2.75
   },
   {
@@ -19356,8 +20886,20 @@
     "total_hours": 2.51
   },
   {
-    "company_name": "Southern Water",
-    "river_name": "Yar Estuary",
+    "company_name": "Northumbrian Water",
+    "river_name": "Char Beck",
+    "total_count": 9.0,
+    "total_hours": 2.5
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Unnamed Sleek Burn",
+    "total_count": 5.0,
+    "total_hours": 2.5
+  },
+  {
+    "company_name": "Anglian Water",
+    "river_name": "Bowstead Brook River Blackwate",
     "total_count": 2.0,
     "total_hours": 2.5
   },
@@ -19374,8 +20916,14 @@
     "total_hours": 2.5
   },
   {
-    "company_name": "Anglian Water",
-    "river_name": "Bowstead Brook River Blackwate",
+    "company_name": "Northumbrian Water",
+    "river_name": "Longacre Burn",
+    "total_count": 7.0,
+    "total_hours": 2.5
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Yar Estuary",
     "total_count": 2.0,
     "total_hours": 2.5
   },
@@ -19383,24 +20931,6 @@
     "company_name": "Anglian Water",
     "river_name": "Wolds Dyke, R Waveney",
     "total_count": 3.0,
-    "total_hours": 2.5
-  },
-  {
-    "company_name": "Northumbrian Water",
-    "river_name": "Char Beck",
-    "total_count": 9.0,
-    "total_hours": 2.5
-  },
-  {
-    "company_name": "Northumbrian Water",
-    "river_name": "Unnamed Sleek Burn",
-    "total_count": 5.0,
-    "total_hours": 2.5
-  },
-  {
-    "company_name": "Northumbrian Water",
-    "river_name": "Longacre Burn",
-    "total_count": 7.0,
     "total_hours": 2.5
   },
   {
@@ -19476,9 +21006,9 @@
     "total_hours": 2.27
   },
   {
-    "company_name": "Dwr Cymru Welsh Water",
-    "river_name": "Finchett'S Gutter",
-    "total_count": 2.0,
+    "company_name": "Yorkshire Water",
+    "river_name": "Autherd Drain",
+    "total_count": 7.0,
     "total_hours": 2.25
   },
   {
@@ -19488,10 +21018,16 @@
     "total_hours": 2.25
   },
   {
-    "company_name": "Yorkshire Water",
-    "river_name": "Autherd Drain",
-    "total_count": 7.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "river_name": "Finchett'S Gutter",
+    "total_count": 2.0,
     "total_hours": 2.25
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Unnamed To Wallington",
+    "total_count": 1.0,
+    "total_hours": 2.24
   },
   {
     "company_name": "United Utilities",
@@ -19512,15 +21048,15 @@
     "total_hours": 2.23
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Nelly Burdon'S Beck",
-    "total_count": 6.0,
-    "total_hours": 2.22
-  },
-  {
     "company_name": "Yorkshire Water",
     "river_name": "Clvrt Bowling Beck",
     "total_count": 3.0,
+    "total_hours": 2.22
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Nelly Burdon'S Beck",
+    "total_count": 6.0,
     "total_hours": 2.22
   },
   {
@@ -19560,21 +21096,27 @@
     "total_hours": 2.11
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Test Estuary",
+    "total_count": 9.0,
+    "total_hours": 2.1
+  },
+  {
     "company_name": "Wessex Water",
     "river_name": "Hamrod Rhyne",
     "total_count": 3.0,
     "total_hours": 2.1
   },
   {
-    "company_name": "Wessex Water",
-    "river_name": "River Asker Via Sws",
-    "total_count": 2.0,
-    "total_hours": 2.1
-  },
-  {
     "company_name": "South West Water",
     "river_name": "Polwheveral Stream",
     "total_count": 8.0,
+    "total_hours": 2.1
+  },
+  {
+    "company_name": "Wessex Water",
+    "river_name": "River Asker Via Sws",
+    "total_count": 2.0,
     "total_hours": 2.1
   },
   {
@@ -19596,26 +21138,8 @@
     "total_hours": 2.07
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Ouseburn",
-    "total_count": 6.0,
-    "total_hours": 2.0
-  },
-  {
-    "company_name": "Dwr Cymru Welsh Water",
-    "river_name": "Belvedere Brook",
-    "total_count": 4.0,
-    "total_hours": 2.0
-  },
-  {
     "company_name": "Yorkshire Water",
     "river_name": "Dob Sike",
-    "total_count": 5.0,
-    "total_hours": 2.0
-  },
-  {
-    "company_name": "Anglian Water",
-    "river_name": "West Lynn Drain",
     "total_count": 5.0,
     "total_hours": 2.0
   },
@@ -19632,10 +21156,40 @@
     "total_hours": 2.0
   },
   {
+    "company_name": "Anglian Water",
+    "river_name": "West Lynn Drain",
+    "total_count": 5.0,
+    "total_hours": 2.0
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Ouseburn",
+    "total_count": 6.0,
+    "total_hours": 2.0
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "river_name": "Belvedere Brook",
+    "total_count": 4.0,
+    "total_hours": 2.0
+  },
+  {
     "company_name": "Severn Trent Water",
     "river_name": "Hatchford Brook",
     "total_count": 5.0,
     "total_hours": 1.98
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Milton Creek Via Drain",
+    "total_count": 1.0,
+    "total_hours": 1.97
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Itchen Estuary",
+    "total_count": 6.0,
+    "total_hours": 1.97
   },
   {
     "company_name": "South West Water",
@@ -19644,9 +21198,9 @@
     "total_hours": 1.97
   },
   {
-    "company_name": "Severn Trent Water",
-    "river_name": "Lea Brook",
-    "total_count": 7.0,
+    "company_name": "Yorkshire Water",
+    "river_name": "River Skell Via Surface Wtr Sw",
+    "total_count": 3.0,
     "total_hours": 1.95
   },
   {
@@ -19656,9 +21210,9 @@
     "total_hours": 1.95
   },
   {
-    "company_name": "Yorkshire Water",
-    "river_name": "River Skell Via Surface Wtr Sw",
-    "total_count": 3.0,
+    "company_name": "Severn Trent Water",
+    "river_name": "Lea Brook",
+    "total_count": 7.0,
     "total_hours": 1.95
   },
   {
@@ -19728,32 +21282,8 @@
     "total_hours": 1.79
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Coalford Beck,",
-    "total_count": 4.0,
-    "total_hours": 1.75
-  },
-  {
     "company_name": "Severn Trent Water",
     "river_name": "Aisby Beck",
-    "total_count": 1.0,
-    "total_hours": 1.75
-  },
-  {
-    "company_name": "Anglian Water",
-    "river_name": "River Little Ouse",
-    "total_count": 1.0,
-    "total_hours": 1.75
-  },
-  {
-    "company_name": "Northumbrian Water",
-    "river_name": "Mill Race",
-    "total_count": 2.0,
-    "total_hours": 1.75
-  },
-  {
-    "company_name": "Wessex Water",
-    "river_name": "Corton Denham Stream",
     "total_count": 1.0,
     "total_hours": 1.75
   },
@@ -19764,8 +21294,14 @@
     "total_hours": 1.75
   },
   {
+    "company_name": "Northumbrian Water",
+    "river_name": "Coalford Beck,",
+    "total_count": 4.0,
+    "total_hours": 1.75
+  },
+  {
     "company_name": "Wessex Water",
-    "river_name": "Bath Road Rhyne",
+    "river_name": "Corton Denham Stream",
     "total_count": 1.0,
     "total_hours": 1.75
   },
@@ -19773,6 +21309,24 @@
     "company_name": "Anglian Water",
     "river_name": "Swaffham Bulbeck Lode",
     "total_count": 5.0,
+    "total_hours": 1.75
+  },
+  {
+    "company_name": "Anglian Water",
+    "river_name": "River Little Ouse",
+    "total_count": 1.0,
+    "total_hours": 1.75
+  },
+  {
+    "company_name": "Wessex Water",
+    "river_name": "Bath Road Rhyne",
+    "total_count": 1.0,
+    "total_hours": 1.75
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Mill Race",
+    "total_count": 2.0,
     "total_hours": 1.75
   },
   {
@@ -19824,12 +21378,6 @@
     "total_hours": 1.63
   },
   {
-    "company_name": "Thames Water",
-    "river_name": "Ock",
-    "total_count": 3.0,
-    "total_hours": 1.6
-  },
-  {
     "company_name": "Severn Trent Water",
     "river_name": "Beeley Brook",
     "total_count": 3.0,
@@ -19839,6 +21387,12 @@
     "company_name": "Wessex Water",
     "river_name": "Stogursey Brook",
     "total_count": 8.0,
+    "total_hours": 1.6
+  },
+  {
+    "company_name": "Thames Water",
+    "river_name": "Ock",
+    "total_count": 3.0,
     "total_hours": 1.6
   },
   {
@@ -19860,12 +21414,6 @@
     "total_hours": 1.54
   },
   {
-    "company_name": "United Utilities",
-    "river_name": "Birket",
-    "total_count": 46.0,
-    "total_hours": 1.5
-  },
-  {
     "company_name": "Anglian Water",
     "river_name": "Towns Croft Drain",
     "total_count": 3.0,
@@ -19873,8 +21421,8 @@
   },
   {
     "company_name": "Northumbrian Water",
-    "river_name": "Bumper Ha\\Ll Beck",
-    "total_count": 5.0,
+    "river_name": "Houndalee Letch",
+    "total_count": 3.0,
     "total_hours": 1.5
   },
   {
@@ -19885,8 +21433,8 @@
   },
   {
     "company_name": "Northumbrian Water",
-    "river_name": "Houndalee Letch",
-    "total_count": 3.0,
+    "river_name": "Bumper Ha\\Ll Beck",
+    "total_count": 5.0,
     "total_hours": 1.5
   },
   {
@@ -19896,10 +21444,22 @@
     "total_hours": 1.5
   },
   {
+    "company_name": "United Utilities",
+    "river_name": "Birket",
+    "total_count": 46.0,
+    "total_hours": 1.5
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "Warley Clough Dams",
     "total_count": 1.0,
     "total_hours": 1.48
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Gillingham Reach/ Medway Est",
+    "total_count": 5.0,
+    "total_hours": 1.47
   },
   {
     "company_name": "Yorkshire Water",
@@ -19914,10 +21474,22 @@
     "total_hours": 1.45
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Adur Estuary",
+    "total_count": 4.0,
+    "total_hours": 1.45
+  },
+  {
     "company_name": "Severn Trent Water",
     "river_name": "Smestow Brook Via Sws",
     "total_count": 24.0,
     "total_hours": 1.45
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Gasworks Stream",
+    "total_count": 3.0,
+    "total_hours": 1.44
   },
   {
     "company_name": "United Utilities",
@@ -19938,15 +21510,15 @@
     "total_hours": 1.4
   },
   {
-    "company_name": "Severn Trent Water",
-    "river_name": "Hobnail Brook",
-    "total_count": 4.0,
-    "total_hours": 1.4
-  },
-  {
     "company_name": "United Utilities",
     "river_name": "Culverted Section Moss Brook",
     "total_count": 6.0,
+    "total_hours": 1.4
+  },
+  {
+    "company_name": "Severn Trent Water",
+    "river_name": "Hobnail Brook",
+    "total_count": 4.0,
     "total_hours": 1.4
   },
   {
@@ -19963,21 +21535,21 @@
   },
   {
     "company_name": "Southern Water",
-    "river_name": "Monks Brook",
-    "total_count": 6.0,
-    "total_hours": 1.34
+    "river_name": "River Anton",
+    "total_count": 1.0,
+    "total_hours": 1.35
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Crofton Stream",
+    "total_count": 1.0,
+    "total_hours": 1.35
   },
   {
     "company_name": "Thames Water",
     "river_name": "Silchester Brook",
     "total_count": 4.0,
     "total_hours": 1.28
-  },
-  {
-    "company_name": "Anglian Water",
-    "river_name": "Drain-Totidal Water",
-    "total_count": 1.0,
-    "total_hours": 1.25
   },
   {
     "company_name": "Northumbrian Water",
@@ -19992,44 +21564,14 @@
     "total_hours": 1.25
   },
   {
-    "company_name": "Severn Trent Water",
-    "river_name": "Alder Brook",
-    "total_count": 1.0,
-    "total_hours": 1.25
-  },
-  {
-    "company_name": "Wessex Water",
-    "river_name": "Unnamed Stream",
-    "total_count": 1.0,
-    "total_hours": 1.25
-  },
-  {
     "company_name": "Anglian Water",
     "river_name": "River Glem",
     "total_count": 2.0,
     "total_hours": 1.25
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Unnamed River Gaunless",
-    "total_count": 3.0,
-    "total_hours": 1.25
-  },
-  {
     "company_name": "Anglian Water",
     "river_name": "Greetwell Beck",
-    "total_count": 3.0,
-    "total_hours": 1.25
-  },
-  {
-    "company_name": "Northumbrian Water",
-    "river_name": "Iddeston'S Sike",
-    "total_count": 5.0,
-    "total_hours": 1.25
-  },
-  {
-    "company_name": "Northumbrian Water",
-    "river_name": "Cocker Beck",
     "total_count": 3.0,
     "total_hours": 1.25
   },
@@ -20040,15 +21582,51 @@
     "total_hours": 1.25
   },
   {
-    "company_name": "South West Water",
-    "river_name": "Truro River Estuary System",
-    "total_count": 2.0,
-    "total_hours": 1.24
+    "company_name": "Anglian Water",
+    "river_name": "Drain-Totidal Water",
+    "total_count": 1.0,
+    "total_hours": 1.25
+  },
+  {
+    "company_name": "Wessex Water",
+    "river_name": "Unnamed Stream",
+    "total_count": 1.0,
+    "total_hours": 1.25
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Iddeston'S Sike",
+    "total_count": 5.0,
+    "total_hours": 1.25
+  },
+  {
+    "company_name": "Severn Trent Water",
+    "river_name": "Alder Brook",
+    "total_count": 1.0,
+    "total_hours": 1.25
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Cocker Beck",
+    "total_count": 3.0,
+    "total_hours": 1.25
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Unnamed River Gaunless",
+    "total_count": 3.0,
+    "total_hours": 1.25
   },
   {
     "company_name": "Yorkshire Water",
     "river_name": "Weres Pond",
     "total_count": 4.0,
+    "total_hours": 1.24
+  },
+  {
+    "company_name": "South West Water",
+    "river_name": "Truro River Estuary System",
+    "total_count": 2.0,
     "total_hours": 1.24
   },
   {
@@ -20058,15 +21636,15 @@
     "total_hours": 1.24
   },
   {
-    "company_name": "United Utilities",
-    "river_name": "Pedley Brook",
-    "total_count": 8.0,
-    "total_hours": 1.23
-  },
-  {
     "company_name": "Northumbrian Water",
     "river_name": "Team, River",
     "total_count": 6.0,
+    "total_hours": 1.23
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "Pedley Brook",
+    "total_count": 8.0,
     "total_hours": 1.23
   },
   {
@@ -20089,15 +21667,21 @@
   },
   {
     "company_name": "South West Water",
+    "river_name": "English Channel Via Sws",
+    "total_count": 6.0,
+    "total_hours": 1.21
+  },
+  {
+    "company_name": "South West Water",
     "river_name": "Polgooth Stream",
     "total_count": 8.0,
     "total_hours": 1.21
   },
   {
-    "company_name": "South West Water",
-    "river_name": "English Channel Via Sws",
-    "total_count": 6.0,
-    "total_hours": 1.21
+    "company_name": "Yorkshire Water",
+    "river_name": "Small Bridge Dike",
+    "total_count": 3.0,
+    "total_hours": 1.2
   },
   {
     "company_name": "Wessex Water",
@@ -20107,26 +21691,20 @@
   },
   {
     "company_name": "Yorkshire Water",
-    "river_name": "Small Bridge Dike",
-    "total_count": 3.0,
-    "total_hours": 1.2
-  },
-  {
-    "company_name": "Yorkshire Water",
     "river_name": "Culv Hebble Beck",
     "total_count": 4.0,
-    "total_hours": 1.17
-  },
-  {
-    "company_name": "Northumbrian Water",
-    "river_name": "Hips Burn",
-    "total_count": 5.0,
     "total_hours": 1.17
   },
   {
     "company_name": "United Utilities",
     "river_name": "Wade Brook Via Sws",
     "total_count": 11.0,
+    "total_hours": 1.17
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Hips Burn",
+    "total_count": 5.0,
     "total_hours": 1.17
   },
   {
@@ -20154,15 +21732,15 @@
     "total_hours": 1.09
   },
   {
-    "company_name": "Yorkshire Water",
-    "river_name": "To River Hull",
-    "total_count": 1.0,
-    "total_hours": 1.07
-  },
-  {
     "company_name": "United Utilities",
     "river_name": "Clvrt Moor Brook Rvr Ribb",
     "total_count": 4.0,
+    "total_hours": 1.07
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "river_name": "To River Hull",
+    "total_count": 1.0,
     "total_hours": 1.07
   },
   {
@@ -20173,15 +21751,27 @@
   },
   {
     "company_name": "Yorkshire Water",
+    "river_name": "Cemetary Drain",
+    "total_count": 1.0,
+    "total_hours": 1.05
+  },
+  {
+    "company_name": "Yorkshire Water",
     "river_name": "Millington Beck",
     "total_count": 2.0,
     "total_hours": 1.05
   },
   {
-    "company_name": "Yorkshire Water",
-    "river_name": "Cemetary Drain",
+    "company_name": "Southern Water",
+    "river_name": "Unnamed Tenterden Sewer",
     "total_count": 1.0,
     "total_hours": 1.05
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "Culverted Langwood Brook",
+    "total_count": 3.0,
+    "total_hours": 1.03
   },
   {
     "company_name": "South West Water",
@@ -20190,10 +21780,10 @@
     "total_hours": 1.03
   },
   {
-    "company_name": "United Utilities",
-    "river_name": "Culverted Langwood Brook",
-    "total_count": 3.0,
-    "total_hours": 1.03
+    "company_name": "Southern Water",
+    "river_name": "Teville Stream",
+    "total_count": 1.0,
+    "total_hours": 1.0
   },
   {
     "company_name": "Anglian Water",
@@ -20208,15 +21798,15 @@
     "total_hours": 1.0
   },
   {
-    "company_name": "Anglian Water",
-    "river_name": "Slade",
-    "total_count": 3.0,
-    "total_hours": 1.0
-  },
-  {
     "company_name": "Northumbrian Water",
     "river_name": "Stella Gill",
     "total_count": 4.0,
+    "total_hours": 1.0
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "River Darwen Adj Mh",
+    "total_count": 5.0,
     "total_hours": 1.0
   },
   {
@@ -20226,9 +21816,9 @@
     "total_hours": 1.0
   },
   {
-    "company_name": "United Utilities",
-    "river_name": "River Darwen Adj Mh",
-    "total_count": 5.0,
+    "company_name": "Anglian Water",
+    "river_name": "Slade",
+    "total_count": 3.0,
     "total_hours": 1.0
   },
   {
@@ -20274,9 +21864,9 @@
     "total_hours": 0.89
   },
   {
-    "company_name": "Severn Trent Water",
-    "river_name": "Stonehouse Brook",
-    "total_count": 4.0,
+    "company_name": "Yorkshire Water",
+    "river_name": "Park Brook",
+    "total_count": 2.0,
     "total_hours": 0.88
   },
   {
@@ -20286,15 +21876,15 @@
     "total_hours": 0.88
   },
   {
-    "company_name": "Yorkshire Water",
-    "river_name": "Park Brook",
-    "total_count": 2.0,
+    "company_name": "Severn Trent Water",
+    "river_name": "Stonehouse Brook",
+    "total_count": 4.0,
     "total_hours": 0.88
   },
   {
     "company_name": "Severn Trent Water",
-    "river_name": "River Snow Via C. Flash / T.D.",
-    "total_count": 3.0,
+    "river_name": "Stalney Brook",
+    "total_count": 4.0,
     "total_hours": 0.87
   },
   {
@@ -20305,8 +21895,8 @@
   },
   {
     "company_name": "Severn Trent Water",
-    "river_name": "Stalney Brook",
-    "total_count": 4.0,
+    "river_name": "River Snow Via C. Flash / T.D.",
+    "total_count": 3.0,
     "total_hours": 0.87
   },
   {
@@ -20335,13 +21925,25 @@
   },
   {
     "company_name": "Northumbrian Water",
-    "river_name": "Tinkerhill Gill,",
+    "river_name": "Goats Beck",
     "total_count": 3.0,
     "total_hours": 0.75
   },
   {
+    "company_name": "Wessex Water",
+    "river_name": "Knighton Stream",
+    "total_count": 1.0,
+    "total_hours": 0.75
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Workhouse Lake",
+    "total_count": 1.0,
+    "total_hours": 0.75
+  },
+  {
     "company_name": "Northumbrian Water",
-    "river_name": "Goats Beck",
+    "river_name": "Tinkerhill Gill,",
     "total_count": 3.0,
     "total_hours": 0.75
   },
@@ -20358,33 +21960,15 @@
     "total_hours": 0.75
   },
   {
-    "company_name": "Wessex Water",
-    "river_name": "Knighton Stream",
-    "total_count": 1.0,
-    "total_hours": 0.75
-  },
-  {
-    "company_name": "United Utilities",
-    "river_name": "Culvert Glodwick Brook",
-    "total_count": 2.0,
-    "total_hours": 0.73
-  },
-  {
-    "company_name": "United Utilities",
-    "river_name": "Budworth Mere",
-    "total_count": 4.0,
-    "total_hours": 0.73
-  },
-  {
     "company_name": "Northumbrian Water",
     "river_name": "N. Sea",
     "total_count": 3.0,
     "total_hours": 0.73
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Tidal River Tyne",
-    "total_count": 3.0,
+    "company_name": "Southern Water",
+    "river_name": "Hayling Bay",
+    "total_count": 1.0,
     "total_hours": 0.73
   },
   {
@@ -20394,9 +21978,27 @@
     "total_hours": 0.73
   },
   {
+    "company_name": "Northumbrian Water",
+    "river_name": "Tidal River Tyne",
+    "total_count": 3.0,
+    "total_hours": 0.73
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "Budworth Mere",
+    "total_count": 4.0,
+    "total_hours": 0.73
+  },
+  {
     "company_name": "Yorkshire Water",
     "river_name": "Well Sike",
     "total_count": 4.0,
+    "total_hours": 0.73
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "Culvert Glodwick Brook",
+    "total_count": 2.0,
     "total_hours": 0.73
   },
   {
@@ -20412,12 +22014,6 @@
     "total_hours": 0.71
   },
   {
-    "company_name": "United Utilities",
-    "river_name": "Unknown Watercourse",
-    "total_count": 14.0,
-    "total_hours": 0.7
-  },
-  {
     "company_name": "Wessex Water",
     "river_name": "Poulshot Stream",
     "total_count": 2.0,
@@ -20427,6 +22023,12 @@
     "company_name": "Northumbrian Water",
     "river_name": "Linton Burn",
     "total_count": 2.0,
+    "total_hours": 0.7
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "Unknown Watercourse",
+    "total_count": 14.0,
     "total_hours": 0.7
   },
   {
@@ -20442,15 +22044,15 @@
     "total_hours": 0.65
   },
   {
-    "company_name": "Yorkshire Water",
-    "river_name": "Orgreave Common Drain",
-    "total_count": 3.0,
-    "total_hours": 0.63
-  },
-  {
     "company_name": "United Utilities",
     "river_name": "Wilson Brook",
     "total_count": 9.0,
+    "total_hours": 0.63
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "river_name": "Orgreave Common Drain",
+    "total_count": 3.0,
     "total_hours": 0.63
   },
   {
@@ -20464,12 +22066,6 @@
     "river_name": "Storm Water Lagoon",
     "total_count": 1.0,
     "total_hours": 0.61
-  },
-  {
-    "company_name": "Yorkshire Water",
-    "river_name": "River Rother Via Sws",
-    "total_count": 2.0,
-    "total_hours": 0.6
   },
   {
     "company_name": "United Utilities",
@@ -20486,6 +22082,12 @@
   {
     "company_name": "Yorkshire Water",
     "river_name": "Lumb Brook Culverted",
+    "total_count": 2.0,
+    "total_hours": 0.6
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "river_name": "River Rother Via Sws",
     "total_count": 2.0,
     "total_hours": 0.6
   },
@@ -20545,8 +22147,14 @@
   },
   {
     "company_name": "Northumbrian Water",
-    "river_name": "Linburn Beck,",
+    "river_name": "Coxhoe Beck,",
     "total_count": 2.0,
+    "total_hours": 0.5
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Hemmel Burn",
+    "total_count": 1.0,
     "total_hours": 0.5
   },
   {
@@ -20562,32 +22170,8 @@
     "total_hours": 0.5
   },
   {
-    "company_name": "Anglian Water",
-    "river_name": "Common Watercourse No7",
-    "total_count": 1.0,
-    "total_hours": 0.5
-  },
-  {
-    "company_name": "Northumbrian Water",
-    "river_name": "Hemmel Burn",
-    "total_count": 1.0,
-    "total_hours": 0.5
-  },
-  {
-    "company_name": "Northumbrian Water",
-    "river_name": "Coxhoe Beck,",
-    "total_count": 2.0,
-    "total_hours": 0.5
-  },
-  {
     "company_name": "Northumbrian Water",
     "river_name": "Flass Burn",
-    "total_count": 2.0,
-    "total_hours": 0.5
-  },
-  {
-    "company_name": "Anglian Water",
-    "river_name": "River Ter",
     "total_count": 2.0,
     "total_hours": 0.5
   },
@@ -20599,15 +22183,27 @@
   },
   {
     "company_name": "Northumbrian Water",
+    "river_name": "Linburn Beck,",
+    "total_count": 2.0,
+    "total_hours": 0.5
+  },
+  {
+    "company_name": "Northumbrian Water",
     "river_name": "Derwent Estuary",
     "total_count": 3.0,
     "total_hours": 0.5
   },
   {
-    "company_name": "Southern Water",
-    "river_name": "Gillingham Reach/ Medway Est",
+    "company_name": "Anglian Water",
+    "river_name": "Common Watercourse No7",
     "total_count": 1.0,
-    "total_hours": 0.49
+    "total_hours": 0.5
+  },
+  {
+    "company_name": "Anglian Water",
+    "river_name": "River Ter",
+    "total_count": 2.0,
+    "total_hours": 0.5
   },
   {
     "company_name": "South West Water",
@@ -20634,6 +22230,12 @@
     "total_hours": 0.45
   },
   {
+    "company_name": "Southern Water",
+    "river_name": "Sailors Stream",
+    "total_count": 1.0,
+    "total_hours": 0.43
+  },
+  {
     "company_name": "Wessex Water",
     "river_name": "Bitham Brook Via Sws",
     "total_count": 3.0,
@@ -20658,27 +22260,27 @@
     "total_hours": 0.39
   },
   {
-    "company_name": "Yorkshire Water",
-    "river_name": "Kirk Hammerton Beck",
-    "total_count": 1.0,
-    "total_hours": 0.38
-  },
-  {
     "company_name": "Northumbrian Water",
     "river_name": "Manifold Beck,",
     "total_count": 1.0,
     "total_hours": 0.38
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "River Tyen Estuarine Waters",
+    "company_name": "Yorkshire Water",
+    "river_name": "Kirk Hammerton Beck",
     "total_count": 1.0,
-    "total_hours": 0.37
+    "total_hours": 0.38
   },
   {
     "company_name": "United Utilities",
     "river_name": "Grasmere Lake",
     "total_count": 7.0,
+    "total_hours": 0.37
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "River Tyen Estuarine Waters",
+    "total_count": 1.0,
     "total_hours": 0.37
   },
   {
@@ -20700,16 +22302,28 @@
     "total_hours": 0.33
   },
   {
+    "company_name": "Severn Trent Water",
+    "river_name": "Chad Brook",
+    "total_count": 4.0,
+    "total_hours": 0.32
+  },
+  {
     "company_name": "South West Water",
     "river_name": "Millbrook Via Sws",
     "total_count": 4.0,
     "total_hours": 0.32
   },
   {
-    "company_name": "Severn Trent Water",
-    "river_name": "Chad Brook",
-    "total_count": 4.0,
-    "total_hours": 0.32
+    "company_name": "South West Water",
+    "river_name": "Kinterbury Creek Via W/Crse",
+    "total_count": 1.0,
+    "total_hours": 0.3
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "Gleave Clough Brook",
+    "total_count": 1.0,
+    "total_hours": 0.3
   },
   {
     "company_name": "United Utilities",
@@ -20718,8 +22332,8 @@
     "total_hours": 0.3
   },
   {
-    "company_name": "United Utilities",
-    "river_name": "Gleave Clough Brook",
+    "company_name": "Southern Water",
+    "river_name": "A Of Teville Stream",
     "total_count": 1.0,
     "total_hours": 0.3
   },
@@ -20737,12 +22351,6 @@
   },
   {
     "company_name": "South West Water",
-    "river_name": "Kinterbury Creek Via W/Crse",
-    "total_count": 1.0,
-    "total_hours": 0.3
-  },
-  {
-    "company_name": "South West Water",
     "river_name": "West Wilder Brook",
     "total_count": 2.0,
     "total_hours": 0.29
@@ -20752,6 +22360,30 @@
     "river_name": "Mill Leat",
     "total_count": 2.0,
     "total_hours": 0.28
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "Harberry Beck",
+    "total_count": 2.0,
+    "total_hours": 0.27
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Cliffe Creek",
+    "total_count": 1.0,
+    "total_hours": 0.27
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "Bridgewater Canal",
+    "total_count": 5.0,
+    "total_hours": 0.27
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "river_name": "Grimscar Dike",
+    "total_count": 1.0,
+    "total_hours": 0.27
   },
   {
     "company_name": "United Utilities",
@@ -20772,38 +22404,26 @@
     "total_hours": 0.27
   },
   {
-    "company_name": "United Utilities",
-    "river_name": "Harberry Beck",
-    "total_count": 2.0,
-    "total_hours": 0.27
-  },
-  {
     "company_name": "Yorkshire Water",
     "river_name": "Duke Of Norfolk'S Culvert",
     "total_count": 1.0,
     "total_hours": 0.27
   },
   {
-    "company_name": "United Utilities",
-    "river_name": "Bridgewater Canal",
-    "total_count": 5.0,
-    "total_hours": 0.27
-  },
-  {
-    "company_name": "Yorkshire Water",
-    "river_name": "Grimscar Dike",
-    "total_count": 1.0,
-    "total_hours": 0.27
-  },
-  {
-    "company_name": "Yorkshire Water",
-    "river_name": "Rud Beck Via A Public Sewer",
+    "company_name": "South West Water",
+    "river_name": "Weston Mill Lake Via W'Course",
     "total_count": 1.0,
     "total_hours": 0.25
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Don,",
+    "company_name": "Wessex Water",
+    "river_name": "Radipole Lake Via Sws",
+    "total_count": 2.0,
+    "total_hours": 0.25
+  },
+  {
+    "company_name": "Anglian Water",
+    "river_name": "Borrow Or Ray Creek",
     "total_count": 1.0,
     "total_hours": 0.25
   },
@@ -20814,26 +22434,62 @@
     "total_hours": 0.25
   },
   {
+    "company_name": "Anglian Water",
+    "river_name": "River Linnet",
+    "total_count": 1.0,
+    "total_hours": 0.25
+  },
+  {
+    "company_name": "Anglian Water",
+    "river_name": "Skegger Beck",
+    "total_count": 1.0,
+    "total_hours": 0.25
+  },
+  {
+    "company_name": "Wessex Water",
+    "river_name": "Radipole Lake",
+    "total_count": 1.0,
+    "total_hours": 0.25
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Clvrt Watercrse River Tyne",
+    "total_count": 1.0,
+    "total_hours": 0.25
+  },
+  {
     "company_name": "Northumbrian Water",
     "river_name": "Black Burn Via Sw Sewer",
     "total_count": 1.0,
     "total_hours": 0.25
   },
   {
-    "company_name": "Dwr Cymru Welsh Water",
-    "river_name": "Lugg Rheay",
+    "company_name": "Northumbrian Water",
+    "river_name": "Wear/Pelaw Wood Beck",
     "total_count": 1.0,
     "total_hours": 0.25
   },
   {
-    "company_name": "South West Water",
-    "river_name": "Weston Mill Lake Via W'Course",
+    "company_name": "Yorkshire Water",
+    "river_name": "Rud Beck Via A Public Sewer",
     "total_count": 1.0,
     "total_hours": 0.25
   },
   {
-    "company_name": "Anglian Water",
-    "river_name": "River Linnet",
+    "company_name": "Wessex Water",
+    "river_name": "Storm Culvert",
+    "total_count": 1.0,
+    "total_hours": 0.25
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Don,",
+    "total_count": 1.0,
+    "total_hours": 0.25
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Culverted Seaham Burn",
     "total_count": 1.0,
     "total_hours": 0.25
   },
@@ -20845,49 +22501,7 @@
   },
   {
     "company_name": "Northumbrian Water",
-    "river_name": "Clvrt Watercrse River Tyne",
-    "total_count": 1.0,
-    "total_hours": 0.25
-  },
-  {
-    "company_name": "Wessex Water",
-    "river_name": "Radipole Lake Via Sws",
-    "total_count": 2.0,
-    "total_hours": 0.25
-  },
-  {
-    "company_name": "Wessex Water",
-    "river_name": "Radipole Lake",
-    "total_count": 1.0,
-    "total_hours": 0.25
-  },
-  {
-    "company_name": "Wessex Water",
-    "river_name": "Storm Culvert",
-    "total_count": 1.0,
-    "total_hours": 0.25
-  },
-  {
-    "company_name": "Anglian Water",
-    "river_name": "Skegger Beck",
-    "total_count": 1.0,
-    "total_hours": 0.25
-  },
-  {
-    "company_name": "Northumbrian Water",
-    "river_name": "Culverted Seaham Burn",
-    "total_count": 1.0,
-    "total_hours": 0.25
-  },
-  {
-    "company_name": "Anglian Water",
-    "river_name": "Borrow Or Ray Creek",
-    "total_count": 1.0,
-    "total_hours": 0.25
-  },
-  {
-    "company_name": "Northumbrian Water",
-    "river_name": "Wear/Pelaw Wood Beck",
+    "river_name": "Normanby Beck",
     "total_count": 1.0,
     "total_hours": 0.25
   },
@@ -20898,8 +22512,8 @@
     "total_hours": 0.25
   },
   {
-    "company_name": "Northumbrian Water",
-    "river_name": "Normanby Beck",
+    "company_name": "Dwr Cymru Welsh Water",
+    "river_name": "Lugg Rheay",
     "total_count": 1.0,
     "total_hours": 0.25
   },
@@ -20908,6 +22522,48 @@
     "river_name": "Hawthorn Brook",
     "total_count": 1.0,
     "total_hours": 0.24
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "river_name": "Carlinghow Beck",
+    "total_count": 1.0,
+    "total_hours": 0.23
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "Valley Brook Via Sws",
+    "total_count": 1.0,
+    "total_hours": 0.23
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Willows Pond",
+    "total_count": 1.0,
+    "total_hours": 0.23
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "river_name": "Cockshaw Burn Culverted",
+    "total_count": 2.0,
+    "total_hours": 0.23
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "River Midden",
+    "total_count": 1.0,
+    "total_hours": 0.23
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "river_name": "Dearne And Dove Canal",
+    "total_count": 1.0,
+    "total_hours": 0.23
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "river_name": "Toad Hall Beck",
+    "total_count": 1.0,
+    "total_hours": 0.23
   },
   {
     "company_name": "Northumbrian Water",
@@ -20935,49 +22591,13 @@
   },
   {
     "company_name": "Yorkshire Water",
-    "river_name": "Stain Beck",
-    "total_count": 1.0,
-    "total_hours": 0.23
-  },
-  {
-    "company_name": "Yorkshire Water",
-    "river_name": "Carlinghow Beck",
-    "total_count": 1.0,
-    "total_hours": 0.23
-  },
-  {
-    "company_name": "United Utilities",
-    "river_name": "Valley Brook Via Sws",
-    "total_count": 1.0,
-    "total_hours": 0.23
-  },
-  {
-    "company_name": "Yorkshire Water",
     "river_name": "To Foul Sewer",
     "total_count": 1.0,
     "total_hours": 0.23
   },
   {
     "company_name": "Yorkshire Water",
-    "river_name": "Toad Hall Beck",
-    "total_count": 1.0,
-    "total_hours": 0.23
-  },
-  {
-    "company_name": "Northumbrian Water",
-    "river_name": "Cockshaw Burn Culverted",
-    "total_count": 2.0,
-    "total_hours": 0.23
-  },
-  {
-    "company_name": "Yorkshire Water",
-    "river_name": "Dearne And Dove Canal",
-    "total_count": 1.0,
-    "total_hours": 0.23
-  },
-  {
-    "company_name": "Northumbrian Water",
-    "river_name": "Willows Pond",
+    "river_name": "Stain Beck",
     "total_count": 1.0,
     "total_hours": 0.23
   },
@@ -20986,6 +22606,18 @@
     "river_name": "Whitsun Brook",
     "total_count": 1.0,
     "total_hours": 0.21
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "Ochreley Brook",
+    "total_count": 5.0,
+    "total_hours": 0.2
+  },
+  {
+    "company_name": "Southern Water",
+    "river_name": "Western Yar Estuary",
+    "total_count": 1.0,
+    "total_hours": 0.2
   },
   {
     "company_name": "Wessex Water",
@@ -20997,12 +22629,6 @@
     "company_name": "Wessex Water",
     "river_name": "Kennet",
     "total_count": 2.0,
-    "total_hours": 0.2
-  },
-  {
-    "company_name": "United Utilities",
-    "river_name": "Ochreley Brook",
-    "total_count": 5.0,
     "total_hours": 0.2
   },
   {
@@ -21018,21 +22644,27 @@
     "total_hours": 0.18
   },
   {
-    "company_name": "Severn Trent Water",
-    "river_name": "Salter Sike Drain",
-    "total_count": 1.0,
-    "total_hours": 0.17
-  },
-  {
     "company_name": "Yorkshire Water",
     "river_name": "Culverted River Foss",
     "total_count": 2.0,
     "total_hours": 0.17
   },
   {
+    "company_name": "Severn Trent Water",
+    "river_name": "Diggin Dyke",
+    "total_count": 1.0,
+    "total_hours": 0.17
+  },
+  {
     "company_name": "Anglian Water",
     "river_name": "Strood Channel",
     "total_count": 2.0,
+    "total_hours": 0.17
+  },
+  {
+    "company_name": "Severn Trent Water",
+    "river_name": "Salter Sike Drain",
+    "total_count": 1.0,
     "total_hours": 0.17
   },
   {
@@ -21045,12 +22677,6 @@
     "company_name": "Wessex Water",
     "river_name": "River Marden Via Sws",
     "total_count": 2.0,
-    "total_hours": 0.17
-  },
-  {
-    "company_name": "Severn Trent Water",
-    "river_name": "Diggin Dyke",
-    "total_count": 1.0,
     "total_hours": 0.17
   },
   {
@@ -21084,32 +22710,32 @@
     "total_hours": 0.12
   },
   {
-    "company_name": "Severn Trent Water",
-    "river_name": "River Sherbourne",
-    "total_count": 3.0,
-    "total_hours": 0.11
-  },
-  {
     "company_name": "Yorkshire Water",
     "river_name": "Priorpot Beck",
     "total_count": 1.0,
     "total_hours": 0.11
   },
   {
-    "company_name": "United Utilities",
-    "river_name": "Tom Rudd Beck",
+    "company_name": "Severn Trent Water",
+    "river_name": "River Sherbourne",
+    "total_count": 3.0,
+    "total_hours": 0.11
+  },
+  {
+    "company_name": "Anglian Water",
+    "river_name": "Motts Farm Drain",
+    "total_count": 3.0,
+    "total_hours": 0.1
+  },
+  {
+    "company_name": "Yorkshire Water",
+    "river_name": "Shire Brook In Culvert",
     "total_count": 1.0,
     "total_hours": 0.1
   },
   {
-    "company_name": "South West Water",
-    "river_name": "S/W Sewer Then To Whitelake",
-    "total_count": 2.0,
-    "total_hours": 0.1
-  },
-  {
     "company_name": "United Utilities",
-    "river_name": "Culv'T'D Sect Of Skirting Beck",
+    "river_name": "Tom Rudd Beck",
     "total_count": 1.0,
     "total_hours": 0.1
   },
@@ -21120,22 +22746,16 @@
     "total_hours": 0.1
   },
   {
-    "company_name": "Yorkshire Water",
-    "river_name": "Shire Brook In Culvert",
+    "company_name": "United Utilities",
+    "river_name": "Culv'T'D Sect Of Skirting Beck",
     "total_count": 1.0,
     "total_hours": 0.1
   },
   {
-    "company_name": "Anglian Water",
-    "river_name": "Motts Farm Drain",
-    "total_count": 3.0,
+    "company_name": "South West Water",
+    "river_name": "S/W Sewer Then To Whitelake",
+    "total_count": 2.0,
     "total_hours": 0.1
-  },
-  {
-    "company_name": "Northumbrian Water",
-    "river_name": "Hetton Burn,",
-    "total_count": 3.0,
-    "total_hours": 0.08
   },
   {
     "company_name": "Wessex Water",
@@ -21144,10 +22764,10 @@
     "total_hours": 0.08
   },
   {
-    "company_name": "United Utilities",
-    "river_name": "Lady Beck",
-    "total_count": 1.0,
-    "total_hours": 0.07
+    "company_name": "Northumbrian Water",
+    "river_name": "Hetton Burn,",
+    "total_count": 3.0,
+    "total_hours": 0.08
   },
   {
     "company_name": "Northumbrian Water",
@@ -21162,15 +22782,21 @@
     "total_hours": 0.07
   },
   {
+    "company_name": "United Utilities",
+    "river_name": "Lady Beck",
+    "total_count": 1.0,
+    "total_hours": 0.07
+  },
+  {
     "company_name": "Severn Trent Water",
     "river_name": "Meece Brook",
     "total_count": 1.0,
     "total_hours": 0.05
   },
   {
-    "company_name": "South West Water",
-    "river_name": "River Bovey Via Sw Sewer",
-    "total_count": 7.0,
+    "company_name": "Yorkshire Water",
+    "river_name": "Old Course Of River Ouse",
+    "total_count": 1.0,
     "total_hours": 0.05
   },
   {
@@ -21180,9 +22806,9 @@
     "total_hours": 0.05
   },
   {
-    "company_name": "Yorkshire Water",
-    "river_name": "Old Course Of River Ouse",
-    "total_count": 1.0,
+    "company_name": "South West Water",
+    "river_name": "River Bovey Via Sw Sewer",
+    "total_count": 7.0,
     "total_hours": 0.05
   },
   {
@@ -21199,13 +22825,7 @@
   },
   {
     "company_name": "United Utilities",
-    "river_name": "Clvrtd Section Of River Darwen",
-    "total_count": 1.0,
-    "total_hours": 0.03
-  },
-  {
-    "company_name": "Anglian Water",
-    "river_name": "Birch Brook",
+    "river_name": "Dee Estuary",
     "total_count": 1.0,
     "total_hours": 0.03
   },
@@ -21217,49 +22837,7 @@
   },
   {
     "company_name": "South West Water",
-    "river_name": "Honicknowle Stream Via Sws",
-    "total_count": 1.0,
-    "total_hours": 0.03
-  },
-  {
-    "company_name": "South West Water",
     "river_name": "North Brook",
-    "total_count": 1.0,
-    "total_hours": 0.03
-  },
-  {
-    "company_name": "United Utilities",
-    "river_name": "Dee Estuary",
-    "total_count": 1.0,
-    "total_hours": 0.03
-  },
-  {
-    "company_name": "United Utilities",
-    "river_name": "Witton Brook",
-    "total_count": 2.0,
-    "total_hours": 0.03
-  },
-  {
-    "company_name": "United Utilities",
-    "river_name": "Culvert Culvert St",
-    "total_count": 1.0,
-    "total_hours": 0.03
-  },
-  {
-    "company_name": "United Utilities",
-    "river_name": "Culverted River Irwell",
-    "total_count": 1.0,
-    "total_hours": 0.03
-  },
-  {
-    "company_name": "South West Water",
-    "river_name": "Stone House Creek Via Sws",
-    "total_count": 1.0,
-    "total_hours": 0.03
-  },
-  {
-    "company_name": "United Utilities",
-    "river_name": "Culverted Sec Of River Irk",
     "total_count": 1.0,
     "total_hours": 0.03
   },
@@ -21271,7 +22849,55 @@
   },
   {
     "company_name": "United Utilities",
+    "river_name": "Culverted Sec Of River Irk",
+    "total_count": 1.0,
+    "total_hours": 0.03
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "Clvrtd Section Of River Darwen",
+    "total_count": 1.0,
+    "total_hours": 0.03
+  },
+  {
+    "company_name": "South West Water",
+    "river_name": "Stone House Creek Via Sws",
+    "total_count": 1.0,
+    "total_hours": 0.03
+  },
+  {
+    "company_name": "South West Water",
+    "river_name": "Honicknowle Stream Via Sws",
+    "total_count": 1.0,
+    "total_hours": 0.03
+  },
+  {
+    "company_name": "Anglian Water",
+    "river_name": "Birch Brook",
+    "total_count": 1.0,
+    "total_hours": 0.03
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "Witton Brook",
+    "total_count": 2.0,
+    "total_hours": 0.03
+  },
+  {
+    "company_name": "United Utilities",
     "river_name": "Arclid Brook",
+    "total_count": 1.0,
+    "total_hours": 0.03
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "Culverted River Irwell",
+    "total_count": 1.0,
+    "total_hours": 0.03
+  },
+  {
+    "company_name": "United Utilities",
+    "river_name": "Culvert Culvert St",
     "total_count": 1.0,
     "total_hours": 0.03
   },
