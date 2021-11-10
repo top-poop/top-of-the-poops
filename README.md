@@ -91,6 +91,6 @@ You'll need the following:
 
 # Things to do
 
-- Improve matching of constituencies - some points lie just outside
 - Link with voting results - need to find the division results...
 - Add Tweet to MP / Facebook MP.
+- Add open graph bobbins
