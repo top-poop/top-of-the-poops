@@ -93,5 +93,4 @@ You'll need the following:
 
 - Improve matching of constituencies - some points lie just outside
 - Link with voting results - need to find the division results...
-- Add sewage dump count to beaches & shellfisheries
 - Add Tweet to MP / Facebook MP.
