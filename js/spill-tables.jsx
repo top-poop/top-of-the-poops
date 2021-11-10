@@ -5,10 +5,6 @@ const formatNumber = n => n.toLocaleString(undefined, {minimumFractionDigits: 0,
 
 const renderNumericCell = ({value}) => formatNumber(value)
 
-const renderMPCell = ({value, row}) => {
-  return <a href={row.original.mp_uri}>{value}</a>
-}
-
 const ShellfishSewage = () => {
   const url = "data/generated/shellfish-sewage.json"
   const columns = [
@@ -53,6 +49,33 @@ const SpillsByWaterType = () => {
   return <LoadingTable url={url} columns={columns}/>
 }
 
+const tweetURI = ({uri, text, tags, via}) => {
+  return "https://twitter.com/intent/tweet?url=" + uri + "&text=" + encodeURIComponent(text) + "&hashtags=" + tags.join(",") + "&via=" + via;
+}
+
+const tweetTextFromRow = (row) => {
+  const constituency = row.original.constituency
+  const events = formatNumber(row.original.total_spills)
+  const company = row.original.company
+  const mp = row.original.twitter_handle
+  return `Horrified that ${constituency} had ${events} sewage dumps in 2020 - by ${company} - ${mp} - are you taking action?`
+}
+
+const renderMPCell = ({value, row}) => {
+  const uri = "https://top-of-the-poops.org"
+  const text = tweetTextFromRow(row)
+  const tags = ["sewage"]
+  const via = "sewageuk"
+  const handle = row.original.twitter_handle
+
+  const tweet = handle ? <a href={tweetURI({uri:uri, text:text, tags:tags, via:via})}>Tweet</a> : <span></span>
+
+  return <div>
+    <a href={row.original.mp_uri}>{value}</a>
+    {tweet}
+  </div>
+}
+
 const SpillsByConstituency = () => {
   const spillsByConstituencyURL = "data/generated/spills-by-constituency.json"
   const columns = [
@@ -66,4 +89,4 @@ const SpillsByConstituency = () => {
   return <LoadingTable url={spillsByConstituencyURL} columns={columns}/>
 }
 
-export { SpillsByWaterType, SpillsByConstituency, SpillsByRiver, ShellfishSewage, BathingSewage }
+export {SpillsByWaterType, SpillsByConstituency, SpillsByRiver, ShellfishSewage, BathingSewage}
