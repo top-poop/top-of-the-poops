@@ -7,4 +7,3 @@ from edm_consent_view
 group by company_name, river_name
 having sum(spill_count) > 0 and sum(total_spill_hours) > 0
 order by total_hours desc
-

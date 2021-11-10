@@ -13,9 +13,14 @@ def write_row(writer, row):
 
 
 def process_receiving_water(value):
+    if value == "":
+        value = "UNKNOWN"
+
     value = value.lower()
 
     value = re.sub(r"\s+", " ", value)
+    value = value.replace("un-named tributary of", "tributary of")
+    value = value.replace("un-named trib of", "tributary of")
     value = value.replace("unnamed tributary of", "tributary of")
     value = value.replace("unnamed trib of", "tributary of")
     value = value.replace("a trib of", "")
@@ -29,18 +34,28 @@ def process_receiving_water(value):
     value = value.replace("trib", "")
     # value = value.replace("river", "")
 
-    value = re.sub(r"\(.*\)", r"", value)
+    value = re.sub(r"&.*", r"", value)
+    value = re.sub(r"\(.*", r"", value)
+    value = re.sub(r"\)", r"", value)
     value = re.sub(r"ditch (.*)", r"\1", value)
     value = re.sub(r"the\s(.*)", r"\1", value)
-    value = re.sub(r"[rR]\. (.*)", r"River \1", value)
+    value = re.sub(r"[rR]\.\s?(.*)", r"River \1", value)
     value = re.sub(r"(.*) nt", r"\1", value)
+    value = re.sub(r"(\s)wter\s", r"\1water", value)
     value = value.strip()
+
+    if value == "":
+        value = "unknown"
+
     value = value.title()
     value = re.sub(r"\s+", " ", value)
     return value
 
 
 def test_process_receiving_water():
+    assert process_receiving_water("TRIBUTARY (DITCH) OF THE BECK") == "Unknown"
+    assert process_receiving_water("Trib") == "Unknown"
+    assert process_receiving_water("") == "Unknown"
     assert process_receiving_water("LAND") == "Land"
     assert process_receiving_water("A TRIB OF THE RIVER EDEN") == "River Eden"
     assert process_receiving_water("A TRIBUTARY OF RIVER WEY") == "River Wey"
@@ -56,6 +71,15 @@ def test_process_receiving_water():
     assert process_receiving_water("TRIBUTARY OF THE RIVER STOUR") == "River Stour"
     assert process_receiving_water("R. Ouze") == "River Ouze"
     assert process_receiving_water("Ditch River Wensum NT") == "River Wensum"
+    assert process_receiving_water("Old Moor Drain ( Pulfor") == "Old Moor Drain"
+    assert process_receiving_water("LAND (RTGRAVELS OVER FKSTNBEDS") == "Land"
+    assert process_receiving_water("UNNAMED TRIB OF THE DEAN BURN)") == "Dean Burn"
+    assert process_receiving_water("TAW ESTUARY(E) & CONEY GUT(S)") == "Taw Estuary"
+    assert process_receiving_water("TAW ESTUARY & TRIBUTARY(E)") == "Taw Estuary"
+    assert process_receiving_water("R.THAMES ( TIDAL )") == "River Thames"
+    assert process_receiving_water("UN-NAMED TRIB OF THE R. STORT") == "River Stort"
+    assert process_receiving_water("KNOWLE WTER & MID MARWOOD STRM") == "Knowle Water"
+    assert process_receiving_water("CRAWTERS BROOK") == "Crawters Brook"
 
 
 if __name__ == "__main__":
