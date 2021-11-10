@@ -18,10 +18,15 @@ with unmatched as (
          where grid.grid_reference = effluent_grid_ref
          group by consent_id, effluent_grid_ref
      )
-select * from unmatched
+select unmatched.consent_id, unmatched.effluent_grid_ref, con.pcon20nm from unmatched
                   join min_distances on min_distances.consent_id = unmatched.consent_id
                   join pcon_dec_2020_uk_bfc con on st_distance(wkb_geometry, st_setsrid(st_point(unmatched.lon, unmatched.lat), 4326)) = min_distances.min_distance
 where min_distance < 0.1
+union
+select c.consent_id, c.effluent_grid_ref, con.pcon20nm
+from edm_consent_view c
+         join grid_references grid on grid.grid_reference = c.effluent_grid_ref
+         join pcon_dec_2020_uk_bfc con on st_covers(wkb_geometry, st_setsrid(st_point(grid.lon, grid.lat), 4326))
 
 /* some grid references given as SV0000000000 which is clearly wrong, somewhere way in Atlantic, nearish Tresco  */
 
