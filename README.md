@@ -43,6 +43,7 @@ make generated
 ### MP Data 
 
 https://www.theyworkforyou.com/mps/?f=csv
+https://www.politics-social.com/list/name
 
 #### Not fetched yet
 

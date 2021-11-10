@@ -12,6 +12,16 @@ PSQL=psql -h localhost -d gis -U docker -q --pset=pager=off
 CURL=curl --fail --silent
 PYTHON=../../venv/bin/python3
 
+## MPs Twitter
+
+$(DOWNLOAD)/mps-on-twitter.csv:
+	$(CURL) -o $@ 'https://www.politics-social.com/api/list/csv/name'
+
+.PHONY: load-mps-twitter
+load-mps-twitter: mps_twitter.sql load_mps_twitter.sql $(DOWNLOAD)/mps-on-twitter.csv
+	$(PSQL) -f $<
+	$(PSQL) -f $(word 2,$^)
+
 ## MPs
 
 $(DOWNLOAD)/mps.csv:
@@ -111,8 +121,11 @@ load-postcodes: centroids.sql load_centroids.sql $(DOWNLOAD)/$(POSTCODE_CSV)
 .PHONY: load-sewage
 load-sewage: load-consents load-edm load-edm-consent-view
 
+.PHONY: load-politics
+load-politics: load-constituencies load-mps load-mps-twitter
+
 .PHONY: load-all
-load-all: load-constituencies load-mps load-sewage load-grid-references
+load-all: load-politics load-sewage load-grid-references
 
 clean:
 	rm -rf $(DOWNLOAD)
