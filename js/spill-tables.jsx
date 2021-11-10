@@ -14,6 +14,7 @@ const ShellfishSewage = () => {
   const columns = [
     {title: "Company", accessor: "company_name"},
     {title: "Shellfishery Area", accessor: "shellfishery"},
+    {title: "Sewage Incidents", accessor: "total_count", Cell: renderNumericCell},
     {title: "Hours of Sewage", accessor: "total_hours", Cell: renderNumericCell},
   ]
   return <LoadingTable url={url} columns={columns}/>

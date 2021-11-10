@@ -2,391 +2,469 @@
   {
     "company_name": "South West Water",
     "shellfishery": "Teign",
+    "total_count": 2198.0,
     "total_hours": 22202.54
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Ribble",
+    "total_count": 1713.0,
     "total_hours": 13106.41
   },
   {
     "company_name": "South West Water",
     "shellfishery": "Taw/Torridge",
+    "total_count": 1836.0,
     "total_hours": 12678.92
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "NORTH WIRRAL (EAST)",
+    "total_count": 2705.0,
     "total_hours": 11459.87
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Duddon and Walney",
+    "total_count": 741.0,
     "total_hours": 11240.16
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Solway",
+    "total_count": 1180.0,
     "total_hours": 11048.19
   },
   {
     "company_name": "South West Water",
     "shellfishery": "Exe",
+    "total_count": 1773.0,
     "total_hours": 9393.59
   },
   {
     "company_name": "South West Water",
     "shellfishery": "Dart",
+    "total_count": 1126.0,
     "total_hours": 9100.33
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "MORECAMBE BAY EAST",
+    "total_count": 718.0,
     "total_hours": 8657.75
   },
   {
     "company_name": "South West Water",
     "shellfishery": "Fal Estuary",
+    "total_count": 1437.0,
     "total_hours": 8561.48
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "MORECAMBE BAY (LEVEN)",
+    "total_count": 591.0,
     "total_hours": 8361.39
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Morecambe Bay (Leven)",
+    "total_count": 486.0,
     "total_hours": 7985.87
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "RIBBLE",
+    "total_count": 1245.0,
     "total_hours": 7648.17
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "SILLOTH",
+    "total_count": 854.0,
     "total_hours": 7143.06
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Silloth",
+    "total_count": 714.0,
     "total_hours": 6222.18
   },
   {
     "company_name": "South West Water",
     "shellfishery": "Fowey",
+    "total_count": 828.0,
     "total_hours": 5994.51
   },
   {
     "company_name": "South West Water",
     "shellfishery": "Tamar",
+    "total_count": 600.0,
     "total_hours": 4897.49
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Ravenglass",
+    "total_count": 276.0,
     "total_hours": 4743.12
   },
   {
     "company_name": "Anglian Water",
     "shellfishery": "Colne",
+    "total_count": 302.0,
     "total_hours": 4570.9
   },
   {
     "company_name": "South West Water",
     "shellfishery": "Salcombe",
+    "total_count": 458.0,
     "total_hours": 4286.35
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "North Wirrall (East) and North Wirrall (West)",
+    "total_count": 1088.0,
     "total_hours": 4068.91
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "NORTH WIRRAL (WEST)",
+    "total_count": 470.0,
     "total_hours": 3185.79
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
     "shellfishery": "Dee W",
+    "total_count": 413.0,
     "total_hours": 2688.0
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "WALNEY EAST",
+    "total_count": 672.0,
     "total_hours": 2375.0
   },
   {
     "company_name": "South West Water",
     "shellfishery": "Start Bay",
+    "total_count": 117.0,
     "total_hours": 2253.4
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Walney and Roose Beck",
+    "total_count": 608.0,
     "total_hours": 2232.01
   },
   {
     "company_name": "South West Water",
     "shellfishery": "Camel",
+    "total_count": 283.0,
     "total_hours": 1986.48
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "SOLWAY",
+    "total_count": 426.0,
     "total_hours": 1918.22
   },
   {
     "company_name": "South West Water",
     "shellfishery": "Avon",
+    "total_count": 187.0,
     "total_hours": 1856.64
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Morecambe Bay East and Lune (Broadfleet and Plover Scar)",
+    "total_count": 322.0,
     "total_hours": 1853.3
   },
   {
     "company_name": "Anglian Water",
     "shellfishery": "Colne, Pyfleet",
+    "total_count": 121.0,
     "total_hours": 1773.46
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Duddon",
+    "total_count": 106.0,
     "total_hours": 1705.13
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "North Wirral",
+    "total_count": 530.0,
     "total_hours": 1499.57
   },
   {
     "company_name": "Anglian Water",
     "shellfishery": "Osea Island",
+    "total_count": 86.0,
     "total_hours": 1488.17
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "RAVENGLASS",
+    "total_count": 172.0,
     "total_hours": 1388.18
   },
   {
     "company_name": "Wessex Water",
     "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
+    "total_count": 199.0,
     "total_hours": 1375.15
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Morecambe Bay East",
+    "total_count": 276.0,
     "total_hours": 1335.43
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Lune (Wyre Estuary) and Lune (Broadfleet and Plover Scar)",
+    "total_count": 177.0,
     "total_hours": 1241.83
   },
   {
     "company_name": "Anglian Water",
     "shellfishery": "Tollesbury Channel",
+    "total_count": 68.0,
     "total_hours": 1201.5
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Lune (Wyre)",
+    "total_count": 201.0,
     "total_hours": 1196.55
   },
   {
     "company_name": "South West Water",
     "shellfishery": "Yealm",
+    "total_count": 241.0,
     "total_hours": 1115.95
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "DEE (EAST)",
+    "total_count": 61.0,
     "total_hours": 1025.63
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Lune (Broadfleet)",
+    "total_count": 154.0,
     "total_hours": 810.1
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "North Wirral East",
+    "total_count": 213.0,
     "total_hours": 679.5
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Morcambe Bay (Leven)",
+    "total_count": 106.0,
     "total_hours": 629.81
   },
   {
     "company_name": "South West Water",
     "shellfishery": "Lynher",
+    "total_count": 139.0,
     "total_hours": 619.93
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Lune (Wyre Estuary) Lune (Broadfleet)",
+    "total_count": 96.0,
     "total_hours": 602.5
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Morcambe Bay East",
+    "total_count": 69.0,
     "total_hours": 561.37
   },
   {
     "company_name": "South West Water",
     "shellfishery": "Brixham",
+    "total_count": 79.0,
     "total_hours": 434.83
   },
   {
     "company_name": "Anglian Water",
     "shellfishery": "Burnham Overy Creek",
+    "total_count": 115.0,
     "total_hours": 413.37
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Lune (Broadfleet and Plover Scar) and Morecambe Bay East",
+    "total_count": 45.0,
     "total_hours": 378.81
   },
   {
     "company_name": "Anglian Water",
     "shellfishery": "South East Wash",
+    "total_count": 85.0,
     "total_hours": 330.06
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "LUNE (WYRE ESTUARY)",
+    "total_count": 213.0,
     "total_hours": 304.12
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Lune (Plover Scar)",
+    "total_count": 68.0,
     "total_hours": 303.43
   },
   {
     "company_name": "South West Water",
     "shellfishery": "St.Austell Bay",
+    "total_count": 39.0,
     "total_hours": 300.28
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "ROOSEBECK_E",
+    "total_count": 109.0,
     "total_hours": 297.29
   },
   {
     "company_name": "Anglian Water",
     "shellfishery": "West Wash",
+    "total_count": 90.0,
     "total_hours": 259.74
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Lune (Wyre Estuary)",
+    "total_count": 34.0,
     "total_hours": 243.58
   },
   {
     "company_name": "Wessex Water",
     "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
+    "total_count": 139.0,
     "total_hours": 176.39
   },
   {
     "company_name": "Anglian Water",
     "shellfishery": "Walton Backwaters",
+    "total_count": 59.0,
     "total_hours": 169.3
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "LUNE (BROADFLEET)",
+    "total_count": 23.0,
     "total_hours": 162.87
   },
   {
     "company_name": "Anglian Water",
     "shellfishery": "North East Wash",
+    "total_count": 15.0,
     "total_hours": 158.3
   },
   {
     "company_name": "South West Water",
     "shellfishery": "Helford",
+    "total_count": 80.0,
     "total_hours": 146.85
   },
   {
     "company_name": "Anglian Water",
     "shellfishery": "Foulness",
+    "total_count": 29.0,
     "total_hours": 81.26
   },
   {
     "company_name": "Anglian Water",
     "shellfishery": "North West Norfolk",
+    "total_count": 40.0,
     "total_hours": 55.77
   },
   {
     "company_name": "Anglian Water",
     "shellfishery": "Deben",
+    "total_count": 60.0,
     "total_hours": 47.8
   },
   {
     "company_name": "Anglian Water",
     "shellfishery": "Upper Roach",
+    "total_count": 17.0,
     "total_hours": 47.6
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Lune (Broadfleet and Plover Scar)",
+    "total_count": 10.0,
     "total_hours": 42.7
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
     "shellfishery": "Dee East",
+    "total_count": 12.0,
     "total_hours": 41.0
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Dee",
+    "total_count": 3.0,
     "total_hours": 22.77
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
     "shellfishery": "Dee E",
+    "total_count": 15.0,
     "total_hours": 12.5
   },
   {
     "company_name": "Anglian Water",
     "shellfishery": "Strood Channel",
+    "total_count": 12.0,
     "total_hours": 9.3
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Morecambe Bay East, Lune (Wyre Estuary) and Lune (Broadfleet and Plover Scar)",
+    "total_count": 17.0,
     "total_hours": 7.5
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Solway and Silloth",
+    "total_count": 5.0,
     "total_hours": 3.35
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Morecambe Bay (Leven) and Roose Beck",
+    "total_count": 20.0,
     "total_hours": 3.27
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "#N/A",
+    "total_count": 1.0,
     "total_hours": 0.61
   },
   {
     "company_name": "Anglian Water",
     "shellfishery": "Strood Channel/Blackwater",
+    "total_count": 2.0,
     "total_hours": 0.17
   },
   {
     "company_name": "Anglian Water",
     "shellfishery": "Osea Island/Blackwater",
+    "total_count": 3.0,
     "total_hours": 0.1
   }
 ]
