@@ -93,5 +93,3 @@ You'll need the following:
 # Things to do
 
 - Link with voting results - need to find the division results...
-- Add Tweet to MP / Facebook MP.
-- Add open graph bobbins
