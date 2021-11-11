@@ -89,3 +89,20 @@ table.top-10 {
 .upcase {
     text-transform: capitalize ;
 }
+
+.mp-info div {
+    display: inline-block;
+}
+
+.mp-info .info {
+    float: right;
+}
+
+.mp-info img {
+    opacity: 0.5;
+    margin-left: 5px;
+}
+
+.mp-info img:hover {
+    opacity: 1.0;
+}

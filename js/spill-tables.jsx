@@ -55,10 +55,21 @@ const tweetURI = ({uri, text, tags, via}) => {
 
 const tweetTextFromRow = (row) => {
   const constituency = row.original.constituency
-  const events = formatNumber(row.original.total_spills)
+
+  const spills = row.original.total_spills;
+  const events = formatNumber(spills)
   const company = row.original.company
   const mp = row.original.twitter_handle
-  return `Horrified that ${constituency} had ${events} sewage dumps in 2020 - by ${company} - ${mp} - are you taking action?`
+  if ( spills > 20 ) {
+    return `Horrified that ${constituency} had ${events} sewage dumps in 2020 - by ${company} - ${mp} - are you taking action?\n\n`
+  }
+  else {
+    return `Even though ${constituency} had few notified sewage dumps in 2020, there were more than 400,000 in England & Wales. ${mp} are you taking action?\n\n`
+  }
+}
+
+const An = ( { ...props }) => {
+  return <a target="_blank" rel="noopener noreferrer" {...props }>{props.children}</a>
 }
 
 const renderMPCell = ({value, row}) => {
@@ -68,11 +79,19 @@ const renderMPCell = ({value, row}) => {
   const via = "sewageuk"
   const handle = row.original.twitter_handle
 
-  const tweet = handle ? <a href={tweetURI({uri:uri, text:text, tags:tags, via:via})}>Tweet</a> : <span></span>
+  const icon_size = 24
 
-  return <div>
-    <a href={row.original.mp_uri}>{value}</a>
-    {tweet}
+  const content = <img width={icon_size} height={icon_size} alt="tweet icon" src="assets/icons/twitter.svg"/>
+  const tweet = handle ? <An href={tweetURI({uri:uri, text:text, tags:tags, via:via})}>{content}</An> : <span></span>
+
+  return <div className="mp-info">
+    <div className="name">
+      {value}
+    </div>
+    <div className="info">
+      {tweet}
+      <An href={row.original.mp_uri}><img width={icon_size} height={icon_size} alt="info icon" src="assets/icons/info-circle-fill.svg"/></An>
+    </div>
   </div>
 }
 

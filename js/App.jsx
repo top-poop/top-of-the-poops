@@ -188,6 +188,9 @@ class App extends React.Component {
               constituency fare?
               You can search by typing the name into the search box.
               Maybe you want to tell your MP about it?</p>
+
+            <p>Click on the <img src="assets/icons/twitter.svg"/> icon in the table below to send a tweet to the relevant MP, or alternatively
+            click on the <img src="assets/icons/info-circle-fill.svg"/> icon to find out more about their voting history</p>
           </Col>
         </Row>
         <Row>
