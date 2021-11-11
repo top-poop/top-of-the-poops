@@ -12,7 +12,10 @@ perhaps publish some interesting findings.
 ## How to use
 
 You can clone the repo - I use IntelliJ IDEA to make a hot-reloading web page. 
-The javascript build runs with `make watch` - then make sure to `make prod` before pushing to prod.
+The build runs locally with `make watch` (some of the queries, particularly the constituency one, are intensive - not optimised)
+
+All data files are generated on developer machine, only the javascript build runs on CI. This ensures the CI build is acceptably fast.
+Currently it runs in about 10 seconds. Which is OK, could be faster.
 
 `make watch` uses inotify - this may not work on MacOS.
 
