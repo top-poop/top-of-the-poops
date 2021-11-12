@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import {LoadingPlot} from "./plot";
 import {BathingSewage, ShellfishSewage, SpillsByConstituency, SpillsByRiver, SpillsByWaterType} from "./spill-tables";
 import {Col, Container, Row, Table} from "react-bootstrap";
+import {ForkMeHero, TitleHero} from "./heroes";
 import {companies} from "./companies";
 import {twitterURI} from "./twitter";
 
@@ -115,22 +116,10 @@ const DataMatch = () => {
 class App extends React.Component {
     render() {
         return <div>
-            <div className="hero">
-                <img src="assets/poop.png"/>
-                <div className="title">Top of the Poops</div>
-                <img src="assets/poop.png"/>
-            </div>
-
-            <div className="fork-me-wrapper">
-                <div className="fork-me">
-                    <a className="fork-me-link" href="https://github.com/top-poop/top-of-the-poops">
-                        <span className="fork-me-text">Source Code On GitHub</span>
-                    </a>
-                </div>
-            </div>
-
-            <blockquote>
-                There were at least <em>500,000</em> "sewage spills" - where sewage is intentionally dumped
+            <TitleHero/>
+      <ForkMeHero/>
+      <blockquote>
+        There were at least <em>500,000</em> "sewage spills" - where sewage is intentionally dumped
                 into waterways - in England and Wales in 2020
             </blockquote>
 
