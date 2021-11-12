@@ -1,11 +1,13 @@
 
 .PHONY: prod
 prod:
-	npm run build-prod
+	npm run build-index-prod
+	npm run build-maps-prod
 
 .PHONY: dev
 dev:
-	npm run build
+	npm run build-index-dev
+	npm run build-maps-dev
 
 .PHONY: watch
 watch:
