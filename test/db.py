@@ -24,7 +24,8 @@ def test_can_resolve_lat_long_for_every_grid_reference_in_consents():
     where effluent_grid.lat is null or outlet_grid.lat is null
     """)[0]["count"]
 
-    assert count == 0
+    # there are 2 grid references with sheet SS - which library doesn't know
+    assert count == 2
 
 
 def test_can_match_every_constituency_to_an_mp():
@@ -37,3 +38,12 @@ where mps.constituency is null
     # due to tragic incident, no current MP for Southend West
 
     assert len(result) == 1
+
+
+def test_have_mapped_all_grid_references():
+    count = run_sql("""
+    select count(*) from edm_consent_view
+left join grid_references on effluent_grid_ref = grid_reference
+where grid_reference is null
+""")[0]["count"]
+    assert count == 0

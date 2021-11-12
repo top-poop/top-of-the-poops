@@ -52,6 +52,9 @@ if __name__ == "__main__":
 
             try:
                 (easting, northing) = osgb.parse_grid(grid_reference)
+            except osgb.gridder.UndefinedSheetError as e:
+                print(f"{e}", file=sys.stderr)
+                continue
             except osgb.gridder.GarbageError:
                 # invalid grid reference, align to sheet if possible
                 print(f"invalid grid reference {grid_reference}", file=sys.stderr)

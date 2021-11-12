@@ -92,7 +92,7 @@ load-edm: edm.sql load_edm.sql $(DOWNLOAD)/standardised-returns.csv
 
 ## Grid References
 
-$(DOWNLOAD)/grid-references.csv: $(DOWNLOAD)/consents_active.csv convert-grid-references.py
+$(DOWNLOAD)/grid-references.csv: $(DOWNLOAD)/consents_all.csv convert-grid-references.py
 	$(PYTHON) convert-grid-references.py $< $@
 
 # must run after load-constituencies and load-edm-consent-view

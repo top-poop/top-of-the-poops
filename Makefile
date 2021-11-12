@@ -28,6 +28,10 @@ $(PYTHON): .python_uptodate
 web/data/generated/%.json: generate/$(basename $(notdir %)).sql $(PYTHON) $(GENERATE) $(FILES)
 	$(PYTHON) $(GENERATE) $< $@
 
+.PHONY: clean
+clean:
+	rm web/data/generated/*.json
+
 generated: $(GENERATED)
 
 .PHONY: it
