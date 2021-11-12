@@ -43,6 +43,12 @@ You'll need to have set up the database stuff first
 make generated
 ```
 
+
+### React
+
+Why is there a React app per page? 
+Because it makes it easy to write the software
+
 ### MP Data 
 
 https://www.theyworkforyou.com/mps/?f=csv
