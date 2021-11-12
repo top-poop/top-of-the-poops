@@ -5400,51 +5400,11 @@
     "total_hours": 0.03
   },
   {
-    "constituency": "Stroud",
-    "mp_name": "Siobhan Baillie",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25838/siobhan_baillie/stroud",
-    "twitter_handle": "@Siobhan_Baillie",
-    "company": "Wessex Water",
-    "total_spills": 0.0,
-    "total_hours": 0.0
-  },
-  {
-    "constituency": "Kingston upon Hull North",
-    "mp_name": "Diana R. Johnson",
+    "constituency": "Hackney North and Stoke Newington",
+    "mp_name": "Diane Abbott",
     "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/11647/diana_r._johnson/kingston_upon_hull_north",
-    "twitter_handle": "@DianaJohnsonMP",
-    "company": "Yorkshire Water",
-    "total_spills": 0.0,
-    "total_hours": 0.0
-  },
-  {
-    "constituency": "Twickenham",
-    "mp_name": "Munira Wilson",
-    "mp_party": "Liberal Democrat",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25820/munira_wilson/twickenham",
-    "twitter_handle": "@munirawilson",
-    "company": "Thames Water",
-    "total_spills": 0.0,
-    "total_hours": 0.0
-  },
-  {
-    "constituency": "Hertsmere",
-    "mp_name": "Oliver Dowden",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25323/oliver_dowden/hertsmere",
-    "twitter_handle": "@OliverDowden",
-    "company": "Thames Water",
-    "total_spills": 0.0,
-    "total_hours": 0.0
-  },
-  {
-    "constituency": "Hayes and Harlington",
-    "mp_name": "John Martin McDonnell",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/10383/john_martin_mcdonnell/hayes_and_harlington",
-    "twitter_handle": "@johnmcdonnellMP",
+    "mp_uri": "https://www.theyworkforyou.com/mp/10001/diane_abbott/hackney_north_and_stoke_newington",
+    "twitter_handle": "@HackneyAbbott",
     "company": "Thames Water",
     "total_spills": 0.0,
     "total_hours": 0.0
@@ -5460,6 +5420,36 @@
     "total_hours": 0.0
   },
   {
+    "constituency": "Hayes and Harlington",
+    "mp_name": "John Martin McDonnell",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/10383/john_martin_mcdonnell/hayes_and_harlington",
+    "twitter_handle": "@johnmcdonnellMP",
+    "company": "Thames Water",
+    "total_spills": 0.0,
+    "total_hours": 0.0
+  },
+  {
+    "constituency": "Hertsmere",
+    "mp_name": "Oliver Dowden",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25323/oliver_dowden/hertsmere",
+    "twitter_handle": "@OliverDowden",
+    "company": "Thames Water",
+    "total_spills": 0.0,
+    "total_hours": 0.0
+  },
+  {
+    "constituency": "Kingston upon Hull North",
+    "mp_name": "Diana R. Johnson",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/11647/diana_r._johnson/kingston_upon_hull_north",
+    "twitter_handle": "@DianaJohnsonMP",
+    "company": "Yorkshire Water",
+    "total_spills": 0.0,
+    "total_hours": 0.0
+  },
+  {
     "constituency": "Mole Valley",
     "mp_name": "Paul Beresford",
     "mp_party": "Conservative",
@@ -5470,11 +5460,11 @@
     "total_hours": 0.0
   },
   {
-    "constituency": "Thurrock",
-    "mp_name": "Jackie Doyle-Price",
+    "constituency": "Norwich North",
+    "mp_name": "Chloe Smith",
     "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24957/jackie_doyle-price/thurrock",
-    "twitter_handle": "@JackieDP",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24691/chloe_smith/norwich_north",
+    "twitter_handle": "@NorwichChloe",
     "company": "Anglian Water",
     "total_spills": 0.0,
     "total_hours": 0.0
@@ -5490,21 +5480,31 @@
     "total_hours": 0.0
   },
   {
-    "constituency": "Norwich North",
-    "mp_name": "Chloe Smith",
+    "constituency": "Stroud",
+    "mp_name": "Siobhan Baillie",
     "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24691/chloe_smith/norwich_north",
-    "twitter_handle": "@NorwichChloe",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25838/siobhan_baillie/stroud",
+    "twitter_handle": "@Siobhan_Baillie",
+    "company": "Wessex Water",
+    "total_spills": 0.0,
+    "total_hours": 0.0
+  },
+  {
+    "constituency": "Thurrock",
+    "mp_name": "Jackie Doyle-Price",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24957/jackie_doyle-price/thurrock",
+    "twitter_handle": "@JackieDP",
     "company": "Anglian Water",
     "total_spills": 0.0,
     "total_hours": 0.0
   },
   {
-    "constituency": "Hackney North and Stoke Newington",
-    "mp_name": "Diane Abbott",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/10001/diane_abbott/hackney_north_and_stoke_newington",
-    "twitter_handle": "@HackneyAbbott",
+    "constituency": "Twickenham",
+    "mp_name": "Munira Wilson",
+    "mp_party": "Liberal Democrat",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25820/munira_wilson/twickenham",
+    "twitter_handle": "@munirawilson",
     "company": "Thames Water",
     "total_spills": 0.0,
     "total_hours": 0.0

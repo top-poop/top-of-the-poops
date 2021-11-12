@@ -95,10 +95,13 @@ load-edm: edm.sql load_edm.sql $(DOWNLOAD)/standardised-returns.csv
 $(DOWNLOAD)/grid-references.csv: $(DOWNLOAD)/consents_active.csv convert-grid-references.py
 	$(PYTHON) convert-grid-references.py $< $@
 
+# must run after load-constituencies and load-edm-consent-view
+# but can't be bothered to make the dependencies work right now, just run it after.
 .PHONY: load-grid-references
-load-grid-references: grid_references.sql load_grid_references.sql $(DOWNLOAD)/grid-references.csv
+load-grid-references: grid_references.sql load_grid_references.sql update_grid_references.sql $(DOWNLOAD)/grid-references.csv
 	$(PSQL) -f $<
 	$(PSQL) -f $(word 2,$^)
+	$(PSQL) -f $(word 3,$^)
 
 ##
 
