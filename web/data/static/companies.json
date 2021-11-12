@@ -9,7 +9,8 @@
       "postcode": "PE29 6YJ"
     },
     "phone": "+44 1480 323 000",
-    "web": "http://www.anglianwater.co.uk/"
+    "web": "http://www.anglianwater.co.uk/",
+    "twitter": "@AnglianWater"
   },
   {
     "name": "Dwr Cymru Welsh Water",
@@ -21,7 +22,8 @@
       "postcode": "CF46 6LY"
     },
     "phone": "+44 1443 452 300",
-    "web": "http://www.dwrcymru.co.uk/"
+    "web": "http://www.dwrcymru.co.uk/",
+    "twitter": "@DwrCymru"
   },
   {
     "name": "Northumbrian Water",
@@ -33,7 +35,8 @@
       "postcode": "DH1 5FJ"
     },
     "phone": "+44 8706 084820",
-    "web": "http://www.nwl.co.uk/"
+    "web": "http://www.nwl.co.uk/",
+    "twitter": "@NorthumbrianH2O"
   },
   {
     "name": "Severn Trent Water",
@@ -45,7 +48,8 @@
       "postcode": "CV1 2LZ"
     },
     "phone": "+44 24 7771 5000",
-    "web": "http://www.stwater.co.uk/"
+    "web": "http://www.stwater.co.uk/",
+    "twitter": "@stwater"
   },
   {
     "name": "South West Water",
@@ -57,7 +61,8 @@
       "postcode": "EX2 7HR"
     },
     "phone": "+44 1392 446 688",
-    "web": "http://www.southwestwater.co.uk/"
+    "web": "http://www.southwestwater.co.uk/",
+    "twitter": "@SouthWestWater"
   },
   {
     "name": "Southern Water",
@@ -69,7 +74,8 @@
       "postcode": "BN13 3NX"
     },
     "phone": "+44 1903 264 444",
-    "web": "http://www.southernwater.co.uk/"
+    "web": "http://www.southernwater.co.uk/",
+    "twitter": "@SouthernWater"
   },
   {
     "name": "Thames Water",
@@ -81,7 +87,8 @@
       "postcode": "RG1 8DB"
     },
     "phone": "0845 9200 888",
-    "web": "http://www.thameswater.co.uk/"
+    "web": "http://www.thameswater.co.uk/",
+    "twitter": "@thameswater"
   },
   {
     "name": "United Utilities",
@@ -93,7 +100,8 @@
       "postcode": "WA5 3LP"
     },
     "phone": "+44 345 672 2888",
-    "web": "http://www.unitedutilities.com/"
+    "web": "http://www.unitedutilities.com/",
+    "twitter": "@unitedutilities"
   },
   {
     "name": "Wessex Water",
@@ -105,7 +113,8 @@
       "postcode": "BA2 7WW"
     },
     "phone": "+44 1225 526 000",
-    "web": "http://www.wessexwater.co.uk/"
+    "web": "http://www.wessexwater.co.uk/",
+    "twitter": "@wessexwater"
   },
   {
     "name": "Yorkshire Water",
@@ -117,6 +126,7 @@
       "postcode": "BD6 2LZ"
     },
     "phone": "+44 1274 691 111",
-    "web": "http://www.yorkshirewater.com/"
+    "web": "http://www.yorkshirewater.com/",
+    "twitter": "@YWHelp"
   }
 ]
