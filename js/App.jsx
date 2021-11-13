@@ -157,9 +157,8 @@ class App extends React.Component {
         <Row>
           <Col>
             <p>
-              Each spill is feeding raw or partially treated sewage into rivers, watersheds or into the sea for at
-              least <em>3 million</em> hours (that's the equivalent
-              of <em>340</em> years!) continuously.
+              Each spill is feeding raw or partially treated sewage into rivers, watersheds or into the sea. Combined, they add up to
+               at least <em>3 million</em> hours (that's the equivalent of <em>340</em> years!) - in only a single year.
             </p>
           </Col>
         </Row>
