@@ -150,7 +150,7 @@ class App extends React.Component {
 
       <blockquote>
         There were at least <em>400,000</em> "sewage spills" - where sewage is intentionally dumped
-        into waterways - in the UK in 2020
+        into waterways - in England and Wales in 2020
       </blockquote>
 
       <Container fluid>
@@ -169,6 +169,9 @@ class App extends React.Component {
               defective or in many cases completely absent. Many recordings of data don't seem to be associated with a valid permit, so
               it is impossible to know where they are.
             </p>
+
+            <p>We don't have information for Dwr Cymru for sewage dumps into Welsh rivers yet, nor data for Scotland or Northern Ireland - we're looking
+            to find this information, and will add it when we can. This means that the picture for the UK as a whole will be considerably worse.</p>
           </Col>
         </Row>
         <Row>
