@@ -93,3 +93,7 @@ table.top-10 {
 .mp-info img:hover {
     opacity: 1.0;
 }
+
+.leaflet-container {
+    height: 700px;
+}
