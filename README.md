@@ -76,6 +76,16 @@ Consented Discharges with Conditions
 https://environment.data.gov.uk/dataset/5fe5ab2e-d465-11e4-8a42-f0def148f590
 https://environment.data.gov.uk/portalstg/sharing/rest/content/items/5e618f2b5c7f47cca44eb468aa2e43f0/data
 
+#### Wales
+Consented Discharges with Conditions
+
+https://lle.gov.wales/catalogue/item/ConsentedDischargesToControlledWatersWithConditions/?lang=en
+https://naturalresourceswales.sharefile.eu/share/view/s05adea6ab5d4df58/fo289e69-abc0-4acb-9923-271512440118
+
+Event Duration Monitoring
+
+Can't find! - Partial information at: https://www.dwrcymru.com/en/our-services/wastewater/combined-storm-overflows/valleys-and-south-east-wales
+
 
 ### Postcodes
 
