@@ -147,12 +147,14 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="process mess of EDM files")
 
     parser.add_argument("directory", default=".", help="directory")
+    parser.add_argument("output", default=".", help="file")
 
     args = parser.parse_args()
 
-    os.chdir(args.directory)
+    with open(args.output, "w") as out:
 
-    with open("standardised-returns.csv", "w") as out:
+        os.chdir(args.directory)
+
         writer = csv.writer(out)
         writer.writerow(
             ["company", "site", "permit", "activity_reference", "is_shellfishery", "is_bathing_beach", "spill_duration",

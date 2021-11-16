@@ -15,6 +15,23 @@ def run_sql(sql):
     return result
 
 
+def test_receiving_water_description_populated():
+    count = run_sql("""
+select count(*) from edm_consent_view where rec_env_code_description is null
+    """)[0]["count"]
+
+    assert count == 0
+
+
+def test_can_resolve_constituency_for_almost_every_grid_reference():
+    # some grid references are way out in the sea. ?
+    count = run_sql("""
+select count(*) as count from grid_references where pcon20nm is null;    
+    """)[0]["count"]
+
+    assert count == 56
+
+
 def test_can_resolve_lat_long_for_every_grid_reference_in_consents():
     count = run_sql("""
     select count(*) as count 
@@ -24,8 +41,7 @@ def test_can_resolve_lat_long_for_every_grid_reference_in_consents():
     where effluent_grid.lat is null or outlet_grid.lat is null
     """)[0]["count"]
 
-    # there are 2 grid references with sheet SS - which library doesn't know
-    assert count == 2
+    assert count == 0
 
 
 def test_can_match_every_constituency_to_an_mp():

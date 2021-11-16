@@ -87,47 +87,107 @@
   {
     "bin": 0.0,
     "company_name": "Dwr Cymru Welsh Water",
-    "count": 5
+    "count": 53
   },
   {
     "bin": 5.0,
     "company_name": "Dwr Cymru Welsh Water",
-    "count": 1
+    "count": 3
   },
   {
-    "bin": 30.0,
+    "bin": 10.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 7
+  },
+  {
+    "bin": 15.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 1
   },
   {
-    "bin": 45.0,
-    "company_name": "Dwr Cymru Welsh Water",
-    "count": 1
-  },
-  {
-    "bin": 55.0,
-    "company_name": "Dwr Cymru Welsh Water",
-    "count": 2
-  },
-  {
-    "bin": 65.0,
+    "bin": 20.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 4
   },
   {
+    "bin": 25.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 4
+  },
+  {
+    "bin": 30.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 8
+  },
+  {
+    "bin": 35.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 5
+  },
+  {
+    "bin": 40.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 8
+  },
+  {
+    "bin": 45.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 9
+  },
+  {
+    "bin": 50.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 8
+  },
+  {
+    "bin": 55.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 16
+  },
+  {
+    "bin": 60.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 12
+  },
+  {
+    "bin": 65.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 16
+  },
+  {
+    "bin": 70.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 16
+  },
+  {
+    "bin": 75.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 19
+  },
+  {
     "bin": 80.0,
     "company_name": "Dwr Cymru Welsh Water",
-    "count": 1
+    "count": 37
+  },
+  {
+    "bin": 85.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 64
+  },
+  {
+    "bin": 90.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 123
   },
   {
     "bin": 95.0,
     "company_name": "Dwr Cymru Welsh Water",
-    "count": 70
+    "count": 1167
   },
   {
     "bin": 100.0,
     "company_name": "Dwr Cymru Welsh Water",
-    "count": 35
+    "count": 536
   },
   {
     "bin": 0.0,

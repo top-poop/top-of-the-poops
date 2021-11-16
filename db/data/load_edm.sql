@@ -1,1 +1,1 @@
-\copy edm from 'download/standardised-returns.csv' delimiter ',' csv header;
+\copy edm from 'download/edm-consolidated.csv' delimiter ',' csv header;

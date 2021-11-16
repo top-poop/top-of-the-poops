@@ -7,6 +7,8 @@ alter table grid_references
 UPDATE grid_references
 SET point = ST_SETSRID(ST_MakePoint(lon, lat), 4326);
 
+create index grid_ref_point_idx on grid_references using gist(point);
+
 alter table grid_references
     add column
         pcon20nm text;
@@ -23,28 +25,25 @@ some grid references given as SV0000000000 which is clearly wrong,
 somewhere way in Atlantic, nearish Tresco hence distance < 0.01
  */
 
-/* next bit takes about 3 mins on dev env - why so slow? */
+/* wow - nearest neighbour in postgis is very cool https://www.postgis.net/workshops/postgis-intro/knn.html */
 
 begin;
 
 create temporary table t on commit drop as
-    with
-     distances as (
-         select grid_reference,
-                min(st_distance(wkb_geometry, point)) as min_distance
-         from grid_references,
-              pcon_dec_2020_uk_bfc con
-         where grid_references.pcon20nm is null
-         group by grid_reference
-     ),
-     closest as (
-         select g.grid_reference, con.pcon20nm
-         from grid_references g
-                  join distances on distances.grid_reference = g.grid_reference
-                  join pcon_dec_2020_uk_bfc con on st_distance(wkb_geometry, point) = distances.min_distance
-         where g.pcon20nm is null and min_distance < 0.1)
-select grid_reference, pcon20nm
-from closest;
+select grid_references.grid_reference,
+       constituencies.distance,
+       constituencies.pcon20nm
+from grid_references
+         cross join lateral (
+    select point <-> con.wkb_geometry as distance,
+           con.pcon20nm
+    from pcon_dec_2020_uk_bfc con
+    order by distance
+    limit 1
+    ) constituencies
+where grid_references.pcon20nm is null
+    and distance < 0.5
+;
 
 update grid_references as g set pcon20nm = t.pcon20nm
 from t

@@ -81,6 +81,8 @@ Consented Discharges with Conditions
 
 https://lle.gov.wales/catalogue/item/ConsentedDischargesToControlledWatersWithConditions/?lang=en
 https://naturalresourceswales.sharefile.eu/share/view/s05adea6ab5d4df58/fo289e69-abc0-4acb-9923-271512440118
+https://storage-eu-205.sharefile.com/download.ashx?dt=dt99e5eec3bd194293acd60049575d41ee&cid=9AQXBd2ldhvlRrRbQ8tE-w&zoneid=zpc3159d90-01f7-41a7-a8ab-3704157466&exp=1637152468&zsid=FB&h=F%2BC3TQBtcWx%2BYjb4jglnxmRAZLWwiRKrwDw7xn%2BoShI%3D
+
 
 Event Duration Monitoring
 

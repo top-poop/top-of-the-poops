@@ -8,7 +8,7 @@ ROOT_DIR:=$(shell dirname $(realpath $(firstword $(MAKEFILE_LIST))))
 
 #Don't care about this.. its just a local database
 export PGPASSWORD=docker
-PSQL=psql -h localhost -d gis -U docker -q --pset=pager=off
+PSQL=psql -v ON_ERROR_STOP=1 -h localhost -d gis -U docker -q --pset=pager=off
 CURL=curl --fail --silent
 PYTHON=../../venv/bin/python3
 
@@ -71,7 +71,10 @@ $(DOWNLOAD)/consents_all.csv: $(DOWNLOAD)/consented.accdb
 $(DOWNLOAD)/consents-processed.csv: $(DOWNLOAD)/consents_all.csv process_consents.py
 	$(PYTHON) process_consents.py $< $@
 
-load-consents: consents.sql load_consents.sql $(DOWNLOAD)/consents-processed.csv
+$(DOWNLOAD)/consents-consolidated.csv: $(DOWNLOAD)/consents-processed.csv $(DOWNLOAD)/consents-wales-standardised.csv
+	cat $^ > $@
+
+load-consents: consents.sql load_consents.sql $(DOWNLOAD)/consents-consolidated.csv
 	$(PSQL) -f $<
 	$(PSQL) -f $(word 2,$^)
 
@@ -80,19 +83,49 @@ EDM_ZIP=Event_Duration_Monitoring_-_Storm_Overflows_-2020.zip
 $(DOWNLOAD)/$(EDM_ZIP):
 	$(CURL) -o $@ 'https://environment.data.gov.uk/portalstg/sharing/rest/content/items/045af51b3be545b79b0c219811d3d243/data'
 
-$(DOWNLOAD)/standardised-returns.csv: $(DOWNLOAD)/$(EDM_ZIP) process_edms.py
+$(DOWNLOAD)/edm.csv: $(DOWNLOAD)/$(EDM_ZIP) process_edms.py
 	unzip -o -d $(DOWNLOAD) $<
 	./convert-edm-xlsx.sh $(DOWNLOAD)
-	$(PYTHON) process_edms.py $(DOWNLOAD)
+	$(PYTHON) process_edms.py $(DOWNLOAD) $@
+
+$(DOWNLOAD)/edm-consolidated.csv: $(DOWNLOAD)/edm.csv $(DOWNLOAD)/edm-wales-standardised.csv
+	cat $^ > $@
 
 .PHONY: load-edm
-load-edm: edm.sql load_edm.sql $(DOWNLOAD)/standardised-returns.csv
+load-edm: edm.sql load_edm.sql $(DOWNLOAD)/edm-consolidated.csv
 	$(PSQL) -f $<
 	$(PSQL) -f $(word 2,$^)
 
+## Welsh Water Consents & EDMs
+
+# link looks dodgy - might be time limited?
+$(DOWNLOAD)/consents-wales.zip:
+	$(CURL) -o $@ 'https://storage-eu-205.sharefile.com/download.ashx?dt=dt99e5eec3bd194293acd60049575d41ee&cid=9AQXBd2ldhvlRrRbQ8tE-w&zoneid=zpc3159d90-01f7-41a7-a8ab-3704157466&exp=1637152468&zsid=FB&h=F%2BC3TQBtcWx%2BYjb4jglnxmRAZLWwiRKrwDw7xn%2BoShI%3D'
+
+# GNU make hates files with spaces
+$(DOWNLOAD)/consents-wales.csv: $(DOWNLOAD)/consents-wales.zip
+	unzip -o -d $(DOWNLOAD) $<
+	mv "$(DOWNLOAD)/NRW_DS116329  Consented Discharges to Controlled Waters OCT21.xlsx" $(DOWNLOAD)/consents-wales.xlsx
+	(cd $(DOWNLOAD) && libreoffice --headless --convert-to csv consents-wales.xlsx)
+
+$(DOWNLOAD)/edm-wales-standardised.csv $(DOWNLOAD)/consents-wales-standardised.csv: $(DOWNLOAD)/consents-wales.csv $(DOWNLOAD)/edm-wales.csv $(DOWNLOAD)/edm.csv process_consents_wales.py bodges.py
+	$(PYTHON) process_consents_wales.py \
+		--consents $< \
+		--wales-edms $(word 2,$^) \
+		--edms $(word 3,$^) \
+		--to-consents $(DOWNLOAD)/consents-wales-standardised.csv \
+		--to-edms $(DOWNLOAD)/edm-wales-standardised.csv
+
+WELSH_EDM_FILE=Welsh-Water-2020-Data-Request-739_EIR-702.xlsx
+
+$(DOWNLOAD)/edm-wales.csv: $(realpath provided/$(WELSH_EDM_FILE))
+	( cd $(DOWNLOAD) && libreoffice --headless --convert-to csv $< )
+	mv $(DOWNLOAD)/$(addsuffix .csv,$(basename $(WELSH_EDM_FILE))) $@
+
+
 ## Grid References
 
-$(DOWNLOAD)/grid-references.csv: $(DOWNLOAD)/consents_all.csv convert-grid-references.py
+$(DOWNLOAD)/grid-references.csv: $(DOWNLOAD)/consents-consolidated.csv convert-grid-references.py
 	$(PYTHON) convert-grid-references.py $< $@
 
 # must run after load-constituencies and load-edm-consent-view

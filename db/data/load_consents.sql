@@ -1,1 +1,1 @@
-\copy consents from 'download/consents-processed.csv' delimiter ',' csv header;
+\copy consents from 'download/consents-consolidated.csv' delimiter ',' csv header;

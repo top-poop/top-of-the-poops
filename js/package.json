@@ -8,7 +8,7 @@
     "react-table": "^7.7.0"
   },
   "scripts": {
-    "build": "esbuild App.jsx --bundle --target=chrome58,firefox57,safari11 --outfile=../web/js/generated/app.js",
+    "build": "esbuild App.jsx --sourcemap=inline  --bundle --target=chrome58,firefox57,safari11 --outfile=../web/js/generated/app.js",
     "build-prod": "esbuild App.jsx --minify --bundle --target=chrome58,firefox57,safari11 --outfile=../web/js/generated/app.js"
   }
 }
