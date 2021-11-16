@@ -126,8 +126,8 @@
     "mp_uri": "https://www.theyworkforyou.com/mp/25832/robin_millar/aberconwy",
     "twitter_handle": "@RobinMillarMP",
     "company": "Dwr Cymru Welsh Water",
-    "total_spills": 3955.0,
-    "total_hours": 40659.0
+    "total_spills": 3841.0,
+    "total_hours": 40128.0
   },
   {
     "constituency": "Ribble Valley",
@@ -480,6 +480,16 @@
     "total_hours": 18076.18
   },
   {
+    "constituency": "Aberavon",
+    "mp_name": "Stephen Kinnock",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25297/stephen_kinnock/aberavon",
+    "twitter_handle": "@SKinnock",
+    "company": "Dwr Cymru Welsh Water",
+    "total_spills": 2256.0,
+    "total_hours": 17743.75
+  },
+  {
     "constituency": "Beverley and Holderness",
     "mp_name": "Graham Stuart",
     "mp_party": "Conservative",
@@ -610,16 +620,6 @@
     "total_hours": 16027.77
   },
   {
-    "constituency": "Aberavon",
-    "mp_name": "Stephen Kinnock",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25297/stephen_kinnock/aberavon",
-    "twitter_handle": "@SKinnock",
-    "company": "Dwr Cymru Welsh Water",
-    "total_spills": 2151.0,
-    "total_hours": 15805.25
-  },
-  {
     "constituency": "High Peak",
     "mp_name": "Robert Largan",
     "mp_party": "Conservative",
@@ -700,14 +700,14 @@
     "total_hours": 14560.09
   },
   {
-    "constituency": "Llanelli",
-    "mp_name": "Nia Griffith",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/11692/nia_griffith/llanelli",
-    "twitter_handle": "@NiaGriffithMP",
+    "constituency": "Clwyd West",
+    "mp_name": "David Jones",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/11506/david_jones/clwyd_west",
+    "twitter_handle": "@DavidJonesMP",
     "company": "Dwr Cymru Welsh Water",
-    "total_spills": 1996.0,
-    "total_hours": 14083.25
+    "total_spills": 1410.0,
+    "total_hours": 14040.5
   },
   {
     "constituency": "Taunton Deane",
@@ -718,6 +718,16 @@
     "company": "Wessex Water",
     "total_spills": 1217.0,
     "total_hours": 13993.2
+  },
+  {
+    "constituency": "Llanelli",
+    "mp_name": "Nia Griffith",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/11692/nia_griffith/llanelli",
+    "twitter_handle": "@NiaGriffithMP",
+    "company": "Dwr Cymru Welsh Water",
+    "total_spills": 1960.0,
+    "total_hours": 13914.0
   },
   {
     "constituency": "Islwyn",
@@ -768,16 +778,6 @@
     "company": "Severn Trent Water",
     "total_spills": 817.0,
     "total_hours": 13548.59
-  },
-  {
-    "constituency": "Clwyd West",
-    "mp_name": "David Jones",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/11506/david_jones/clwyd_west",
-    "twitter_handle": "@DavidJonesMP",
-    "company": "Dwr Cymru Welsh Water",
-    "total_spills": 1296.0,
-    "total_hours": 13509.5
   },
   {
     "constituency": "Amber Valley",
@@ -2210,16 +2210,6 @@
     "total_hours": 4393.21
   },
   {
-    "constituency": "Bridgend",
-    "mp_name": "Jamie Wallis",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25829/jamie_wallis/bridgend",
-    "twitter_handle": "@JamieWallisMP",
-    "company": "Dwr Cymru Welsh Water",
-    "total_spills": 309.0,
-    "total_hours": 4352.5
-  },
-  {
     "constituency": "Charnwood",
     "mp_name": "Edward Argar",
     "mp_party": "Conservative",
@@ -3118,6 +3108,16 @@
     "company": "South West Water",
     "total_spills": 143.0,
     "total_hours": 2445.85
+  },
+  {
+    "constituency": "Bridgend",
+    "mp_name": "Jamie Wallis",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25829/jamie_wallis/bridgend",
+    "twitter_handle": "@JamieWallisMP",
+    "company": "Dwr Cymru Welsh Water",
+    "total_spills": 204.0,
+    "total_hours": 2414.0
   },
   {
     "constituency": "Epping Forest",

@@ -1,18 +1,18 @@
 [
   {
     "water_type": "Freshwater river",
-    "total_count": 393920.0,
-    "total_hours": 3223272.08
+    "total_count": 394157.0,
+    "total_hours": 3225191.23
   },
   {
     "water_type": "Estuary/Tidal River",
-    "total_count": 37354.0,
-    "total_hours": 228029.6
+    "total_count": 37179.0,
+    "total_hours": 226918.77
   },
   {
     "water_type": "Sea",
-    "total_count": 15322.0,
-    "total_hours": 121491.14
+    "total_count": 15343.0,
+    "total_hours": 121792.77
   },
   {
     "water_type": "Permit does not specify",
@@ -26,8 +26,8 @@
   },
   {
     "water_type": "Canal",
-    "total_count": 2536.0,
-    "total_hours": 16209.79
+    "total_count": 2453.0,
+    "total_hours": 15099.84
   },
   {
     "water_type": "Pond/Lake/Reservoir",
