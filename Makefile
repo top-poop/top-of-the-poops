@@ -36,7 +36,6 @@ generated: $(GENERATED)
 
 .PHONY: it
 it:
-	$(MAKE) clean
 	$(MAKE) generated
 	$(MAKE) -C js dev
 
