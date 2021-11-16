@@ -72,7 +72,7 @@ const An = ( { ...props }) => {
   return <a target="_blank" rel="noopener noreferrer" {...props }>{props.children}</a>
 }
 
-const renderMPCell = ({value, row}) => {
+const renderTwitterCell= ({row}) => {
   const uri = "https://top-of-the-poops.org"
   const text = tweetTextFromRow(row)
   const tags = ["sewage"]
@@ -82,30 +82,27 @@ const renderMPCell = ({value, row}) => {
   const icon_size = 24
 
   const content = <img width={icon_size} height={icon_size} alt="tweet icon" src="assets/icons/twitter.svg"/>
-  const tweet = handle ? <An href={tweetURI({uri:uri, text:text, tags:tags, via:via})}>{content}</An> : <span></span>
+  return handle ? <An className="mp-info" href={tweetURI({uri: uri, text: text, tags: tags, via: via})}>{content}</An> : <span></span>
+}
 
-  return <div className="mp-info">
-    <div className="name">
-      {value}
-    </div>
-    <div className="info">
-      {tweet}
-      <An href={row.original.mp_uri}><img width={icon_size} height={icon_size} alt="info icon" src="assets/icons/info-circle-fill.svg"/></An>
-    </div>
-  </div>
+const renderInfoCell= ({row}) => {
+  const icon_size = 24
+  return <An className="mp-info" href={row.original.mp_uri}><img width={icon_size} height={icon_size} alt="info icon" src="assets/icons/info-circle-fill.svg"/></An>
 }
 
 const SpillsByConstituency = () => {
   const spillsByConstituencyURL = "data/generated/spills-by-constituency.json"
   const columns = [
     {title: "Constituency", accessor: "constituency"},
-    {title: "MP Name", accessor: "mp_name", Cell: renderMPCell},
+    {title: "MP Name", accessor: "mp_name"},
+    {title: "Tweet", id: "twitter", Cell: renderTwitterCell },
     {title: "Party", accessor: "mp_party"},
+    {title: "Info", id: "info", Cell: renderInfoCell },
     {title: "Company", accessor: "company"},
     {title: "Sewage Incidents", accessor: "total_spills", Cell: renderNumericCell},
     {title: "Hours of Sewage", accessor: "total_hours", Cell: renderNumericCell},
   ]
-  return <LoadingTable url={spillsByConstituencyURL} columns={columns}/>
+  return <LoadingTable className="mp-info" url={spillsByConstituencyURL} columns={columns}/>
 }
 
 export {SpillsByWaterType, SpillsByConstituency, SpillsByRiver, ShellfishSewage, BathingSewage}
