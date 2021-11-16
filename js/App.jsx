@@ -300,7 +300,7 @@ class App extends React.Component {
                             consent database,
                             do these consents exist at all. Even more obviously, Severn Trent Water lists 1199 spill
                             events as 'No Known Permit', and
-                            Northumbrian Water lists 519 as 'Permit Anomaly'
+                            Northumbrian Water lists 519 as 'Permit Anomaly', and Welsh Water lists over 2,000 spills as "Unpermitted"
                         </p>
 
                     </Col>
