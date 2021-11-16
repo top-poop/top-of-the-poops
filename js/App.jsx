@@ -363,7 +363,7 @@ class App extends React.Component {
                         </p>
                         <p>The data for Welsh Water is supplied to us in a different format, and we have processed this
                             as best we can,
-                            we're grateful to know of any errors - although we belive the interpretation to be pretty
+                            we're grateful to know of any errors - although we believe the interpretation to be pretty
                             accurate. The Welsh Water data is inconsistent as to whether it refers to rivers as "River"
                             or "Afon"
                             and we have converted them as consistently as possible to "River". This is purely to aid
