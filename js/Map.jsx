@@ -126,15 +126,29 @@ const DumpTable = ({dumps}) => {
     return <MyTable columns={columns} data={dumps}/>
 }
 
-const What = ({data}) => {
+const What = ({initial, data}) => {
 
-    const [con, setCon] = useState(null)
+    const [constituency, setCon] = useState(initial)
+
+    console.log(`Initial = ${initial} Constituency = ${constituency}`)
+
+    const constituencySelected = (e) => {
+        const value = e.value;
+        const params = new URLSearchParams();
+        params.append("c", value)
+        params.toString()
+
+        window.history.replaceState(
+            {},
+            `Sewage Dumps for ${value}`,
+            `${window.location.pathname}?${params}`
+        )
+        setCon(value)
+    }
 
     const constituencies = Array.from(new Set(data.map(it => it.constituency)))
 
     const constituencyChoices = constituencies.map(it => ({value: it, label: it}))
-
-    const constituency = con == null ? null : con.value
 
     const relevant = constituency == null ? [] : data.filter(it => it.constituency === constituency)
 
@@ -157,7 +171,11 @@ const What = ({data}) => {
                 <Form>
                     <FormGroup>
                         <Form.Label>Constituency</Form.Label>
-                        <Select options={constituencyChoices} onChange={setCon}/>
+                        <Select
+                            defaultValue={ { value: constituency, label: constituency } }
+                            options={constituencyChoices}
+                            onChange={constituencySelected}
+                        />
                     </FormGroup>
                     {constituency == null ? <Alert variant="primary">Select a constituency</Alert> : null}
                 </Form>
@@ -171,7 +189,7 @@ const What = ({data}) => {
     </Container>
 }
 
-const MapApp = () => {
+const MapApp = ( { constituency }) => {
     return <div>
         <TitleHero/>
         <ForkMeHero/>
@@ -185,10 +203,13 @@ const MapApp = () => {
             <p>Select the constituency from the drop-down - you can type in the box to search</p>
         </Alert>
         <Loading url="data/generated/spills-all.json">
-            <What/>
+            <What initial={constituency}/>
         </Loading>
     </div>
-
 }
 
-ReactDOM.render(<MapApp/>, document.getElementById('root'));
+const urlSearchParams = new URLSearchParams(window.location.search);
+
+const constituency = urlSearchParams.get("c")
+
+ReactDOM.render(<MapApp constituency={constituency}/>, document.getElementById('root'));
