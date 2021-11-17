@@ -64382,16 +64382,6 @@
   {
     "constituency": "North Shropshire",
     "company_name": "Severn Trent Water",
-    "site_name": "PANT PLAS CERRIG Sewage Treatment Works (PANT-PLAS CERRIG (Sewage Treatment Works))",
-    "receiving_water": "Afon Vyrnwy",
-    "lat": 52.786083710187626,
-    "lon": -3.0802239456946117,
-    "spill_count": 84.0,
-    "total_spill_hours": 1624.31
-  },
-  {
-    "constituency": "North Shropshire",
-    "company_name": "Severn Trent Water",
     "site_name": "HIGHER HEATH-PREES (STW)",
     "receiving_water": "Bailey Brook",
     "lat": 52.912105093511414,
@@ -64528,6 +64518,16 @@
     "lon": -2.4924538687566975,
     "spill_count": 24.0,
     "total_spill_hours": 23.97
+  },
+  {
+    "constituency": "North Shropshire",
+    "company_name": "Severn Trent Water",
+    "site_name": "PANT PLAS CERRIG Sewage Treatment Works (PANT-PLAS CERRIG (Sewage Treatment Works))",
+    "receiving_water": "River Vyrnwy",
+    "lat": 52.786083710187626,
+    "lon": -3.0802239456946117,
+    "spill_count": 84.0,
+    "total_spill_hours": 1624.31
   },
   {
     "constituency": "North Shropshire",

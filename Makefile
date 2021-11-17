@@ -49,6 +49,11 @@ watch:
 	done
 
 
+.PHONY: constituencies
+constituencies: generate/constituencies.py generate/constituencies.sql
+	rm web/data/generated/constituencies/*.json
+	$(PYTHON) $< web/data/generated/constituencies
+
 .PHONY: prod
 prod:
 	$(MAKE) generated
