@@ -123,6 +123,7 @@ class LoadingTable extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
+            loaded: false,
             data: [],
         }
     }
@@ -130,13 +131,18 @@ class LoadingTable extends React.Component {
     async componentDidMount() {
         const r = await fetch(this.props.url);
         const j = await r.json();
-        this.setState({data: j});
+        this.setState({loaded: true, data: j});
     }
 
     render() {
-        return <div className="table-responsive">
-            <PaginatedTable striped columns={this.props.columns} data={this.state.data}/>
-        </div>
+        if ( ! this.state.loaded) {
+            return <div style={{height: 600}}></div>
+        } else {
+            return <div className="table-responsive">
+                <PaginatedTable striped columns={this.props.columns} data={this.state.data}/>
+            </div>
+        }
+
     }
 }
 
