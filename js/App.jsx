@@ -2,7 +2,7 @@ import * as React from 'react';
 import ReactDOM from 'react-dom';
 import {LoadingPlot} from "./plot";
 import {BathingSewage, ShellfishSewage, SpillsByConstituency, SpillsByRiver, SpillsByWaterType} from "./spill-tables";
-import {Col, Container, Row, Table} from "react-bootstrap";
+import {Alert, Col, Container, Row, Table} from "react-bootstrap";
 import {ForkMeHero, TitleHero} from "./heroes";
 import {companies} from "./companies";
 import {twitterURI} from "./twitter";
@@ -172,6 +172,13 @@ class App extends React.Component {
                             not all MPs have Twitter - or alternatively
                             click on the <img src="assets/icons/info-circle-fill.svg"/> icon to find out more about
                             their voting history</p>
+                    </Col>
+                </Row>
+                <Row>
+                    <Col>
+                        <Alert variant="success">
+                            <p>Take a look at our new <a href="map.html">map view</a> - it's basic right now, but we're working on it</p>
+                        </Alert>
                     </Col>
                 </Row>
                 <Row>
