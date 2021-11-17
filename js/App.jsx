@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import {LoadingPlot} from "./plot";
 import {BathingSewage, ShellfishSewage, SpillsByConstituency, SpillsByRiver, SpillsByWaterType} from "./spill-tables";
 import {Col, Container, Row, Table} from "react-bootstrap";
+import {companies} from "./companies";
 
 const formatNumber = n => n.toLocaleString(undefined, {minimumFractionDigits: 0, maximumFractionDigits: 0});
 
@@ -17,46 +18,22 @@ const toKebabCase = str =>
 const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0)
 const vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0)
 
-class Loading extends React.Component {
-    constructor(props) {
-        super(props);
-        this.state = {
-            data: [],
-        }
-    }
-
-    async componentDidMount() {
-        const r = await fetch(this.props.url);
-        const j = await r.json();
-        this.setState({data: j});
-    }
-
-    render() {
-        const childrenWithData = React.Children.map(this.props.children, child =>
-            React.cloneElement(child, {data: this.state.data})
-        )
-
-        return <div>{childrenWithData}</div>
-    }
-}
-
-const CompaniesTable = ({data}) => {
+const CompaniesTable = () => {
     return <Table className="company-contact">
-        <thead>
-
-        </thead>
         <tbody>
-        {data.map(row => {
+        {companies.map(row => {
+            const twitterLink = `https://twitter.com/${row.twitter.replace("@","")}`
+            const telLink = `tel:${row.phone}`
+
             return <tr key={row.name}>
                 <td className="logo">
                     <img alt="Logo of company" src={`assets/logos/${toKebabCase(row.name)}.png`}/>
                 </td>
                 <td>{row.name}</td>
-                <td>{row.address.line1} {row.address.line2} {row.address.line3} </td>
-                <td>{row.address.town}</td>
-                <td>{row.address.postcode}</td>
-                <td><a href="tel:{row.phone}">{row.phone}</a></td>
+                <td>{row.address.line1}<br/>{row.address.line2}<br/>{row.address.line3}<br/>{row.address.town}<br/>{row.address.postcode}</td>
+                <td><a href={telLink}>{row.phone}</a></td>
                 <td><a href={row.web}>{row.web}</a></td>
+                <td><a href={twitterLink}>{row.twitter}</a></td>
             </tr>
         })
         }
@@ -340,9 +317,7 @@ class App extends React.Component {
 
                 <Row>
                     <Col>
-                        <Loading url="data/static/companies.json">
-                            <CompaniesTable/>
-                        </Loading>
+                        <CompaniesTable/>
                     </Col>
                 </Row>
 

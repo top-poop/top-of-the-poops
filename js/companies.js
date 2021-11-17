@@ -1,0 +1,138 @@
+
+const companies = [
+    {
+        "name": "Anglian Water",
+        "address": {
+            "line1": "Lancaster House",
+            "line2": "Lancaster Way",
+            "line3": "Ermine Business Park",
+            "town": "Huntindon",
+            "postcode": "PE29 6YJ"
+        },
+        "phone": "+44 1480 323 000",
+        "web": "http://www.anglianwater.co.uk/",
+        "twitter": "@AnglianWater"
+    },
+    {
+        "name": "Dwr Cymru Welsh Water",
+        "address": {
+            "line1": "Pentwyn Road",
+            "line2": "Nelson",
+            "line3": "",
+            "town": "Treharris",
+            "postcode": "CF46 6LY"
+        },
+        "phone": "+44 1443 452 300",
+        "web": "http://www.dwrcymru.co.uk/",
+        "twitter": "@DwrCymru"
+    },
+    {
+        "name": "Northumbrian Water",
+        "address": {
+            "line1": "Abbey Road",
+            "line2": "Pity Me",
+            "line3": "",
+            "town": "Durham",
+            "postcode": "DH1 5FJ"
+        },
+        "phone": "+44 8706 084820",
+        "web": "http://www.nwl.co.uk/",
+        "twitter": "@NorthumbrianH2O"
+    },
+    {
+        "name": "Severn Trent Water",
+        "address": {
+            "line1": "Severn Trent Centre",
+            "line2": "2 St Johns Street",
+            "line3": "",
+            "town": "Coventry",
+            "postcode": "CV1 2LZ"
+        },
+        "phone": "+44 24 7771 5000",
+        "web": "http://www.stwater.co.uk/",
+        "twitter": "@stwater"
+    },
+    {
+        "name": "South West Water",
+        "address": {
+            "line1": "Peninsula House",
+            "line2": "Rydon Lane",
+            "line3": "",
+            "town": "Exeter",
+            "postcode": "EX2 7HR"
+        },
+        "phone": "+44 1392 446 688",
+        "web": "http://www.southwestwater.co.uk/",
+        "twitter": "@SouthWestWater"
+    },
+    {
+        "name": "Southern Water",
+        "address": {
+            "line1": "Southern House",
+            "line2": "Yeoman Road",
+            "line3": "",
+            "town": "Worthing",
+            "postcode": "BN13 3NX"
+        },
+        "phone": "+44 1903 264 444",
+        "web": "http://www.southernwater.co.uk/",
+        "twitter": "@SouthernWater"
+    },
+    {
+        "name": "Thames Water",
+        "address": {
+            "line1": "Clearwater Court",
+            "line2": "Vastern Road",
+            "line3": "",
+            "town": "Reading",
+            "postcode": "RG1 8DB"
+        },
+        "phone": "0845 9200 888",
+        "web": "http://www.thameswater.co.uk/",
+        "twitter": "@thameswater"
+    },
+    {
+        "name": "United Utilities",
+        "address": {
+            "line1": "Haweswater House",
+            "line2": "Lingley Mere Business Park",
+            "line3": "Great Sankey",
+            "town": "Warrington",
+            "postcode": "WA5 3LP"
+        },
+        "phone": "+44 345 672 2888",
+        "web": "http://www.unitedutilities.com/",
+        "twitter": "@unitedutilities"
+    },
+    {
+        "name": "Wessex Water",
+        "address": {
+            "line1": "Claverton Down Road",
+            "line2": "Claverton Down",
+            "line3": "",
+            "town": "Bath",
+            "postcode": "BA2 7WW"
+        },
+        "phone": "+44 1225 526 000",
+        "web": "http://www.wessexwater.co.uk/",
+        "twitter": "@wessexwater"
+    },
+    {
+        "name": "Yorkshire Water",
+        "address": {
+            "line1": "Western House",
+            "line2": "Western Way",
+            "line3": "",
+            "town": "Bradford",
+            "postcode": "BD6 2LZ"
+        },
+        "phone": "+44 1274 691 111",
+        "web": "http://www.yorkshirewater.com/",
+        "twitter": "@YWHelp"
+    }
+]
+
+const companiesMap = new Map(companies.map( it => [ it.name, it ] ))
+
+
+export { companiesMap, companies }
