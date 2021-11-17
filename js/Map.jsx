@@ -111,8 +111,8 @@ const What = ({data}) => {
     <Row>
       <Col md={8}>
         <MapContainer
-          center={[51.505, -0.09]}
-          zoom={18}
+          center={[54.622978, -1.977539]}
+          zoom={6}
           whenCreated={setMap}
           dragging={!L.Browser.mobile}
           scrollWheelZoom={true}>
