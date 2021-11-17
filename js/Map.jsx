@@ -8,6 +8,7 @@ import {ForkMeHero, TitleHero} from "./heroes";
 import {GeoJSON, MapContainer, Marker, TileLayer, Tooltip, useMap} from "react-leaflet";
 import Select from "react-select";
 import {useSortBy, useTable} from "react-table";
+import {formatNumber, renderNumericCell, toKebabCase} from "./text";
 
 class ErrorBoundary extends React.Component {
     constructor(props) {
@@ -78,27 +79,6 @@ function MyTable({columns, data, ...props}) {
     </div>
 }
 
-const bboxFrom = (rows) => {
-    let [min_lat, min_lon] = [Infinity, Infinity]
-    let [max_lat, max_lon] = [-Infinity, -Infinity]
-    rows.forEach(it => {
-        if (it.lat < min_lat) min_lat = it.lat
-        if (it.lon < min_lon) min_lon = it.lon
-        if (it.lat > max_lat) max_lat = it.lat
-        if (it.lon > max_lon) max_lon = it.lon
-    })
-    return [[min_lat, min_lon], [max_lat, max_lon]]
-}
-
-const toKebabCase = str =>
-    str &&
-    str
-        .match(/[A-Z]{2,}(?=[A-Z][a-z]+[0-9]*|\b)|[A-Z]?[a-z]+[0-9]*|[A-Z]|[0-9]+/g)
-        .map(x => x.toLowerCase())
-        .join('-');
-
-const formatNumber = n => n.toLocaleString(undefined, {minimumFractionDigits: 0, maximumFractionDigits: 2});
-
 const Tiles = () => <TileLayer
     attribution='Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery &copy; <a href="https://www.mapbox.com/">Mapbox</a>, Contains OS data &copy; Crown copyright and database right 2021'
     url="https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}"
@@ -139,8 +119,8 @@ const DumpTable = ({dumps}) => {
         {title: "Company", accessor: "company_name"},
         {title: "Waterway", accessor: "receiving_water"},
         {title: "Site", accessor: "site_name"},
-        {title: "Sewage Dumps", accessor: "spill_count"},
-        {title: "Hours", accessor: "total_spill_hours"},
+        {title: "Sewage Dumps", accessor: "spill_count", Cell: renderNumericCell},
+        {title: "Hours", accessor: "total_spill_hours", Cell: renderNumericCell},
     ]
 
     return <MyTable columns={columns} data={dumps}/>

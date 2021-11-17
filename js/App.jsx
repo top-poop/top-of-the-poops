@@ -6,15 +6,7 @@ import {Alert, Col, Container, Row, Table} from "react-bootstrap";
 import {ForkMeHero, TitleHero} from "./heroes";
 import {companies} from "./companies";
 import {twitterURI} from "./twitter";
-
-const formatNumber = n => n.toLocaleString(undefined, {minimumFractionDigits: 0, maximumFractionDigits: 0});
-
-const toKebabCase = str =>
-    str &&
-    str
-        .match(/[A-Z]{2,}(?=[A-Z][a-z]+[0-9]*|\b)|[A-Z]?[a-z]+[0-9]*|[A-Z]|[0-9]+/g)
-        .map(x => x.toLowerCase())
-        .join('-');
+import {formatNumber, toKebabCase} from "./text";
 
 
 const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0)
@@ -69,7 +61,6 @@ const SewageDumpsChart = () => {
                         insetRight: 0.5,
                         fill: "company_name",
                         title: d => d.company_name + " " + formatNumber(d.count),
-
                     }
                 ),
                 Plot.ruleY([0])

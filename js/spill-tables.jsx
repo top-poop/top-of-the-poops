@@ -2,10 +2,8 @@ import {LoadingTable} from "./tables";
 import * as React from "react";
 import {tweetURI} from "./twitter";
 import {companiesMap} from "./companies";
+import {formatNumber, renderNumericCell} from "./text";
 
-const formatNumber = n => n.toLocaleString(undefined, {minimumFractionDigits: 0, maximumFractionDigits: 0});
-
-const renderNumericCell = ({value}) => formatNumber(value)
 
 const ShellfishSewage = () => {
   const url = "data/generated/shellfish-sewage.json"
