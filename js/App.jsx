@@ -14,6 +14,9 @@ const toKebabCase = str =>
         .join('-');
 
 
+const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0)
+const vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0)
+
 class Loading extends React.Component {
     constructor(props) {
         super(props);
@@ -66,9 +69,9 @@ const SewageDumpsChart = () => {
     const optionsFn = (Plot, data) => {
         return {
             marginTop: 50,
-            marginLeft: 100,
+            marginLeft: 75,
             marginBottom: 150,
-            width: 1000,
+            width: vw - 10,
             height: 500,
             x: {
                 padding: 0,
@@ -104,7 +107,7 @@ const DataMatch = () => {
             marginTop: 50,
             marginLeft: 100,
             marginBottom: 150,
-            width: 1000,
+            width: vw,
             height: 500,
             x: {
                 padding: 0, tickRotate: 45, label: "",

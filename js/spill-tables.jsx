@@ -90,16 +90,21 @@ const renderInfoCell= ({row}) => {
   return <An className="mp-info" href={row.original.mp_uri}><img width={icon_size} height={icon_size} alt="info icon" src="assets/icons/info-circle-fill.svg"/></An>
 }
 
+const renderRankCell = ({row}) => {
+  return row.index + 1
+}
+
 const SpillsByConstituency = () => {
   const spillsByConstituencyURL = "data/generated/spills-by-constituency.json"
   const columns = [
+    {title: "Rank", id: "rank", Cell: renderRankCell },
     {title: "Constituency", accessor: "constituency"},
     {title: "MP Name", accessor: "mp_name"},
     {title: "Tweet", id: "twitter", Cell: renderTwitterCell },
     {title: "Party", accessor: "mp_party"},
     {title: "Info", id: "info", Cell: renderInfoCell },
     {title: "Company", accessor: "company"},
-    {title: "Sewage Incidents", accessor: "total_spills", Cell: renderNumericCell},
+    {title: "Sewage Dumps", accessor: "total_spills", Cell: renderNumericCell},
     {title: "Hours of Sewage", accessor: "total_hours", Cell: renderNumericCell},
   ]
   return <LoadingTable className="mp-info" url={spillsByConstituencyURL} columns={columns}/>

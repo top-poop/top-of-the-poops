@@ -12,10 +12,6 @@ blockquote {
     font-weight: 700;
 }
 
-.filter-pagination {
-    display: flex;
-}
-
 .hero {
     display: flex;
     align-items: center;
