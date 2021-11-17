@@ -1,5 +1,7 @@
 import {LoadingTable} from "./tables";
 import * as React from "react";
+import {tweetURI} from "./twitter";
+import {companiesMap} from "./companies";
 
 const formatNumber = n => n.toLocaleString(undefined, {minimumFractionDigits: 0, maximumFractionDigits: 0});
 
@@ -49,10 +51,6 @@ const SpillsByWaterType = () => {
   return <LoadingTable url={url} columns={columns}/>
 }
 
-const tweetURI = ({uri, text, tags, via}) => {
-  return "https://twitter.com/intent/tweet?url=" + uri + "&text=" + encodeURIComponent(text) + "&hashtags=" + tags.join(",") + "&via=" + via;
-}
-
 const tweetTextFromRow = (row) => {
   const constituency = row.original.constituency
 
@@ -60,8 +58,11 @@ const tweetTextFromRow = (row) => {
   const events = formatNumber(spills)
   const company = row.original.company
   const mp = row.original.twitter_handle
+
+  const companyTwitter = companiesMap.get(company).twitter
+
   if ( spills > 20 ) {
-    return `Horrified that ${constituency} had ${events} sewage dumps in 2020 - by ${company} - ${mp} - are you taking action?\n\n`
+    return `Horrified that ${constituency} had ${events} sewage dumps in 2020 - by ${company} ${companyTwitter} - ${mp} - are you taking action?\n\n`
   }
   else {
     return `Even though ${constituency} had few notified sewage dumps in 2020, there were more than 400,000 in England & Wales. ${mp} are you taking action?\n\n`

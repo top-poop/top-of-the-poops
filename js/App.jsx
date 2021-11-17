@@ -4,6 +4,7 @@ import {LoadingPlot} from "./plot";
 import {BathingSewage, ShellfishSewage, SpillsByConstituency, SpillsByRiver, SpillsByWaterType} from "./spill-tables";
 import {Col, Container, Row, Table} from "react-bootstrap";
 import {companies} from "./companies";
+import {twitterURI} from "./twitter";
 
 const formatNumber = n => n.toLocaleString(undefined, {minimumFractionDigits: 0, maximumFractionDigits: 0});
 
@@ -22,7 +23,7 @@ const CompaniesTable = () => {
     return <Table className="company-contact">
         <tbody>
         {companies.map(row => {
-            const twitterLink = `https://twitter.com/${row.twitter.replace("@","")}`
+            const twitterLink = twitterURI(row.twitter)
             const telLink = `tel:${row.phone}`
 
             return <tr key={row.name}>
@@ -139,9 +140,7 @@ class App extends React.Component {
                         <p>
                             Each spill is feeding raw or partially treated sewage into rivers, watersheds or into the
                             sea. Combined, they add up to
-                            at least
-                            <em>3.9 million</em> hours (that's the equivalent of
-                            <em>445</em> years!) - in only
+                            at least <em>3.9 million</em> hours (that's the equivalent of <em>445</em> years!) - in only
                             a single year.
                         </p>
                     </Col>
@@ -159,8 +158,6 @@ class App extends React.Component {
                         <p>We don't have data for Scotland or Northern Ireland - we're looking
                             to find this information, and will add it when we can. This means that the picture for the
                             UK as a whole will be considerably worse.</p>
-
-
                     </Col>
                 </Row>
                 <Row>
