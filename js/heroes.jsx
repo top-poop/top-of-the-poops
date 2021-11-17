@@ -3,7 +3,7 @@ import * as React from "react";
 const TitleHero = () => {
   return <div className="hero">
     <img src="assets/poop.png"/>
-    <div className="title"><a href="index.html">Top of the Poops</a></div>
+    <div className="title"><a href="/">Top of the Poops</a></div>
     <img src="assets/poop.png"/>
   </div>
 }
