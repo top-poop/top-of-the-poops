@@ -123,7 +123,9 @@ const DumpTable = ({dumps}) => {
         {title: "Hours", accessor: "total_spill_hours", Cell: renderNumericCell},
     ]
 
-    return <MyTable columns={columns} data={dumps}/>
+    return <div className="table-responsive">
+        <MyTable columns={columns} data={dumps}/>
+    </div>
 }
 
 const TotalsCard = ( { constituency, rows }) => {
@@ -223,6 +225,9 @@ const What = ({initial, data}) => {
 }
 
 const MapApp = ( { constituency }) => {
+
+    const mapMove = L.Browser.mobile ? <p>Use two fingers to move &amp; zoom the map</p> : null
+
     return <div>
         <TitleHero/>
         <ForkMeHero/>
@@ -234,6 +239,8 @@ const MapApp = ( { constituency }) => {
                 as soon as possible..
             </p>
             <p>Select the constituency from the drop-down - you can type in the box to search</p>
+
+            { mapMove }
         </Alert>
         <Loading url="data/generated/spills-all.json">
             <What initial={constituency}/>
