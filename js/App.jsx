@@ -24,7 +24,8 @@ const CompaniesTable = () => {
                     <img alt="Logo of company" src={`assets/logos/${toKebabCase(row.name)}.png`}/>
                 </td>
                 <td>{row.name}</td>
-                <td>{row.address.line1}<br/>{row.address.line2}<br/>{row.address.line3}<br/>{row.address.town}<br/>{row.address.postcode}</td>
+                <td>{row.address.line1}<br/>{row.address.line2}<br/>{row.address.line3}<br/>{row.address.town}<br/>{row.address.postcode}
+                </td>
                 <td><a href={telLink}>{row.phone}</a></td>
                 <td><a href={row.web}>{row.web}</a></td>
                 <td><a href={twitterLink}>{row.twitter}</a></td>
@@ -108,9 +109,9 @@ class App extends React.Component {
     render() {
         return <div>
             <TitleHero/>
-      <ForkMeHero/>
-      <blockquote>
-        There were at least <em>500,000</em> "sewage spills" - where sewage is intentionally dumped
+            <ForkMeHero/>
+            <blockquote>
+                There were at least <em>500,000</em> "sewage spills" - where sewage is intentionally dumped
                 into waterways - in England and Wales in 2020
             </blockquote>
 
@@ -163,12 +164,15 @@ class App extends React.Component {
                             not all MPs have Twitter - or alternatively
                             click on the <img src="assets/icons/info-circle-fill.svg"/> icon to find out more about
                             their voting history</p>
+
+                        <p>Click on the constituency name to see a map of all the sewage dumps in the constituency</p>
                     </Col>
                 </Row>
                 <Row>
                     <Col>
                         <Alert variant="success">
-                            <p>Take a look at our new <a href="map.html">map view</a> - it's basic right now, but we're working on it</p>
+                            <p>Take a look at our new <a href="map.html">map view</a> - it's basic right now, but we're
+                                working on it</p>
                         </Alert>
                     </Col>
                 </Row>
@@ -264,7 +268,8 @@ class App extends React.Component {
                             consent database,
                             do these consents exist at all. Even more obviously, Severn Trent Water lists 1199 spill
                             events as 'No Known Permit', and
-                            Northumbrian Water lists 519 as 'Permit Anomaly', and Welsh Water lists over 2,000 spills as "Unpermitted"
+                            Northumbrian Water lists 519 as 'Permit Anomaly', and Welsh Water lists over 2,000 spills as
+                            "Unpermitted"
                         </p>
 
                     </Col>

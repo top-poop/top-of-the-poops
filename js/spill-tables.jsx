@@ -93,11 +93,18 @@ const renderRankCell = ({row}) => {
   return row.index + 1
 }
 
+const renderConstituencyCell = ( { value } ) => {
+  const p = new URLSearchParams()
+  p.set("c", value)
+  const url = `map.html?${p}`
+  return <div className="mp-info"><a href={url}>{value}</a></div>
+}
+
 const SpillsByConstituency = () => {
   const spillsByConstituencyURL = "data/generated/spills-by-constituency.json"
   const columns = [
     {title: "Rank", id: "rank", Cell: renderRankCell },
-    {title: "Constituency", accessor: "constituency"},
+    {title: "Constituency", accessor: "constituency", Cell: renderConstituencyCell },
     {title: "MP Name", accessor: "mp_name"},
     {title: "Tweet", id: "twitter", Cell: renderTwitterCell },
     {title: "Party", accessor: "mp_party"},

@@ -2,7 +2,7 @@ import * as React from 'react';
 import {useRef, useState} from 'react';
 import ReactDOM from 'react-dom';
 import {Loading} from "./loading";
-import {Alert, Col, Container, Form, FormGroup, Row, Table} from "react-bootstrap";
+import {Alert, Card, Col, Container, Form, FormGroup, Row, Table} from "react-bootstrap";
 import {ForkMeHero, TitleHero} from "./heroes";
 
 import {GeoJSON, MapContainer, Marker, TileLayer, Tooltip, useMap} from "react-leaflet";
@@ -126,6 +126,27 @@ const DumpTable = ({dumps}) => {
     return <MyTable columns={columns} data={dumps}/>
 }
 
+const TotalsCard = ( { constituency, rows }) => {
+    if ( constituency == null ) {
+        return null;
+    }
+
+    const sites = formatNumber(rows.length)
+    const spills = formatNumber(rows.reduce( ( acc, it ) => acc + it.spill_count, 0))
+    const hours = formatNumber(rows.reduce( ( acc, it ) => acc + it.total_spill_hours, 0))
+
+    return <Card>
+        <Card.Header>Totals for {constituency}</Card.Header>
+        <Card.Body>
+            <Card.Title>{sites} Sites</Card.Title>
+            <Card.Text>
+                <p>{spills} sewage dumps</p>
+                <p>{hours} hours duration</p>
+            </Card.Text>
+        </Card.Body>
+    </Card>
+}
+
 const What = ({initial, data}) => {
 
     const [constituency, setCon] = useState(initial)
@@ -140,7 +161,7 @@ const What = ({initial, data}) => {
 
         window.history.replaceState(
             {},
-            `Sewage Dumps for ${value}`,
+            `Top Of The Poops|Map|${value}`,
             `${window.location.pathname}?${params}`
         )
         setCon(value)
@@ -168,17 +189,29 @@ const What = ({initial, data}) => {
                 </ErrorBoundary>
             </Col>
             <Col>
-                <Form>
-                    <FormGroup>
-                        <Form.Label>Constituency</Form.Label>
-                        <Select
-                            defaultValue={ { value: constituency, label: constituency } }
-                            options={constituencyChoices}
-                            onChange={constituencySelected}
-                        />
-                    </FormGroup>
-                    {constituency == null ? <Alert variant="primary">Select a constituency</Alert> : null}
-                </Form>
+                <Container>
+                    <Row>
+                        <Col>
+                            <Form>
+                                <FormGroup>
+                                    <Form.Label>Constituency</Form.Label>
+                                    <Select
+                                        defaultValue={ { value: constituency, label: constituency } }
+                                        options={constituencyChoices}
+                                        onChange={constituencySelected}
+                                    />
+                                </FormGroup>
+                                {constituency == null ? <Alert variant="primary">Select a constituency</Alert> : null}
+                            </Form>
+                        </Col>
+                    </Row>
+
+                    <Row>
+                        <Col>
+                            <TotalsCard constituency={constituency} rows={relevant}/>
+                        </Col>
+                    </Row>
+                </Container>
             </Col>
         </Row>
         <Row>
