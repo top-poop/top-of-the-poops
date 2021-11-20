@@ -13,27 +13,29 @@ const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth
 const vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0)
 
 const CompaniesTable = () => {
-    return <Table className="company-contact">
-        <tbody>
-        {companies.map(row => {
-            const twitterLink = twitterURI(row.twitter)
-            const telLink = `tel:${row.phone}`
+    return <div className="table-responsive">
+        <Table className="company-contact">
+            <tbody>
+            {companies.map(row => {
+                const twitterLink = twitterURI(row.twitter)
+                const telLink = `tel:${row.phone}`
 
-            return <tr key={row.name}>
-                <td className="logo">
-                    <img alt="Logo of company" src={`assets/logos/${toKebabCase(row.name)}.png`}/>
-                </td>
-                <td>{row.name}</td>
-                <td>{row.address.line1}<br/>{row.address.line2}<br/>{row.address.line3}<br/>{row.address.town}<br/>{row.address.postcode}
-                </td>
-                <td><a href={telLink}>{row.phone}</a></td>
-                <td><a href={row.web}>{row.web}</a></td>
-                <td><a href={twitterLink}>{row.twitter}</a></td>
-            </tr>
-        })
-        }
-        </tbody>
-    </Table>
+                return <tr key={row.name}>
+                    <td className="logo">
+                        <img alt="Logo of company" src={`assets/logos/${toKebabCase(row.name)}.png`}/>
+                    </td>
+                    <td>{row.name}</td>
+                    <td>{row.address.line1}<br/>{row.address.line2}<br/>{row.address.line3}<br/>{row.address.town}<br/>{row.address.postcode}
+                    </td>
+                    <td><a href={telLink}>{row.phone}</a></td>
+                    <td><a href={row.web}>{row.web}</a></td>
+                    <td><a href={twitterLink}>{row.twitter}</a></td>
+                </tr>
+            })
+            }
+            </tbody>
+        </Table>
+    </div>
 }
 
 const SewageDumpsChart = () => {
