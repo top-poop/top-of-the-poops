@@ -141,19 +141,6 @@ load-grid-references: grid_references.sql load_grid_references.sql update_grid_r
 load-edm-consent-view: edm_consent_view.sql load-edm load-consents
 	$(PSQL) -f $<
 
-## Postcodes
-
-POSTCODE_CSV=postcode-centroids.csv
-
-$(DOWNLOAD)/$(POSTCODE_CSV):
-	echo "Downloading postcode centroids - 1.2GB - takes a while"
-	$(CURL) --location -o $@ 'http://geoportal1-ons.opendata.arcgis.com/datasets/75edec484c5d49bcadd4893c0ebca0ff_0.csv?outSR={%22latestWkid%22:27700,%22wkid%22:27700}'
-
-.PHONY: load-postcodes
-load-postcodes: centroids.sql load_centroids.sql $(DOWNLOAD)/$(POSTCODE_CSV)
-	$(PSQL) -f $<
-	$(PSQL) -f $(word 2,$^)
-
 .PHONY: load-sewage
 load-sewage: load-consents load-edm load-edm-consent-view
 
