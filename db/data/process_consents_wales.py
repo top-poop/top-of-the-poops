@@ -43,6 +43,7 @@ Consent = namedtuple("Consent", [
 ])
 
 EDM = namedtuple("EDM", [
+    "reporting_year",
     "company_name",
     "site_name",
     "consent_id",
@@ -206,6 +207,7 @@ def edm_wales_to_standardised(wales):
     count = 0 if wales.total_count == "-" else float(wales.total_count)
 
     return EDM(
+        reporting_year=2020,
         company_name="Dwr Cymru Welsh Water",
         site_name=wales.site_name,
         consent_id=bodge_permit(wales.permit_number),

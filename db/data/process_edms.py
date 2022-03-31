@@ -123,7 +123,7 @@ bodges = {
 
 
 def write_row(writer, row):
-    if len(row) != 10:
+    if len(row) != 11:
         raise IOError(f"bodge was wrong, got {row}")
 
     writer.writerow(row)
@@ -157,7 +157,7 @@ if __name__ == "__main__":
 
         writer = csv.writer(out)
         writer.writerow(
-            ["company", "site", "permit", "activity_reference", "is_shellfishery", "is_bathing_beach", "spill_duration",
+            ["reporting_year", "company", "site", "permit", "activity_reference", "is_shellfishery", "is_bathing_beach", "spill_duration",
              "spill_count", "reporting_coverage_pct", "comments"])
         for filename in [f for f in os.listdir() if f.startswith("EAv") and f.endswith(".csv") and not "Summary" in f]:
             print(f"Processing {filename}")
@@ -188,5 +188,7 @@ if __name__ == "__main__":
                     bodged[6] = ensure_numeric(bodged[6])
                     bodged[7] = ensure_numeric(bodged[7])
                     bodged[8] = ensure_numeric(bodged[8])
+
+                    bodged.insert(0, 2020)
 
                     write_row(writer, bodged)

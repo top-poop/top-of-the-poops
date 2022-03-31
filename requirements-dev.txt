@@ -3,4 +3,6 @@ psycopg2-binary
 # https://github.com/thruston/grid-banger
 osgb
 
+xlsx2csv
+
 pytest

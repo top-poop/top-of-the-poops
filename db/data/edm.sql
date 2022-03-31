@@ -1,6 +1,7 @@
 DROP table if exists edm CASCADE;
 
 create table edm (
+    reporting_year numeric,
     company_name text,
     site_name text,
     consent_id text,

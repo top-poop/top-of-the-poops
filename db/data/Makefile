@@ -1,5 +1,4 @@
 
-
 DOWNLOAD=download
 
 CONSTITUENCIES_NAME=Westminster_Parliamentary_Constituencies_December_2020_UK_BFC.zip
@@ -11,6 +10,7 @@ export PGPASSWORD=docker
 PSQL=psql -v ON_ERROR_STOP=1 -h localhost -d gis -U docker -q --pset=pager=off
 CURL=curl --fail --silent
 PYTHON=../../venv/bin/python3
+XLSX2CSV=../../venv/bin/xlsx2csv -e -i
 
 ## MPs Twitter
 
@@ -91,8 +91,70 @@ $(DOWNLOAD)/edm.csv: $(DOWNLOAD)/$(EDM_ZIP) process_edms.py
 $(DOWNLOAD)/edm-consolidated.csv: $(DOWNLOAD)/edm.csv $(DOWNLOAD)/edm-wales-standardised.csv
 	cat $^ > $@
 
+
+# EDM 2021
+
+EDM_ZIP_2021=EDM_2021_Storm_Overflow_Annual_Return.zip
+
+$(DOWNLOAD)/$(EDM_ZIP_2021):
+	$(CURL) -o $@ 'https://environment.data.gov.uk/portalstg/sharing/rest/content/items/7581f0165e864d7e93c5535d04906932/data'
+
+
+# jump through hoops to make a filename with no spaces
+$(DOWNLOAD)/edm-2021/all.xslx: $(DOWNLOAD)/$(EDM_ZIP_2021)
+	mkdir -p $(dir $@)
+	unzip -o -d $(DOWNLOAD)/edm-2021 $<
+	cp "$(dir $@)/EDM_2021_Storm_Overflow_Annual_Return/EDM 2021 Storm Overflow Annual Return - all water and sewerage companies.xlsx" $@
+
+
+EDM_2021_NAMES=anglian dcww northumbrian severn-trent south-west southern thames united wessex yorkshire
+EDM_2021_RETURNS=$(foreach name,$(EDM_2021_NAMES),$(DOWNLOAD)/edm-2021/company/$(name).csv)
+
+$(DOWNLOAD)/edm-2021/company/anglian.csv: $(DOWNLOAD)/edm-2021/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 1 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2021/company/dcww.csv: $(DOWNLOAD)/edm-2021/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 2 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2021/company/northumbrian.csv: $(DOWNLOAD)/edm-2021/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 3 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2021/company/severn-trent.csv: $(DOWNLOAD)/edm-2021/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 4 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2021/company/south-west.csv: $(DOWNLOAD)/edm-2021/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 5 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2021/company/southern.csv: $(DOWNLOAD)/edm-2021/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 6 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2021/company/thames.csv: $(DOWNLOAD)/edm-2021/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 7 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2021/company/united.csv: $(DOWNLOAD)/edm-2021/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 8 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2021/company/wessex.csv: $(DOWNLOAD)/edm-2021/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 9 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2021/company/yorkshire.csv: $(DOWNLOAD)/edm-2021/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 10 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2021/edm-consolidated.csv: process_edms_2021.py $(EDM_2021_RETURNS)
+		$(PYTHON) process_edms_2021.py $@ $^
+
 .PHONY: load-edm
-load-edm: edm.sql load_edm.sql $(DOWNLOAD)/edm-consolidated.csv
+load-edm: edm.sql load_edm.sql $(DOWNLOAD)/edm-consolidated.csv $(DOWNLOAD)/edm-2021/edm-consolidated.csv
 	$(PSQL) -f $<
 	$(PSQL) -f $(word 2,$^)
 
