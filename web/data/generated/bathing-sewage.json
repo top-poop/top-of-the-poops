@@ -1,1238 +1,3355 @@
 [
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Southport, St Annes Pier, St. Annes North and Blackpool South",
     "total_count": 1407.0,
     "total_hours": 12111.83
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Haverigg, Walney Biggar Bank, Walney West Shore, and Walney Sandy Gap",
     "total_count": 705.0,
     "total_hours": 11175.31
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Allonby",
     "total_count": 1249.0,
     "total_hours": 10765.54
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "New Brighton",
     "total_count": 2463.0,
     "total_hours": 10423.74
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Seascale",
     "total_count": 1280.0,
     "total_hours": 9440.84
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "PLYMOUTH HOE (EAST)",
     "total_count": 1559.0,
     "total_hours": 6332.89
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "St Annes",
     "total_count": 999.0,
     "total_hours": 6260.68
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "MOTHECOMBE BEACH",
     "total_count": 496.0,
     "total_hours": 5517.24
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "COMBE MARTIN BEACH",
     "total_count": 291.0,
     "total_hours": 5126.19
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Moreton and Wallasey",
     "total_count": 1084.0,
     "total_hours": 4067.91
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "READYMONEY COVE",
     "total_count": 628.0,
     "total_hours": 3681.89
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Silloth",
     "total_count": 527.0,
     "total_hours": 3566.35
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "EAST LOOE BEACH",
     "total_count": 500.0,
     "total_hours": 3217.33
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "BLUE ANCHOR WEST",
     "total_count": 203.0,
     "total_hours": 3032.5
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Meols",
     "total_count": 389.0,
     "total_hours": 3023.79
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "SEATON BEACH (CORNWALL)",
     "total_count": 192.0,
     "total_hours": 2903.72
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "PENTEWAN BEACH",
     "total_count": 147.0,
     "total_hours": 2797.79
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "PORTREATH BEACH",
     "total_count": 152.0,
     "total_hours": 2585.16
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Fleetwood",
     "total_count": 512.0,
     "total_hours": 2565.29
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "SLAPTON SANDS (TORCROSS)",
     "total_count": 117.0,
     "total_hours": 2253.4
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Formby",
     "total_count": 479.0,
     "total_hours": 2184.49
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "WOOLACOMBE (VILLAGE) BEACH",
     "total_count": 103.0,
     "total_hours": 2079.1
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Windermere, Millerground Landing",
     "total_count": 113.0,
     "total_hours": 2058.92
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "CLEVEDON BEACH",
     "total_count": 203.0,
     "total_hours": 1973.94
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Walney Biggar Bank, Walney West Shore, and Walney Sandy Gap",
     "total_count": 550.0,
     "total_hours": 1889.19
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "INSTOW BEACH",
     "total_count": 344.0,
     "total_hours": 1850.48
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Morecambe North and Morecambe South",
     "total_count": 288.0,
     "total_hours": 1791.58
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "ILFRACOMBE WILDERSMOUTH BEACH",
     "total_count": 129.0,
     "total_hours": 1761.68
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Morecambe South",
     "total_count": 388.0,
     "total_hours": 1753.69
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "MEADFOOT BEACH",
     "total_count": 123.0,
     "total_hours": 1705.65
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "SEATOWN",
     "total_count": 91.0,
     "total_hours": 1227.75
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "PLYMOUTH HOE (WEST)",
     "total_count": 343.0,
     "total_hours": 1220.03
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "HOPE COVE BEACH",
     "total_count": 95.0,
     "total_hours": 1215.96
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Silecroft",
     "total_count": 139.0,
     "total_hours": 1153.6
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "PORTHTOWAN BEACH",
     "total_count": 75.0,
     "total_hours": 1128.26
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "SEATON BEACH",
     "total_count": 102.0,
     "total_hours": 1094.54
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "LONG ROCK",
     "total_count": 298.0,
     "total_hours": 1076.69
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "EXMOUTH BEACH",
     "total_count": 125.0,
     "total_hours": 1067.01
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "West Kirby",
     "total_count": 68.0,
     "total_hours": 1026.43
   },
   {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "bathing": "Spittal",
     "total_count": 552.0,
     "total_hours": 1002.34
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "SIDMOUTH (TOWN) BEACH",
     "total_count": 95.0,
     "total_hours": 994.15
   },
   {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "bathing": "Saltburn Pier",
     "total_count": 114.0,
     "total_hours": 993.37
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "PAR SANDS",
     "total_count": 84.0,
     "total_hours": 986.61
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "St Bees",
     "total_count": 285.0,
     "total_hours": 974.5
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "HARLYN BAY BEACH",
     "total_count": 93.0,
     "total_hours": 972.84
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "THURLESTONE (SOUTH) BEACH",
     "total_count": 63.0,
     "total_hours": 962.56
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "TREVONE BAY BEACH",
     "total_count": 47.0,
     "total_hours": 946.23
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "CHRISTCHURCH AVON BEACH/CHRISTCHURCH FRIAR'S CLIFF",
     "total_count": 107.0,
     "total_hours": 920.89
   },
   {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "bathing": "Crimdon",
     "total_count": 88.0,
     "total_hours": 863.48
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "PORLOCK WEIR",
     "total_count": 65.0,
     "total_hours": 859.33
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "SANDY BAY BEACH",
     "total_count": 59.0,
     "total_hours": 850.32
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "SUMMERLEAZE",
     "total_count": 168.0,
     "total_hours": 840.41
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Southport",
     "total_count": 250.0,
     "total_hours": 817.85
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Walney West Shore",
     "total_count": 98.0,
     "total_hours": 814.96
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "TORRE ABBEY BEACH",
     "total_count": 75.0,
     "total_hours": 776.83
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "CORYTON COVE DAWLISH",
     "total_count": 56.0,
     "total_hours": 702.92
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "PORTHCURNO BEACH",
     "total_count": 48.0,
     "total_hours": 683.58
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Wallasey",
     "total_count": 213.0,
     "total_hours": 679.5
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "TREVAUNANCE COVE BEACH",
     "total_count": 65.0,
     "total_hours": 674.61
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "PERRANUTHNOE",
     "total_count": 64.0,
     "total_hours": 662.69
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "LULWORTH COVE",
     "total_count": 68.0,
     "total_hours": 646.94
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Allonby South",
     "total_count": 194.0,
     "total_hours": 644.63
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "BUDLEIGH SALTERTON BEACH",
     "total_count": 99.0,
     "total_hours": 635.73
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Morcambe South",
     "total_count": 96.0,
     "total_hours": 602.5
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Morcambe North",
     "total_count": 69.0,
     "total_hours": 561.37
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "MINEHEAD TERMINUS",
     "total_count": 80.0,
     "total_hours": 554.0
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "WATERGATE BAY",
     "total_count": 31.0,
     "total_hours": 545.61
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "ILFRACOMBE (HELE) BEACH",
     "total_count": 46.0,
     "total_hours": 501.46
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "WIDEMOUTH SAND",
     "total_count": 60.0,
     "total_hours": 447.59
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "PORTWRINKLE BEACH",
     "total_count": 38.0,
     "total_hours": 441.61
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "GORRAN HAVEN (LITTLE PERHAVER) BEACH",
     "total_count": 63.0,
     "total_hours": 438.29
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "POOLE HARBOUR ROCKLEY SANDS",
     "total_count": 49.0,
     "total_hours": 438.0
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "PORTMELLON BEACH",
     "total_count": 78.0,
     "total_hours": 434.94
   },
   {
+    "reporting_year": 2020,
     "company_name": "Anglian Water",
     "bathing": "Holland",
     "total_count": 90.0,
     "total_hours": 428.53
   },
   {
+    "reporting_year": 2020,
     "company_name": "Anglian Water",
     "bathing": "Lowestoft North",
     "total_count": 373.0,
     "total_hours": 418.1
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "LYNMOUTH BEACH",
     "total_count": 128.0,
     "total_hours": 400.62
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "SHORTHORN BEACH",
     "total_count": 45.0,
     "total_hours": 394.65
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "MILL BAY BEACH",
     "total_count": 140.0,
     "total_hours": 381.8
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "LYME REGIS CHURCH CLIFF BEACH",
     "total_count": 113.0,
     "total_hours": 375.97
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "PORTH KIDNEY SANDS",
     "total_count": 42.0,
     "total_hours": 365.03
   },
   {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "bathing": "Seaham Hall",
     "total_count": 101.0,
     "total_hours": 364.5
   },
   {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "bathing": "Seaton Carew (North)",
     "total_count": 103.0,
     "total_hours": 346.98
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "PORTHOUSTOCK BEACH",
     "total_count": 37.0,
     "total_hours": 335.91
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Morecambe North",
     "total_count": 39.0,
     "total_hours": 327.92
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Allonby South and Allonby West Winds",
     "total_count": 26.0,
     "total_hours": 310.26
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Walney",
     "total_count": 109.0,
     "total_hours": 297.29
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Bispham, Cleveleys, Fleetwood",
     "total_count": 67.0,
     "total_hours": 296.71
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "CHARMOUTH WEST",
     "total_count": 92.0,
     "total_hours": 279.51
   },
   {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "bathing": "Seaham Beach",
     "total_count": 45.0,
     "total_hours": 271.97
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "TEIGNMOUTH (HOLCOMBE) BEACH",
     "total_count": 90.0,
     "total_hours": 253.44
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Moreton",
     "total_count": 114.0,
     "total_hours": 239.2
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "DAWLISH (TOWN) BEACH",
     "total_count": 140.0,
     "total_hours": 236.33
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "CHARLESTOWN BEACH",
     "total_count": 60.0,
     "total_hours": 236.1
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "BURNHAM JETTY NORTH",
     "total_count": 104.0,
     "total_hours": 229.05
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "HOLYWELL BAY BEACH",
     "total_count": 18.0,
     "total_hours": 208.39
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "GWITHIAN TOWANS",
     "total_count": 71.0,
     "total_hours": 204.66
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "POLZEATH BEACH",
     "total_count": 30.0,
     "total_hours": 203.67
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Blackpool North, Blackpool Central, Blackpool South and Bispham",
     "total_count": 51.0,
     "total_hours": 196.38
   },
   {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "bathing": "Blyth South Beach",
     "total_count": 45.0,
     "total_hours": 194.36
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Askam-in-Furness",
     "total_count": 25.0,
     "total_hours": 180.5
   },
   {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "bathing": "Warkworth & Amble Links",
     "total_count": 102.0,
     "total_hours": 179.19
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "CROYDE BAY BEACH",
     "total_count": 40.0,
     "total_hours": 178.26
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "St Annes Pier, St. Annes North and Blackpool South",
     "total_count": 57.0,
     "total_hours": 173.76
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "ROCK BEACH",
     "total_count": 37.0,
     "total_hours": 165.13
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "SWANAGE CENTRAL",
     "total_count": 40.0,
     "total_hours": 161.25
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Morecambe South\nMorecambe North",
     "total_count": 13.0,
     "total_hours": 160.14
   },
   {
+    "reporting_year": 2020,
     "company_name": "Anglian Water",
     "bathing": "Walton",
     "total_count": 62.0,
     "total_hours": 159.17
   },
   {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "bathing": "Redcar Sands - Granville Terrace",
     "total_count": 33.0,
     "total_hours": 157.03
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "DOWNDERRY BEACH",
     "total_count": 23.0,
     "total_hours": 148.6
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "ST.MARYS BAY BEACH",
     "total_count": 79.0,
     "total_hours": 139.42
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "PAIGNTON (PRESTON SANDS)",
     "total_count": 51.0,
     "total_hours": 138.05
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "WESTWARD HO! BEACH",
     "total_count": 78.0,
     "total_hours": 133.41
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "GOODRINGTON BEACH",
     "total_count": 23.0,
     "total_hours": 131.69
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "FISTRAL NORTH",
     "total_count": 47.0,
     "total_hours": 131.03
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "CRACKINGTON HAVEN BEACH",
     "total_count": 23.0,
     "total_hours": 130.54
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Walney Sandy Gap",
     "total_count": 81.0,
     "total_hours": 128.65
   },
   {
+    "reporting_year": 2020,
     "company_name": "Anglian Water",
     "bathing": "Great Yarmouth Pier/Great Yarmouth South",
     "total_count": 96.0,
     "total_hours": 126.3
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "WESTON-SUPER-MARE UPHILL SLIPWAY/WESTON MAIN",
     "total_count": 21.0,
     "total_hours": 120.07
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "POOLE HARBOUR HAMWORTH PARK /POOLE HARBOUR ROCKLEY SANDS / POOLE HARBOUR LAKE",
     "total_count": 20.0,
     "total_hours": 117.49
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "MILLENDREATH BEACH",
     "total_count": 79.0,
     "total_hours": 115.87
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "DARTMOUTH CASTLE AND SUGARY COVE",
     "total_count": 106.0,
     "total_hours": 115.48
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Blackpool North",
     "total_count": 41.0,
     "total_hours": 115.26
   },
   {
+    "reporting_year": 2020,
     "company_name": "Anglian Water",
     "bathing": "Frinton",
     "total_count": 91.0,
     "total_hours": 109.33
   },
   {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "bathing": "Beadnell",
     "total_count": 42.0,
     "total_hours": 105.48
   },
   {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "bathing": "Marske",
     "total_count": 74.0,
     "total_hours": 104.46
   },
   {
+    "reporting_year": 2020,
     "company_name": "Anglian Water",
     "bathing": "Sea Palling",
     "total_count": 20.0,
     "total_hours": 104.2
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "POLURRIAN COVE BEACH",
     "total_count": 29.0,
     "total_hours": 102.84
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "SHALDON BEACH",
     "total_count": 54.0,
     "total_hours": 94.96
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "SALCOMBE SOUTH SANDS",
     "total_count": 26.0,
     "total_hours": 93.42
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "SENNEN BEACH",
     "total_count": 25.0,
     "total_hours": 89.33
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "POOLE SHORE ROAD BEACH",
     "total_count": 53.0,
     "total_hours": 83.0
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "MAWGAN PORTH BEACH",
     "total_count": 49.0,
     "total_hours": 82.21
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "BEACON COVE BEACH",
     "total_count": 64.0,
     "total_hours": 80.66
   },
   {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "bathing": "Seaton Sluice",
     "total_count": 32.0,
     "total_hours": 79.0
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "BEER BEACH",
     "total_count": 50.0,
     "total_hours": 77.2
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "SWANPOOL BEACH",
     "total_count": 58.0,
     "total_hours": 76.18
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "BANTHAM BEACH",
     "total_count": 20.0,
     "total_hours": 75.6
   },
   {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "bathing": "Whitley Bay",
     "total_count": 30.0,
     "total_hours": 75.4
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "CRANTOCK BEACH",
     "total_count": 84.0,
     "total_hours": 72.75
   },
   {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "bathing": "Seaburn (Whitburn North)",
     "total_count": 23.0,
     "total_hours": 67.92
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "COVERACK BEACH",
     "total_count": 47.0,
     "total_hours": 67.66
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "BOURNEMOUTH HENGISTBURY WEST",
     "total_count": 25.0,
     "total_hours": 66.75
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "PAIGNTON (PAIGNTON SANDS)",
     "total_count": 26.0,
     "total_hours": 66.22
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "KINGSAND BEACH",
     "total_count": 31.0,
     "total_hours": 62.02
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Cleveleys",
     "total_count": 25.0,
     "total_hours": 54.25
   },
   {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "bathing": "Marsden",
     "total_count": 21.0,
     "total_hours": 54.17
   },
   {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "bathing": "Redcar Coatham",
     "total_count": 35.0,
     "total_hours": 51.49
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "WEST BAY (WEST)",
     "total_count": 14.0,
     "total_hours": 48.42
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Ainsdale",
     "total_count": 32.0,
     "total_hours": 45.57
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "POLSTREATH BEACH",
     "total_count": 183.0,
     "total_hours": 45.11
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "CARBIS BAY",
     "total_count": 14.0,
     "total_hours": 43.74
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "CHRISTCHURCH AVON BEACH/CHRISTCHURCH FRIAR'S CLIFF**",
     "total_count": 4.0,
     "total_hours": 35.04
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "WEYMOUTH CENTRAL",
     "total_count": 15.0,
     "total_hours": 33.7
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "GYLLYNGVASE BEACH",
     "total_count": 44.0,
     "total_hours": 31.66
   },
   {
+    "reporting_year": 2020,
     "company_name": "Anglian Water",
     "bathing": "Gorleston Beach",
     "total_count": 18.0,
     "total_hours": 26.37
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "BOURNEMOUTH PIER",
     "total_count": 7.0,
     "total_hours": 25.0
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "STUDLAND KNOLL HOUSE",
     "total_count": 9.0,
     "total_hours": 22.0
   },
   {
+    "reporting_year": 2020,
     "company_name": "Anglian Water",
     "bathing": "Hunstanton Main Beach",
     "total_count": 22.0,
     "total_hours": 21.97
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "PERRANPORTH",
     "total_count": 6.0,
     "total_hours": 20.15
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "KIMMERIDGE BAY",
     "total_count": 3.0,
     "total_hours": 18.5
   },
   {
+    "reporting_year": 2020,
     "company_name": "Anglian Water",
     "bathing": "Jaywick",
     "total_count": 18.0,
     "total_hours": 16.86
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "BOWLEAZE COVE",
     "total_count": 5.0,
     "total_hours": 15.24
   },
   {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "bathing": "Newbiggin North & Newbiggin South",
     "total_count": 16.0,
     "total_hours": 13.8
   },
   {
+    "reporting_year": 2020,
     "company_name": "Anglian Water",
     "bathing": "Ingoldsmell South",
     "total_count": 6.0,
     "total_hours": 13.07
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "TEIGNMOUTH (TOWN) BEACH",
     "total_count": 8.0,
     "total_hours": 12.88
   },
   {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "bathing": "Seahouses North",
     "total_count": 14.0,
     "total_hours": 10.92
   },
   {
+    "reporting_year": 2020,
     "company_name": "Anglian Water",
     "bathing": "West Mersea",
     "total_count": 14.0,
     "total_hours": 9.4
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "PORTHLEVEN SANDS",
     "total_count": 18.0,
     "total_hours": 9.19
   },
   {
+    "reporting_year": 2020,
     "company_name": "Anglian Water",
     "bathing": "Southwold the Deans",
     "total_count": 37.0,
     "total_hours": 7.6
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "LYME REGIS FRONT BEACH",
     "total_count": 7.0,
     "total_hours": 7.54
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Fleetwood and Morecambe South",
     "total_count": 17.0,
     "total_hours": 7.5
   },
   {
+    "reporting_year": 2020,
     "company_name": "Anglian Water",
     "bathing": "Mundesley",
     "total_count": 16.0,
     "total_hours": 7.1
   },
   {
+    "reporting_year": 2020,
     "company_name": "Anglian Water",
     "bathing": "Mablethorpe Town",
     "total_count": 11.0,
     "total_hours": 6.8
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "PORTHGWIDDEN BEACH ST.IVES",
     "total_count": 7.0,
     "total_hours": 6.04
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "WEYMOUTH LODMOOR",
     "total_count": 18.0,
     "total_hours": 6.03
   },
   {
+    "reporting_year": 2020,
     "company_name": "Anglian Water",
     "bathing": "Southwold the Pier",
     "total_count": 45.0,
     "total_hours": 5.24
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "BOURNEMOUTH BOSCOMBE PIER",
     "total_count": 6.0,
     "total_hours": 5.0
   },
   {
+    "reporting_year": 2020,
     "company_name": "Anglian Water",
     "bathing": "Clacton Martello Tower",
     "total_count": 6.0,
     "total_hours": 4.4
   },
   {
+    "reporting_year": 2020,
     "company_name": "Anglian Water",
     "bathing": "Sherringham",
     "total_count": 4.0,
     "total_hours": 4.3
   },
   {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "bathing": "Seaton Carew (Centre)",
     "total_count": 8.0,
     "total_hours": 4.23
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "PORTHALLOW BEACH",
     "total_count": 2.0,
     "total_hours": 4.11
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "WEMBURY BEACH",
     "total_count": 5.0,
     "total_hours": 4.0
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "POOLE HARBOUR HAMWORTH PARK",
     "total_count": 2.0,
     "total_hours": 3.5
   },
   {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "bathing": "Bamburgh Castle",
     "total_count": 2.0,
     "total_hours": 3.38
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "TREBARWITH STRAND BEACH",
     "total_count": 1.0,
     "total_hours": 3.36
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "CHALLABOROUGH BEACH",
     "total_count": 2.0,
     "total_hours": 3.35
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "PORTLAND HARBOUR CASTLE COVE/PORTLAND HARBOUR SANDSFOOT CASTLE**",
     "total_count": 5.0,
     "total_hours": 2.83
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "HIVE (BURTON BRADSTOCK)",
     "total_count": 2.0,
     "total_hours": 2.25
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "PORTHMINSTER BEACH ST.IVES",
     "total_count": 6.0,
     "total_hours": 1.71
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "RINGSTEAD BAY",
     "total_count": 1.0,
     "total_hours": 1.25
   },
   {
+    "reporting_year": 2020,
     "company_name": "Anglian Water",
     "bathing": "Great Yarmouth South",
     "total_count": 6.0,
     "total_hours": 1.17
   },
   {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "bathing": "EYPEMOUTH",
     "total_count": 2.0,
     "total_hours": 1.0
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Meols, Moreton and Wallasey",
     "total_count": 4.0,
     "total_hours": 1.0
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Blackpool North, Blackpool Central, and Blackpool South",
     "total_count": 1.0,
     "total_hours": 0.67
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "#N/A",
     "total_count": 1.0,
     "total_hours": 0.61
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "BABBACOMBE BEACH",
     "total_count": 2.0,
     "total_hours": 0.46
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "PORTH BEACH NEWQUAY",
     "total_count": 5.0,
     "total_hours": 0.45
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "SALCOMBE NORTH SANDS",
     "total_count": 5.0,
     "total_hours": 0.38
   },
   {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "bathing": "Tynemouth Longsands South",
     "total_count": 4.0,
     "total_hours": 0.33
   },
   {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "bathing": "CROOKLETS",
     "total_count": 1.0,
     "total_hours": 0.32
   },
   {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "bathing": "Cullercoats",
     "total_count": 2.0,
     "total_hours": 0.28
   },
   {
+    "reporting_year": 2020,
     "company_name": "Anglian Water",
     "bathing": "Cromer",
     "total_count": 2.0,
     "total_hours": 0.27
   },
   {
+    "reporting_year": 2020,
     "company_name": "Anglian Water",
     "bathing": "Clacton",
     "total_count": 5.0,
     "total_hours": 0.23
   },
   {
+    "reporting_year": 2020,
     "company_name": "Anglian Water",
     "bathing": "Clacton Groyne 41/Clacton Martello Tower",
     "total_count": 3.0,
     "total_hours": 0.13
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Ainsdale and Southport",
     "total_count": 6.0,
     "total_hours": 0.09
   },
   {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "bathing": "Allonby and Allonby South",
     "total_count": 3.0,
     "total_hours": 0.03
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Morecambe South",
+    "total_count": 634.0,
+    "total_hours": 8268.23
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "New Brighton",
+    "total_count": 1235.0,
+    "total_hours": 7743.95
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Southport, St Annes Pier, St. Annes North and Blackpool South",
+    "total_count": 785.0,
+    "total_hours": 6539.25
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Haverigg, Walney Biggar Bank, Walney West Shore, and Walney Sandy Gap",
+    "total_count": 401.0,
+    "total_hours": 6522.23
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "St Annes",
+    "total_count": 909.0,
+    "total_hours": 6317.64
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Seascale",
+    "total_count": 774.0,
+    "total_hours": 6293.77
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Allonby",
+    "total_count": 590.0,
+    "total_hours": 6052.51
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "PLYMOUTH HOE (EAST)",
+    "total_count": 1315.0,
+    "total_hours": 5598.67
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "MOTHECOMBE BEACH",
+    "total_count": 348.0,
+    "total_hours": 3289.74
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "EAST LOOE BEACH",
+    "total_count": 549.0,
+    "total_hours": 3257.53
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Walney Biggar Bank, Walney West Shore, and Walney Sandy Gap",
+    "total_count": 417.0,
+    "total_hours": 2893.29
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "COWES, GURNARD",
+    "total_count": 498.41,
+    "total_hours": 2638.87
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Fleetwood",
+    "total_count": 415.0,
+    "total_hours": 2564.86
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Moreton and Wallasey",
+    "total_count": 202.0,
+    "total_hours": 2258.43
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Morecambe North and Morecambe South",
+    "total_count": 320.0,
+    "total_hours": 2221.67
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "READYMONEY COVE",
+    "total_count": 479.0,
+    "total_hours": 2214.91
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "SANDOWN, WHITECLIFF BAY, YAVERLAND, SHANKLIN",
+    "total_count": 177.0,
+    "total_hours": 2176.78
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "bathing": "Druridge Bay North",
+    "total_count": 141.0,
+    "total_hours": 2122.91
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Formby",
+    "total_count": 398.0,
+    "total_hours": 2073.38
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "ILFRACOMBE WILDERSMOUTH BEACH",
+    "total_count": 111.0,
+    "total_hours": 1842.21
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "SEATON BEACH (CORNWALL)",
+    "total_count": 152.0,
+    "total_hours": 1787.12
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "PORTREATH BEACH",
+    "total_count": 94.0,
+    "total_hours": 1783.51
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Meols",
+    "total_count": 245.0,
+    "total_hours": 1775.28
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Southport",
+    "total_count": 181.0,
+    "total_hours": 1705.52
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "St Annes_x000D_\\nSt Annes North_x000D_\\nSouthport_x000D_\\nBlackpool South",
+    "total_count": 87.0,
+    "total_hours": 1684.72
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Yorkshire Water",
+    "bathing": "Indirectly via Scalby Beck to Scarborough North Bay",
+    "total_count": 176.0,
+    "total_hours": 1621.8
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "bathing": "Spittal",
+    "total_count": 679.0,
+    "total_hours": 1462.34
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Windermere, Millerground Landing",
+    "total_count": 82.0,
+    "total_hours": 1459.36
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "BOGNOR REGIS EAST, FELPHAM, MIDDLETON-ON-SEA",
+    "total_count": 86.0,
+    "total_hours": 1411.2
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "EXMOUTH BEACH",
+    "total_count": 157.0,
+    "total_hours": 1377.09
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "COMBE MARTIN BEACH",
+    "total_count": 108.0,
+    "total_hours": 1352.58
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "PENTEWAN BEACH",
+    "total_count": 102.0,
+    "total_hours": 1343.17
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "CLEVEDON BEACH",
+    "total_count": 170.0,
+    "total_hours": 1250.4
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "bathing": "Redcar Coatham",
+    "total_count": 163.0,
+    "total_hours": 1233.24
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "BLUE ANCHOR WEST",
+    "total_count": 137.0,
+    "total_hours": 1217.3
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "HYTHE, SANDGATE",
+    "total_count": 145.0,
+    "total_hours": 1215.8
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "MEADFOOT BEACH",
+    "total_count": 93.0,
+    "total_hours": 1175.14
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "bathing": "Saltburn Pier",
+    "total_count": 131.0,
+    "total_hours": 1173.083611
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "St Bees",
+    "total_count": 248.0,
+    "total_hours": 1132.21
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "SIDMOUTH (TOWN) BEACH",
+    "total_count": 109.0,
+    "total_hours": 1090.88
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "PAGHAM",
+    "total_count": 80.0,
+    "total_hours": 1079.7
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Allonby South",
+    "total_count": 187.0,
+    "total_hours": 1075.14
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "SEATON BEACH",
+    "total_count": 103.0,
+    "total_hours": 1072.26
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "COWES, RYDE, SEAGROVE",
+    "total_count": 99.0,
+    "total_hours": 1049.74
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Walney West Shore",
+    "total_count": 109.0,
+    "total_hours": 1016.09
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "bathing": "Crimdon",
+    "total_count": 83.0,
+    "total_hours": 998.25
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "bathing": "Newbiggin North & Newbiggin South",
+    "total_count": 136.0,
+    "total_hours": 978.94
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Yorkshire Water",
+    "bathing": "Scarborough South Bay",
+    "total_count": 87.0,
+    "total_hours": 957.0833333333334
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "HERNE BAY CENTRAL, TANKERTON",
+    "total_count": 118.0,
+    "total_hours": 930.17
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "BEMBRIDGE, SEAGROVE, ST HELENS",
+    "total_count": 128.0,
+    "total_hours": 925.2
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "SLAPTON SANDS (TORCROSS)",
+    "total_count": 58.0,
+    "total_hours": 895.56
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "PERRANUTHNOE",
+    "total_count": 69.0,
+    "total_hours": 878.31
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "LONG ROCK",
+    "total_count": 261.0,
+    "total_hours": 873.56
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "BEMBRIDGE, ST HELENS",
+    "total_count": 73.0,
+    "total_hours": 858.76
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "bathing": "Marske",
+    "total_count": 177.0,
+    "total_hours": 818.736111
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Wallasey",
+    "total_count": 215.0,
+    "total_hours": 775.88
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "bathing": "Blyth South Beach",
+    "total_count": 90.0,
+    "total_hours": 775.3
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "Holland",
+    "total_count": 113.0,
+    "total_hours": 734.1
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "SEATOWN",
+    "total_count": 68.0,
+    "total_hours": 716.5
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "WOOLACOMBE (VILLAGE) BEACH",
+    "total_count": 43.0,
+    "total_hours": 702.99
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "BEACHLANDS CENTRAL, BEACHLANDS WEST, EASTNEY, SOUTHSEA EAST",
+    "total_count": 114.0,
+    "total_hours": 690.17
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "LYME REGIS CHURCH CLIFF BEACH",
+    "total_count": 86.0,
+    "total_hours": 679.42
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "SHEERNESS",
+    "total_count": 114.0,
+    "total_hours": 672.49
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "bathing": "Seaham Hall",
+    "total_count": 117.0,
+    "total_hours": 665.53
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "PAR SANDS",
+    "total_count": 60.0,
+    "total_hours": 656.22
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Morcambe South",
+    "total_count": 83.0,
+    "total_hours": 655.69
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Bispham, Cleveleys, Fleetwood",
+    "total_count": 91.0,
+    "total_hours": 635.11
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "SANDY BAY BEACH",
+    "total_count": 49.0,
+    "total_hours": 628.34
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "LITTLEHAMPTON",
+    "total_count": 149.0,
+    "total_hours": 622.3
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "HARLYN BAY BEACH",
+    "total_count": 53.0,
+    "total_hours": 617.82
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Silloth",
+    "total_count": 123.0,
+    "total_hours": 614.12
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "LEE-ON-SOLENT, STOKES BAY",
+    "total_count": 52.0,
+    "total_hours": 585.97
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "CAMBER",
+    "total_count": 46.0,
+    "total_hours": 561.66
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "HOPE COVE BEACH",
+    "total_count": 97.0,
+    "total_hours": 558.29
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "bathing": "Seaham Beach",
+    "total_count": 69.0,
+    "total_hours": 552.97
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "BUDLEIGH SALTERTON BEACH",
+    "total_count": 104.0,
+    "total_hours": 512.62
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Walney",
+    "total_count": 131.0,
+    "total_hours": 492.74
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Moreton",
+    "total_count": 104.0,
+    "total_hours": 480.67
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "INSTOW BEACH",
+    "total_count": 257.0,
+    "total_hours": 476.18
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "SUMMERLEAZE",
+    "total_count": 123.0,
+    "total_hours": 466.24
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "bathing": "Warkworth & Amble Links",
+    "total_count": 141.0,
+    "total_hours": 453.32
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "HERNE BAY",
+    "total_count": 35.0,
+    "total_hours": 448.71
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "DAWLISH (TOWN) BEACH",
+    "total_count": 136.0,
+    "total_hours": 448.38
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "bathing": "Redcar Sands - Granville Terrace",
+    "total_count": 72.0,
+    "total_hours": 444.87
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "PORTHOUSTOCK BEACH",
+    "total_count": 51.0,
+    "total_hours": 436.61
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "CHRISTCHURCH AVON BEACH/CHRISTCHURCH FRIAR'S CLIFF",
+    "total_count": 72.0,
+    "total_hours": 434.7
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "bathing": "Seaton Carew (North)",
+    "total_count": 96.0,
+    "total_hours": 429.63
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "PORTH KIDNEY SANDS",
+    "total_count": 45.0,
+    "total_hours": 426.08
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "THURLESTONE (SOUTH) BEACH",
+    "total_count": 38.0,
+    "total_hours": 413.87
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "bathing": "Beadnell",
+    "total_count": 61.0,
+    "total_hours": 393.39
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "PORTHCURNO BEACH",
+    "total_count": 22.0,
+    "total_hours": 383.0
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "LYNMOUTH BEACH",
+    "total_count": 84.0,
+    "total_hours": 375.13
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "PORTWRINKLE BEACH",
+    "total_count": 42.0,
+    "total_hours": 374.31
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "TREVONE BAY BEACH",
+    "total_count": 21.0,
+    "total_hours": 372.01
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Morcambe North",
+    "total_count": 49.0,
+    "total_hours": 367.56
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "HILLHEAD",
+    "total_count": 44.0,
+    "total_hours": 364.33
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "PLYMOUTH HOE (WEST)",
+    "total_count": 197.0,
+    "total_hours": 355.57
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "PORTHTOWAN BEACH",
+    "total_count": 32.0,
+    "total_hours": 351.59
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "RYDE",
+    "total_count": 111.0,
+    "total_hours": 333.58
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "SEAFORD",
+    "total_count": 90.0,
+    "total_hours": 328.67
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "Lowestoft North",
+    "total_count": 303.0,
+    "total_hours": 323.3
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "WIDEMOUTH SAND",
+    "total_count": 50.0,
+    "total_hours": 305.51
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Silecroft",
+    "total_count": 33.0,
+    "total_hours": 278.84
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "GORRAN HAVEN (LITTLE PERHAVER) BEACH",
+    "total_count": 49.0,
+    "total_hours": 270.94
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "GWITHIAN TOWANS & GODREVY",
+    "total_count": 71.0,
+    "total_hours": 269.92
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "POOLE HARBOUR ROCKLEY SANDS",
+    "total_count": 45.0,
+    "total_hours": 268.3
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "SOUTHSEA, STOKES BAY",
+    "total_count": 120.0,
+    "total_hours": 257.33
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "TEIGNMOUTH (HOLCOMBE) BEACH",
+    "total_count": 107.0,
+    "total_hours": 256.64
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "PLYMOUTH HOE (EAST & WEST)",
+    "total_count": 146.0,
+    "total_hours": 250.5
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "MILL BAY BEACH",
+    "total_count": 112.0,
+    "total_hours": 243.13
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "LEYSDOWN",
+    "total_count": 39.0,
+    "total_hours": 238.85
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Blackpool North, Blackpool Central, Blackpool South and Bispham",
+    "total_count": 50.0,
+    "total_hours": 233.46
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "BOGNOR REGIS (ALDWICK), BOGNOR REGIS EAST, FELPHAM, PAGHAM",
+    "total_count": 53.0,
+    "total_hours": 233.04
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "St Annes Pier, St. Annes North and Blackpool South",
+    "total_count": 65.0,
+    "total_hours": 224.27
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Yorkshire Water",
+    "bathing": "Bridlington South Bay",
+    "total_count": 132.0,
+    "total_hours": 217.6
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "WATERGATE BAY",
+    "total_count": 13.0,
+    "total_hours": 216.86
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "RYDE, SEAGROVE",
+    "total_count": 51.0,
+    "total_hours": 215.22
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "BEXHILL",
+    "total_count": 25.0,
+    "total_hours": 208.32
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "CAWSAND BAY",
+    "total_count": 29.0,
+    "total_hours": 203.81
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "West Mersea",
+    "total_count": 37.0,
+    "total_hours": 200.77
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "ST HELENS",
+    "total_count": 37.0,
+    "total_hours": 200.66
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "MINEHEAD TERMINUS",
+    "total_count": 51.0,
+    "total_hours": 190.1
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "STOKES BAY, SOUTHSEA",
+    "total_count": 55.0,
+    "total_hours": 186.05
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "SENNEN BEACH",
+    "total_count": 20.0,
+    "total_hours": 184.98
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "TREVAUNANCE COVE BEACH",
+    "total_count": 49.0,
+    "total_hours": 182.22
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Allonby South and Allonby West Winds",
+    "total_count": 18.0,
+    "total_hours": 180.74
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "MINSTER LEAS, SHEERNESS",
+    "total_count": 24.0,
+    "total_hours": 174.74
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "ROCK BEACH",
+    "total_count": 65.0,
+    "total_hours": 170.24
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "BURNHAM JETTY NORTH",
+    "total_count": 102.0,
+    "total_hours": 168.5
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "SHORTHORN BEACH",
+    "total_count": 23.0,
+    "total_hours": 167.35
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "FOLKESTONE",
+    "total_count": 31.0,
+    "total_hours": 164.25
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "bathing": "Whitley Bay",
+    "total_count": 41.0,
+    "total_hours": 162.77
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Allonby_x000D_\\nAllonby South",
+    "total_count": 11.0,
+    "total_hours": 160.44
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "LITTLESTONE, ST MARYS BAY (KENT)",
+    "total_count": 13.0,
+    "total_hours": 157.95
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "VENTNOR",
+    "total_count": 15.0,
+    "total_hours": 155.3
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "ILFRACOMBE (HELE) BEACH",
+    "total_count": 37.0,
+    "total_hours": 152.32
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "SOUTHSEA EAST, STOKES BAY",
+    "total_count": 35.0,
+    "total_hours": 151.18
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "TANKERTON, WEST BEACH WHITSTABLE",
+    "total_count": 71.0,
+    "total_hours": 149.78
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "CORYTON COVE DAWLISH",
+    "total_count": 30.0,
+    "total_hours": 146.56
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "PAIGNTON (PAIGNTON SANDS)",
+    "total_count": 39.0,
+    "total_hours": 139.55
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "MILLENDREATH BEACH",
+    "total_count": 67.0,
+    "total_hours": 137.77
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "CHARMOUTH WEST",
+    "total_count": 70.0,
+    "total_hours": 133.4
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "COLWELL BAY, TOTLAND BAY",
+    "total_count": 39.0,
+    "total_hours": 132.97
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "HERNE BAY, HERNE BAY CENTRAL",
+    "total_count": 47.0,
+    "total_hours": 132.79
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "RYDE, SEAGROVE, ST HELENS",
+    "total_count": 35.0,
+    "total_hours": 128.26
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "PORLOCK WEIR",
+    "total_count": 29.0,
+    "total_hours": 122.7
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "bathing": "Seaburn (Whitburn North)",
+    "total_count": 33.0,
+    "total_hours": 120.05
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "CALSHOT",
+    "total_count": 15.0,
+    "total_hours": 118.37
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "FISTRAL NORTH & SOUTH",
+    "total_count": 64.0,
+    "total_hours": 110.02
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "CRANTOCK BEACH",
+    "total_count": 83.0,
+    "total_hours": 103.15
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Blackpool North",
+    "total_count": 41.0,
+    "total_hours": 99.04
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "SWANAGE CENTRAL",
+    "total_count": 33.0,
+    "total_hours": 98.6
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Morecambe North",
+    "total_count": 37.0,
+    "total_hours": 97.55
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "BEACON COVE BEACH",
+    "total_count": 69.0,
+    "total_hours": 91.37
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "POLSTREATH BEACH",
+    "total_count": 127.0,
+    "total_hours": 90.88
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "Frinton",
+    "total_count": 78.0,
+    "total_hours": 85.7
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "DOWNDERRY BEACH",
+    "total_count": 25.0,
+    "total_hours": 82.49
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "BEER BEACH",
+    "total_count": 57.0,
+    "total_hours": 82.11
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "Walton",
+    "total_count": 32.0,
+    "total_hours": 80.83
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "BEXHILL, NORMANS BAY",
+    "total_count": 22.0,
+    "total_hours": 80.57
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "PORTHTOWAN",
+    "total_count": 9.0,
+    "total_hours": 80.56
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "Jaywick",
+    "total_count": 39.0,
+    "total_hours": 75.96
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "DARTMOUTH CASTLE AND SUGARY COVE",
+    "total_count": 65.0,
+    "total_hours": 73.37
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "CHURCH OPE COVE",
+    "total_count": 26.0,
+    "total_hours": 73.3
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "POLZEATH BEACH",
+    "total_count": 14.0,
+    "total_hours": 66.26
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "Great Yarmouth Pier/Great Yarmouth South",
+    "total_count": 66.0,
+    "total_hours": 65.7
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "ST.MARYS BAY BEACH",
+    "total_count": 48.0,
+    "total_hours": 65.46
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "MAWGAN PORTH BEACH",
+    "total_count": 39.0,
+    "total_hours": 64.12
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "bathing": "Marsden",
+    "total_count": 19.0,
+    "total_hours": 61.83
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "PAIGNTON (PRESTON SANDS)",
+    "total_count": 34.0,
+    "total_hours": 59.68
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "COVERACK BEACH",
+    "total_count": 41.0,
+    "total_hours": 58.34
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "LANCING BEACH GREEN, WORTHING",
+    "total_count": 34.0,
+    "total_hours": 58.06
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "CHARLESTOWN BEACH",
+    "total_count": 44.0,
+    "total_hours": 57.57
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "POOLE HARBOUR HAMWORTH PARK /POOLE HARBOUR ROCKLEY SANDS / POOLE HARBOUR LAKE",
+    "total_count": 13.0,
+    "total_hours": 56.1
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "SWANPOOL BEACH",
+    "total_count": 53.0,
+    "total_hours": 55.77
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "BOURNEMOUTH HENGISTBURY WEST",
+    "total_count": 20.0,
+    "total_hours": 50.8
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "SALCOMBE SOUTH SANDS",
+    "total_count": 54.0,
+    "total_hours": 47.98
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "TORRE ABBEY BEACH",
+    "total_count": 28.0,
+    "total_hours": 47.98
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "WESTON-SUPER-MARE UPHILL SLIPWAY/WESTON MAIN",
+    "total_count": 13.0,
+    "total_hours": 47.5
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "Colne",
+    "total_count": 60.0,
+    "total_hours": 44.84
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "West Kirby",
+    "total_count": 17.0,
+    "total_hours": 44.5
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "HASTINGS PELHAM BEACH, ST LEONARDS",
+    "total_count": 22.0,
+    "total_hours": 43.45
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "POLURRIAN COVE BEACH",
+    "total_count": 23.0,
+    "total_hours": 40.29
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "SANDOWN, SHANKLIN, YAVERLAND",
+    "total_count": 21.0,
+    "total_hours": 38.84
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "POOLE SHORE ROAD BEACH",
+    "total_count": 26.0,
+    "total_hours": 38.6
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "North West Norfolk",
+    "total_count": 53.0,
+    "total_hours": 38.4
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "bathing": "Seahouses North",
+    "total_count": 6.0,
+    "total_hours": 37.313333
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Yorkshire Water",
+    "bathing": "Indirectly via Burniston Beck to Scarborough North Bay",
+    "total_count": 19.0,
+    "total_hours": 37.0
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "WEST BAY (WEST)",
+    "total_count": 13.0,
+    "total_hours": 36.9
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "Clacton",
+    "total_count": 9.0,
+    "total_hours": 35.4
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "KINGSAND BEACH",
+    "total_count": 26.0,
+    "total_hours": 34.78
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Morecambe South_x000D_\\nMorecambe North",
+    "total_count": 6.0,
+    "total_hours": 34.76
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "BOGNOR REGIS (ALDWICK), BOGNOR REGIS EAST, FELPHAM, MIDDLETON-ON-SEA",
+    "total_count": 13.0,
+    "total_hours": 33.39
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "COLWELL BAY",
+    "total_count": 16.0,
+    "total_hours": 29.83
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "SHALDON BEACH",
+    "total_count": 14.0,
+    "total_hours": 29.54
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "Cleethorpes",
+    "total_count": 24.0,
+    "total_hours": 26.97
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "PORTHLEVEN SANDS",
+    "total_count": 15.0,
+    "total_hours": 26.55
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Yorkshire Water",
+    "bathing": "Bridlington North Bay",
+    "total_count": 34.0,
+    "total_hours": 25.4
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "bathing": "Bamburgh Castle",
+    "total_count": 10.0,
+    "total_hours": 25.39
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "BOTANY BAY BROADSTAIRS, BROADSTAIRS STONE BAY, JOSS BAY BROADSTAIRS, MARGATE FULSAM ROCK, MARGATE THE BAY, WALPOLE BAY MARGATE",
+    "total_count": 11.0,
+    "total_hours": 24.66
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "CRACKINGTON HAVEN BEACH",
+    "total_count": 18.0,
+    "total_hours": 23.98
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "BOURNEMOUTH PIER",
+    "total_count": 7.0,
+    "total_hours": 23.8
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "POOLE HARBOUR ROCKLEY SANDS**",
+    "total_count": 6.0,
+    "total_hours": 22.8
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "LYME REGIS FRONT BEACH",
+    "total_count": 18.0,
+    "total_hours": 22.34
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "BIRLING GAP",
+    "total_count": 12.0,
+    "total_hours": 21.12
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "Clacton Martello Tower",
+    "total_count": 10.0,
+    "total_hours": 20.73
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "CHRISTCHURCH BAY, HIGHCLIFFE, MILFORD-ON-SEA",
+    "total_count": 6.0,
+    "total_hours": 19.33
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Ainsdale",
+    "total_count": 16.0,
+    "total_hours": 18.13
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Yorkshire Water",
+    "bathing": "Indirectly to Flamborough South",
+    "total_count": 8.0,
+    "total_hours": 17.4
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "RAMSGATE SANDS, RAMSGATE WESTERN UNDERCLIFFE",
+    "total_count": 6.0,
+    "total_hours": 16.9
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "PEVENSEY BAY",
+    "total_count": 9.0,
+    "total_hours": 16.82
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "Hunstanton Main Beach",
+    "total_count": 35.0,
+    "total_hours": 16.33
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "LULWORTH COVE",
+    "total_count": 16.0,
+    "total_hours": 15.4
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "TEIGNMOUTH (TOWN) BEACH",
+    "total_count": 7.0,
+    "total_hours": 13.77
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "bathing": "Tynemouth Longsands South",
+    "total_count": 4.0,
+    "total_hours": 13.22
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "SHANKLIN, VENTNOR",
+    "total_count": 10.0,
+    "total_hours": 11.65
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "BANTHAM BEACH",
+    "total_count": 7.0,
+    "total_hours": 11.3
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "SHOALSTONE BEACH",
+    "total_count": 18.0,
+    "total_hours": 11.3
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "WESTWARD HO! BEACH",
+    "total_count": 12.0,
+    "total_hours": 11.04
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "WEYMOUTH CENTRAL",
+    "total_count": 9.0,
+    "total_hours": 10.8
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "BOURNEMOUTH BOSCOMBE PIER",
+    "total_count": 11.0,
+    "total_hours": 10.2
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "BOTANY BAY BROADSTAIRS, BROADSTAIRS STONE BAY, BROADSTAIRS VIKING BAY, JOSS BAY BROADSTAIRS",
+    "total_count": 6.0,
+    "total_hours": 10.06
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "Southwold the Deans",
+    "total_count": 23.0,
+    "total_hours": 9.57
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "WEMBURY BEACH",
+    "total_count": 9.0,
+    "total_hours": 9.37
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "SANDOWN, SHANKLIN",
+    "total_count": 4.0,
+    "total_hours": 9.17
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "LANCING BEACH GREEN, SHOREHAM BEACH, SOUTHWICK",
+    "total_count": 7.0,
+    "total_hours": 8.21
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Yorkshire Water",
+    "bathing": "Scarborough North Bay",
+    "total_count": 11.0,
+    "total_hours": 7.4
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "HILLHEAD, LEE-ON-SOLENT, STOKES BAY",
+    "total_count": 7.0,
+    "total_hours": 6.71
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "EASTBOURNE, PEVENSEY BAY",
+    "total_count": 8.0,
+    "total_hours": 6.64
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "HIVE (BURTON BRADSTOCK)",
+    "total_count": 2.0,
+    "total_hours": 6.5
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "Gorleston Beach",
+    "total_count": 9.0,
+    "total_hours": 6.43
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "WEYMOUTH LODMOOR",
+    "total_count": 13.0,
+    "total_hours": 5.5
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "Mundesley",
+    "total_count": 9.0,
+    "total_hours": 5.3
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "CARBIS BAY",
+    "total_count": 5.0,
+    "total_hours": 5.24
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "BEXHILL, ST LEONARDS",
+    "total_count": 4.0,
+    "total_hours": 5.19
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "FOLKESTONE, SANDGATE",
+    "total_count": 6.0,
+    "total_hours": 5.14
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "HERNE BAY CENTRAL, TANKERTON, WEST BEACH WHITSTABLE",
+    "total_count": 3.0,
+    "total_hours": 4.86
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "Mablethorpe Town",
+    "total_count": 4.0,
+    "total_hours": 4.77
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "MINSTER LEAS",
+    "total_count": 6.0,
+    "total_hours": 4.74
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "STUDLAND KNOLL HOUSE",
+    "total_count": 2.0,
+    "total_hours": 4.2
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "Ingoldsmell South",
+    "total_count": 3.0,
+    "total_hours": 4.0
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Yorkshire Water",
+    "bathing": "Wilsthorpe",
+    "total_count": 2.0,
+    "total_hours": 3.5
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "BROADSTAIRS STONE BAY, BROADSTAIRS VIKING BAY, RAMSGATE SANDS, RAMSGATE WESTERN UNDERCLIFFE",
+    "total_count": 2.0,
+    "total_hours": 3.48
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "bathing": "Seaton Sluice",
+    "total_count": 21.0,
+    "total_hours": 3.23
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "Southwold the Pier",
+    "total_count": 31.0,
+    "total_hours": 3.2
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Yorkshire Water",
+    "bathing": "Indirectly via Surface Water Sewer to Wilsthorpe",
+    "total_count": 1.0,
+    "total_hours": 3.0
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "PORTLAND HARBOUR CASTLE COVE/PORTLAND HARBOUR SANDSFOOT CASTLE**",
+    "total_count": 15.0,
+    "total_hours": 2.8
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "WORTHING",
+    "total_count": 2.0,
+    "total_hours": 2.63
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "Sherringham",
+    "total_count": 2.0,
+    "total_hours": 2.57
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "PORTHGWIDDEN BEACH ST.IVES",
+    "total_count": 5.0,
+    "total_hours": 2.56
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "PORTHMINSTER BEACH ST.IVES",
+    "total_count": 7.0,
+    "total_hours": 2.19
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "SALCOMBE NORTH SANDS",
+    "total_count": 4.0,
+    "total_hours": 2.05
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "EASTNEY, BEACHLANDS WEST",
+    "total_count": 2.0,
+    "total_hours": 2.02
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "DEAL CASTLE",
+    "total_count": 2.0,
+    "total_hours": 1.87
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "Clacton Groyne 41/Clacton Martello Tower",
+    "total_count": 10.0,
+    "total_hours": 1.67
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Fleetwood and Morecambe South",
+    "total_count": 17.0,
+    "total_hours": 1.65
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "BABBACOMBE BEACH",
+    "total_count": 2.0,
+    "total_hours": 1.6
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "SELSEY",
+    "total_count": 1.0,
+    "total_hours": 1.0
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "CHALLABOROUGH BEACH",
+    "total_count": 12.0,
+    "total_hours": 0.95
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "Great Yarmouth South",
+    "total_count": 2.0,
+    "total_hours": 0.83
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "GOODRINGTON BEACH",
+    "total_count": 4.0,
+    "total_hours": 0.79
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "Cromer",
+    "total_count": 2.0,
+    "total_hours": 0.73
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "bathing": "Cleethorpes and Humberston Fitties",
+    "total_count": 1.0,
+    "total_hours": 0.7
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Ainsdale and Southport",
+    "total_count": 2.0,
+    "total_hours": 0.62
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "bathing": "CROYDE BAY BEACH",
+    "total_count": 2.0,
+    "total_hours": 0.58
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "BOURNEMOUTH FISHERMAN'S WALK",
+    "total_count": 2.0,
+    "total_hours": 0.5
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "MARGATE FULSAM ROCK, MARGATE THE BAY, ST MILDREDS BAY WESTGATE, WALPOLE BAY MARGATE, WEST BAY WESTGATE, WESTBROOK BAY MARGATE",
+    "total_count": 1.0,
+    "total_hours": 0.4
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "bathing": "Seaton Carew (Centre)",
+    "total_count": 3.0,
+    "total_hours": 0.37
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "RAMSGATE WESTERN UNDERCLIFFE",
+    "total_count": 1.0,
+    "total_hours": 0.27
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "EASTBOURNE",
+    "total_count": 1.0,
+    "total_hours": 0.25
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "bathing": "SHOREHAM BEACH, SOUTHWICK",
+    "total_count": 1.0,
+    "total_hours": 0.23
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "bathing": "PORTLAND HARBOUR CASTLE COVE/PORTLAND HARBOUR SANDSFOOT CASTLE",
+    "total_count": 1.0,
+    "total_hours": 0.2
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "bathing": "Cleveleys",
+    "total_count": 2.0,
+    "total_hours": 0.14
   }
 ]

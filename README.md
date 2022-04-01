@@ -116,4 +116,39 @@ You'll need the following:
 - Link with voting results - need to find the division results...
 - Rivers and beaches by constituency?
 - Constituency page showing all the things by constituency?
-- 
+
+
+# Data Quality
+
+To be sure the quality of the data is unbelievably poor. Perhaps it is so poor so that it is hard to understand?
+
+## 2021 Data
+
+### Issues
+ - Distributed as an Excel file, which is hard to process
+   - Should ideally be a machine readable format. I'll say simple XML, with schema, but a consistent CSV file would be OK.
+ - Mix and match of data types 
+   - Numeric columns have "N/A", "#N/A", and "#NA"
+   - Name columns have "0" in
+   - Percentage values scale from 0-1 in some sheets, and 0-100 in others, because some sheets have cells set to "Numeric", and others to "Percent"
+ - Continuation rows
+   - A few of the sheets don't stick to "one row per record", which is kinda mandatory in a machine readable file.
+ - Inconsistent data
+   - Particularly consent ids don't match consent ids in the consent database - the formatting differs
+   - Consent ids don't have a consistent format.
+   - Loads of EDM rows don't match valid consents. 
+ - Duplicate data rows 
+   - Some data rows are duplicates in many of the source files. It is not clear why, it looks like an extract from a database upstream has maybe repeated rows where there are multiple assets with the same consent information?
+
+### Noted Improvements
+ - The files are now tabs in a single document with *almost* consistent data across the tabs.
+
+### Example Duplicate Data
+
+```
+'Anglian Water', 'DAVENTRY SEWER SYSTEM', 'AW5NF181', 'A1'
+'Dwr Cymru Welsh Water', '#TBC', '#N/A', '', '', '', '0.25', '1', '100', ''
+'Severn Trent Water', 'WITTON - GEORGE ROAD XXX (CSO)', 'TBC', '', '', '', '', '', '', ''
+'South West Water', 'KINGSAND SEWAGE PUMPING STATION', '301903', 'A1', '', 'KINGSAND BEACH', '33.72', '21', '100', ''
+```
+

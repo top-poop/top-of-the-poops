@@ -1,962 +1,1214 @@
 [
   {
+    "reporting_year": 2020,
     "bin": 0.0,
     "company_name": "Anglian Water",
     "count": 27
   },
   {
+    "reporting_year": 2020,
     "bin": 10.0,
     "company_name": "Anglian Water",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 20.0,
     "company_name": "Anglian Water",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 25.0,
     "company_name": "Anglian Water",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 35.0,
     "company_name": "Anglian Water",
     "count": 3
   },
   {
+    "reporting_year": 2020,
     "bin": 40.0,
     "company_name": "Anglian Water",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 50.0,
     "company_name": "Anglian Water",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 55.0,
     "company_name": "Anglian Water",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 60.0,
     "company_name": "Anglian Water",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 65.0,
     "company_name": "Anglian Water",
     "count": 4
   },
   {
+    "reporting_year": 2020,
     "bin": 70.0,
     "company_name": "Anglian Water",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 75.0,
     "company_name": "Anglian Water",
     "count": 3
   },
   {
+    "reporting_year": 2020,
     "bin": 80.0,
     "company_name": "Anglian Water",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 85.0,
     "company_name": "Anglian Water",
     "count": 6
   },
   {
+    "reporting_year": 2020,
     "bin": 90.0,
     "company_name": "Anglian Water",
     "count": 23
   },
   {
+    "reporting_year": 2020,
     "bin": 95.0,
     "company_name": "Anglian Water",
     "count": 205
   },
   {
+    "reporting_year": 2020,
     "bin": 100.0,
     "company_name": "Anglian Water",
     "count": 455
   },
   {
+    "reporting_year": 2020,
     "bin": 0.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 53
   },
   {
+    "reporting_year": 2020,
     "bin": 5.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 3
   },
   {
+    "reporting_year": 2020,
     "bin": 10.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 7
   },
   {
+    "reporting_year": 2020,
     "bin": 15.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 20.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 4
   },
   {
+    "reporting_year": 2020,
     "bin": 25.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 4
   },
   {
+    "reporting_year": 2020,
     "bin": 30.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 8
   },
   {
+    "reporting_year": 2020,
     "bin": 35.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 5
   },
   {
+    "reporting_year": 2020,
     "bin": 40.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 8
   },
   {
+    "reporting_year": 2020,
     "bin": 45.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 9
   },
   {
+    "reporting_year": 2020,
     "bin": 50.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 8
   },
   {
+    "reporting_year": 2020,
     "bin": 55.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 16
   },
   {
+    "reporting_year": 2020,
     "bin": 60.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 12
   },
   {
+    "reporting_year": 2020,
     "bin": 65.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 16
   },
   {
+    "reporting_year": 2020,
     "bin": 70.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 16
   },
   {
+    "reporting_year": 2020,
     "bin": 75.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 19
   },
   {
+    "reporting_year": 2020,
     "bin": 80.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 37
   },
   {
+    "reporting_year": 2020,
     "bin": 85.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 64
   },
   {
+    "reporting_year": 2020,
     "bin": 90.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 123
   },
   {
+    "reporting_year": 2020,
     "bin": 95.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 1167
   },
   {
+    "reporting_year": 2020,
     "bin": 100.0,
     "company_name": "Dwr Cymru Welsh Water",
     "count": 536
   },
   {
+    "reporting_year": 2020,
     "bin": 0.0,
     "company_name": "Northumbrian Water",
     "count": 63
   },
   {
+    "reporting_year": 2020,
     "bin": 5.0,
     "company_name": "Northumbrian Water",
     "count": 5
   },
   {
+    "reporting_year": 2020,
     "bin": 10.0,
     "company_name": "Northumbrian Water",
     "count": 3
   },
   {
+    "reporting_year": 2020,
     "bin": 15.0,
     "company_name": "Northumbrian Water",
     "count": 3
   },
   {
+    "reporting_year": 2020,
     "bin": 25.0,
     "company_name": "Northumbrian Water",
     "count": 2
   },
   {
+    "reporting_year": 2020,
     "bin": 30.0,
     "company_name": "Northumbrian Water",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 40.0,
     "company_name": "Northumbrian Water",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 45.0,
     "company_name": "Northumbrian Water",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 50.0,
     "company_name": "Northumbrian Water",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 55.0,
     "company_name": "Northumbrian Water",
     "count": 4
   },
   {
+    "reporting_year": 2020,
     "bin": 60.0,
     "company_name": "Northumbrian Water",
     "count": 4
   },
   {
+    "reporting_year": 2020,
     "bin": 65.0,
     "company_name": "Northumbrian Water",
     "count": 6
   },
   {
+    "reporting_year": 2020,
     "bin": 70.0,
     "company_name": "Northumbrian Water",
     "count": 10
   },
   {
+    "reporting_year": 2020,
     "bin": 75.0,
     "company_name": "Northumbrian Water",
     "count": 8
   },
   {
+    "reporting_year": 2020,
     "bin": 80.0,
     "company_name": "Northumbrian Water",
     "count": 20
   },
   {
+    "reporting_year": 2020,
     "bin": 85.0,
     "company_name": "Northumbrian Water",
     "count": 37
   },
   {
+    "reporting_year": 2020,
     "bin": 90.0,
     "company_name": "Northumbrian Water",
     "count": 81
   },
   {
+    "reporting_year": 2020,
     "bin": 95.0,
     "company_name": "Northumbrian Water",
     "count": 1053
   },
   {
+    "reporting_year": 2020,
     "bin": 100.0,
     "company_name": "Northumbrian Water",
     "count": 217
   },
   {
+    "reporting_year": 2020,
     "bin": 0.0,
     "company_name": "Severn Trent Water",
     "count": 12
   },
   {
+    "reporting_year": 2020,
     "bin": 5.0,
     "company_name": "Severn Trent Water",
     "count": 3
   },
   {
+    "reporting_year": 2020,
     "bin": 10.0,
     "company_name": "Severn Trent Water",
     "count": 2
   },
   {
+    "reporting_year": 2020,
     "bin": 15.0,
     "company_name": "Severn Trent Water",
     "count": 2
   },
   {
+    "reporting_year": 2020,
     "bin": 20.0,
     "company_name": "Severn Trent Water",
     "count": 3
   },
   {
+    "reporting_year": 2020,
     "bin": 25.0,
     "company_name": "Severn Trent Water",
     "count": 7
   },
   {
+    "reporting_year": 2020,
     "bin": 30.0,
     "company_name": "Severn Trent Water",
     "count": 8
   },
   {
+    "reporting_year": 2020,
     "bin": 35.0,
     "company_name": "Severn Trent Water",
     "count": 7
   },
   {
+    "reporting_year": 2020,
     "bin": 40.0,
     "company_name": "Severn Trent Water",
     "count": 9
   },
   {
+    "reporting_year": 2020,
     "bin": 45.0,
     "company_name": "Severn Trent Water",
     "count": 14
   },
   {
+    "reporting_year": 2020,
     "bin": 50.0,
     "company_name": "Severn Trent Water",
     "count": 10
   },
   {
+    "reporting_year": 2020,
     "bin": 55.0,
     "company_name": "Severn Trent Water",
     "count": 15
   },
   {
+    "reporting_year": 2020,
     "bin": 60.0,
     "company_name": "Severn Trent Water",
     "count": 21
   },
   {
+    "reporting_year": 2020,
     "bin": 65.0,
     "company_name": "Severn Trent Water",
     "count": 26
   },
   {
+    "reporting_year": 2020,
     "bin": 70.0,
     "company_name": "Severn Trent Water",
     "count": 30
   },
   {
+    "reporting_year": 2020,
     "bin": 75.0,
     "company_name": "Severn Trent Water",
     "count": 54
   },
   {
+    "reporting_year": 2020,
     "bin": 80.0,
     "company_name": "Severn Trent Water",
     "count": 118
   },
   {
+    "reporting_year": 2020,
     "bin": 85.0,
     "company_name": "Severn Trent Water",
     "count": 115
   },
   {
+    "reporting_year": 2020,
     "bin": 90.0,
     "company_name": "Severn Trent Water",
     "count": 117
   },
   {
+    "reporting_year": 2020,
     "bin": 95.0,
     "company_name": "Severn Trent Water",
     "count": 1110
   },
   {
+    "reporting_year": 2020,
     "bin": 100.0,
     "company_name": "Severn Trent Water",
     "count": 605
   },
   {
+    "reporting_year": 2020,
     "bin": 5.0,
     "company_name": "South West Water",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 10.0,
     "company_name": "South West Water",
     "count": 20
   },
   {
+    "reporting_year": 2020,
     "bin": 15.0,
     "company_name": "South West Water",
     "count": 22
   },
   {
+    "reporting_year": 2020,
     "bin": 20.0,
     "company_name": "South West Water",
     "count": 17
   },
   {
+    "reporting_year": 2020,
     "bin": 25.0,
     "company_name": "South West Water",
     "count": 13
   },
   {
+    "reporting_year": 2020,
     "bin": 30.0,
     "company_name": "South West Water",
     "count": 13
   },
   {
+    "reporting_year": 2020,
     "bin": 35.0,
     "company_name": "South West Water",
     "count": 6
   },
   {
+    "reporting_year": 2020,
     "bin": 40.0,
     "company_name": "South West Water",
     "count": 7
   },
   {
+    "reporting_year": 2020,
     "bin": 45.0,
     "company_name": "South West Water",
     "count": 3
   },
   {
+    "reporting_year": 2020,
     "bin": 50.0,
     "company_name": "South West Water",
     "count": 8
   },
   {
+    "reporting_year": 2020,
     "bin": 55.0,
     "company_name": "South West Water",
     "count": 3
   },
   {
+    "reporting_year": 2020,
     "bin": 60.0,
     "company_name": "South West Water",
     "count": 4
   },
   {
+    "reporting_year": 2020,
     "bin": 65.0,
     "company_name": "South West Water",
     "count": 3
   },
   {
+    "reporting_year": 2020,
     "bin": 70.0,
     "company_name": "South West Water",
     "count": 5
   },
   {
+    "reporting_year": 2020,
     "bin": 75.0,
     "company_name": "South West Water",
     "count": 13
   },
   {
+    "reporting_year": 2020,
     "bin": 80.0,
     "company_name": "South West Water",
     "count": 9
   },
   {
+    "reporting_year": 2020,
     "bin": 85.0,
     "company_name": "South West Water",
     "count": 16
   },
   {
+    "reporting_year": 2020,
     "bin": 90.0,
     "company_name": "South West Water",
     "count": 4
   },
   {
+    "reporting_year": 2020,
     "bin": 95.0,
     "company_name": "South West Water",
     "count": 3
   },
   {
+    "reporting_year": 2020,
     "bin": 100.0,
     "company_name": "South West Water",
     "count": 925
   },
   {
+    "reporting_year": 2020,
     "bin": 0.0,
     "company_name": "Southern Water",
     "count": 63
   },
   {
+    "reporting_year": 2020,
     "bin": 5.0,
     "company_name": "Southern Water",
     "count": 2
   },
   {
+    "reporting_year": 2020,
     "bin": 10.0,
     "company_name": "Southern Water",
     "count": 2
   },
   {
+    "reporting_year": 2020,
     "bin": 15.0,
     "company_name": "Southern Water",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 20.0,
     "company_name": "Southern Water",
     "count": 5
   },
   {
+    "reporting_year": 2020,
     "bin": 25.0,
     "company_name": "Southern Water",
     "count": 3
   },
   {
+    "reporting_year": 2020,
     "bin": 30.0,
     "company_name": "Southern Water",
     "count": 5
   },
   {
+    "reporting_year": 2020,
     "bin": 35.0,
     "company_name": "Southern Water",
     "count": 2
   },
   {
+    "reporting_year": 2020,
     "bin": 45.0,
     "company_name": "Southern Water",
     "count": 8
   },
   {
+    "reporting_year": 2020,
     "bin": 50.0,
     "company_name": "Southern Water",
     "count": 10
   },
   {
+    "reporting_year": 2020,
     "bin": 55.0,
     "company_name": "Southern Water",
     "count": 12
   },
   {
+    "reporting_year": 2020,
     "bin": 60.0,
     "company_name": "Southern Water",
     "count": 7
   },
   {
+    "reporting_year": 2020,
     "bin": 65.0,
     "company_name": "Southern Water",
     "count": 6
   },
   {
+    "reporting_year": 2020,
     "bin": 70.0,
     "company_name": "Southern Water",
     "count": 14
   },
   {
+    "reporting_year": 2020,
     "bin": 75.0,
     "company_name": "Southern Water",
     "count": 19
   },
   {
+    "reporting_year": 2020,
     "bin": 80.0,
     "company_name": "Southern Water",
     "count": 29
   },
   {
+    "reporting_year": 2020,
     "bin": 85.0,
     "company_name": "Southern Water",
     "count": 29
   },
   {
+    "reporting_year": 2020,
     "bin": 90.0,
     "company_name": "Southern Water",
     "count": 87
   },
   {
+    "reporting_year": 2020,
     "bin": 95.0,
     "company_name": "Southern Water",
     "count": 926
   },
   {
+    "reporting_year": 2020,
     "bin": 100.0,
     "company_name": "Southern Water",
     "count": 247
   },
   {
+    "reporting_year": 2020,
     "bin": 0.0,
     "company_name": "Thames Water",
     "count": 5
   },
   {
+    "reporting_year": 2020,
     "bin": 30.0,
     "company_name": "Thames Water",
     "count": 2
   },
   {
+    "reporting_year": 2020,
     "bin": 45.0,
     "company_name": "Thames Water",
     "count": 2
   },
   {
+    "reporting_year": 2020,
     "bin": 55.0,
     "company_name": "Thames Water",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 60.0,
     "company_name": "Thames Water",
     "count": 2
   },
   {
+    "reporting_year": 2020,
     "bin": 65.0,
     "company_name": "Thames Water",
     "count": 5
   },
   {
+    "reporting_year": 2020,
     "bin": 70.0,
     "company_name": "Thames Water",
     "count": 8
   },
   {
+    "reporting_year": 2020,
     "bin": 75.0,
     "company_name": "Thames Water",
     "count": 5
   },
   {
+    "reporting_year": 2020,
     "bin": 80.0,
     "company_name": "Thames Water",
     "count": 12
   },
   {
+    "reporting_year": 2020,
     "bin": 85.0,
     "company_name": "Thames Water",
     "count": 8
   },
   {
+    "reporting_year": 2020,
     "bin": 90.0,
     "company_name": "Thames Water",
     "count": 16
   },
   {
+    "reporting_year": 2020,
     "bin": 95.0,
     "company_name": "Thames Water",
     "count": 197
   },
   {
+    "reporting_year": 2020,
     "bin": 100.0,
     "company_name": "Thames Water",
     "count": 205
   },
   {
+    "reporting_year": 2020,
     "bin": 0.0,
     "company_name": "United Utilities",
     "count": 43
   },
   {
+    "reporting_year": 2020,
     "bin": 5.0,
     "company_name": "United Utilities",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 10.0,
     "company_name": "United Utilities",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 15.0,
     "company_name": "United Utilities",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 20.0,
     "company_name": "United Utilities",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 25.0,
     "company_name": "United Utilities",
     "count": 3
   },
   {
+    "reporting_year": 2020,
     "bin": 30.0,
     "company_name": "United Utilities",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 40.0,
     "company_name": "United Utilities",
     "count": 5
   },
   {
+    "reporting_year": 2020,
     "bin": 45.0,
     "company_name": "United Utilities",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 50.0,
     "company_name": "United Utilities",
     "count": 10
   },
   {
+    "reporting_year": 2020,
     "bin": 55.0,
     "company_name": "United Utilities",
     "count": 5
   },
   {
+    "reporting_year": 2020,
     "bin": 60.0,
     "company_name": "United Utilities",
     "count": 9
   },
   {
+    "reporting_year": 2020,
     "bin": 65.0,
     "company_name": "United Utilities",
     "count": 8
   },
   {
+    "reporting_year": 2020,
     "bin": 70.0,
     "company_name": "United Utilities",
     "count": 10
   },
   {
+    "reporting_year": 2020,
     "bin": 75.0,
     "company_name": "United Utilities",
     "count": 21
   },
   {
+    "reporting_year": 2020,
     "bin": 80.0,
     "company_name": "United Utilities",
     "count": 18
   },
   {
+    "reporting_year": 2020,
     "bin": 85.0,
     "company_name": "United Utilities",
     "count": 32
   },
   {
+    "reporting_year": 2020,
     "bin": 90.0,
     "company_name": "United Utilities",
     "count": 77
   },
   {
+    "reporting_year": 2020,
     "bin": 95.0,
     "company_name": "United Utilities",
     "count": 755
   },
   {
+    "reporting_year": 2020,
     "bin": 100.0,
     "company_name": "United Utilities",
     "count": 923
   },
   {
+    "reporting_year": 2020,
     "bin": 0.0,
     "company_name": "Wessex Water",
     "count": 4
   },
   {
+    "reporting_year": 2020,
     "bin": 5.0,
     "company_name": "Wessex Water",
     "count": 3
   },
   {
+    "reporting_year": 2020,
     "bin": 10.0,
     "company_name": "Wessex Water",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 15.0,
     "company_name": "Wessex Water",
     "count": 3
   },
   {
+    "reporting_year": 2020,
     "bin": 20.0,
     "company_name": "Wessex Water",
     "count": 2
   },
   {
+    "reporting_year": 2020,
     "bin": 25.0,
     "company_name": "Wessex Water",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 30.0,
     "company_name": "Wessex Water",
     "count": 2
   },
   {
+    "reporting_year": 2020,
     "bin": 35.0,
     "company_name": "Wessex Water",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 40.0,
     "company_name": "Wessex Water",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 45.0,
     "company_name": "Wessex Water",
     "count": 2
   },
   {
+    "reporting_year": 2020,
     "bin": 50.0,
     "company_name": "Wessex Water",
     "count": 6
   },
   {
+    "reporting_year": 2020,
     "bin": 60.0,
     "company_name": "Wessex Water",
     "count": 1
   },
   {
+    "reporting_year": 2020,
     "bin": 65.0,
     "company_name": "Wessex Water",
     "count": 4
   },
   {
+    "reporting_year": 2020,
     "bin": 70.0,
     "company_name": "Wessex Water",
     "count": 7
   },
   {
+    "reporting_year": 2020,
     "bin": 75.0,
     "company_name": "Wessex Water",
     "count": 16
   },
   {
+    "reporting_year": 2020,
     "bin": 80.0,
     "company_name": "Wessex Water",
     "count": 20
   },
   {
+    "reporting_year": 2020,
     "bin": 85.0,
     "company_name": "Wessex Water",
     "count": 19
   },
   {
+    "reporting_year": 2020,
     "bin": 90.0,
     "company_name": "Wessex Water",
     "count": 47
   },
   {
+    "reporting_year": 2020,
     "bin": 95.0,
     "company_name": "Wessex Water",
     "count": 373
   },
   {
+    "reporting_year": 2020,
     "bin": 100.0,
     "company_name": "Wessex Water",
     "count": 462
   },
   {
+    "reporting_year": 2020,
     "bin": 0.0,
     "company_name": "Yorkshire Water",
     "count": 133
   },
   {
+    "reporting_year": 2020,
     "bin": 5.0,
     "company_name": "Yorkshire Water",
     "count": 8
   },
   {
+    "reporting_year": 2020,
     "bin": 10.0,
     "company_name": "Yorkshire Water",
     "count": 5
   },
   {
+    "reporting_year": 2020,
     "bin": 15.0,
     "company_name": "Yorkshire Water",
     "count": 6
   },
   {
+    "reporting_year": 2020,
     "bin": 20.0,
     "company_name": "Yorkshire Water",
     "count": 3
   },
   {
+    "reporting_year": 2020,
     "bin": 25.0,
     "company_name": "Yorkshire Water",
     "count": 9
   },
   {
+    "reporting_year": 2020,
     "bin": 30.0,
     "company_name": "Yorkshire Water",
     "count": 10
   },
   {
+    "reporting_year": 2020,
     "bin": 35.0,
     "company_name": "Yorkshire Water",
     "count": 11
   },
   {
+    "reporting_year": 2020,
     "bin": 40.0,
     "company_name": "Yorkshire Water",
     "count": 5
   },
   {
+    "reporting_year": 2020,
     "bin": 45.0,
     "company_name": "Yorkshire Water",
     "count": 24
   },
   {
+    "reporting_year": 2020,
     "bin": 50.0,
     "company_name": "Yorkshire Water",
     "count": 15
   },
   {
+    "reporting_year": 2020,
     "bin": 55.0,
     "company_name": "Yorkshire Water",
     "count": 15
   },
   {
+    "reporting_year": 2020,
     "bin": 60.0,
     "company_name": "Yorkshire Water",
     "count": 17
   },
   {
+    "reporting_year": 2020,
     "bin": 65.0,
     "company_name": "Yorkshire Water",
     "count": 19
   },
   {
+    "reporting_year": 2020,
     "bin": 70.0,
     "company_name": "Yorkshire Water",
     "count": 20
   },
   {
+    "reporting_year": 2020,
     "bin": 75.0,
     "company_name": "Yorkshire Water",
     "count": 43
   },
   {
+    "reporting_year": 2020,
     "bin": 80.0,
     "company_name": "Yorkshire Water",
     "count": 47
   },
   {
+    "reporting_year": 2020,
     "bin": 85.0,
     "company_name": "Yorkshire Water",
     "count": 71
   },
   {
+    "reporting_year": 2020,
     "bin": 90.0,
     "company_name": "Yorkshire Water",
     "count": 117
   },
   {
+    "reporting_year": 2020,
     "bin": 95.0,
     "company_name": "Yorkshire Water",
     "count": 782
   },
   {
+    "reporting_year": 2020,
     "bin": 100.0,
     "company_name": "Yorkshire Water",
     "count": 825
+  },
+  {
+    "reporting_year": 2021,
+    "bin": 0.0,
+    "company_name": "Anglian Water",
+    "count": 1542
+  },
+  {
+    "reporting_year": 2021,
+    "bin": 0.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 123
+  },
+  {
+    "reporting_year": 2021,
+    "bin": 0.0,
+    "company_name": "Northumbrian Water",
+    "count": 1567
+  },
+  {
+    "reporting_year": 2021,
+    "bin": 0.0,
+    "company_name": "Severn Trent Water",
+    "count": 2654
+  },
+  {
+    "reporting_year": 2021,
+    "bin": 0.0,
+    "company_name": "South West Water",
+    "count": 1377
+  },
+  {
+    "reporting_year": 2021,
+    "bin": 0.0,
+    "company_name": "Southern Water",
+    "count": 978
+  },
+  {
+    "reporting_year": 2021,
+    "bin": 0.0,
+    "company_name": "Thames Water",
+    "count": 465
+  },
+  {
+    "reporting_year": 2021,
+    "bin": 0.0,
+    "company_name": "United Utilities",
+    "count": 2191
+  },
+  {
+    "reporting_year": 2021,
+    "bin": 0.0,
+    "company_name": "Wessex Water",
+    "count": 1278
+  },
+  {
+    "reporting_year": 2021,
+    "bin": 0.0,
+    "company_name": "Yorkshire Water",
+    "count": 2246
   }
 ]

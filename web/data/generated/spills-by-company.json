@@ -1,52 +1,122 @@
 [
   {
+    "reporting_year": 2020,
     "company_name": "Anglian Water",
     "hours": 170546.61,
     "count": 17428.0
   },
   {
+    "reporting_year": 2021,
+    "company_name": "Anglian Water",
+    "hours": 194594.006666,
+    "count": 21351.0
+  },
+  {
+    "reporting_year": 2020,
     "company_name": "Dwr Cymru Welsh Water",
     "hours": 889631.75,
     "count": 108462.0
   },
   {
+    "reporting_year": 2021,
+    "company_name": "Dwr Cymru Welsh Water",
+    "hours": 17162.5,
+    "count": 3566.0
+  },
+  {
+    "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "hours": 178229.59,
     "count": 32497.0
   },
   {
+    "reporting_year": 2021,
+    "company_name": "Northumbrian Water",
+    "hours": 220560.452222,
+    "count": 36483.0
+  },
+  {
+    "reporting_year": 2020,
     "company_name": "Severn Trent Water",
     "hours": 558699.36,
     "count": 60982.0
   },
   {
+    "reporting_year": 2021,
+    "company_name": "Severn Trent Water",
+    "hours": 461127.689222,
+    "count": 59676.0
+  },
+  {
+    "reporting_year": 2020,
     "company_name": "South West Water",
     "hours": 375372.31,
     "count": 42053.0
   },
   {
+    "reporting_year": 2021,
+    "company_name": "South West Water",
+    "hours": 349293.33,
+    "count": 42126.0
+  },
+  {
+    "reporting_year": 2020,
     "company_name": "Southern Water",
     "hours": 201003.14,
     "count": 20313.0
   },
   {
+    "reporting_year": 2021,
+    "company_name": "Southern Water",
+    "hours": 160983.930833,
+    "count": 19077.41
+  },
+  {
+    "reporting_year": 2020,
     "company_name": "Thames Water",
     "hours": 215886.57,
     "count": 18443.0
   },
   {
+    "reporting_year": 2021,
+    "company_name": "Thames Water",
+    "hours": 163089.82,
+    "count": 14713.0
+  },
+  {
+    "reporting_year": 2020,
     "company_name": "United Utilities",
     "hours": 726450.26,
     "count": 113940.0
   },
   {
+    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "hours": 540753.06,
+    "count": 81588.0
+  },
+  {
+    "reporting_year": 2020,
     "company_name": "Wessex Water",
     "hours": 236908.6,
     "count": 29014.0
   },
   {
+    "reporting_year": 2021,
+    "company_name": "Wessex Water",
+    "hours": 151258.33055555547,
+    "count": 23524.0
+  },
+  {
+    "reporting_year": 2020,
     "company_name": "Yorkshire Water",
     "hours": 420419.42,
     "count": 65083.0
+  },
+  {
+    "reporting_year": 2021,
+    "company_name": "Yorkshire Water",
+    "hours": 406125.4113888889,
+    "count": 70062.0
   }
 ]

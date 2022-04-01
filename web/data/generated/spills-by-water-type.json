@@ -1,62 +1,128 @@
 [
   {
+    "reporting_year": 2020,
     "water_type": "Freshwater river",
     "total_count": 394157.0,
     "total_hours": 3225191.23
   },
   {
+    "reporting_year": 2020,
     "water_type": "Estuary/Tidal River",
     "total_count": 37179.0,
     "total_hours": 226918.77
   },
   {
+    "reporting_year": 2020,
     "water_type": "Sea",
     "total_count": 15343.0,
     "total_hours": 121792.77
   },
   {
+    "reporting_year": 2020,
     "water_type": "Permit does not specify",
     "total_count": 10953.0,
     "total_hours": 55536.03
   },
   {
+    "reporting_year": 2020,
     "water_type": "Not Permitted",
     "total_count": 2522.0,
     "total_hours": 17152.25
   },
   {
+    "reporting_year": 2020,
     "water_type": "Canal",
     "total_count": 2453.0,
     "total_hours": 15099.84
   },
   {
+    "reporting_year": 2020,
     "water_type": "Pond/Lake/Reservoir",
     "total_count": 969.0,
     "total_hours": 5797.73
   },
   {
+    "reporting_year": 2020,
     "water_type": "Into land / infiltration system",
     "total_count": 560.0,
     "total_hours": 4725.29
   },
   {
+    "reporting_year": 2020,
     "water_type": "Grass plots / irrigation area",
     "total_count": 230.0,
     "total_hours": 1726.9
   },
   {
+    "reporting_year": 2020,
     "water_type": "Into land then to watercourse",
     "total_count": 122.0,
     "total_hours": 1482.56
   },
   {
+    "reporting_year": 2020,
     "water_type": "Into groundwater via borehole",
     "total_count": 8.0,
     "total_hours": 70.02
   },
   {
+    "reporting_year": 2020,
     "water_type": "Sewer",
     "total_count": 4.0,
     "total_hours": 8.0
+  },
+  {
+    "reporting_year": 2021,
+    "water_type": "Freshwater river",
+    "total_count": 292650.0,
+    "total_hours": 2179628.7754234443
+  },
+  {
+    "reporting_year": 2021,
+    "water_type": "Estuary/Tidal River",
+    "total_count": 33329.41,
+    "total_hours": 200367.18748866653
+  },
+  {
+    "reporting_year": 2021,
+    "water_type": "Sea",
+    "total_count": 10000.0,
+    "total_hours": 61111.903055333336
+  },
+  {
+    "reporting_year": 2021,
+    "water_type": "Canal",
+    "total_count": 2057.0,
+    "total_hours": 18137.355553
+  },
+  {
+    "reporting_year": 2021,
+    "water_type": "Into land / infiltration system",
+    "total_count": 815.0,
+    "total_hours": 7904.831667
+  },
+  {
+    "reporting_year": 2021,
+    "water_type": "Into land then to watercourse",
+    "total_count": 281.0,
+    "total_hours": 5539.19
+  },
+  {
+    "reporting_year": 2021,
+    "water_type": "Pond/Lake/Reservoir",
+    "total_count": 671.0,
+    "total_hours": 4792.158887
+  },
+  {
+    "reporting_year": 2021,
+    "water_type": "Grass plots / irrigation area",
+    "total_count": 89.0,
+    "total_hours": 581.8
+  },
+  {
+    "reporting_year": 2021,
+    "water_type": "Into groundwater via borehole",
+    "total_count": 8.0,
+    "total_hours": 73.7
   }
 ]

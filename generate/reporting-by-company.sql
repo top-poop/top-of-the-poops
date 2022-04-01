@@ -1,2 +1,4 @@
-select floor(reporting_pct/5)*5 as bin, company_name, count(*) from edm
-group by 1,2 order by 2,1;
+select reporting_year, floor(reporting_pct / 5) * 5 as bin, company_name, count(*)
+from edm
+group by reporting_year, company_name, bin
+order by reporting_year, company_name, bin;
