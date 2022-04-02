@@ -1,1778 +1,1298 @@
 [
   {
-    "reporting_year": 2020,
-    "company_name": "South West Water",
-    "shellfishery": "Teign",
-    "total_count": 2198.0,
-    "total_hours": 22202.54,
-    "mean_reporting_pct": 88.78592105263158
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Ribble",
-    "total_count": 1713.0,
-    "total_hours": 13106.41,
-    "mean_reporting_pct": 95.29342105263157
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "South West Water",
-    "shellfishery": "Taw/Torridge",
-    "total_count": 1836.0,
-    "total_hours": 12678.92,
-    "mean_reporting_pct": 98.23471698113208
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "NORTH WIRRAL (EAST)",
-    "total_count": 2705.0,
-    "total_hours": 11459.87,
-    "mean_reporting_pct": 96.56380952380952
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Duddon and Walney",
-    "total_count": 741.0,
-    "total_hours": 11240.16,
-    "mean_reporting_pct": 99.895
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Solway",
-    "total_count": 1180.0,
-    "total_hours": 11048.19,
-    "mean_reporting_pct": 98.87368421052632
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "South West Water",
-    "shellfishery": "Exe",
-    "total_count": 1773.0,
-    "total_hours": 9393.59,
-    "mean_reporting_pct": 91.61720430107526
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "South West Water",
-    "shellfishery": "Dart",
-    "total_count": 1126.0,
-    "total_hours": 9100.33,
-    "mean_reporting_pct": 78.10115384615385
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "MORECAMBE BAY EAST",
-    "total_count": 718.0,
-    "total_hours": 8657.75,
-    "mean_reporting_pct": 90.00181818181818
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "South West Water",
-    "shellfishery": "Fal Estuary",
-    "total_count": 1437.0,
-    "total_hours": 8561.48,
-    "mean_reporting_pct": 89.8205172413793
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "MORECAMBE BAY (LEVEN)",
-    "total_count": 591.0,
-    "total_hours": 8361.39,
-    "mean_reporting_pct": 98.08
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Morecambe Bay (Leven)",
-    "total_count": 486.0,
-    "total_hours": 7985.87,
-    "mean_reporting_pct": 99.10571428571428
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "RIBBLE",
-    "total_count": 1245.0,
-    "total_hours": 7648.17,
-    "mean_reporting_pct": 98.05555555555556
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "SILLOTH",
-    "total_count": 854.0,
-    "total_hours": 7143.06,
-    "mean_reporting_pct": 87.031
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Silloth",
-    "total_count": 714.0,
-    "total_hours": 6222.18,
-    "mean_reporting_pct": 99.96166666666667
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "South West Water",
-    "shellfishery": "Fowey",
-    "total_count": 828.0,
-    "total_hours": 5994.51,
-    "mean_reporting_pct": 100.0
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "South West Water",
-    "shellfishery": "Tamar",
-    "total_count": 600.0,
-    "total_hours": 4897.49,
-    "mean_reporting_pct": 88.44757575757576
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Ravenglass",
-    "total_count": 276.0,
-    "total_hours": 4743.12,
-    "mean_reporting_pct": 100.0
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "Anglian Water",
-    "shellfishery": "Colne",
-    "total_count": 302.0,
-    "total_hours": 4570.9,
-    "mean_reporting_pct": 99.5709090909091
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "South West Water",
-    "shellfishery": "Salcombe",
-    "total_count": 458.0,
-    "total_hours": 4286.35,
-    "mean_reporting_pct": 94.92571428571429
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "North Wirrall (East) and North Wirrall (West)",
-    "total_count": 1088.0,
-    "total_hours": 4068.91,
-    "mean_reporting_pct": 70.08666666666667
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "NORTH WIRRAL (WEST)",
-    "total_count": 470.0,
-    "total_hours": 3185.79,
-    "mean_reporting_pct": 99.96
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "Dwr Cymru Welsh Water",
-    "shellfishery": "Dee W",
-    "total_count": 413.0,
-    "total_hours": 2688.0,
-    "mean_reporting_pct": 90.493
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "WALNEY EAST",
-    "total_count": 672.0,
-    "total_hours": 2375.0,
-    "mean_reporting_pct": 98.615
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "South West Water",
-    "shellfishery": "Start Bay",
-    "total_count": 117.0,
-    "total_hours": 2253.4,
-    "mean_reporting_pct": 100.0
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Walney and Roose Beck",
-    "total_count": 608.0,
-    "total_hours": 2232.01,
-    "mean_reporting_pct": 99.23428571428572
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "South West Water",
-    "shellfishery": "Camel",
-    "total_count": 283.0,
-    "total_hours": 1986.48,
-    "mean_reporting_pct": 100.0
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "SOLWAY",
-    "total_count": 426.0,
-    "total_hours": 1918.22,
-    "mean_reporting_pct": 99.96333333333334
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "South West Water",
-    "shellfishery": "Avon",
-    "total_count": 187.0,
-    "total_hours": 1856.64,
-    "mean_reporting_pct": 92.23777777777778
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Morecambe Bay East and Lune (Broadfleet and Plover Scar)",
-    "total_count": 322.0,
-    "total_hours": 1853.3,
-    "mean_reporting_pct": 99.83571428571429
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "Anglian Water",
-    "shellfishery": "Colne, Pyfleet",
-    "total_count": 121.0,
-    "total_hours": 1773.46,
-    "mean_reporting_pct": 75.804
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Duddon",
-    "total_count": 106.0,
-    "total_hours": 1705.13,
-    "mean_reporting_pct": 100.0
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "North Wirral",
-    "total_count": 530.0,
-    "total_hours": 1499.57,
-    "mean_reporting_pct": 99.19428571428571
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "Anglian Water",
-    "shellfishery": "Osea Island",
-    "total_count": 86.0,
-    "total_hours": 1488.17,
-    "mean_reporting_pct": 81.915
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "RAVENGLASS",
-    "total_count": 172.0,
-    "total_hours": 1388.18,
-    "mean_reporting_pct": 99.96666666666667
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "Wessex Water",
-    "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
-    "total_count": 199.0,
-    "total_hours": 1375.15,
-    "mean_reporting_pct": 99.25444444444445
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Morecambe Bay East",
-    "total_count": 276.0,
-    "total_hours": 1335.43,
-    "mean_reporting_pct": 89.015
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Lune (Wyre Estuary) and Lune (Broadfleet and Plover Scar)",
-    "total_count": 177.0,
-    "total_hours": 1241.83,
-    "mean_reporting_pct": 99.996
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "Anglian Water",
-    "shellfishery": "Tollesbury Channel",
-    "total_count": 68.0,
-    "total_hours": 1201.5,
-    "mean_reporting_pct": 100.0
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Lune (Wyre)",
-    "total_count": 201.0,
-    "total_hours": 1196.55,
-    "mean_reporting_pct": 99.97
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "South West Water",
-    "shellfishery": "Yealm",
-    "total_count": 241.0,
-    "total_hours": 1115.95,
-    "mean_reporting_pct": 89.874
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "DEE (EAST)",
-    "total_count": 61.0,
-    "total_hours": 1025.63,
-    "mean_reporting_pct": 99.99
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Lune (Broadfleet)",
-    "total_count": 154.0,
-    "total_hours": 810.1,
-    "mean_reporting_pct": 100.0
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "North Wirral East",
-    "total_count": 213.0,
-    "total_hours": 679.5,
-    "mean_reporting_pct": 83.742
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Morcambe Bay (Leven)",
-    "total_count": 106.0,
-    "total_hours": 629.81,
-    "mean_reporting_pct": 99.845
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "South West Water",
-    "shellfishery": "Lynher",
-    "total_count": 139.0,
-    "total_hours": 619.93,
-    "mean_reporting_pct": 67.595
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Lune (Wyre Estuary) Lune (Broadfleet)",
-    "total_count": 96.0,
-    "total_hours": 602.5,
-    "mean_reporting_pct": 99.98
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Morcambe Bay East",
-    "total_count": 69.0,
-    "total_hours": 561.37,
-    "mean_reporting_pct": 59.972
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "South West Water",
-    "shellfishery": "Brixham",
-    "total_count": 79.0,
-    "total_hours": 434.83,
-    "mean_reporting_pct": 73.55
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "Anglian Water",
-    "shellfishery": "Burnham Overy Creek",
-    "total_count": 115.0,
-    "total_hours": 413.37,
-    "mean_reporting_pct": 100.0
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Lune (Broadfleet and Plover Scar) and Morecambe Bay East",
-    "total_count": 45.0,
-    "total_hours": 378.81,
-    "mean_reporting_pct": 97.67
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "Anglian Water",
-    "shellfishery": "South East Wash",
-    "total_count": 85.0,
-    "total_hours": 330.06,
-    "mean_reporting_pct": 100.0
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "LUNE (WYRE ESTUARY)",
-    "total_count": 213.0,
-    "total_hours": 304.12,
-    "mean_reporting_pct": 83.62375
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Lune (Plover Scar)",
-    "total_count": 68.0,
-    "total_hours": 303.43,
-    "mean_reporting_pct": 83.28666666666666
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "South West Water",
-    "shellfishery": "St.Austell Bay",
-    "total_count": 39.0,
-    "total_hours": 300.28,
-    "mean_reporting_pct": 100.0
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "ROOSEBECK_E",
-    "total_count": 109.0,
-    "total_hours": 297.29,
-    "mean_reporting_pct": 99.85
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "Anglian Water",
-    "shellfishery": "West Wash",
-    "total_count": 90.0,
-    "total_hours": 259.74,
-    "mean_reporting_pct": 73.23666666666666
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Lune (Wyre Estuary)",
-    "total_count": 34.0,
-    "total_hours": 243.58,
-    "mean_reporting_pct": 99.965
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "Wessex Water",
-    "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
-    "total_count": 139.0,
-    "total_hours": 176.39,
-    "mean_reporting_pct": 91.56142857142858
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "Anglian Water",
-    "shellfishery": "Walton Backwaters",
-    "total_count": 59.0,
-    "total_hours": 169.3,
-    "mean_reporting_pct": 100.0
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "LUNE (BROADFLEET)",
-    "total_count": 23.0,
-    "total_hours": 162.87,
-    "mean_reporting_pct": 100.0
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "Anglian Water",
-    "shellfishery": "North East Wash",
-    "total_count": 15.0,
-    "total_hours": 158.3,
-    "mean_reporting_pct": 100.0
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "South West Water",
-    "shellfishery": "Helford",
-    "total_count": 80.0,
-    "total_hours": 146.85,
-    "mean_reporting_pct": 100.0
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "Anglian Water",
-    "shellfishery": "Foulness",
-    "total_count": 29.0,
-    "total_hours": 81.26,
-    "mean_reporting_pct": 99.958
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "Anglian Water",
-    "shellfishery": "North West Norfolk",
-    "total_count": 40.0,
-    "total_hours": 55.77,
-    "mean_reporting_pct": 99.97
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "Anglian Water",
-    "shellfishery": "Deben",
-    "total_count": 60.0,
-    "total_hours": 47.8,
-    "mean_reporting_pct": 99.62
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "Anglian Water",
-    "shellfishery": "Upper Roach",
-    "total_count": 17.0,
-    "total_hours": 47.6,
-    "mean_reporting_pct": 66.57666666666667
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Lune (Broadfleet and Plover Scar)",
-    "total_count": 10.0,
-    "total_hours": 42.7,
-    "mean_reporting_pct": 99.99
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "Dwr Cymru Welsh Water",
-    "shellfishery": "Dee East",
-    "total_count": 12.0,
-    "total_hours": 41.0,
-    "mean_reporting_pct": 99.755
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Dee",
-    "total_count": 3.0,
-    "total_hours": 22.77,
-    "mean_reporting_pct": 100.0
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "Dwr Cymru Welsh Water",
-    "shellfishery": "Dee E",
-    "total_count": 15.0,
-    "total_hours": 12.5,
-    "mean_reporting_pct": 83.545
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "Anglian Water",
-    "shellfishery": "Strood Channel",
-    "total_count": 12.0,
-    "total_hours": 9.3,
-    "mean_reporting_pct": 98.79
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Morecambe Bay East, Lune (Wyre Estuary) and Lune (Broadfleet and Plover Scar)",
-    "total_count": 17.0,
-    "total_hours": 7.5,
-    "mean_reporting_pct": 100.0
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Solway and Silloth",
-    "total_count": 5.0,
-    "total_hours": 3.35,
-    "mean_reporting_pct": 100.0
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "Morecambe Bay (Leven) and Roose Beck",
-    "total_count": 20.0,
-    "total_hours": 3.27,
-    "mean_reporting_pct": 99.95
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "United Utilities",
-    "shellfishery": "#N/A",
-    "total_count": 1.0,
-    "total_hours": 0.61,
-    "mean_reporting_pct": 100.0
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "Anglian Water",
-    "shellfishery": "Strood Channel/Blackwater",
-    "total_count": 2.0,
-    "total_hours": 0.17,
-    "mean_reporting_pct": 100.0
-  },
-  {
-    "reporting_year": 2020,
-    "company_name": "Anglian Water",
-    "shellfishery": "Osea Island/Blackwater",
-    "total_count": 3.0,
-    "total_hours": 0.1,
-    "mean_reporting_pct": 100.0
-  },
-  {
-    "reporting_year": 2021,
-    "company_name": "United Utilities",
-    "shellfishery": "Ravenglass",
-    "total_count": null,
-    "total_hours": null,
-    "mean_reporting_pct": 0.0
-  },
-  {
-    "reporting_year": 2021,
     "company_name": "South West Water",
     "shellfishery": "Teign",
     "total_count": 1926.0,
     "total_hours": 13640.12,
-    "mean_reporting_pct": 0.9575384615384616
+    "mean_reporting_pct": 0.9575384615384616,
+    "spills_increase": -272.0,
+    "hours_increase": -8562.42
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "NORTH WIRRAL (EAST)",
     "total_count": 1651.0,
     "total_hours": 11029.01,
-    "mean_reporting_pct": 0.9227025
+    "mean_reporting_pct": 0.9227025,
+    "spills_increase": -1054.0,
+    "hours_increase": -430.86
   },
   {
-    "reporting_year": 2021,
     "company_name": "South West Water",
     "shellfishery": "Fal Estuary",
     "total_count": 1634.0,
     "total_hours": 9579.97,
-    "mean_reporting_pct": 0.9308928571428572
+    "mean_reporting_pct": 0.9308928571428572,
+    "spills_increase": 197.0,
+    "hours_increase": 1018.49
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Ribble",
     "total_count": 1085.0,
     "total_hours": 9466.41,
-    "mean_reporting_pct": 0.996925
+    "mean_reporting_pct": 0.996925,
+    "spills_increase": -628.0,
+    "hours_increase": -3640.0
   },
   {
-    "reporting_year": 2021,
     "company_name": "South West Water",
     "shellfishery": "Exe",
     "total_count": 1748.0,
     "total_hours": 9101.05,
-    "mean_reporting_pct": 0.9501022727272728
+    "mean_reporting_pct": 0.9501022727272728,
+    "spills_increase": -25.0,
+    "hours_increase": -292.54
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Morecambe Bay East and Lune (Broadfleet and Plover Scar)",
     "total_count": 583.0,
     "total_hours": 8572.51,
-    "mean_reporting_pct": 0.93745
+    "mean_reporting_pct": 0.93745,
+    "spills_increase": 261.0,
+    "hours_increase": 6719.21
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "RIBBLE",
     "total_count": 1126.0,
     "total_hours": 8159.32,
-    "mean_reporting_pct": 0.9891730769230769
+    "mean_reporting_pct": 0.9891730769230769,
+    "spills_increase": -119.0,
+    "hours_increase": 511.15
   },
   {
-    "reporting_year": 2021,
     "company_name": "South West Water",
     "shellfishery": "Taw/Torridge",
     "total_count": 1290.0,
     "total_hours": 7870.15,
-    "mean_reporting_pct": 0.9776190476190476
+    "mean_reporting_pct": 0.9776190476190476,
+    "spills_increase": -546.0,
+    "hours_increase": -4808.77
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "MORECAMBE BAY (LEVEN)",
     "total_count": 463.0,
     "total_hours": 7193.63,
-    "mean_reporting_pct": 0.99988
+    "mean_reporting_pct": 0.99988,
+    "spills_increase": -128.0,
+    "hours_increase": -1167.76
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Duddon and Walney",
     "total_count": 408.0,
     "total_hours": 6414.24,
-    "mean_reporting_pct": 0.7472625
+    "mean_reporting_pct": 0.7472625,
+    "spills_increase": -333.0,
+    "hours_increase": -4825.92
   },
   {
-    "reporting_year": 2021,
     "company_name": "South West Water",
     "shellfishery": "Dart",
     "total_count": 1341.0,
     "total_hours": 6314.47,
-    "mean_reporting_pct": 0.8965384615384615
+    "mean_reporting_pct": 0.8965384615384615,
+    "spills_increase": 215.0,
+    "hours_increase": -2785.86
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Solway",
     "total_count": 841.0,
     "total_hours": 5854.59,
-    "mean_reporting_pct": 0.7691846153846154
+    "mean_reporting_pct": 0.7691846153846154,
+    "spills_increase": -339.0,
+    "hours_increase": -5193.6
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "MORECAMBE BAY EAST",
     "total_count": 382.0,
     "total_hours": 5845.55,
-    "mean_reporting_pct": 0.9986875
+    "mean_reporting_pct": 0.9986875,
+    "spills_increase": -336.0,
+    "hours_increase": -2812.2
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Morecambe Bay (Leven)",
     "total_count": 371.0,
     "total_hours": 5182.68,
-    "mean_reporting_pct": 0.9762666666666666
+    "mean_reporting_pct": 0.9762666666666666,
+    "spills_increase": -115.0,
+    "hours_increase": -2803.19
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "CHICHESTER HARBOUR (CHICHESTER",
     "total_count": 233.0,
     "total_hours": 5153.03,
-    "mean_reporting_pct": 0.9975
+    "mean_reporting_pct": 0.9975,
+    "spills_increase": 233.0,
+    "hours_increase": 5153.03
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Silloth",
     "total_count": 386.0,
     "total_hours": 4288.5,
-    "mean_reporting_pct": 0.7993
+    "mean_reporting_pct": 0.7993,
+    "spills_increase": -328.0,
+    "hours_increase": -1933.68
   },
   {
-    "reporting_year": 2021,
     "company_name": "South West Water",
     "shellfishery": "Tamar",
     "total_count": 546.0,
     "total_hours": 4208.59,
-    "mean_reporting_pct": 0.9329032258064516
+    "mean_reporting_pct": 0.9329032258064516,
+    "spills_increase": -54.0,
+    "hours_increase": -688.9
   },
   {
-    "reporting_year": 2021,
     "company_name": "South West Water",
     "shellfishery": "Fowey",
     "total_count": 752.0,
     "total_hours": 3984.89,
-    "mean_reporting_pct": 0.888
+    "mean_reporting_pct": 0.888,
+    "spills_increase": -76.0,
+    "hours_increase": -2009.62
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Morecambe Bay (Leven) and Roose Beck",
     "total_count": 182.0,
     "total_hours": 3879.81,
-    "mean_reporting_pct": 0.9999
+    "mean_reporting_pct": 0.9999,
+    "spills_increase": 162.0,
+    "hours_increase": 3876.54
   },
   {
-    "reporting_year": 2021,
     "company_name": "South West Water",
     "shellfishery": "Camel",
     "total_count": 353.0,
     "total_hours": 3841.01,
-    "mean_reporting_pct": 0.987
+    "mean_reporting_pct": 0.987,
+    "spills_increase": 70.0,
+    "hours_increase": 1854.53
   },
   {
-    "reporting_year": 2021,
     "company_name": "South West Water",
     "shellfishery": "Salcombe",
     "total_count": 476.0,
     "total_hours": 3817.59,
-    "mean_reporting_pct": 0.9925
+    "mean_reporting_pct": 0.9925,
+    "spills_increase": 18.0,
+    "hours_increase": -468.76
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "SILLOTH",
     "total_count": 446.0,
     "total_hours": 3264.04,
-    "mean_reporting_pct": 0.9016181818181818
+    "mean_reporting_pct": 0.9016181818181818,
+    "spills_increase": -408.0,
+    "hours_increase": -3879.02
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Walney and Roose Beck",
     "total_count": 362.0,
     "total_hours": 2440.65,
-    "mean_reporting_pct": 0.48536
+    "mean_reporting_pct": 0.48536,
+    "spills_increase": -246.0,
+    "hours_increase": 208.64
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "North Wirral East",
     "total_count": 795.0,
     "total_hours": 2415.64,
-    "mean_reporting_pct": 0.8393333333333334
+    "mean_reporting_pct": 0.8393333333333334,
+    "spills_increase": 582.0,
+    "hours_increase": 1736.14
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "WALNEY EAST",
     "total_count": 558.0,
     "total_hours": 2398.49,
-    "mean_reporting_pct": 0.8060454545454545
+    "mean_reporting_pct": 0.8060454545454545,
+    "spills_increase": -114.0,
+    "hours_increase": 23.49
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "RYDE",
     "total_count": 236.0,
     "total_hours": 1977.53,
-    "mean_reporting_pct": 0.995
+    "mean_reporting_pct": 0.995,
+    "spills_increase": 236.0,
+    "hours_increase": 1977.53
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "COWES, MEDINA",
     "total_count": 208.0,
     "total_hours": 1804.5,
-    "mean_reporting_pct": 0.9833333333333333
+    "mean_reporting_pct": 0.9833333333333333,
+    "spills_increase": 208.0,
+    "hours_increase": 1804.5
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Meols, Morton",
     "total_count": 243.0,
     "total_hours": 1775.11,
-    "mean_reporting_pct": 0.99965
+    "mean_reporting_pct": 0.99965,
+    "spills_increase": 243.0,
+    "hours_increase": 1775.11
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Lune (Wyre)",
     "total_count": 300.0,
     "total_hours": 1610.55,
-    "mean_reporting_pct": 0.79984
+    "mean_reporting_pct": 0.79984,
+    "spills_increase": 99.0,
+    "hours_increase": 414.0
   },
   {
-    "reporting_year": 2021,
     "company_name": "Anglian Water",
     "shellfishery": "Burnham Overy Creek",
     "total_count": 105.0,
     "total_hours": 1554.27,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": -10.0,
+    "hours_increase": 1140.9
   },
   {
-    "reporting_year": 2021,
     "company_name": "South West Water",
     "shellfishery": "Lynher",
     "total_count": 252.0,
     "total_hours": 1550.15,
-    "mean_reporting_pct": 0.995
+    "mean_reporting_pct": 0.995,
+    "spills_increase": 113.0,
+    "hours_increase": 930.22
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "North Wirral",
     "total_count": 407.0,
     "total_hours": 1488.87,
-    "mean_reporting_pct": 0.9984
+    "mean_reporting_pct": 0.9984,
+    "spills_increase": -123.0,
+    "hours_increase": -10.7
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "LYMINGTON AND SOWLEY_M, NEWTOWN_M, PENNINGTON, YARMOUTH",
     "total_count": 209.0,
     "total_hours": 1477.92,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 209.0,
+    "hours_increase": 1477.92
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Morecambe Bay East",
     "total_count": 307.0,
     "total_hours": 1471.97,
-    "mean_reporting_pct": 0.8875888888888889
+    "mean_reporting_pct": 0.8875888888888889,
+    "spills_increase": 31.0,
+    "hours_increase": 136.54
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "SOUTHAMPTON WATER",
     "total_count": 248.0,
     "total_hours": 1463.41,
-    "mean_reporting_pct": 0.9129166666666667
+    "mean_reporting_pct": 0.9129166666666667,
+    "spills_increase": 248.0,
+    "hours_increase": 1463.41
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "COWES, RYDE, SPITHEAD AND STOKES BAY",
     "total_count": 185.0,
     "total_hours": 1431.08,
-    "mean_reporting_pct": 0.875
+    "mean_reporting_pct": 0.875,
+    "spills_increase": 185.0,
+    "hours_increase": 1431.08
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "PORTSMOUTH HARBOUR",
     "total_count": 280.0,
     "total_hours": 1424.4,
-    "mean_reporting_pct": 0.97
+    "mean_reporting_pct": 0.97,
+    "spills_increase": 280.0,
+    "hours_increase": 1424.4
   },
   {
-    "reporting_year": 2021,
     "company_name": "South West Water",
     "shellfishery": "Avon",
     "total_count": 237.0,
     "total_hours": 1355.5,
-    "mean_reporting_pct": 0.975
+    "mean_reporting_pct": 0.975,
+    "spills_increase": 50.0,
+    "hours_increase": -501.14
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "CENTRAL SOLENT, COWES, LEPE MIDDLE BANK, MEDINA, STANSWOOD BAY",
     "total_count": 241.41,
     "total_hours": 1232.87,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 241.41,
+    "hours_increase": 1232.87
   },
   {
-    "reporting_year": 2021,
     "company_name": "Anglian Water",
     "shellfishery": "Osea Island",
     "total_count": 72.0,
     "total_hours": 1179.73,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": -14.0,
+    "hours_increase": -308.44
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Morcambe Bay (Leven)",
     "total_count": 115.0,
     "total_hours": 1135.85,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 9.0,
+    "hours_increase": 506.04
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "SWALE EAST, SWALECLIFFE",
     "total_count": 192.0,
     "total_hours": 1084.81,
-    "mean_reporting_pct": 0.84
+    "mean_reporting_pct": 0.84,
+    "spills_increase": 192.0,
+    "hours_increase": 1084.81
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Lune (Wyre Estuary) and Lune (Broadfleet and Plover Scar)",
     "total_count": 118.0,
     "total_hours": 1029.76,
-    "mean_reporting_pct": 0.99975
+    "mean_reporting_pct": 0.99975,
+    "spills_increase": -59.0,
+    "hours_increase": -212.07
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "LYMINGTON AND SOWLEY_M, PENNINGTON, TOTLAND, YARMOUTH",
     "total_count": 92.0,
     "total_hours": 1014.32,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 92.0,
+    "hours_increase": 1014.32
   },
   {
-    "reporting_year": 2021,
     "company_name": "Anglian Water",
     "shellfishery": "Tollesbury Channel",
     "total_count": 55.0,
     "total_hours": 1006.8,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": -13.0,
+    "hours_increase": -194.7
   },
   {
-    "reporting_year": 2021,
     "company_name": "South West Water",
     "shellfishery": "Start Bay",
     "total_count": 58.0,
     "total_hours": 895.56,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": -59.0,
+    "hours_increase": -1357.84
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "PENNINGTON",
     "total_count": 56.0,
     "total_hours": 887.63,
-    "mean_reporting_pct": 0.995
+    "mean_reporting_pct": 0.995,
+    "spills_increase": 56.0,
+    "hours_increase": 887.63
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "NEWTOWN_M",
     "total_count": 51.0,
     "total_hours": 857.35,
-    "mean_reporting_pct": 0.98
+    "mean_reporting_pct": 0.98,
+    "spills_increase": 51.0,
+    "hours_increase": 857.35
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "CHICHESTER HARBOUR (EMSWORTH C, LANGSTONE HARBOUR, PORTSMOUTH HARBOUR",
     "total_count": 86.0,
     "total_hours": 820.14,
-    "mean_reporting_pct": 0.994
+    "mean_reporting_pct": 0.994,
+    "spills_increase": 86.0,
+    "hours_increase": 820.14
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Morecambe Bay Leven",
     "total_count": 87.0,
     "total_hours": 817.3,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 87.0,
+    "hours_increase": 817.3
   },
   {
-    "reporting_year": 2021,
     "company_name": "Wessex Water",
     "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
     "total_count": 156.0,
     "total_hours": 691.7,
-    "mean_reporting_pct": 0.9851818181818182
+    "mean_reporting_pct": 0.9851818181818182,
+    "spills_increase": -43.0,
+    "hours_increase": -683.45
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "CHICHESTER HARBOUR (EMSWORTH C, LANGSTONE HARBOUR, PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
     "total_count": 114.0,
     "total_hours": 690.17,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 114.0,
+    "hours_increase": 690.17
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "CHICHESTER HARBOUR (CHICHESTER, CHICHESTER HARBOUR (EMSWORTH C, CHICHESTER HARBOUR (THORNHAM C",
     "total_count": 61.0,
     "total_hours": 688.53,
-    "mean_reporting_pct": 0.9975
+    "mean_reporting_pct": 0.9975,
+    "spills_increase": 61.0,
+    "hours_increase": 688.53
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "CENTRAL SOLENT, COWES, MEDINA, SPITHEAD AND STOKES BAY, STANSWOOD BAY",
     "total_count": 94.0,
     "total_hours": 666.39,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 94.0,
+    "hours_increase": 666.39
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Lune (Wyre Estuary) Lune (Broadfleet)",
     "total_count": 83.0,
     "total_hours": 655.69,
-    "mean_reporting_pct": 0.9995
+    "mean_reporting_pct": 0.9995,
+    "spills_increase": -13.0,
+    "hours_increase": 53.19
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, SOUTHAMPTON WATER",
     "total_count": 93.0,
     "total_hours": 641.28,
-    "mean_reporting_pct": 0.97
+    "mean_reporting_pct": 0.97,
+    "spills_increase": 93.0,
+    "hours_increase": 641.28
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "RAVENGLASS",
     "total_count": 55.0,
     "total_hours": 606.9,
-    "mean_reporting_pct": 0.9994
+    "mean_reporting_pct": 0.9994,
+    "spills_increase": -117.0,
+    "hours_increase": -781.28
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "CENTRAL SOLENT, COWES, RYDE, SPITHEAD AND STOKES BAY",
     "total_count": 56.0,
     "total_hours": 589.22,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 56.0,
+    "hours_increase": 589.22
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "SHEPPEY, SOUTHEND",
     "total_count": 79.0,
     "total_hours": 585.56,
-    "mean_reporting_pct": 0.9966666666666667
+    "mean_reporting_pct": 0.9966666666666667,
+    "spills_increase": 79.0,
+    "hours_increase": 585.56
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Duddon",
     "total_count": 48.0,
     "total_hours": 560.63,
-    "mean_reporting_pct": 0.9998
+    "mean_reporting_pct": 0.9998,
+    "spills_increase": -58.0,
+    "hours_increase": -1144.5
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "CENTRAL SOLENT, COWES, MEDINA, SPITHEAD AND STOKES BAY, STANSWOOD BAY, TOTLAND",
     "total_count": 138.0,
     "total_hours": 556.21,
-    "mean_reporting_pct": 0.995
+    "mean_reporting_pct": 0.995,
+    "spills_increase": 138.0,
+    "hours_increase": 556.21
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "SOLWAY",
     "total_count": 92.0,
     "total_hours": 524.44,
-    "mean_reporting_pct": 0.999325
+    "mean_reporting_pct": 0.999325,
+    "spills_increase": -334.0,
+    "hours_increase": -1393.78
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Lune (Wyre Estuary)",
     "total_count": 58.0,
     "total_hours": 524.06,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 24.0,
+    "hours_increase": 280.48
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Dee",
     "total_count": 31.0,
     "total_hours": 511.83,
-    "mean_reporting_pct": 0.897
+    "mean_reporting_pct": 0.897,
+    "spills_increase": 28.0,
+    "hours_increase": 489.06
   },
   {
-    "reporting_year": 2021,
     "company_name": "South West Water",
     "shellfishery": "Yealm",
     "total_count": 125.0,
     "total_hours": 503.29,
-    "mean_reporting_pct": 0.9615384615384616
+    "mean_reporting_pct": 0.9615384615384616,
+    "spills_increase": -116.0,
+    "hours_increase": -612.66
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "MARGATE, SWALECLIFFE",
     "total_count": 52.0,
     "total_hours": 499.73,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 52.0,
+    "hours_increase": 499.73
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "ROOSEBECK_E",
     "total_count": 131.0,
     "total_hours": 492.74,
-    "mean_reporting_pct": 0.9995
+    "mean_reporting_pct": 0.9995,
+    "spills_increase": 22.0,
+    "hours_increase": 195.45
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "LYMINGTON AND SOWLEY_M, PENNINGTON, YARMOUTH",
     "total_count": 38.0,
     "total_hours": 431.72,
-    "mean_reporting_pct": 0.985
+    "mean_reporting_pct": 0.985,
+    "spills_increase": 38.0,
+    "hours_increase": 431.72
   },
   {
-    "reporting_year": 2021,
     "company_name": "Anglian Water",
     "shellfishery": "South East Wash",
     "total_count": 83.0,
     "total_hours": 428.53,
-    "mean_reporting_pct": 0.999986681887367
+    "mean_reporting_pct": 0.999986681887367,
+    "spills_increase": -2.0,
+    "hours_increase": 98.47
   },
   {
-    "reporting_year": 2021,
     "company_name": "South West Water",
     "shellfishery": "St.Austell Bay",
     "total_count": 62.0,
     "total_hours": 428.1,
-    "mean_reporting_pct": 0.8675
+    "mean_reporting_pct": 0.8675,
+    "spills_increase": 23.0,
+    "hours_increase": 127.82
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "NORTH WIRRAL (WEST)",
     "total_count": 92.0,
     "total_hours": 415.21,
-    "mean_reporting_pct": 0.9267285714285715
+    "mean_reporting_pct": 0.9267285714285715,
+    "spills_increase": -378.0,
+    "hours_increase": -2770.58
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "COWES, MEDINA, RYDE",
     "total_count": 88.0,
     "total_hours": 401.58,
-    "mean_reporting_pct": 0.9933333333333333
+    "mean_reporting_pct": 0.9933333333333333,
+    "spills_increase": 88.0,
+    "hours_increase": 401.58
   },
   {
-    "reporting_year": 2021,
     "company_name": "Anglian Water",
     "shellfishery": "Deben",
     "total_count": 77.0,
     "total_hours": 400.27,
-    "mean_reporting_pct": 0.999998097412481
+    "mean_reporting_pct": 0.999998097412481,
+    "spills_increase": 17.0,
+    "hours_increase": 352.47
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "SWALE CENTRAL",
     "total_count": 98.0,
     "total_hours": 390.47,
-    "mean_reporting_pct": 0.78625
+    "mean_reporting_pct": 0.78625,
+    "spills_increase": 98.0,
+    "hours_increase": 390.47
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "LYMINGTON AND SOWLEY_M, PENNINGTON",
     "total_count": 93.0,
     "total_hours": 388.23,
-    "mean_reporting_pct": 0.925
+    "mean_reporting_pct": 0.925,
+    "spills_increase": 93.0,
+    "hours_increase": 388.23
   },
   {
-    "reporting_year": 2021,
     "company_name": "Anglian Water",
     "shellfishery": "West Wash",
     "total_count": 178.0,
     "total_hours": 386.303333,
-    "mean_reporting_pct": 0.8379481650600372
+    "mean_reporting_pct": 0.8379481650600372,
+    "spills_increase": 88.0,
+    "hours_increase": 126.563333
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Morcambe Bay East",
     "total_count": 49.0,
     "total_hours": 367.56,
-    "mean_reporting_pct": 0.998
+    "mean_reporting_pct": 0.998,
+    "spills_increase": -20.0,
+    "hours_increase": -193.81
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Lune (Plover Scar)",
     "total_count": 64.0,
     "total_hours": 361.57,
-    "mean_reporting_pct": 0.9999
+    "mean_reporting_pct": 0.9999,
+    "spills_increase": -4.0,
+    "hours_increase": 58.14
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, CENTRAL SOLENT, COWES, SOUTHAMPTON WATER, STANSWOOD BAY",
     "total_count": 46.0,
     "total_hours": 347.32,
-    "mean_reporting_pct": 0.995
+    "mean_reporting_pct": 0.995,
+    "spills_increase": 46.0,
+    "hours_increase": 347.32
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "CHICHESTER HARBOUR (CHICHESTER, CHICHESTER HARBOUR (EMSWORTH C, CHICHESTER HARBOUR (THORNHAM C, LANGSTONE HARBOUR",
     "total_count": 28.0,
     "total_hours": 302.13,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 28.0,
+    "hours_increase": 302.13
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "COWES, RYDE",
     "total_count": 94.0,
     "total_hours": 293.76,
-    "mean_reporting_pct": 0.812
+    "mean_reporting_pct": 0.812,
+    "spills_increase": 94.0,
+    "hours_increase": 293.76
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "BEAULIEU RIVER, LYMINGTON AND SOWLEY_M, LEPE MIDDLE BANK",
     "total_count": 15.0,
     "total_hours": 265.08,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 15.0,
+    "hours_increase": 265.08
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
     "total_count": 119.0,
     "total_hours": 251.97,
-    "mean_reporting_pct": 0.7788888888888889
+    "mean_reporting_pct": 0.7788888888888889,
+    "spills_increase": 119.0,
+    "hours_increase": 251.97
   },
   {
-    "reporting_year": 2021,
     "company_name": "Anglian Water",
     "shellfishery": "Colne, Pyfleet",
     "total_count": 70.0,
     "total_hours": 247.9,
-    "mean_reporting_pct": 0.637396194824962
+    "mean_reporting_pct": 0.637396194824962,
+    "spills_increase": -51.0,
+    "hours_increase": -1525.56
   },
   {
-    "reporting_year": 2021,
     "company_name": "Anglian Water",
     "shellfishery": "Foulness",
     "total_count": 57.0,
     "total_hours": 244.5,
-    "mean_reporting_pct": 0.9910816210045662
+    "mean_reporting_pct": 0.9910816210045662,
+    "spills_increase": 28.0,
+    "hours_increase": 163.24
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, CENTRAL SOLENT, SOUTHAMPTON WATER, STANSWOOD BAY",
     "total_count": 30.0,
     "total_hours": 213.95,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 30.0,
+    "hours_increase": 213.95
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "BEAULIEU RIVER, LEPE MIDDLE BANK, LYMINGTON & SOWLEY",
     "total_count": 22.0,
     "total_hours": 207.38,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 22.0,
+    "hours_increase": 207.38
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "MEDINA",
     "total_count": 136.0,
     "total_hours": 194.8,
-    "mean_reporting_pct": 0.79
+    "mean_reporting_pct": 0.79,
+    "spills_increase": 136.0,
+    "hours_increase": 194.8
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "PENNINGTON, YARMOUTH",
     "total_count": 61.0,
     "total_hours": 194.62,
-    "mean_reporting_pct": 0.84
+    "mean_reporting_pct": 0.84,
+    "spills_increase": 61.0,
+    "hours_increase": 194.62
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "CENTRAL SOLENT, COWES, PORTSMOUTH HARBOUR, RYDE, SPITHEAD AND STOKES BAY",
     "total_count": 58.0,
     "total_hours": 192.81,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 58.0,
+    "hours_increase": 192.81
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "OUTER THAMES, SHEPPEY, SWALE EAST, SWALECLIFFE",
     "total_count": 27.0,
     "total_hours": 191.58,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 27.0,
+    "hours_increase": 191.58
   },
   {
-    "reporting_year": 2021,
     "company_name": "Anglian Water",
     "shellfishery": "Colne",
     "total_count": 107.0,
     "total_hours": 189.11,
-    "mean_reporting_pct": 0.9705649543378997
+    "mean_reporting_pct": 0.9705649543378997,
+    "spills_increase": -195.0,
+    "hours_increase": -4381.79
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "COWES, LEPE MIDDLE BANK, LYMINGTON AND SOWLEY_M, MEDINA, NEWTOWN_M",
     "total_count": 25.0,
     "total_hours": 183.4,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 25.0,
+    "hours_increase": 183.4
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "SWALE CENTRAL, SWALE EAST",
     "total_count": 65.0,
     "total_hours": 183.11,
-    "mean_reporting_pct": 0.8522222222222222
+    "mean_reporting_pct": 0.8522222222222222,
+    "spills_increase": 65.0,
+    "hours_increase": 183.11
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Lune (Broadfleet and Plover Scar) and Morecambe Bay East",
     "total_count": 36.0,
     "total_hours": 180.86,
-    "mean_reporting_pct": 0.9956
+    "mean_reporting_pct": 0.9956,
+    "spills_increase": -9.0,
+    "hours_increase": -197.95
   },
   {
-    "reporting_year": 2021,
     "company_name": "South West Water",
     "shellfishery": "Brixham",
     "total_count": 57.0,
     "total_hours": 178.41,
-    "mean_reporting_pct": 0.71
+    "mean_reporting_pct": 0.71,
+    "spills_increase": -22.0,
+    "hours_increase": -256.42
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "COWES, LEPE MIDDLE BANK, LYMINGTON AND SOWLEY_M, NEWTOWN_M",
     "total_count": 28.0,
     "total_hours": 159.6,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 28.0,
+    "hours_increase": 159.6
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "LANGSTONE HARBOUR, PORTSMOUTH HARBOUR, RYDE, SPITHEAD AND STOKES BAY",
     "total_count": 35.0,
     "total_hours": 151.18,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 35.0,
+    "hours_increase": 151.18
   },
   {
-    "reporting_year": 2021,
     "company_name": "South West Water",
     "shellfishery": "Helford",
     "total_count": 80.0,
     "total_hours": 147.25,
-    "mean_reporting_pct": 0.84
+    "mean_reporting_pct": 0.84,
+    "spills_increase": 0.0,
+    "hours_increase": 0.4
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "FOULNESS, OUTER THAMES, SHEPPEY, SOUTHEND",
     "total_count": 43.0,
     "total_hours": 143.01,
-    "mean_reporting_pct": 0.9933333333333333
+    "mean_reporting_pct": 0.9933333333333333,
+    "spills_increase": 43.0,
+    "hours_increase": 143.01
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "SWALE CENTRAL, SWALE EAST, SWALECLIFFE",
     "total_count": 35.0,
     "total_hours": 137.2,
-    "mean_reporting_pct": 0.95
+    "mean_reporting_pct": 0.95,
+    "spills_increase": 35.0,
+    "hours_increase": 137.2
   },
   {
-    "reporting_year": 2021,
     "company_name": "Wessex Water",
     "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
     "total_count": 139.0,
     "total_hours": 127.4,
-    "mean_reporting_pct": 0.9666
+    "mean_reporting_pct": 0.9666,
+    "spills_increase": 0.0,
+    "hours_increase": -48.99
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "OUTER THAMES, SHEPPEY, SOUTHEND",
     "total_count": 16.0,
     "total_hours": 118.66,
-    "mean_reporting_pct": 0.5
+    "mean_reporting_pct": 0.5,
+    "spills_increase": 16.0,
+    "hours_increase": 118.66
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "LUNE (WYRE ESTUARY)",
     "total_count": 66.0,
     "total_hours": 112.84,
-    "mean_reporting_pct": 0.999725
+    "mean_reporting_pct": 0.999725,
+    "spills_increase": -147.0,
+    "hours_increase": -191.28
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "COWES, MEDINA, RYDE, SPITHEAD AND STOKES BAY",
     "total_count": 36.0,
     "total_hours": 99.92,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 36.0,
+    "hours_increase": 99.92
   },
   {
-    "reporting_year": 2021,
     "company_name": "Anglian Water",
     "shellfishery": "Walton Backwaters",
     "total_count": 19.0,
     "total_hours": 90.97,
-    "mean_reporting_pct": 0.999969558599696
+    "mean_reporting_pct": 0.999969558599696,
+    "spills_increase": -40.0,
+    "hours_increase": -78.33
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "PENNINGTON, YARMOUTH, TOTLAND",
     "total_count": 23.0,
     "total_hours": 82.9,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 23.0,
+    "hours_increase": 82.9
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "SWALE EAST, SWALECLIFFE, MARGATE",
     "total_count": 30.0,
     "total_hours": 81.77,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 30.0,
+    "hours_increase": 81.77
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "LYMINGTON AND SOWLEY_M, NEWTOWN_M, YARMOUTH",
     "total_count": 15.0,
     "total_hours": 79.6,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 15.0,
+    "hours_increase": 79.6
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "STOUR ESTUARY (KENT)",
     "total_count": 31.0,
     "total_hours": 75.12,
-    "mean_reporting_pct": 0.9971428571428571
+    "mean_reporting_pct": 0.9971428571428571,
+    "spills_increase": 31.0,
+    "hours_increase": 75.12
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "NEWTOWN_M, YARMOUTH",
     "total_count": 22.0,
     "total_hours": 74.89,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 22.0,
+    "hours_increase": 74.89
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "RYDE, SPITHEAD AND STOKES BAY,COWES",
     "total_count": 16.0,
     "total_hours": 73.4,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 16.0,
+    "hours_increase": 73.4
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "MARGATE",
     "total_count": 36.0,
     "total_hours": 64.07,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 36.0,
+    "hours_increase": 64.07
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "CHICHESTER HARBOUR (CHICHESTER, CHICHESTER HARBOUR (THORNHAM C",
     "total_count": 14.0,
     "total_hours": 55.43,
-    "mean_reporting_pct": 0.995
+    "mean_reporting_pct": 0.995,
+    "spills_increase": 14.0,
+    "hours_increase": 55.43
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "RYDE, SPITHEAD AND STOKES BAY",
     "total_count": 19.0,
     "total_hours": 54.86,
-    "mean_reporting_pct": 0.9933333333333333
+    "mean_reporting_pct": 0.9933333333333333,
+    "spills_increase": 19.0,
+    "hours_increase": 54.86
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, SOUTHAMPTON WATER, STANSWOOD BAY",
     "total_count": 24.0,
     "total_hours": 47.92,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 24.0,
+    "hours_increase": 47.92
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "LUNE (BROADFLEET)",
     "total_count": 10.0,
     "total_hours": 44.23,
-    "mean_reporting_pct": 0.9997
+    "mean_reporting_pct": 0.9997,
+    "spills_increase": -13.0,
+    "hours_increase": -118.64
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "DEE (EAST)",
     "total_count": 13.0,
     "total_hours": 43.93,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": -48.0,
+    "hours_increase": -981.7
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "OUTER THAMES, SHEPPEY, SWALE CENTRAL, SWALECLIFFE",
     "total_count": 9.0,
     "total_hours": 38.88,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 9.0,
+    "hours_increase": 38.88
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "LYMINGTON AND SOWLEY_M, NEWTOWN_M, PENNINGTON, TOTLAND, YARMOUTH",
     "total_count": 16.0,
     "total_hours": 29.83,
-    "mean_reporting_pct": 0.96
+    "mean_reporting_pct": 0.96,
+    "spills_increase": 16.0,
+    "hours_increase": 29.83
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "LANGSTONE HARBOUR, PORTSMOUTH HARBOUR",
     "total_count": 16.0,
     "total_hours": 29.66,
-    "mean_reporting_pct": 0.8266666666666667
+    "mean_reporting_pct": 0.8266666666666667,
+    "spills_increase": 16.0,
+    "hours_increase": 29.66
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "SHEPPEY, SWALE CENTRAL, SWALE EAST, SWALECLIFFE",
     "total_count": 9.0,
     "total_hours": 27.97,
-    "mean_reporting_pct": 0.97
+    "mean_reporting_pct": 0.97,
+    "spills_increase": 9.0,
+    "hours_increase": 27.97
   },
   {
-    "reporting_year": 2021,
     "company_name": "Anglian Water",
     "shellfishery": "Upper Roach",
     "total_count": 17.0,
     "total_hours": 25.93,
-    "mean_reporting_pct": 0.675913242009133
+    "mean_reporting_pct": 0.675913242009133,
+    "spills_increase": 0.0,
+    "hours_increase": -21.67
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "SHEPPEY, SWALE EAST, SWALECLIFFE",
     "total_count": 3.0,
     "total_hours": 19.3,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 3.0,
+    "hours_increase": 19.3
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "PENNINGTON, TOTLAND, YARMOUTH",
     "total_count": 5.0,
     "total_hours": 15.19,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 5.0,
+    "hours_increase": 15.19
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Lune (Broadfleet and Plover Scar)",
     "total_count": 3.0,
     "total_hours": 12.47,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": -7.0,
+    "hours_increase": -30.23
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "CHICHESTER HARBOUR (EMSWORTH C, CHICHESTER HARBOUR (THORNHAM C, LANGSTONE HARBOUR",
     "total_count": 2.0,
     "total_hours": 11.58,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 2.0,
+    "hours_increase": 11.58
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "Solway and Silloth",
     "total_count": 5.0,
     "total_hours": 5.97,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 0.0,
+    "hours_increase": 2.62
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "OUTER THAMES, SHEPPEY",
     "total_count": 6.0,
     "total_hours": 4.74,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 6.0,
+    "hours_increase": 4.74
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "CENTRAL SOLENT, PORTSMOUTH HARBOUR, RYDE, SPITHEAD AND STOKES BAY",
     "total_count": 1.0,
     "total_hours": 2.06,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 1.0,
+    "hours_increase": 2.06
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "LANGSTONE HARBOUR, SPITHEAD AND STOKES BAY",
     "total_count": 2.0,
     "total_hours": 2.02,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 2.0,
+    "hours_increase": 2.02
   },
   {
-    "reporting_year": 2021,
-    "company_name": "United Utilities",
-    "shellfishery": "Morecambe Bay East, Lune (Wyre Estuary) and Lune (Broadfleet and Plover Scar)",
-    "total_count": 17.0,
-    "total_hours": 1.65,
-    "mean_reporting_pct": 1.0
-  },
-  {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "LANGSTONE HARBOUR",
     "total_count": 3.0,
     "total_hours": 1.65,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 3.0,
+    "hours_increase": 1.65
   },
   {
-    "reporting_year": 2021,
+    "company_name": "United Utilities",
+    "shellfishery": "Morecambe Bay East, Lune (Wyre Estuary) and Lune (Broadfleet and Plover Scar)",
+    "total_count": 17.0,
+    "total_hours": 1.65,
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 0.0,
+    "hours_increase": -5.85
+  },
+  {
     "company_name": "Anglian Water",
     "shellfishery": "Osea Island/Blackwater",
     "total_count": 4.0,
     "total_hours": 0.23,
-    "mean_reporting_pct": 0.921518264840183
+    "mean_reporting_pct": 0.921518264840183,
+    "spills_increase": 1.0,
+    "hours_increase": 0.13
   },
   {
-    "reporting_year": 2021,
     "company_name": "United Utilities",
     "shellfishery": "North Wirrall (East) and North Wirrall (West)",
     "total_count": 1.0,
     "total_hours": 0.07,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": -1087.0,
+    "hours_increase": -4068.84
   },
   {
-    "reporting_year": 2021,
-    "company_name": "Southern Water",
-    "shellfishery": "COWES, LYMINGTON AND SOWLEY_M, NEWTOWN_M",
-    "total_count": 0.0,
-    "total_hours": 0.0,
-    "mean_reporting_pct": 1.0
-  },
-  {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, CENTRAL SOLENT, PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
     "total_count": 0.0,
     "total_hours": 0.0,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 0.0,
+    "hours_increase": 0.0
   },
   {
-    "reporting_year": 2021,
-    "company_name": "United Utilities",
-    "shellfishery": "Dee (East) and North Wirrall (West)",
-    "total_count": 0.0,
-    "total_hours": 0.0,
-    "mean_reporting_pct": 1.0
-  },
-  {
-    "reporting_year": 2021,
-    "company_name": "Southern Water",
-    "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, CENTRAL SOLENT, COWES, SPITHEAD AND STOKES BAY",
-    "total_count": 0.0,
-    "total_hours": 0.0,
-    "mean_reporting_pct": 0.5
-  },
-  {
-    "reporting_year": 2021,
-    "company_name": "Southern Water",
-    "shellfishery": "CHICHESTER HARBOUR (EMSWORTH C, LANGSTONE HARBOUR",
-    "total_count": 0.0,
-    "total_hours": 0.0,
-    "mean_reporting_pct": 0.61
-  },
-  {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER",
     "total_count": 0.0,
     "total_hours": 0.0,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 0.0,
+    "hours_increase": 0.0
   },
   {
-    "reporting_year": 2021,
-    "company_name": "Dwr Cymru Welsh Water",
-    "shellfishery": "Dee (East)",
+    "company_name": "United Utilities",
+    "shellfishery": "Dee (East) and North Wirrall (West)",
     "total_count": 0.0,
     "total_hours": 0.0,
-    "mean_reporting_pct": 0.0581
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 0.0,
+    "hours_increase": 0.0
   },
   {
-    "reporting_year": 2021,
     "company_name": "Southern Water",
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, BEAULIEU RIVER, COWES, LEPE MIDDLE BANK, STANSWOOD BAY",
     "total_count": 0.0,
     "total_hours": 0.0,
-    "mean_reporting_pct": 1.0
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 0.0,
+    "hours_increase": 0.0
+  },
+  {
+    "company_name": "Southern Water",
+    "shellfishery": "CHICHESTER HARBOUR (EMSWORTH C, LANGSTONE HARBOUR",
+    "total_count": 0.0,
+    "total_hours": 0.0,
+    "mean_reporting_pct": 0.61,
+    "spills_increase": 0.0,
+    "hours_increase": 0.0
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Dee (East)",
+    "total_count": 0.0,
+    "total_hours": 0.0,
+    "mean_reporting_pct": 0.0581,
+    "spills_increase": 0.0,
+    "hours_increase": 0.0
+  },
+  {
+    "company_name": "Southern Water",
+    "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, CENTRAL SOLENT, COWES, SPITHEAD AND STOKES BAY",
+    "total_count": 0.0,
+    "total_hours": 0.0,
+    "mean_reporting_pct": 0.5,
+    "spills_increase": 0.0,
+    "hours_increase": 0.0
+  },
+  {
+    "company_name": "United Utilities",
+    "shellfishery": "Ravenglass",
+    "total_count": 0.0,
+    "total_hours": 0.0,
+    "mean_reporting_pct": 0.0,
+    "spills_increase": -276.0,
+    "hours_increase": -4743.12
+  },
+  {
+    "company_name": "Southern Water",
+    "shellfishery": "COWES, LYMINGTON AND SOWLEY_M, NEWTOWN_M",
+    "total_count": 0.0,
+    "total_hours": 0.0,
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 0.0,
+    "hours_increase": 0.0
   }
 ]

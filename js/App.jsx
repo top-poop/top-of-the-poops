@@ -56,6 +56,10 @@ const SewageDumpsChart = () => {
                 grid: true,
                 label: "count of sewage spills ↑",
             },
+            facet: {
+                data: data,
+                x: "reporting_year",
+            },
             marks: [
                 Plot.barY(data, {
                         x: "company_name",
@@ -88,6 +92,10 @@ const DataMatch = () => {
             y: {
                 grid: true, label: "count of sewage dumps ↑",
             },
+            facet: {
+                data: data,
+                x: "reporting_year",
+            },
             marks: [
                 Plot.barY(data, {
                     x: "company_name",
@@ -113,8 +121,8 @@ class App extends React.Component {
             <TitleHero/>
             <ForkMeHero/>
             <blockquote>
-                There were at least <em>500,000</em> "sewage spills" - where sewage is intentionally dumped
-                into waterways - in England and Wales in 2020
+                There were at least <em>397,000</em> "sewage spills" - where sewage is intentionally dumped
+                into waterways - in England and Wales in 2021
             </blockquote>
 
             <Container fluid>
@@ -123,9 +131,10 @@ class App extends React.Component {
                         <p>
                             Each spill is feeding raw or partially treated sewage into rivers, watersheds or into the
                             sea. Combined, they add up to
-                            at least <em>3.9 million</em> hours (that's the equivalent of <em>445</em> years!) - in only
+                            at least <em>2.6 million</em> hours (that's the equivalent of <em>296</em> years!) - in only
                             a single year.
                         </p>
+                        <p>While this headline number is reduced since 2021, from over 500,000 spills, we'd caution making a direct comparison, as <em>Dyr Cymru</em> was responsible for 108,000 spills last year, and this data doesn't yet include their numbers</p>
                     </Col>
                 </Row>
                 <Row>
@@ -137,6 +146,8 @@ class App extends React.Component {
                             associated with a valid permit, so
                             it is impossible to know where they are.
                         </p>
+
+                        <p><em>We don't have data for Welsh Rivers yet - so these summary numbers will go up</em></p>
 
                         <p>We don't have data for Scotland or Northern Ireland - we're looking
                             to find this information, and will add it when we can. This means that the picture for the
@@ -166,15 +177,12 @@ class App extends React.Component {
                             not all MPs have Twitter - or alternatively
                             click on the <img src="assets/icons/info-circle-fill.svg"/> icon to find out more about
                             their voting history</p>
-
-                        <p>Click on the constituency name to see a map of all the sewage dumps in the constituency</p>
                     </Col>
                 </Row>
                 <Row>
                     <Col>
                         <Alert variant="success">
-                            <p>Take a look at our new <a href="map.html">map view</a> - it's basic right now, but we're
-                                working on it</p>
+                            <p>Click on the constituency name to see a map of all the sewage dumps in the constituency</p>
                         </Alert>
                     </Col>
                 </Row>
@@ -234,6 +242,7 @@ class App extends React.Component {
                 <Row>
                     <Col>
                         <p>Shellfish can become unfit for human consumption when polluted by sewage.</p>
+                        <p>In the 2021 data, there is no information for "Ravenglass", as the monitoring was broken for the whole year.</p>
                     </Col>
                 </Row>
 

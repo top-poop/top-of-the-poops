@@ -27,25 +27,25 @@
     "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "type": "matched",
-    "count": 31513.0
+    "count": 31529.0
   },
   {
     "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "type": "unmatched",
-    "count": 984.0
+    "count": 968.0
   },
   {
     "reporting_year": 2020,
     "company_name": "Severn Trent Water",
     "type": "matched",
-    "count": 55105.0
+    "count": 55112.0
   },
   {
     "reporting_year": 2020,
     "company_name": "Severn Trent Water",
     "type": "unmatched",
-    "count": 5877.0
+    "count": 5870.0
   },
   {
     "reporting_year": 2020,
@@ -99,13 +99,13 @@
     "reporting_year": 2020,
     "company_name": "Wessex Water",
     "type": "matched",
-    "count": 28476.0
+    "count": 28506.0
   },
   {
     "reporting_year": 2020,
     "company_name": "Wessex Water",
     "type": "unmatched",
-    "count": 538.0
+    "count": 508.0
   },
   {
     "reporting_year": 2020,
@@ -147,13 +147,13 @@
     "reporting_year": 2021,
     "company_name": "Northumbrian Water",
     "type": "matched",
-    "count": 35738.0
+    "count": 35896.0
   },
   {
     "reporting_year": 2021,
     "company_name": "Northumbrian Water",
     "type": "unmatched",
-    "count": 745.0
+    "count": 587.0
   },
   {
     "reporting_year": 2021,
@@ -207,13 +207,13 @@
     "reporting_year": 2021,
     "company_name": "United Utilities",
     "type": "matched",
-    "count": 61323.0
+    "count": 61349.0
   },
   {
     "reporting_year": 2021,
     "company_name": "United Utilities",
     "type": "unmatched",
-    "count": 20265.0
+    "count": 20239.0
   },
   {
     "reporting_year": 2021,

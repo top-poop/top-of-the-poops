@@ -118,3 +118,20 @@ table.top-10 {
 .leaflet-container {
     height: 700px;
 }
+
+.delta-negative {
+    color: #0b2e13;
+}
+
+.delta-negative:before {
+    content: "↓ "
+}
+
+.delta-positive {
+    color: #721c24;
+}
+
+.delta-positive:before {
+    content: "↑ "
+}
+

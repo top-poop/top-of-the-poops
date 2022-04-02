@@ -4,6 +4,22 @@ import {tweetURI} from "./twitter";
 import {companiesMap} from "./companies";
 import {formatNumber, renderNumericCell} from "./text";
 
+// oddly, react-table built-in compare, does stringy number compare (without sign)
+function compareNumeric(rowA, rowB, columnId) {
+  let [a, b] = [rowA.values[columnId], rowB.values[columnId]]
+  return a === b ? 0 : a > b ? 1 : -1
+}
+
+const renderDeltaCell = ({value}) => {
+  const text = renderNumericCell({value: Math.abs(value)})
+  const clazz = classNames({
+    "delta-positive": value >= 1,
+    "delta-negative": value <= -1,
+    "delta-zero": value < 1 && value > -1,
+    "delta": true
+  })
+  return <span className={clazz}>{text}</span>
+}
 
 const ShellfishSewage = () => {
   const url = "data/generated/shellfish-sewage.json"
@@ -11,7 +27,9 @@ const ShellfishSewage = () => {
     {title: "Company", accessor: "company_name"},
     {title: "Shellfishery Area", accessor: "shellfishery"},
     {title: "Sewage Incidents", accessor: "total_count", Cell: renderNumericCell},
+    {title: "Incidents Change", accessor: "spills_increase", Cell: renderDeltaCell, sortType: compareNumeric},
     {title: "Hours of Sewage", accessor: "total_hours", Cell: renderNumericCell},
+    {title: "Hours Change", accessor: "hours_increase", Cell: renderDeltaCell, sortType: compareNumeric},
   ]
   return <LoadingTable url={url} columns={columns}/>
 }
@@ -23,7 +41,9 @@ const BathingSewage = () => {
     {title: "Company", accessor: "company_name"},
     {title: "Beach", accessor: "bathing"},
     {title: "Sewage Incidents", accessor: "total_count", Cell: renderNumericCell},
+    {title: "Incidents Change", accessor: "spills_increase", Cell: renderDeltaCell, sortType: compareNumeric},
     {title: "Hours of Sewage", accessor: "total_hours", Cell: renderNumericCell},
+    {title: "Hours Change", accessor: "hours_increase", Cell: renderDeltaCell, sortType: compareNumeric},
   ]
   return <LoadingTable url={url} columns={columns}/>
 }
@@ -34,7 +54,9 @@ const SpillsByRiver = () => {
     {title: "Company", accessor: "company_name"},
     {title: "River", accessor: "river_name"},
     {title: "Sewage Incidents", accessor: "total_count", Cell: renderNumericCell},
+    {title: "Incidents Change", accessor: "spills_increase", Cell: renderDeltaCell, sortType: compareNumeric},
     {title: "Hours of Sewage", accessor: "total_hours", Cell: renderNumericCell},
+    {title: "Hours Change", accessor: "hours_increase", Cell: renderDeltaCell, sortType: compareNumeric},
   ]
   return <LoadingTable url={url} columns={columns}/>
 }
@@ -43,8 +65,10 @@ const SpillsByWaterType = () => {
   const url = "data/generated/spills-by-water-type.json"
   const columns = [
     {title: "Water Type", accessor: "water_type"},
-    {title: "Sewage Incidents", accessor: "total_count", Cell: renderNumericCell},
-    {title: "Hours of Sewage", accessor: "total_hours", Cell: renderNumericCell},
+    {title: "Sewage Incidents", accessor: "total_count", Cell: renderNumericCell, sortType: compareNumeric},
+    {title: "Incidents Change", accessor: "spills_increase", Cell: renderDeltaCell, sortType: compareNumeric},
+    {title: "Overflow Hours", accessor: "total_hours", Cell: renderNumericCell, sortType: compareNumeric},
+    {title: "Overflow Hours Change", accessor: "hours_increase", Cell: renderDeltaCell, sortType: compareNumeric},
   ]
   return <LoadingTable url={url} columns={columns}/>
 }
@@ -60,10 +84,10 @@ const tweetTextFromRow = (row) => {
   const companyTwitter = companiesMap.get(company).twitter
 
   if ( spills > 20 ) {
-    return `Horrified that ${constituency} had ${events} sewage dumps in 2020 - by ${company} ${companyTwitter} - ${mp} - are you taking action?\n\n`
+    return `Horrified that ${constituency} had ${events} sewage dumps in 2021 - by ${company} ${companyTwitter} - ${mp} - are you taking action?\n\n`
   }
   else {
-    return `Even though ${constituency} had few notified sewage dumps in 2020, there were more than 400,000 in England & Wales. ${mp} are you taking action?\n\n`
+    return `Even though ${constituency} had few notified sewage dumps in 2021, there were more than 400,000 in England & Wales. ${mp} are you taking action?\n\n`
   }
 }
 
@@ -110,8 +134,10 @@ const SpillsByConstituency = () => {
     {title: "Party", accessor: "mp_party"},
     {title: "Info", id: "info", Cell: renderInfoCell },
     {title: "Company", accessor: "company"},
-    {title: "Sewage Dumps", accessor: "total_spills", Cell: renderNumericCell},
-    {title: "Hours of Sewage", accessor: "total_hours", Cell: renderNumericCell},
+    {title: "Sewage Dumps", accessor: "total_spills", Cell: renderNumericCell, sortType: compareNumeric},
+    {title: "Change", accessor: "spills_increase", Cell: renderDeltaCell, sortType: compareNumeric},
+    {title: "Hours of Sewage", accessor: "total_hours", Cell: renderNumericCell, sortType: compareNumeric},
+    {title: "Change", accessor: "hours_increase", Cell: renderDeltaCell, sortType: compareNumeric},
   ]
   return <LoadingTable className="mp-info" url={spillsByConstituencyURL} columns={columns}/>
 }
