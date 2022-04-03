@@ -323,6 +323,19 @@ class App extends React.Component {
 
                 <Row>
                     <Col>
+                        <h3>Media</h3>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col>
+                        <p>Please check out our policy on data re-use and attribution at <a href="https://github.com/top-poop/top-of-the-poops">our GitHub page</a> </p>
+                        <p>We've been featured in: <a href="https://sotn.newstatesman.com/2022/04/mapped-sewage-dumps-and-spills-in-england-and-wales/">The New Statesman</a> "Mapped: Sewage dumps and spills in England and Wales"</p>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col>
                         <h3>Data Sources & Accuracy</h3>
                     </Col>
                 </Row>
@@ -353,6 +366,20 @@ class App extends React.Component {
                         </p>
                     </Col>
                 </Row>
+
+                <Row>
+                    <Col>
+                        <h3>Copyright</h3>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col>
+                        <p>(C) 2020, 2021 Top-Of-The-Poops CC-BY-SA 4.0, (C) Openstreetmap contributors, Contains OS data © Crown copyright and database right 2021</p>
+                        <p>Full Copyright information available at: <a href="https://github.com/top-poop/top-of-the-poops/">our GitHub page</a></p>
+                    </Col>
+                </Row>
+
             </Container>
         </div>
     }

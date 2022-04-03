@@ -9,6 +9,12 @@ Seems that [#sewage](https://twitter.com/search?q=%23sewage) is on people's mind
 The UK publishes some information about sewage outfalls - here are some scripts to get this information, analyse it, and
 perhaps publish some interesting findings.
 
+## Data Reuse and Attribution
+
+Please re-use our data - We'd appreciate it, if you can,  raise an issue on our issue tracker and let us know about it.
+
+Derived data is (C) Top-Of-The-Poops - [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), all original data is (C) the original data owner, and is used under appropriate licence 
+
 ## How to use
 
 You can clone the repo - I use IntelliJ IDEA to make a hot-reloading web page. 
