@@ -50,7 +50,7 @@ watch:
 
 
 .PHONY: constituencies
-constituencies: generate/constituencies.py generate/constituencies.sql
+constituencies: generate/constituencies/constituencies.py generate/constituencies/constituencies.sql
 	rm web/data/generated/constituencies/*.json
 	$(PYTHON) $< web/data/generated/constituencies
 
