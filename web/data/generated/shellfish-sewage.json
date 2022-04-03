@@ -9,6 +9,15 @@
     "hours_increase": -8562.42
   },
   {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Menai E",
+    "total_count": 1389.0,
+    "total_hours": 13097.0,
+    "mean_reporting_pct": 95.35025,
+    "spills_increase": 1389.0,
+    "hours_increase": 13097.0
+  },
+  {
     "company_name": "United Utilities",
     "shellfishery": "NORTH WIRRAL (EAST)",
     "total_count": 1651.0,
@@ -72,6 +81,15 @@
     "hours_increase": -4808.77
   },
   {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Conwy",
+    "total_count": 1055.0,
+    "total_hours": 7737.5,
+    "mean_reporting_pct": 98.70739130434782,
+    "spills_increase": 1055.0,
+    "hours_increase": 7737.5
+  },
+  {
     "company_name": "United Utilities",
     "shellfishery": "MORECAMBE BAY (LEVEN)",
     "total_count": 463.0,
@@ -79,6 +97,15 @@
     "mean_reporting_pct": 0.99988,
     "spills_increase": -128.0,
     "hours_increase": -1167.76
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Menai W",
+    "total_count": 866.0,
+    "total_hours": 6686.25,
+    "mean_reporting_pct": 90.70863636363636,
+    "spills_increase": 866.0,
+    "hours_increase": 6686.25
   },
   {
     "company_name": "United Utilities",
@@ -97,6 +124,15 @@
     "mean_reporting_pct": 0.8965384615384615,
     "spills_increase": 215.0,
     "hours_increase": -2785.86
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Cleddau",
+    "total_count": 588.0,
+    "total_hours": 6187.25,
+    "mean_reporting_pct": 97.87,
+    "spills_increase": 588.0,
+    "hours_increase": 6187.25
   },
   {
     "company_name": "United Utilities",
@@ -133,6 +169,24 @@
     "mean_reporting_pct": 0.9975,
     "spills_increase": 233.0,
     "hours_increase": 5153.03
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Dee W",
+    "total_count": 680.0,
+    "total_hours": 5039.0,
+    "mean_reporting_pct": 98.81206896551724,
+    "spills_increase": 267.0,
+    "hours_increase": 2351.0
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Mawddach",
+    "total_count": 603.0,
+    "total_hours": 4863.5,
+    "mean_reporting_pct": 99.699375,
+    "spills_increase": 603.0,
+    "hours_increase": 4863.5
   },
   {
     "company_name": "United Utilities",
@@ -189,6 +243,24 @@
     "hours_increase": -468.76
   },
   {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Swans E",
+    "total_count": 421.0,
+    "total_hours": 3804.25,
+    "mean_reporting_pct": 88.44733333333333,
+    "spills_increase": 421.0,
+    "hours_increase": 3804.25
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Carew",
+    "total_count": 172.0,
+    "total_hours": 3710.75,
+    "mean_reporting_pct": 100.0,
+    "spills_increase": 172.0,
+    "hours_increase": 3710.75
+  },
+  {
     "company_name": "United Utilities",
     "shellfishery": "SILLOTH",
     "total_count": 446.0,
@@ -225,6 +297,15 @@
     "hours_increase": 23.49
   },
   {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Rhos on S",
+    "total_count": 216.0,
+    "total_hours": 2106.5,
+    "mean_reporting_pct": 85.23857142857143,
+    "spills_increase": 216.0,
+    "hours_increase": 2106.5
+  },
+  {
     "company_name": "Southern Water",
     "shellfishery": "RYDE",
     "total_count": 236.0,
@@ -232,6 +313,24 @@
     "mean_reporting_pct": 0.995,
     "spills_increase": 236.0,
     "hours_increase": 1977.53
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Red Wharf",
+    "total_count": 199.0,
+    "total_hours": 1954.25,
+    "mean_reporting_pct": 99.156,
+    "spills_increase": 199.0,
+    "hours_increase": 1954.25
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Menai Strait (East)",
+    "total_count": 110.0,
+    "total_hours": 1856.25,
+    "mean_reporting_pct": 99.83,
+    "spills_increase": 110.0,
+    "hours_increase": 1856.25
   },
   {
     "company_name": "Southern Water",
@@ -259,6 +358,15 @@
     "mean_reporting_pct": 0.79984,
     "spills_increase": 99.0,
     "hours_increase": 414.0
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Taf",
+    "total_count": 240.0,
+    "total_hours": 1560.0,
+    "mean_reporting_pct": 97.01,
+    "spills_increase": 240.0,
+    "hours_increase": 1560.0
   },
   {
     "company_name": "Anglian Water",
@@ -306,6 +414,15 @@
     "hours_increase": 136.54
   },
   {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Swansea Bay (S),(W),(E)",
+    "total_count": 185.0,
+    "total_hours": 1466.25,
+    "mean_reporting_pct": 99.99,
+    "spills_increase": 185.0,
+    "hours_increase": 1466.25
+  },
+  {
     "company_name": "Southern Water",
     "shellfishery": "SOUTHAMPTON WATER",
     "total_count": 248.0,
@@ -340,6 +457,42 @@
     "mean_reporting_pct": 0.975,
     "spills_increase": 50.0,
     "hours_increase": -501.14
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Menai Strait (West)",
+    "total_count": 132.0,
+    "total_hours": 1333.75,
+    "mean_reporting_pct": 100.0,
+    "spills_increase": 132.0,
+    "hours_increase": 1333.75
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Conwy/Conwy Bridge",
+    "total_count": 176.0,
+    "total_hours": 1303.75,
+    "mean_reporting_pct": 99.91,
+    "spills_increase": 176.0,
+    "hours_increase": 1303.75
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Burry S",
+    "total_count": 253.0,
+    "total_hours": 1284.25,
+    "mean_reporting_pct": 96.27125,
+    "spills_increase": 253.0,
+    "hours_increase": 1284.25
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Burry N",
+    "total_count": 253.0,
+    "total_hours": 1263.75,
+    "mean_reporting_pct": 94.98466666666667,
+    "spills_increase": 253.0,
+    "hours_increase": 1263.75
   },
   {
     "company_name": "Southern Water",
@@ -378,6 +531,24 @@
     "hours_increase": 1084.81
   },
   {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Dyfi",
+    "total_count": 167.0,
+    "total_hours": 1052.5,
+    "mean_reporting_pct": 98.972,
+    "spills_increase": 167.0,
+    "hours_increase": 1052.5
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Porthcawl",
+    "total_count": 80.0,
+    "total_hours": 1050.0,
+    "mean_reporting_pct": 79.928,
+    "spills_increase": 80.0,
+    "hours_increase": 1050.0
+  },
+  {
     "company_name": "United Utilities",
     "shellfishery": "Lune (Wyre Estuary) and Lune (Broadfleet and Plover Scar)",
     "total_count": 118.0,
@@ -403,6 +574,15 @@
     "mean_reporting_pct": 1.0,
     "spills_increase": -13.0,
     "hours_increase": -194.7
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Gwendrae",
+    "total_count": 137.0,
+    "total_hours": 921.0,
+    "mean_reporting_pct": 67.23,
+    "spills_increase": 137.0,
+    "hours_increase": 921.0
   },
   {
     "company_name": "South West Water",
@@ -432,6 +612,24 @@
     "hours_increase": 857.35
   },
   {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Menai F",
+    "total_count": 165.0,
+    "total_hours": 856.25,
+    "mean_reporting_pct": 99.495,
+    "spills_increase": 165.0,
+    "hours_increase": 856.25
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Swans S",
+    "total_count": 99.0,
+    "total_hours": 828.75,
+    "mean_reporting_pct": 98.41,
+    "spills_increase": 99.0,
+    "hours_increase": 828.75
+  },
+  {
     "company_name": "Southern Water",
     "shellfishery": "CHICHESTER HARBOUR (EMSWORTH C, LANGSTONE HARBOUR, PORTSMOUTH HARBOUR",
     "total_count": 86.0,
@@ -448,6 +646,15 @@
     "mean_reporting_pct": 1.0,
     "spills_increase": 87.0,
     "hours_increase": 817.3
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Swans W",
+    "total_count": 252.0,
+    "total_hours": 702.25,
+    "mean_reporting_pct": 94.33235294117647,
+    "spills_increase": 252.0,
+    "hours_increase": 702.25
   },
   {
     "company_name": "Wessex Water",
@@ -484,6 +691,24 @@
     "mean_reporting_pct": 1.0,
     "spills_increase": 94.0,
     "hours_increase": 666.39
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Dee West",
+    "total_count": 78.0,
+    "total_hours": 664.25,
+    "mean_reporting_pct": 99.77333333333333,
+    "spills_increase": 78.0,
+    "hours_increase": 664.25
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Glaslyn",
+    "total_count": 220.0,
+    "total_hours": 659.25,
+    "mean_reporting_pct": 85.67333333333333,
+    "spills_increase": 220.0,
+    "hours_increase": 659.25
   },
   {
     "company_name": "United Utilities",
@@ -603,6 +828,15 @@
     "hours_increase": 195.45
   },
   {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Tywi",
+    "total_count": 91.0,
+    "total_hours": 474.5,
+    "mean_reporting_pct": 95.745,
+    "spills_increase": 91.0,
+    "hours_increase": 474.5
+  },
+  {
     "company_name": "Southern Water",
     "shellfishery": "LYMINGTON AND SOWLEY_M, PENNINGTON, YARMOUTH",
     "total_count": 38.0,
@@ -637,6 +871,15 @@
     "mean_reporting_pct": 0.9267285714285715,
     "spills_increase": -378.0,
     "hours_increase": -2770.58
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Menai West",
+    "total_count": 34.0,
+    "total_hours": 404.0,
+    "mean_reporting_pct": 99.96,
+    "spills_increase": 34.0,
+    "hours_increase": 404.0
   },
   {
     "company_name": "Southern Water",
@@ -817,6 +1060,15 @@
     "mean_reporting_pct": 1.0,
     "spills_increase": 27.0,
     "hours_increase": 191.58
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Llanddulas",
+    "total_count": 107.0,
+    "total_hours": 189.5,
+    "mean_reporting_pct": 99.54333333333334,
+    "spills_increase": 107.0,
+    "hours_increase": 189.5
   },
   {
     "company_name": "Anglian Water",
@@ -1107,6 +1359,15 @@
     "hours_increase": -21.67
   },
   {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Menai East",
+    "total_count": 6.0,
+    "total_hours": 25.75,
+    "mean_reporting_pct": 100.0,
+    "spills_increase": 6.0,
+    "hours_increase": 25.75
+  },
+  {
     "company_name": "Southern Water",
     "shellfishery": "SHEPPEY, SWALE EAST, SWALECLIFFE",
     "total_count": 3.0,
@@ -1225,7 +1486,52 @@
   },
   {
     "company_name": "Southern Water",
+    "shellfishery": "CHICHESTER HARBOUR (EMSWORTH C, LANGSTONE HARBOUR",
+    "total_count": 0.0,
+    "total_hours": 0.0,
+    "mean_reporting_pct": 0.61,
+    "spills_increase": 0.0,
+    "hours_increase": 0.0
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Dee (East)",
+    "total_count": 0.0,
+    "total_hours": 0.0,
+    "mean_reporting_pct": 2.93405,
+    "spills_increase": 0.0,
+    "hours_increase": 0.0
+  },
+  {
+    "company_name": "Dwr Cymru Welsh Water",
+    "shellfishery": "Malltraeth",
+    "total_count": 0.0,
+    "total_hours": 0.0,
+    "mean_reporting_pct": 2.2666666666666666,
+    "spills_increase": 0.0,
+    "hours_increase": 0.0
+  },
+  {
+    "company_name": "Southern Water",
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER",
+    "total_count": 0.0,
+    "total_hours": 0.0,
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 0.0,
+    "hours_increase": 0.0
+  },
+  {
+    "company_name": "United Utilities",
+    "shellfishery": "Ravenglass",
+    "total_count": 0.0,
+    "total_hours": 0.0,
+    "mean_reporting_pct": 0.0,
+    "spills_increase": -276.0,
+    "hours_increase": -4743.12
+  },
+  {
+    "company_name": "Southern Water",
+    "shellfishery": "COWES, LYMINGTON AND SOWLEY_M, NEWTOWN_M",
     "total_count": 0.0,
     "total_hours": 0.0,
     "mean_reporting_pct": 1.0,
@@ -1252,46 +1558,10 @@
   },
   {
     "company_name": "Southern Water",
-    "shellfishery": "CHICHESTER HARBOUR (EMSWORTH C, LANGSTONE HARBOUR",
-    "total_count": 0.0,
-    "total_hours": 0.0,
-    "mean_reporting_pct": 0.61,
-    "spills_increase": 0.0,
-    "hours_increase": 0.0
-  },
-  {
-    "company_name": "Dwr Cymru Welsh Water",
-    "shellfishery": "Dee (East)",
-    "total_count": 0.0,
-    "total_hours": 0.0,
-    "mean_reporting_pct": 0.0581,
-    "spills_increase": 0.0,
-    "hours_increase": 0.0
-  },
-  {
-    "company_name": "Southern Water",
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, CENTRAL SOLENT, COWES, SPITHEAD AND STOKES BAY",
     "total_count": 0.0,
     "total_hours": 0.0,
     "mean_reporting_pct": 0.5,
-    "spills_increase": 0.0,
-    "hours_increase": 0.0
-  },
-  {
-    "company_name": "United Utilities",
-    "shellfishery": "Ravenglass",
-    "total_count": 0.0,
-    "total_hours": 0.0,
-    "mean_reporting_pct": 0.0,
-    "spills_increase": -276.0,
-    "hours_increase": -4743.12
-  },
-  {
-    "company_name": "Southern Water",
-    "shellfishery": "COWES, LYMINGTON AND SOWLEY_M, NEWTOWN_M",
-    "total_count": 0.0,
-    "total_hours": 0.0,
-    "mean_reporting_pct": 1.0,
     "spills_increase": 0.0,
     "hours_increase": 0.0
   }

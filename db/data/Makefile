@@ -154,7 +154,7 @@ $(DOWNLOAD)/edm-2021/edm-consolidated.csv: process_edms_2021.py $(EDM_2021_RETUR
 		$(PYTHON) process_edms_2021.py $@ $^
 
 .PHONY: load-edm
-load-edm: edm.sql load_edm.sql $(DOWNLOAD)/edm-consolidated.csv $(DOWNLOAD)/edm-2021/edm-consolidated.csv
+load-edm: edm.sql load_edm.sql $(DOWNLOAD)/edm-consolidated.csv $(DOWNLOAD)/edm-2021/edm-consolidated.csv $(DOWNLOAD)/edm-wales-2021/edm-consolidated.csv
 	$(PSQL) -f $<
 	$(PSQL) -f $(word 2,$^)
 
@@ -183,6 +183,36 @@ WELSH_EDM_FILE=Welsh-Water-2020-Data-Request-739_EIR-702.xlsx
 $(DOWNLOAD)/edm-wales.csv: $(realpath provided/$(WELSH_EDM_FILE))
 	( cd $(DOWNLOAD) && libreoffice --headless --convert-to csv $< )
 	mv $(DOWNLOAD)/$(addsuffix .csv,$(basename $(WELSH_EDM_FILE))) $@
+
+# Wales EDM 2021
+EDM_WALES_2021=$(DOWNLOAD)/edm-wales-2021
+
+$(EDM_WALES_2021)/edm-emergency.xlsx:
+	mkdir -p $(dir $@)
+	$(CURL) -o $@ 'https://www.dwrcymru.com/-/media/Project/Files/Page-Documents/Our-Services/Wastewater/CSO/EDM-Return-Dwr-Cymru-Welsh-Water-Emergency-Overflow-Annual-2021.ashx'
+
+$(EDM_WALES_2021)/edm-emergency.csv: $(EDM_WALES_2021)/edm-emergency.xlsx
+	$(XLSX2CSV) -s 2 $< $@ 2> /dev/null
+
+$(EDM_WALES_2021)/edm-storm.xlsx:
+	mkdir -p $(dir $@)
+	$(CURL) -o $@ 'https://www.dwrcymru.com/-/media/Project/Files/Page-Documents/Our-Services/Wastewater/CSO/EDM-Return-Dwr-Cymru-Welsh-Water-Storm-Overflow-Annual-2021.ashx'
+
+$(EDM_WALES_2021)/edm-storm.csv: $(EDM_WALES_2021)/edm-storm.xlsx
+	$(XLSX2CSV) -s 2 $< $@ 2> /dev/null
+
+$(EDM_WALES_2021)/edm-annual.xlsx:
+	mkdir -p $(dir $@)
+	$(CURL) -o $@ https://www.dwrcymru.com/-/media/Project/Files/Page-Documents/Our-Services/Wastewater/CSO/EDM-Return-DCWW_Wales-Water-Annual-2021.ashx
+
+$(EDM_WALES_2021)/edm-annual.csv: $(EDM_WALES_2021)/edm-annual.xlsx
+	$(XLSX2CSV) -s 2 $< $@ 2> /dev/null
+
+
+EDM_WALES_2021_FILES=$(EDM_WALES_2021)/edm-emergency.csv $(EDM_WALES_2021)/edm-storm.csv $(EDM_WALES_2021)/edm-annual.csv
+
+$(EDM_WALES_2021)/edm-consolidated.csv: process_edms_2021_wales.py $(EDM_WALES_2021_FILES)
+	$(PYTHON) process_edms_2021_wales.py --storm $(EDM_WALES_2021)/edm-storm.csv --emergency $(EDM_WALES_2021)/edm-emergency.csv --annual $(EDM_WALES_2021)/edm-annual.csv $@
 
 
 ## Grid References

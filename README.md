@@ -98,7 +98,13 @@ https://storage-eu-205.sharefile.com/download.ashx?dt=dt99e5eec3bd194293acd60049
 
 Event Duration Monitoring
 
-Can't find! - Partial information at: https://www.dwrcymru.com/en/our-services/wastewater/combined-storm-overflows/valleys-and-south-east-wales
+2020 - Can't find! - Partial information at: https://www.dwrcymru.com/en/our-services/wastewater/combined-storm-overflows/valleys-and-south-east-wales
+
+2021 - Main page: https://www.dwrcymru.com/en/our-services/wastewater/river-water-quality/combined-storm-overflows
+2021 - Seems to be split over 3 files (with different formats), unknown overlap with Environment Agency data.
+ - https://www.dwrcymru.com/-/media/Project/Files/Page-Documents/Our-Services/Wastewater/CSO/EDM-Return-Dwr-Cymru-Welsh-Water-Emergency-Overflow-Annual-2021.ashx
+ - https://www.dwrcymru.com/-/media/Project/Files/Page-Documents/Our-Services/Wastewater/CSO/EDM-Return-Dwr-Cymru-Welsh-Water-Storm-Overflow-Annual-2021.ashx
+ - https://www.dwrcymru.com/-/media/Project/Files/Page-Documents/Our-Services/Wastewater/CSO/EDM-Return-DCWW_Wales-Water-Annual-2021.ashx
 
 
 ### Postcodes
@@ -145,6 +151,8 @@ To be sure the quality of the data is unbelievably poor. Perhaps it is so poor s
    - Loads of EDM rows don't match valid consents. 
  - Duplicate data rows 
    - Some data rows are duplicates in many of the source files. It is not clear why, it looks like an extract from a database upstream has maybe repeated rows where there are multiple assets with the same consent information?
+ - Wales data is spread over multiple files, with different formats, and may or may not overlap with EA data.
+
 
 ### Noted Improvements
  - The files are now tabs in a single document with *almost* consistent data across the tabs.
