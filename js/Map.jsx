@@ -5,10 +5,11 @@ import {Loading} from "./loading";
 import {Alert, Card, Col, Container, Form, FormGroup, Row, Table} from "react-bootstrap";
 import {ForkMeHero, TitleHero} from "./heroes";
 
-import {GeoJSON, MapContainer, Marker, TileLayer, Tooltip, useMap} from "react-leaflet";
+import {GeoJSON, MapContainer, Marker, Tooltip, useMap} from "react-leaflet";
 import Select from "react-select";
 import {useSortBy, useTable} from "react-table";
 import {formatNumber, renderNumericCell, toKebabCase} from "./text";
+import {Tiles} from "./maps";
 
 class ErrorBoundary extends React.Component {
     constructor(props) {
@@ -78,13 +79,6 @@ function MyTable({columns, data, ...props}) {
         </Table>
     </div>
 }
-
-const Tiles = () => <TileLayer
-    attribution='Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery &copy; <a href="https://www.mapbox.com/">Mapbox</a>, Contains OS data &copy; Crown copyright and database right 2021'
-    url="https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}"
-    id='mapbox/outdoors-v10'
-    accessToken="pk.eyJ1IjoidGltZTR0ZWEiLCJhIjoiY2t2Y2g0aXFsMHl4NzMxcGd3djcyOG1qNCJ9.YCoFgOmL5dqrJ9ZD7ozJKQ"
-/>
 
 const ConstituencyGeo = ({constituency }) => {
     const map = useMap()
@@ -232,12 +226,6 @@ const MapApp = ( { constituency }) => {
         <TitleHero/>
         <ForkMeHero/>
         <Alert variant="success">
-            <Alert.Heading>We're working on it</Alert.Heading>
-            <p>
-                This is a basic view of the data - we're working on making it more sophisticated. We wanted to give you
-                the data
-                as soon as possible..
-            </p>
             <p>Select the constituency from the drop-down - you can type in the box to search</p>
 
             { mapMove }

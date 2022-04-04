@@ -7,10 +7,41 @@ import {ForkMeHero, TitleHero} from "./heroes";
 import {companies} from "./companies";
 import {twitterURI} from "./twitter";
 import {formatNumber, toKebabCase} from "./text";
+import {Chloropleth} from "./chloropleth";
 
 
 const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0)
 const vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0)
+
+const spillDivisor = 10000;
+
+function spillsColour(n) {
+    const colours = ['#fff7ec','#fee8c8','#fdd49e','#fdbb84','#fc8d59','#ef6548','#d7301f','#990000']
+
+    return colours[Math.min(n / spillDivisor, colours.length - 1).toFixed()];
+}
+
+const spillsStyle = (feature) => {
+    const fillColor = spillsColour(feature.properties.total_hours);
+
+    return {
+        fillColor: fillColor,
+        weight: 1,
+        opacity: 0.7,
+        color: '#333',
+        dashArray: '3',
+        fillOpacity: 0.6
+    }
+}
+
+const MapLegend = () => {
+    const things = [...Array(8).keys()].map(n => {
+        return <React.Fragment>
+            <i style={{background: spillsColour(n * spillDivisor)}}> </i> {n * spillDivisor} - { (n + 1) * spillDivisor} <br/>
+        </React.Fragment>
+    })
+    return <React.Fragment>{things}</React.Fragment>;
+}
 
 const CompaniesTable = () => {
     return <div className="table-responsive">
@@ -154,14 +185,16 @@ class App extends React.Component {
                 </Row>
                 <Row>
                     <Col>
-                        <SewageDumpsChart/>
-                    </Col>
-                </Row>
-                <Row>
-                    <Col>
                         <h2>Affects the whole Country</h2>
                     </Col>
                 </Row>
+
+                <Row className="justify-content-md-center">
+                    <Col md={5}>
+                        <Chloropleth url="data/generated/chloropleth/chloro.json" style={spillsStyle} legend={<MapLegend/>}/>
+                    </Col>
+                </Row>
+
                 <Row>
                     <Col>
                         <p>This pollution affects the whole country. Here is a list of sewage dumps by constituency. How
@@ -284,7 +317,13 @@ class App extends React.Component {
                     </Col>
                 </Row>
 
-                <Row>
+                <Row style={{overflow:'auto'}}>
+                    <Col>
+                        <SewageDumpsChart/>
+                    </Col>
+                </Row>
+
+                <Row style={{overflow:'auto'}}>
                     <Col>
                         <DataMatch/>
                     </Col>
