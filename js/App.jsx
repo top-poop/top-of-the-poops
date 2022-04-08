@@ -2,7 +2,7 @@ import * as React from 'react';
 import ReactDOM from 'react-dom';
 import {LoadingPlot} from "./plot";
 import {BathingSewage, ShellfishSewage, SpillsByConstituency, SpillsByRiver, SpillsByWaterType} from "./spill-tables";
-import {Alert, Col, Container, Row, Table} from "react-bootstrap";
+import {Alert, Card, Col, Container, Row, Table} from "react-bootstrap";
 import {ForkMeHero, TitleHero} from "./heroes";
 import {companies} from "./companies";
 import {twitterURI} from "./twitter";
@@ -37,7 +37,7 @@ const spillsStyle = (feature) => {
 const MapLegend = () => {
     const things = [...Array(8).keys()].map(n => {
         return <React.Fragment>
-            <i style={{background: spillsColour(n * spillDivisor)}}> </i> {n * spillDivisor} - { (n + 1) * spillDivisor} <br/>
+            <i style={{background: spillsColour(n * spillDivisor)}}> </i> {formatNumber(n * spillDivisor)} - { formatNumber((n + 1) * spillDivisor)} <br/>
         </React.Fragment>
     })
     return <React.Fragment>{things}</React.Fragment>;
@@ -183,15 +183,21 @@ class App extends React.Component {
                             UK as a whole will be considerably worse.</p>
                     </Col>
                 </Row>
-                <Row>
-                    <Col>
-                        <h2>Affects the whole Country</h2>
+
+                <Row className="justify-content-md-center">
+                    <Col md={6}>
+                        <Card>
+                            <Card.Header className="font-weight-bold">Hours of Sewage By Constituency 2021</Card.Header>
+                            <Card.Body className="m-0 p-0">
+                                <Chloropleth url="data/generated/chloropleth/chloro.json" style={spillsStyle} legend={<MapLegend/>}/>
+                            </Card.Body>
+                        </Card>
                     </Col>
                 </Row>
 
-                <Row className="justify-content-md-center">
-                    <Col md={5}>
-                        <Chloropleth url="data/generated/chloropleth/chloro.json" style={spillsStyle} legend={<MapLegend/>}/>
+                <Row>
+                    <Col>
+                        <h2>Affects the whole Country</h2>
                     </Col>
                 </Row>
 
