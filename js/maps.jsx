@@ -18,8 +18,10 @@ const Tiles = () => {
     const attribution = ReactDOMServer.renderToString(<Attribution/>);
     return <TileLayer
         attribution={attribution}
+        tileSize={512}
+        zoomOffset={-1}
         url="https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}"
-        id='mapbox/light-v10'
+        id='time4tea/cl1rst81z002814mv6pxjvytb'
         accessToken="pk.eyJ1IjoidGltZTR0ZWEiLCJhIjoiY2t2Y2g0aXFsMHl4NzMxcGd3djcyOG1qNCJ9.YCoFgOmL5dqrJ9ZD7ozJKQ"
     />
 }
