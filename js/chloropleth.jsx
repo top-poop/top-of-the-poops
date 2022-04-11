@@ -1,5 +1,4 @@
-import {GeoJSON, MapContainer, useMap} from "react-leaflet";
-import {Tiles} from "./maps";
+import {GeoJSON, useMap} from "react-leaflet";
 import * as React from "react";
 import {useRef} from "react";
 import {Loading} from "./loading";
@@ -40,37 +39,4 @@ const Legend = ({content}) => {
 }
 
 
-const Info = () => {
-    const map = useMap();
-    const info = L.control();
-
-    info.onAdd = function (map) {
-        this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
-        this.update();
-        return this._div;
-    };
-
-    // method that we will use to update the control based on feature properties passed
-    info.update = function (props) {
-        this._div.innerHTML = '<h4>Sewage Spills by Constituency</h4>' +  (props ?
-            '<b>' + props.name + '</b><br />' + props.total_spills + ' sewage spills'
-            : 'Hover over a constituency');
-    };
-
-    info.addTo(map);
-}
-
-const Chloropleth = ({url, style, legend}) => {
-    return <MapContainer
-        center={[54.622978, -1.977539]}
-        zoom={8}
-        dragging={!L.Browser.mobile}
-        scrollWheelZoom={true}>
-        <Tiles/>
-        <ChloroGeo url={url} style={style}/>
-        <Legend content={legend}/>
-    </MapContainer>
-}
-
-
-export {Chloropleth};
+export {ChloroGeo, Legend};

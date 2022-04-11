@@ -7,7 +7,8 @@ import {ForkMeHero, TitleHero} from "./heroes";
 import {companies} from "./companies";
 import {twitterURI} from "./twitter";
 import {formatNumber, toKebabCase} from "./text";
-import {Chloropleth} from "./chloropleth";
+import {Map} from "./maps";
+import {ChloroGeo, Legend} from "./chloropleth";
 
 
 const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0)
@@ -189,7 +190,10 @@ class App extends React.Component {
                         <Card>
                             <Card.Header className="font-weight-bold">Hours of Sewage By Constituency 2021</Card.Header>
                             <Card.Body className="m-0 p-0">
-                                <Chloropleth url="data/generated/chloropleth/chloro.json" style={spillsStyle} legend={<MapLegend/>}/>
+                                <Map>
+                                    <ChloroGeo url="data/generated/chloropleth/chloro.json" style={spillsStyle}/>
+                                    <Legend content={<MapLegend/>}/>
+                                </Map>
                             </Card.Body>
                         </Card>
                     </Col>

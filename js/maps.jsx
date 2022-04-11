@@ -1,6 +1,6 @@
 
 
-import {TileLayer} from "react-leaflet";
+import {MapContainer, TileLayer} from "react-leaflet";
 import * as React from "react";
 import ReactDOMServer from 'react-dom/server'
 
@@ -26,4 +26,15 @@ const Tiles = () => {
     />
 }
 
-export {Tiles};
+const Map = ({children}) => {
+    return <MapContainer
+        center={[54.622978, -1.977539]}
+        zoom={8}
+        dragging={!L.Browser.mobile}
+        scrollWheelZoom={true}>
+        <Tiles/>
+        { children }
+    </MapContainer>
+}
+
+export {Map};

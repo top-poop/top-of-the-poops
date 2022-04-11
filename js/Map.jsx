@@ -9,7 +9,7 @@ import {GeoJSON, MapContainer, Marker, Tooltip, useMap} from "react-leaflet";
 import Select from "react-select";
 import {useSortBy, useTable} from "react-table";
 import {formatNumber, renderNumericCell, toKebabCase} from "./text";
-import {Tiles} from "./maps";
+import {Map} from "./maps";
 
 class ErrorBoundary extends React.Component {
     constructor(props) {
@@ -173,15 +173,10 @@ const What = ({initial, data}) => {
         <Row>
             <Col md={8}>
                 <ErrorBoundary>
-                    <MapContainer
-                        center={[54.622978, -1.977539]}
-                        zoom={6}
-                        dragging={!L.Browser.mobile}
-                        scrollWheelZoom={true}>
-                        <Tiles/>
+                    <Map>
                         <ConstituencyGeo constituency={constituency}/>
                         <SewageMarkers dumps={relevant}/>
-                    </MapContainer>
+                    </Map>
                 </ErrorBoundary>
             </Col>
             <Col>
