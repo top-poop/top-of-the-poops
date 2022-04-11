@@ -326,6 +326,26 @@ class App extends React.Component {
                     </Col>
                 </Row>
 
+                <Mobile>
+                    <Alert variant="success">
+                        <MapMove/>
+                    </Alert>
+                </Mobile>
+
+                <Row className="justify-content-md-center">
+                    <Col md={6}>
+                        <Card>
+                            <Card.Header className="font-weight-bold">Hours of Sewage By Shellfish Area 2021</Card.Header>
+                            <Card.Body className="m-0 p-0">
+                                <Map>
+                                    <LoadingCircles url="data/generated/shellfish-location-totals.json" style={beachStyle}/>
+                                    <Legend content={<MapLegend colours={beachColours} max={beachMax} />}/>
+                                </Map>
+                            </Card.Body>
+                        </Card>
+                    </Col>
+                </Row>
+
                 <Row>
                     <Col>
                         <p>Shellfish can become unfit for human consumption when polluted by sewage.</p>
