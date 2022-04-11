@@ -9,7 +9,7 @@ import {GeoJSON, MapContainer, Marker, Tooltip, useMap} from "react-leaflet";
 import Select from "react-select";
 import {useSortBy, useTable} from "react-table";
 import {formatNumber, renderNumericCell, toKebabCase} from "./text";
-import {Map} from "./maps";
+import {Map, MapMove, Mobile} from "./maps";
 
 class ErrorBoundary extends React.Component {
     constructor(props) {
@@ -214,16 +214,14 @@ const What = ({initial, data}) => {
 }
 
 const MapApp = ( { constituency }) => {
-
-    const mapMove = L.Browser.mobile ? <p>Use two fingers to move &amp; zoom the map</p> : null
-
     return <div>
         <TitleHero/>
         <ForkMeHero/>
         <Alert variant="success">
             <p>Select the constituency from the drop-down - you can type in the box to search</p>
-
-            { mapMove }
+            <Mobile>
+                <MapMove/>
+            </Mobile>
         </Alert>
         <Loading url="data/generated/spills-all.json">
             <What initial={constituency}/>

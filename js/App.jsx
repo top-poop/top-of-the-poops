@@ -7,23 +7,29 @@ import {ForkMeHero, TitleHero} from "./heroes";
 import {companies} from "./companies";
 import {twitterURI} from "./twitter";
 import {formatNumber, toKebabCase} from "./text";
-import {Map} from "./maps";
+import {LoadingCircles, Map, MapMove, Mobile} from "./maps";
 import {ChloroGeo, Legend} from "./chloropleth";
 
 
 const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0)
 const vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0)
 
-const spillDivisor = 10000;
+const spillMax = 80000;
+const spillColours = ['#fff7ec', '#fee8c8', '#fdd49e', '#fdbb84', '#fc8d59', '#ef6548', '#d7301f', '#990000']
+const beachMax = 5500;
+const beachColours = ['#e66101', '#fdb863', '#b2abd2', '#5e3c99']
 
-function spillsColour(n) {
-    const colours = ['#fff7ec','#fee8c8','#fdd49e','#fdbb84','#fc8d59','#ef6548','#d7301f','#990000']
+const colourScale = (colours, maxValue) => {
 
-    return colours[Math.min(n / spillDivisor, colours.length - 1).toFixed()];
+    const scale = colours.length / maxValue
+
+    return (n) => {
+        return colours[Math.min(scale * n, colours.length - 1).toFixed()];
+    }
 }
 
 const spillsStyle = (feature) => {
-    const fillColor = spillsColour(feature.properties.total_hours);
+    const fillColor = colourScale(spillColours, spillMax)(feature.properties.total_hours);
 
     return {
         fillColor: fillColor,
@@ -35,10 +41,28 @@ const spillsStyle = (feature) => {
     }
 }
 
-const MapLegend = () => {
-    const things = [...Array(8).keys()].map(n => {
-        return <React.Fragment>
-            <i style={{background: spillsColour(n * spillDivisor)}}> </i> {formatNumber(n * spillDivisor)} - { formatNumber((n + 1) * spillDivisor)} <br/>
+const beachStyle = (beach) => {
+    const n = beach.total_spill_hours;
+    const beachColour = colourScale(beachColours, beachMax)(n)
+    return {
+        color: beachColour,
+        fillColor: beachColour,
+        fillOpacity: 0.5,
+        radius: Math.log(n) * 500,
+    }
+}
+
+const MapLegend = ({colours, max}) => {
+
+    const count = colours.length
+    const step = max / count
+
+    const scale = colourScale(colours, max)
+
+    const things = [...Array(colours.length).keys()].map(n => {
+        return <React.Fragment key={`legend-${n}`} >
+            <i style={{background: scale(n * step)}}> </i> {formatNumber(n * step)} - {formatNumber((n + 1) * step)}
+            <br/>
         </React.Fragment>
     })
     return <React.Fragment>{things}</React.Fragment>;
@@ -192,7 +216,7 @@ class App extends React.Component {
                             <Card.Body className="m-0 p-0">
                                 <Map>
                                     <ChloroGeo url="data/generated/chloropleth/chloro.json" style={spillsStyle}/>
-                                    <Legend content={<MapLegend/>}/>
+                                    <Legend content={<MapLegend colours={spillColours} max={spillMax} />}/>
                                 </Map>
                             </Card.Body>
                         </Card>
@@ -223,7 +247,8 @@ class App extends React.Component {
                 <Row>
                     <Col>
                         <Alert variant="success">
-                            <p>Click on the constituency name to see a map of all the sewage dumps in the constituency</p>
+                            <p>Click on the constituency name to see a map of all the sewage dumps in the
+                                constituency</p>
                         </Alert>
                     </Col>
                 </Row>
@@ -261,10 +286,31 @@ class App extends React.Component {
 
                 <Row><Col><h2>Seasides</h2></Col></Row>
 
+                <Mobile>
+                    <Alert variant="success">
+                        <MapMove/>
+                    </Alert>
+                </Mobile>
+
+                <Row className="justify-content-md-center">
+                    <Col md={6}>
+                        <Card>
+                            <Card.Header className="font-weight-bold">Hours of Sewage By Bathing Area 2021</Card.Header>
+                            <Card.Body className="m-0 p-0">
+                                <Map>
+                                    <LoadingCircles url="data/generated/beach-location-totals.json" style={beachStyle}/>
+                                    <Legend content={<MapLegend colours={beachColours} max={beachMax} />}/>
+                                </Map>
+                            </Card.Body>
+                        </Card>
+                    </Col>
+                </Row>
+
                 <Row>
                     <Col>
                         <p>We would like clean beaches - but sewage spills are happening all the time at beach
-                            locations.</p>
+                            locations. <br/> Above you can see a map of England and Wales with all sewage spills into "bathing locations" mapped out.
+                            The table below allows a search and shows the totals by beach - which may consist of multiple sewage spill locations on the map</p>
                     </Col>
                 </Row>
 
@@ -283,7 +329,8 @@ class App extends React.Component {
                 <Row>
                     <Col>
                         <p>Shellfish can become unfit for human consumption when polluted by sewage.</p>
-                        <p>In the 2021 data, there is no information for "Ravenglass", as the monitoring was broken for the whole year.</p>
+                        <p>In the 2021 data, there is no information for "Ravenglass", as the monitoring was broken for
+                            the whole year.</p>
                     </Col>
                 </Row>
 
@@ -327,13 +374,13 @@ class App extends React.Component {
                     </Col>
                 </Row>
 
-                <Row style={{overflow:'auto'}}>
+                <Row style={{overflow: 'auto'}}>
                     <Col>
                         <SewageDumpsChart/>
                     </Col>
                 </Row>
 
-                <Row style={{overflow:'auto'}}>
+                <Row style={{overflow: 'auto'}}>
                     <Col>
                         <DataMatch/>
                     </Col>
@@ -376,8 +423,11 @@ class App extends React.Component {
 
                 <Row>
                     <Col>
-                        <p>Please check out our policy on data re-use and attribution at <a href="https://github.com/top-poop/top-of-the-poops">our GitHub page</a> </p>
-                        <p>We've been featured in: <a href="https://sotn.newstatesman.com/2022/04/mapped-sewage-dumps-and-spills-in-england-and-wales/">The New Statesman</a> "Mapped: Sewage dumps and spills in England and Wales"</p>
+                        <p>Please check out our policy on data re-use and attribution at <a
+                            href="https://github.com/top-poop/top-of-the-poops">our GitHub page</a></p>
+                        <p>We've been featured in: <a
+                            href="https://sotn.newstatesman.com/2022/04/mapped-sewage-dumps-and-spills-in-england-and-wales/">The
+                            New Statesman</a> "Mapped: Sewage dumps and spills in England and Wales"</p>
                     </Col>
                 </Row>
 
@@ -422,8 +472,10 @@ class App extends React.Component {
 
                 <Row>
                     <Col>
-                        <p>(C) 2020, 2021 Top-Of-The-Poops CC-BY-SA 4.0, (C) Openstreetmap contributors, Contains OS data © Crown copyright and database right 2021</p>
-                        <p>Full Copyright information available at: <a href="https://github.com/top-poop/top-of-the-poops/">our GitHub page</a></p>
+                        <p>(C) 2020, 2021 Top-Of-The-Poops CC-BY-SA 4.0, (C) Openstreetmap contributors, Contains OS
+                            data © Crown copyright and database right 2021</p>
+                        <p>Full Copyright information available at: <a
+                            href="https://github.com/top-poop/top-of-the-poops/">our GitHub page</a></p>
                     </Col>
                 </Row>
 

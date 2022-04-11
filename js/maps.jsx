@@ -1,8 +1,7 @@
-
-
-import {MapContainer, TileLayer} from "react-leaflet";
+import {MapContainer, TileLayer, useMap} from "react-leaflet";
 import * as React from "react";
 import ReactDOMServer from 'react-dom/server'
+import {Loading} from "./loading";
 
 const Attribution = () => <span>
     Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetmap</a> contributors
@@ -26,15 +25,66 @@ const Tiles = () => {
     />
 }
 
+const Debug = () => {
+
+    const map = useMap()
+
+    map.on("move", (e) => console.log(`Location: ${JSON.stringify(map.getBounds())} Zoom: ${map.getZoom()}`))
+
+    return null;
+}
+
+const ewBounds = [
+    [49.95121990866204,-5.7788],
+    [56.0474995832989,1.7138671875000002]
+]
+
 const Map = ({children}) => {
     return <MapContainer
-        center={[54.622978, -1.977539]}
-        zoom={8}
+        bounds={ewBounds}
         dragging={!L.Browser.mobile}
         scrollWheelZoom={true}>
         <Tiles/>
-        { children }
+        <Debug/>
+        {children}
     </MapContainer>
 }
 
-export {Map};
+const Circle = ({item, style}) => {
+
+    const map = useMap()
+
+    const circle = L.circle([item.lat, item.lon], style(item));
+    // circle.on({
+    //     mouseover: () => updateBeach(beach),
+    //     mouseout: () => updateBeach(null)
+    // })
+    circle.addTo(map)
+    return null
+}
+
+const Circles = ({data, style}) => {
+    return <React.Fragment>
+        {data.map(it => <Circle key={`item-${it.id}`} item={it} style={style}/>)}
+    </React.Fragment>
+}
+
+const LoadingCircles = ({url, style}) => {
+    return <Loading nullBeforeLoad url={url}>
+        <Circles style={style}/>
+    </Loading>
+}
+
+const Mobile = ({children}) => {
+    if (L.Browser.mobile) {
+        return children
+    }
+    return null;
+}
+
+const MapMove = () => {
+    return <p>Use two fingers to move &amp; zoom the map</p>
+}
+
+
+export {Map, MapMove, Mobile, LoadingCircles};
