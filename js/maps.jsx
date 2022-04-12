@@ -45,33 +45,34 @@ const Map = ({children}) => {
         dragging={!L.Browser.mobile}
         scrollWheelZoom={true}>
         <Tiles/>
-        <Debug/>
         {children}
     </MapContainer>
 }
 
-const Circle = ({item, style}) => {
+const Circle = ({item, style, onSelection}) => {
 
     const map = useMap()
 
     const circle = L.circle([item.lat, item.lon], style(item));
-    // circle.on({
-    //     mouseover: () => updateBeach(beach),
-    //     mouseout: () => updateBeach(null)
-    // })
+    if ( onSelection ) {
+        circle.on({
+            mouseover: () => onSelection(item),
+            mouseout: () => onSelection(null)
+        })
+    }
     circle.addTo(map)
     return null
 }
 
-const Circles = ({data, style}) => {
+const Circles = ({data, style, onSelection}) => {
     return <React.Fragment>
-        {data.map(it => <Circle key={`item-${it.id}`} item={it} style={style}/>)}
+        {data.map(it => <Circle key={`item-${it.id}`} item={it} style={style} onSelection={onSelection}/>)}
     </React.Fragment>
 }
 
-const LoadingCircles = ({url, style}) => {
+const LoadingCircles = ({url, style, onSelection}) => {
     return <Loading nullBeforeLoad url={url}>
-        <Circles style={style}/>
+        <Circles style={style} onSelection={onSelection}/>
     </Loading>
 }
 
