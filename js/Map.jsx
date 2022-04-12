@@ -87,11 +87,13 @@ const ConstituencyGeo = ({constituency }) => {
     if (constituency == null) {
         return null;
     } else {
-        return <Loading nullBeforeLoad url={`data/generated/constituencies/${toKebabCase(constituency)}.json`}>
-            <GeoJSON key={constituency} ref={ref} eventHandlers={{
+        return <Loading
+            nullBeforeLoad
+            url={`data/generated/constituencies/${toKebabCase(constituency)}.json`}
+            render={(data) => <GeoJSON data={data} key={constituency} ref={ref} eventHandlers={{
                 add: () => { map.fitBounds(ref.current.getBounds()) }
-            }}/>
-        </Loading>
+            }}/>}
+        />
     }
 }
 
@@ -223,9 +225,9 @@ const MapApp = ( { constituency }) => {
                 <MapMove/>
             </Mobile>
         </Alert>
-        <Loading url="data/generated/spills-all.json">
-            <What initial={constituency}/>
-        </Loading>
+        <Loading url="data/generated/spills-all.json"
+                 render={(data) => <What data={data} initial={constituency}/>}
+        />
     </div>
 }
 

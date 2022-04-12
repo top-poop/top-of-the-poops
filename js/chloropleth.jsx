@@ -1,42 +1,62 @@
 import {GeoJSON, useMap} from "react-leaflet";
 import * as React from "react";
-import {useRef} from "react";
+import {useMemo, useRef} from "react";
 import {Loading} from "./loading";
-import ReactDOMServer from 'react-dom/server'
-import { v4 as uuid } from 'uuid';
+import {v4 as uuid} from 'uuid';
 
-const ChloroGeo = ({url, style}) => {
+const ChloroGeoData = ({data, style, onMouseOverFeature}) => {
     const map = useMap()
     const ref = useRef()
     const id = uuid()
 
-    return <Loading nullBeforeLoad url={url}>
-        <GeoJSON key={id}
-                 ref={ref}
-                 style={style}
-                 eventHandlers={{
-                     add: () => {
-                         map.fitBounds(ref.current.getBounds())
-                     }
-                 }}/>
-    </Loading>
-}
-
-const Legend = ({content}) => {
-    const map = useMap()
-
-    const legend = L.control({position: "topright"});
-
-    legend.onAdd = () => {
-        const div = L.DomUtil.create("div", "info legend");
-        div.innerHTML = ReactDOMServer.renderToString(content)
-        return div
+    const mouseOverFeature = (feature) => {
+        if (onMouseOverFeature) {
+            onMouseOverFeature(feature)
+        }
     }
 
-    legend.addTo(map);
+    const onEachFeature = (feature, layer) => {
+        layer.on({
+            mouseover: e => mouseOverFeature(feature),
+            mouseout: e => mouseOverFeature(null)
+        })
+    }
 
-    return null;
+    return useMemo(() => <GeoJSON key={id}
+                                  data={data}
+                                  ref={ref}
+                                  style={style}
+                                  eventHandlers={{
+                                      add: () => {
+                                          map.fitBounds(ref.current.getBounds())
+                                      }
+                                  }}
+                                  onEachFeature={onEachFeature}
+    />, [data, ref, map])
 }
 
+const ChloroGeo = ({url, style, onMouseOverFeature}) => {
+    return <Loading nullBeforeLoad
+                    url={url}
+                    render={
+                        (data) => <ChloroGeoData
+                            data={data}
+                            style={style}
+                            onMouseOverFeature={onMouseOverFeature}
+                        />
+                    }/>
+}
 
-export {ChloroGeo, Legend};
+const Legend = ({children}) => {
+    return <div className="legend leaflet-bottom leaflet-left">
+        {children}
+    </div>
+}
+
+const InfoBox = ({children}) => {
+    return <div className="info leaflet-top leaflet-right">
+        {children}
+    </div>
+}
+
+export {ChloroGeo, Legend, InfoBox};

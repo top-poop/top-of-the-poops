@@ -11,8 +11,6 @@ const Attribution = () => <span>
     Contains OS data &copy; Crown copyright and database right 2021
 </span>
 
-// 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors<br/>Imagery &copy; <a href="https://www.mapbox.com/">Mapbox</a> Contains OS data &copy; Crown copyright and database right 2021'
-
 const Tiles = () => {
     const attribution = ReactDOMServer.renderToString(<Attribution/>);
     return <TileLayer
@@ -35,8 +33,8 @@ const Debug = () => {
 }
 
 const ewBounds = [
-    [49.95121990866204,-5.7788],
-    [56.0474995832989,1.7138671875000002]
+    [49.95121990866204, -5.7788],
+    [56.0474995832989, 1.7138671875000002]
 ]
 
 const Map = ({children}) => {
@@ -54,7 +52,7 @@ const Circle = ({item, style, onSelection}) => {
     const map = useMap()
 
     const circle = L.circle([item.lat, item.lon], style(item));
-    if ( onSelection ) {
+    if (onSelection) {
         circle.on({
             mouseover: () => onSelection(item),
             mouseout: () => onSelection(null)
@@ -71,9 +69,10 @@ const Circles = ({data, style, onSelection}) => {
 }
 
 const LoadingCircles = ({url, style, onSelection}) => {
-    return <Loading nullBeforeLoad url={url}>
-        <Circles style={style} onSelection={onSelection}/>
-    </Loading>
+    return <Loading nullBeforeLoad
+                    url={url}
+                    render={(data) => <Circles data={data} style={style} onSelection={onSelection}/>}
+    />
 }
 
 const Mobile = ({children}) => {

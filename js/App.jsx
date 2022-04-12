@@ -1,4 +1,5 @@
 import * as React from 'react';
+import {useState} from 'react';
 import ReactDOM from 'react-dom';
 import {LoadingPlot} from "./plot";
 import {BathingSewage, ShellfishSewage, SpillsByConstituency, SpillsByRiver, SpillsByWaterType} from "./spill-tables";
@@ -8,7 +9,7 @@ import {companies} from "./companies";
 import {twitterURI} from "./twitter";
 import {formatNumber, toKebabCase} from "./text";
 import {LoadingCircles, Map, MapMove, Mobile} from "./maps";
-import {ChloroGeo, Legend} from "./chloropleth";
+import {ChloroGeo, InfoBox, Legend} from "./chloropleth";
 
 
 const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0)
@@ -60,7 +61,7 @@ const MapLegend = ({colours, max}) => {
     const scale = colourScale(colours, max)
 
     const things = [...Array(colours.length).keys()].map(n => {
-        return <React.Fragment key={`legend-${n}`} >
+        return <React.Fragment key={`legend-${n}`}>
             <i style={{background: scale(n * step)}}> </i> {formatNumber(n * step)} - {formatNumber((n + 1) * step)}
             <br/>
         </React.Fragment>
@@ -171,6 +172,31 @@ const DataMatch = () => {
     </div>
 }
 
+const ConstituencyInfo = ({feature}) => {
+    return <React.Fragment>
+        <b>{feature.properties.name}</b>
+        <br/>{formatNumber(feature.properties.total_hours, 2)} hours of sewage
+    </React.Fragment>
+}
+
+const ConstituencyMap = () => {
+
+    const [feature, setFeature] = useState()
+
+    const info = feature ? <ConstituencyInfo feature={feature}/> :
+        <React.Fragment>Hover over/Tap on a constituency</React.Fragment>
+
+    return <Map>
+        <ChloroGeo url="data/generated/chloropleth/chloro.json" style={spillsStyle} onMouseOverFeature={setFeature}/>
+        <Legend>
+            <MapLegend colours={spillColours} max={spillMax}/>
+        </Legend>
+        <InfoBox>
+            {info}
+        </InfoBox>
+    </Map>
+}
+
 class App extends React.Component {
     render() {
         return <div>
@@ -214,10 +240,7 @@ class App extends React.Component {
                         <Card>
                             <Card.Header className="font-weight-bold">Hours of Sewage By Constituency 2021</Card.Header>
                             <Card.Body className="m-0 p-0">
-                                <Map>
-                                    <ChloroGeo url="data/generated/chloropleth/chloro.json" style={spillsStyle}/>
-                                    <Legend content={<MapLegend colours={spillColours} max={spillMax} />}/>
-                                </Map>
+                                <ConstituencyMap/>
                             </Card.Body>
                         </Card>
                     </Col>
@@ -299,7 +322,9 @@ class App extends React.Component {
                             <Card.Body className="m-0 p-0">
                                 <Map>
                                     <LoadingCircles url="data/generated/beach-location-totals.json" style={beachStyle}/>
-                                    <Legend content={<MapLegend colours={beachColours} max={beachMax} />}/>
+                                    <Legend>
+                                        <MapLegend colours={beachColours} max={beachMax}/>
+                                    </Legend>
                                 </Map>
                             </Card.Body>
                         </Card>
@@ -309,8 +334,10 @@ class App extends React.Component {
                 <Row>
                     <Col>
                         <p>We would like clean beaches - but sewage spills are happening all the time at beach
-                            locations. <br/> Above you can see a map of England and Wales with all sewage spills into "bathing locations" mapped out.
-                            The table below allows a search and shows the totals by beach - which may consist of multiple sewage spill locations on the map</p>
+                            locations. <br/> Above you can see a map of England and Wales with all sewage spills into
+                            "bathing locations" mapped out.
+                            The table below allows a search and shows the totals by beach - which may consist of
+                            multiple sewage spill locations on the map</p>
                     </Col>
                 </Row>
 
@@ -335,11 +362,15 @@ class App extends React.Component {
                 <Row className="justify-content-md-center">
                     <Col md={6}>
                         <Card>
-                            <Card.Header className="font-weight-bold">Hours of Sewage By Shellfish Area 2021</Card.Header>
+                            <Card.Header className="font-weight-bold">Hours of Sewage By Shellfish Area
+                                2021</Card.Header>
                             <Card.Body className="m-0 p-0">
                                 <Map>
-                                    <LoadingCircles url="data/generated/shellfish-location-totals.json" style={beachStyle}/>
-                                    <Legend content={<MapLegend colours={beachColours} max={beachMax} />}/>
+                                    <LoadingCircles url="data/generated/shellfish-location-totals.json"
+                                                    style={beachStyle}/>
+                                    <Legend>
+                                        <MapLegend colours={beachColours} max={beachMax}/>
+                                    </Legend>
                                 </Map>
                             </Card.Body>
                         </Card>

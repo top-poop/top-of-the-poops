@@ -1,4 +1,3 @@
-
 const toKebabCase = str =>
     str &&
     str
@@ -6,9 +5,12 @@ const toKebabCase = str =>
         .map(x => x.toLowerCase())
         .join('-');
 
-const formatNumber = n => n.toLocaleString(undefined, {minimumFractionDigits: 0, maximumFractionDigits: 0});
+const formatNumber = (n, m) => n.toLocaleString(undefined, {
+    minimumFractionDigits: m ? m : 0,
+    maximumFractionDigits: m ? m : 0
+});
 
 const renderNumericCell = ({value}) => formatNumber(value)
 
-export { toKebabCase, formatNumber, renderNumericCell }
+export {toKebabCase, formatNumber, renderNumericCell}
 

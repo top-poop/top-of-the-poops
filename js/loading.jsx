@@ -33,11 +33,7 @@ class Loading extends React.Component {
             return null
         }
 
-        const childrenWithData = React.Children.map(this.props.children, child =>
-            React.cloneElement(child, {data: this.state.data})
-        )
-
-        return <React.Fragment>{childrenWithData}</React.Fragment>
+        return <React.Fragment>{this.props.render(this.state.data)}</React.Fragment>
     }
 }
 
