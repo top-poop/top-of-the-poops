@@ -2,6 +2,22 @@ import * as React from 'react';
 import {useGlobalFilter, usePagination, useSortBy, useTable} from 'react-table';
 import {Col, Container, PageItem, Pagination, Row, Table} from "react-bootstrap";
 
+const anyWordFilter = (rows, columnIds, value) => {
+    const words = value.split(" ")
+        .map(it => it.trim())
+        .map(it => it.toLowerCase())
+        .filter(it => it.length > 0)
+
+    return rows.filter(row => {
+        return words.every(word => {
+            return columnIds.some(columnId => {
+                const cellValue = String(row.values[columnId]).toLowerCase()
+                return cellValue.includes(word)
+            })
+        })
+    })
+}
+
 function GlobalFilter({
                           preGlobalFilteredRows,
                           globalFilter,
@@ -10,7 +26,11 @@ function GlobalFilter({
     const count = preGlobalFilteredRows.length
     const [value, setValue] = React.useState(globalFilter)
     const onChange = value => {
-        setGlobalFilter(value || undefined)
+        if (value) {
+            setGlobalFilter(value)
+        } else {
+            setGlobalFilter(undefined)
+        }
     }
 
     return (
@@ -40,6 +60,7 @@ function PaginatedTable({columns, data, ...props}) {
             columns,
             data,
             initialState: {pageIndex: 0, pageSize: 10},
+            globalFilter: anyWordFilter
         },
         useGlobalFilter,
         useSortBy,
@@ -135,7 +156,7 @@ class LoadingTable extends React.Component {
     }
 
     render() {
-        if ( ! this.state.loaded) {
+        if (!this.state.loaded) {
             return <div style={{height: 600}}></div>
         } else {
             return <div className="table-responsive">
