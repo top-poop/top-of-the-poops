@@ -50,7 +50,7 @@ function GlobalFilter({
 
 function PaginatedTable({columns, data, ...props}) {
     const {
-        getTableProps, getTableBodyProps, headerGroups, prepareRow,
+        getTableProps, getTableBodyProps, headerGroups, footerGroups, prepareRow,
         page, canPreviousPage, canNextPage, pageOptions, pageCount,
         gotoPage, nextPage, previousPage, setPageSize,
         preGlobalFilteredRows, setGlobalFilter,
@@ -133,6 +133,15 @@ function PaginatedTable({columns, data, ...props}) {
                         })
                         }
                         </tbody>
+                        <tfoot>
+                        {footerGroups.map(group => (
+                            <tr {...group.getFooterGroupProps()}>
+                                {group.headers.map(column => (
+                                    <td {...column.getFooterProps()}>{column.render('Footer')}</td>
+                                ))}
+                            </tr>
+                        ))}
+                        </tfoot>
                     </Table>
                 </Col>
             </Row>
