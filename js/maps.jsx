@@ -1,5 +1,6 @@
 import {MapContainer, TileLayer, useMap} from "react-leaflet";
 import * as React from "react";
+import {useMemo} from "react";
 import ReactDOMServer from 'react-dom/server'
 import {Loading} from "./loading";
 
@@ -63,9 +64,9 @@ const Circle = ({item, style, onSelection}) => {
 }
 
 const Circles = ({data, style, onSelection}) => {
-    return <React.Fragment>
+    return useMemo(() => <React.Fragment>
         {data.map(it => <Circle key={`item-${it.id}`} item={it} style={style} onSelection={onSelection}/>)}
-    </React.Fragment>
+    </React.Fragment>, [data])
 }
 
 const LoadingCircles = ({url, style, onSelection}) => {

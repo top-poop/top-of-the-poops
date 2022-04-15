@@ -48,13 +48,13 @@ const ChloroGeo = ({url, style, onMouseOverFeature}) => {
 }
 
 const Legend = ({children}) => {
-    return <div className="legend leaflet-bottom leaflet-left">
+    return <div className="legend leaflet-top leaflet-right">
         {children}
     </div>
 }
 
 const InfoBox = ({children}) => {
-    return <div className="info leaflet-top leaflet-right">
+    return <div className="info leaflet-bottom leaflet-left">
         {children}
     </div>
 }

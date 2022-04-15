@@ -197,6 +197,36 @@ const ConstituencyMap = () => {
     </Map>
 }
 
+
+const BeachInfo = ({beach}) => {
+    return <React.Fragment>
+        <b>{beach.bathing}</b>
+        <br/>{formatNumber(beach.total_spill_hours, 2)} hours of sewage
+    </React.Fragment>
+}
+
+const BeachMap = () => {
+
+    const [ beach, setBeach ] = useState()
+
+    const info = beach ? <BeachInfo beach={beach}/> :
+        <React.Fragment>Hover over/Tap on a beach / bathing area</React.Fragment>
+
+    return <Map>
+        <LoadingCircles
+            url="data/generated/beach-location-totals.json"
+            style={beachStyle}
+            onSelection={setBeach}
+        />
+        <Legend>
+            <MapLegend colours={beachColours} max={beachMax}/>
+        </Legend>
+        <InfoBox>
+            {info}
+        </InfoBox>
+    </Map>
+}
+
 class App extends React.Component {
     render() {
         return <div>
@@ -320,12 +350,7 @@ class App extends React.Component {
                         <Card>
                             <Card.Header className="font-weight-bold">Hours of Sewage By Bathing Area 2021</Card.Header>
                             <Card.Body className="m-0 p-0">
-                                <Map>
-                                    <LoadingCircles url="data/generated/beach-location-totals.json" style={beachStyle}/>
-                                    <Legend>
-                                        <MapLegend colours={beachColours} max={beachMax}/>
-                                    </Legend>
-                                </Map>
+                                <BeachMap/>
                             </Card.Body>
                         </Card>
                     </Col>
