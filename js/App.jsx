@@ -298,7 +298,7 @@ class App extends React.Component {
                             at least <em>3.4 million</em> hours (that's the equivalent of <em>388</em> years!) - in only
                             a single year.
                         </p>
-                        <p>While this headline number is reduced since 2021, it's not by much!</p>
+                        <p>While this headline number is reduced since 2020, it's not by much!</p>
                     </Col>
                 </Row>
                 <Row>
