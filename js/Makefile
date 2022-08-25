@@ -11,11 +11,11 @@ dev:
 
 .PHONY: watch
 watch:
-	@npm run build; \
+	@$(MAKE) dev; \
 	while true; \
 	do \
 		inotifywait -q -r -e modify,create,delete .; \
-		npm run build; \
+		$(MAKE) dev; \
 	done
 
 .PHONY: ci

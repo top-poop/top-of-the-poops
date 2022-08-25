@@ -15,6 +15,15 @@ Please re-use our data - We'd appreciate it, if you can,  raise an issue on our 
 
 Derived data is (C) Top-Of-The-Poops - [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), all original data is (C) the original data owner, and is used under appropriate licence 
 
+## Maps
+
+We previously used mapbox but after getting very popular we couldn't afford it anymore!
+Maps now rendered ourselves, but it's not going to be as fast as MapBox.
+
+We use [TileServer GL](https://github.com/maptiler/tileserver-gl) in combination with a UK Vector map
+from [MapTiler](https://www.maptiler.com/data/)
+
+
 ## How to use
 
 You can clone the repo - I use IntelliJ IDEA to make a hot-reloading web page. 
