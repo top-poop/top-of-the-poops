@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import argparse
 import csv
 import itertools
@@ -5,6 +7,7 @@ import re
 from collections import namedtuple
 
 from bodges import process_receiving_water
+from process_edms_2021 import ensure_numeric_or_empty, ensure_zero_if_empty, ensure_is_percentage
 
 Consent = namedtuple("Consent", [
     "company_name",
@@ -216,7 +219,7 @@ def edm_wales_to_standardised(wales):
         bathing="",
         total_spill_hours=hours,
         spill_count=count,
-        reporting_pct=wales.monitoring_pct,
+        reporting_pct=ensure_is_percentage(ensure_zero_if_empty(ensure_numeric_or_empty(wales.monitoring_pct))),
         excuses="",
     )
 

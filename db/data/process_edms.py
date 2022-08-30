@@ -5,6 +5,8 @@ import csv
 import os
 import re
 
+from process_edms_2021 import ensure_is_percentage, ensure_zero_if_empty, ensure_numeric_or_empty
+
 
 # Data Quality - just like water quality! - is very poor
 # Each file is just _slightly_ different from each other file
@@ -101,6 +103,8 @@ def south_west_water(row):
 
 def yorkshire_water(row):
     row[2] = epr_consent(row[2])
+    if row[8] in ["N/A Digital Point Only", "Not available"]:
+        row[8] = "0"
     return row
 
 
@@ -179,7 +183,7 @@ if __name__ == "__main__":
                     bodged[9] = comment
 
                     # various have % or not
-                    bodged[8] = bodged[8].replace("%", "")
+                    bodged[8] = ensure_is_percentage(ensure_zero_if_empty(ensure_numeric_or_empty(bodged[8].replace("%", ""))))
 
                     bodged[4] = ensure_not_na(bodged[4])
                     bodged[5] = ensure_not_na(bodged[5])

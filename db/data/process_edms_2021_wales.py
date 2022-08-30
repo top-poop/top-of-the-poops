@@ -5,7 +5,8 @@ import itertools
 import os
 
 from process_consents_wales import EDM, WELSH_WATER
-from process_edms_2021 import ensure_zero_if_empty, ensure_numeric_or_empty
+from process_edms_2021 import ensure_zero_if_empty, ensure_numeric_or_empty, ensure_is_percentage
+
 
 def reading_csv(filepath, skip=0):
     with open(filepath) as fp:
@@ -31,7 +32,7 @@ def parse_storm_edms(filepath):
             dump[12],
             ensure_zero_if_empty(ensure_numeric_or_empty(dump[14])),
             ensure_zero_if_empty(ensure_numeric_or_empty(dump[15])),
-            ensure_zero_if_empty(ensure_numeric_or_empty(dump[16])),
+            ensure_is_percentage(ensure_zero_if_empty(ensure_numeric_or_empty(dump[16]))),
             " ".join(dump[17:]).strip()
         ))
     return edms
@@ -50,7 +51,7 @@ def parse_emergency_edms(filepath):
             dump[12],
             ensure_zero_if_empty(ensure_numeric_or_empty(dump[14])),
             ensure_zero_if_empty(ensure_numeric_or_empty(dump[15])),
-            ensure_zero_if_empty(ensure_numeric_or_empty(dump[16])),
+            ensure_is_percentage(ensure_zero_if_empty(ensure_numeric_or_empty(dump[16]))),
             " ".join(dump[17:]).strip()
         ))
     return edms
@@ -68,7 +69,7 @@ def parse_annual_edms(filepath):
             dump[7], dump[8],
             ensure_zero_if_empty(ensure_numeric_or_empty(dump[9])),
             ensure_zero_if_empty(ensure_numeric_or_empty(dump[10])),
-            ensure_zero_if_empty(ensure_numeric_or_empty(dump[12])),
+            ensure_is_percentage(ensure_zero_if_empty(ensure_numeric_or_empty(dump[12]))),
             dump[16]
         ))
     return edms
