@@ -11,5 +11,6 @@ from edm_consent_view as edm
 where bathing is not null
   and reporting_year = 2021
   and reporting_pct * 100 < 90
+  and excuses not like 'No longer operational%'
 order by reporting_percent
 ;

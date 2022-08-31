@@ -532,8 +532,7 @@ class App extends React.Component {
                         </p>
 
                         <p>Sometimes the recording or reporting is broken, so that the sewage is only being monitored as certain
-                        percentage of the time. Below we show bathing and shellfish areas where the reporting was active for
-                        less than 90% of the time. Notice that some reporting was active for ZERO percent - this means
+                        percentage of the time. Notice that some reporting was active for ZERO percent - this means
                         the reporting was switched off for the whole year. That might be why no sewage was reported.</p>
                     </Col>
                 </Row>
@@ -576,7 +575,6 @@ class App extends React.Component {
                         <ReportingTable url="data/generated/beach-location-reporting.json"/>
                     </Col>
                 </Row>
-
 
                 <Row className="justify-content-md-center">
                     <Col md={6}>

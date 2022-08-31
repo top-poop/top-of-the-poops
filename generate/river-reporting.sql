@@ -12,5 +12,6 @@ from edm_consent_view as edm
 where receiving_water is not null and bathing is null and shellfishery is null
   and reporting_year = 2021
   and reporting_pct * 100 < 50
+  and excuses not like 'No longer operational%'
 order by reporting_percent
 ;
