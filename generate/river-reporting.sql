@@ -1,7 +1,7 @@
 select row_number() over () as id,
        edm.receiving_water as location,
        discharge_site_name,
-       spill_count,
+       coalesce(spill_count, 0) as spill_count,
        reporting_pct * 100 as reporting_percent,
        excuses,
        grid.lat,

@@ -139,7 +139,8 @@ const ReportingTable = ({url}) => {
         {title: "Constituency", accessor: "pcon20nm", Cell: renderConstituencyCell},
         {title: "Location", accessor: "location"},
         {title: "Site", accessor: "discharge_site_name"},
-        {title: "Reporting", accessor: "reporting_percent", Cell: renderPercentCell},
+        {title: "Reporting %", accessor: "reporting_percent", Cell: renderPercentCell},
+        {title: "Spills Counted", accessor: "spill_count", Cell: renderNumericCell},
         {title: "Excuses", accessor: "excuses"},
     ]
     return <LoadingTable url={url} columns={columns}/>
