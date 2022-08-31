@@ -138,6 +138,7 @@ const ReportingTable = ({url}) => {
     const columns = [
         {title: "Constituency", accessor: "pcon20nm", Cell: renderConstituencyCell},
         {title: "Location", accessor: "location"},
+        {title: "Site", accessor: "discharge_site_name"},
         {title: "Reporting", accessor: "reporting_percent", Cell: renderPercentCell},
         {title: "Excuses", accessor: "excuses"},
     ]

@@ -549,7 +549,7 @@ class App extends React.Component {
                 <Row className="justify-content-md-center">
                     <Col md={6}>
                         <Card>
-                            <Card.Header className="font-weight-bold">Bathing Area Reporting Percentages 2021</Card.Header>
+                            <Card.Header className="font-weight-bold">Bathing Area Reporting Percentages 2021 - Under 90%</Card.Header>
                             <Card.Body className="m-0 p-0">
                                 <ReportingMap url="data/generated/beach-location-reporting.json"/>
                             </Card.Body>
@@ -557,22 +557,27 @@ class App extends React.Component {
                     </Col>
                 </Row>
 
+                <Row><Col>&nbsp;</Col></Row>
+
                 <Row>
                     <Col>
                         <ReportingTable url="data/generated/beach-location-reporting.json"/>
                     </Col>
                 </Row>
 
+
                 <Row className="justify-content-md-center">
                     <Col md={6}>
                         <Card>
-                            <Card.Header className="font-weight-bold">Shellfish Area Reporting Percentages 2021</Card.Header>
+                            <Card.Header className="font-weight-bold">Shellfish Area Reporting Percentages 2021  - Under 90%</Card.Header>
                             <Card.Body className="m-0 p-0">
                                 <ReportingMap url="data/generated/shellfish-location-reporting.json"/>
                             </Card.Body>
                         </Card>
                     </Col>
                 </Row>
+
+                <Row><Col>&nbsp;</Col></Row>
 
                 <Row>
                     <Col>

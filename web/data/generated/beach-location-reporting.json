@@ -2,6 +2,7 @@
   {
     "id": 13,
     "location": "Haverigg, Walney Biggar Bank, Walney West Shore, and Walney Sandy Gap",
+    "discharge_site_name": "KING STREET PUMPING STATION",
     "reporting_percent": 0.0,
     "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation",
     "lat": 54.21251088327228,
@@ -11,15 +12,17 @@
   {
     "id": 18,
     "location": "Allonby",
+    "discharge_site_name": "DEARHAM WASTEWATER TREATMENT WORKS",
     "reporting_percent": 0.0,
     "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
-    "lat": 54.7175896747311,
-    "lon": -3.4443148890026594,
-    "pcon20nm": "Workington"
+    "lat": 54.99885794773936,
+    "lon": -3.4471648598295404,
+    "pcon20nm": "Dumfriesshire, Clydesdale and Tweeddale"
   },
   {
     "id": 19,
     "location": "Allonby",
+    "discharge_site_name": "WESTNEWTON PS WSTNE ALL0114",
     "reporting_percent": 0.0,
     "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
     "lat": 54.78157089683807,
@@ -29,6 +32,7 @@
   {
     "id": 96,
     "location": "New Quay North",
+    "discharge_site_name": "CSO 790/CSO 800/CHIP SHOP CSO",
     "reporting_percent": 0.0,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
     "lat": 52.21555526622803,
@@ -38,6 +42,7 @@
   {
     "id": 94,
     "location": "Rest Bay",
+    "discharge_site_name": "WINDSOR RAOD CSO  PORTCAWL",
     "reporting_percent": 0.0,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
     "lat": 51.48085466121907,
@@ -47,6 +52,7 @@
   {
     "id": 92,
     "location": "Newport N",
+    "discharge_site_name": "The Parrog Newport CSO",
     "reporting_percent": 0.0,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
     "lat": 52.0193560335847,
@@ -56,6 +62,7 @@
   {
     "id": 91,
     "location": "Caerfai",
+    "discharge_site_name": "PEBBLES ST. DAVIDS SWO",
     "reporting_percent": 0.0,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
     "lat": 51.8818633742524,
@@ -65,6 +72,7 @@
   {
     "id": 88,
     "location": "Lowestoft North",
+    "discharge_site_name": "BRIDGE",
     "reporting_percent": 0.0,
     "excuses": null,
     "lat": 52.47277908142607,
@@ -74,6 +82,7 @@
   {
     "id": 87,
     "location": "Holland",
+    "discharge_site_name": "HOLLAND HAVEN",
     "reporting_percent": 0.0,
     "excuses": null,
     "lat": 51.80938053280172,
@@ -83,6 +92,7 @@
   {
     "id": 86,
     "location": "Ingoldsmell South",
+    "discharge_site_name": "SOUTHGATE CA. INGOLDMELLS",
     "reporting_percent": 0.0,
     "excuses": null,
     "lat": 53.18954714808371,
@@ -92,6 +102,7 @@
   {
     "id": 83,
     "location": "Jacksons Bay Barry",
+    "discharge_site_name": "MERTHYR DYFAN ROAD CSO  BARRY",
     "reporting_percent": 0.0,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
     "lat": 51.416709366581856,
@@ -101,6 +112,7 @@
   {
     "id": 82,
     "location": "Cold Knap",
+    "discharge_site_name": "KNAPP SEWAGE PUMPING STATION BARRY",
     "reporting_percent": 0.0,
     "excuses": "Communications issue - access issue",
     "lat": 51.388039444616815,
@@ -110,6 +122,7 @@
   {
     "id": 75,
     "location": "RYDE, SEAGROVE, ST HELENS",
+    "discharge_site_name": "WESTWOOD ROAD CSO",
     "reporting_percent": 0.0,
     "excuses": "Power failure / issue Scheduled",
     "lat": 50.728182383866645,
@@ -119,6 +132,7 @@
   {
     "id": 41,
     "location": "Seahouses North",
+    "discharge_site_name": "MITCHELL AVENUE SEWAGE PUMPING STAN",
     "reporting_percent": 0.0,
     "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
     "lat": 55.580509096092555,
@@ -128,6 +142,7 @@
   {
     "id": 45,
     "location": "Seaton Sluice",
+    "discharge_site_name": "SEATON SLUICE PS",
     "reporting_percent": 0.0,
     "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
     "lat": 55.08388213213199,
@@ -137,6 +152,7 @@
   {
     "id": 46,
     "location": "Blyth South Beach",
+    "discharge_site_name": "BLYTH NO 2 PS",
     "reporting_percent": 0.0,
     "excuses": null,
     "lat": 55.11427932343909,
@@ -146,6 +162,7 @@
   {
     "id": 73,
     "location": "LITTLEHAMPTON",
+    "discharge_site_name": "CSO EAST ST/AVON RD LITTLEHAMPTON",
     "reporting_percent": 0.0,
     "excuses": "EDM not yet installed N/A - EDM to be installed by December 2023",
     "lat": 50.80430367211203,
@@ -155,6 +172,7 @@
   {
     "id": 49,
     "location": "Saltburn Pier",
+    "discharge_site_name": "GUISBOROUGH STW EMERGENCY OVERFLOW",
     "reporting_percent": 0.0,
     "excuses": null,
     "lat": 54.536639634377586,
@@ -164,6 +182,7 @@
   {
     "id": 50,
     "location": "Seaton Carew (North)",
+    "discharge_site_name": "MAINSFORTH TERRACE PS",
     "reporting_percent": 0.0,
     "excuses": null,
     "lat": 54.67951264986998,
@@ -173,6 +192,7 @@
   {
     "id": 51,
     "location": "Seaton Carew (North)",
+    "discharge_site_name": "MAINSFORTH TERRACE PS",
     "reporting_percent": 0.0,
     "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
     "lat": 54.67951264986998,
@@ -182,6 +202,7 @@
   {
     "id": 68,
     "location": "TANKERTON, WEST BEACH WHITSTABLE",
+    "discharge_site_name": "CHESTFIELD STORM TANKS",
     "reporting_percent": 0.0,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 51.35148097788368,
@@ -191,6 +212,7 @@
   {
     "id": 65,
     "location": "Indirectly via Scalby Beck to Scarborough North Bay",
+    "discharge_site_name": "SSO AT JUNCTION OF",
     "reporting_percent": 0.0,
     "excuses": "No longer operational as an overflow - permit revoked or to be revoked",
     "lat": 54.30206216511149,
@@ -200,6 +222,7 @@
   {
     "id": 3,
     "location": "New Brighton",
+    "discharge_site_name": "BIDSTON BY-PASS CSO",
     "reporting_percent": 0.0,
     "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
     "lat": 53.40772265910916,
@@ -209,6 +232,7 @@
   {
     "id": 110,
     "location": "LITTLEHAMPTON",
+    "discharge_site_name": "STATION ROAD RUSTINGTON COMBINED",
     "reporting_percent": 0.0,
     "excuses": "Power failure / issue N/A - Ongoing investigation",
     "lat": 50.816163970132806,
@@ -218,6 +242,7 @@
   {
     "id": 108,
     "location": "MINSTER LEAS, SHEERNESS",
+    "discharge_site_name": "NOREEN AVENUE SHEERNESS CSO",
     "reporting_percent": 0.0,
     "excuses": "Power failure / issue Scheduled",
     "lat": 51.42135099114513,
@@ -227,6 +252,7 @@
   {
     "id": 6,
     "location": "New Brighton",
+    "discharge_site_name": "BANKHALL RELIEF CSO 99005",
     "reporting_percent": 0.0,
     "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
     "lat": 53.44038859918649,
@@ -236,6 +262,7 @@
   {
     "id": 7,
     "location": "Wallasey",
+    "discharge_site_name": "BANKHALL CSO 99007 LIV0038",
     "reporting_percent": 0.0,
     "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation",
     "lat": 53.434024237329325,
@@ -245,6 +272,7 @@
   {
     "id": 8,
     "location": "New Brighton",
+    "discharge_site_name": "BOOTLE NORTHERN OPC CSO 99102",
     "reporting_percent": 0.0,
     "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation",
     "lat": 53.45817490990398,
@@ -254,15 +282,17 @@
   {
     "id": 9,
     "location": "Fleetwood",
+    "discharge_site_name": "WEETON WASTEWATER TREATMENT WORKS",
     "reporting_percent": 0.0,
     "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
-    "lat": 53.80583071363779,
-    "lon": -2.9385323905234753,
+    "lat": 53.80609675753135,
+    "lon": -2.9389938751409637,
     "pcon20nm": "Fylde"
   },
   {
     "id": 12,
     "location": "Morecambe North and Morecambe South",
+    "discharge_site_name": "SCHOLA GREEN LANE PS",
     "reporting_percent": 0.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
     "lat": 54.06453013272965,
@@ -272,6 +302,7 @@
   {
     "id": 59,
     "location": "LONG ROCK",
+    "discharge_site_name": "REAR OF 12 PENDREA CLOSE CSO",
     "reporting_percent": 0.0,
     "excuses": null,
     "lat": 50.12944591669707,
@@ -281,6 +312,7 @@
   {
     "id": 101,
     "location": "Criccieth",
+    "discharge_site_name": "CRICCIETH EAST PS",
     "reporting_percent": 0.0,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
     "lat": 52.91971993561263,
@@ -290,6 +322,7 @@
   {
     "id": 15,
     "location": "Haverigg, Walney Biggar Bank, Walney West Shore, and Walney Sandy Gap",
+    "discharge_site_name": "ASKHAM-IN-FURNESS WWTW ASKAM",
     "reporting_percent": 0.0,
     "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
     "lat": 54.19313770580262,
@@ -299,6 +332,7 @@
   {
     "id": 17,
     "location": "Walney Sandy Gap",
+    "discharge_site_name": "27/29 ABBOTSMEAD CSO",
     "reporting_percent": 0.0,
     "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
     "lat": 54.117914636725864,
@@ -308,15 +342,17 @@
   {
     "id": 44,
     "location": "Newbiggin North & Newbiggin South",
+    "discharge_site_name": "NEWBIGGIN SEWAGE TREATMENT WORKS",
     "reporting_percent": 0.005327245046715667,
     "excuses": "Installation set-up/design issue Resolved - December",
-    "lat": 55.17498019898691,
-    "lon": -1.5211142189553672,
+    "lat": 55.175739466860165,
+    "lon": -1.5222513143214416,
     "pcon20nm": "Wansbeck"
   },
   {
     "id": 60,
     "location": "SUMMERLEAZE",
+    "discharge_site_name": "SUMMERLEAZE CAR PARK CSO",
     "reporting_percent": 3.0,
     "excuses": "Capital / maintenance works affect EDM operation N/A - Ongoing investigation",
     "lat": 50.82952782107877,
@@ -326,6 +362,7 @@
   {
     "id": 100,
     "location": "Llanddwyn",
+    "discharge_site_name": "DWYRAN BY SCHOOL - SSO",
     "reporting_percent": 5.56,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
     "lat": 53.164763422490154,
@@ -335,15 +372,17 @@
   {
     "id": 37,
     "location": "Spittal",
+    "discharge_site_name": "BERWICK STW",
     "reporting_percent": 6.702447995939775,
     "excuses": "Installation set-up/design issue Resolved - December",
-    "lat": 55.765838927221154,
-    "lon": -2.0278745681532366,
+    "lat": 55.76610822302678,
+    "lon": -2.0289584867389543,
     "pcon20nm": "Berwick-upon-Tweed"
   },
   {
     "id": 95,
     "location": "Swansea Bay",
+    "discharge_site_name": "BEN HUGHES FOUNDRY CSO OPP REV JAME",
     "reporting_percent": 6.95,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
     "lat": 51.66890829399142,
@@ -353,15 +392,17 @@
   {
     "id": 103,
     "location": "Harlech",
+    "discharge_site_name": "HARLECH OUTSIDE LAUNDRY",
     "reporting_percent": 11.26,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
-    "lat": 52.86185001661703,
-    "lon": -4.107454188532391,
+    "lat": 52.86208832360197,
+    "lon": -4.107198336785062,
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
     "id": 74,
     "location": "SHOREHAM BEACH, SOUTHWICK",
+    "discharge_site_name": "THE GREEN SOUTHWICK CSO",
     "reporting_percent": 12.0,
     "excuses": "Power failure / issue Resolved - November",
     "lat": 50.83455577741374,
@@ -371,6 +412,7 @@
   {
     "id": 10,
     "location": "Morecambe South",
+    "discharge_site_name": "SCALE HALL PUMPING STATION",
     "reporting_percent": 14.66,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation Performance - Other maintenance / capital works (e.g. jetting) Resolved - October",
     "lat": 54.0553421844796,
@@ -380,6 +422,7 @@
   {
     "id": 99,
     "location": "Llanfairfech",
+    "discharge_site_name": "LLANFAIRFECHAN - SSO",
     "reporting_percent": 16.66,
     "excuses": "Communications issue - access issue",
     "lat": 53.25645413450023,
@@ -389,6 +432,7 @@
   {
     "id": 80,
     "location": "CHRISTCHURCH BAY",
+    "discharge_site_name": "SUNNYFIELD ROAD BARTON-ON-SEA CSO",
     "reporting_percent": 19.0,
     "excuses": "Power failure / issue Scheduled",
     "lat": 50.74285200813861,
@@ -398,6 +442,7 @@
   {
     "id": 40,
     "location": "Beadnell",
+    "discharge_site_name": "BEADNELL CAR PARK SEWAGE PUMPING SN",
     "reporting_percent": 20.75266679350808,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 55.55115145394434,
@@ -407,6 +452,7 @@
   {
     "id": 114,
     "location": "SOUTHSEA, STOKES BAY",
+    "discharge_site_name": "GRUNEISON ROAD STORM PS",
     "reporting_percent": 21.0,
     "excuses": "Power failure / issue Resolved - November",
     "lat": 50.81903884955803,
@@ -416,6 +462,7 @@
   {
     "id": 81,
     "location": "CHRISTCHURCH BAY",
+    "discharge_site_name": "FRIARS WALK BARTON-ON-SEA CSO",
     "reporting_percent": 24.0,
     "excuses": "Power failure / issue Scheduled",
     "lat": 50.74375085762597,
@@ -425,6 +472,7 @@
   {
     "id": 16,
     "location": "Walney Biggar Bank, Walney West Shore, and Walney Sandy Gap",
+    "discharge_site_name": "BARROW-IN-FURNESS WWTW",
     "reporting_percent": 28.09,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity",
     "lat": 54.10718846886326,
@@ -434,6 +482,7 @@
   {
     "id": 31,
     "location": "THURLESTONE (SOUTH) BEACH",
+    "discharge_site_name": "SOUTH MILTON CSO",
     "reporting_percent": 32.0,
     "excuses": "Installation set-up/design issue Resolved - September",
     "lat": 50.269811307358204,
@@ -443,6 +492,7 @@
   {
     "id": 76,
     "location": "SEAFORD",
+    "discharge_site_name": "BEACH ROAD CSO, NEWHAVEN",
     "reporting_percent": 33.0,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
     "lat": 50.78828085051092,
@@ -452,6 +502,7 @@
   {
     "id": 77,
     "location": "SHOREHAM BEACH, SOUTHWICK",
+    "discharge_site_name": "UPPER SHOREHAM ROAD SHOREHAM CSO",
     "reporting_percent": 37.0,
     "excuses": "Power failure / issue Resolved - December",
     "lat": 50.84003784945146,
@@ -461,6 +512,7 @@
   {
     "id": 69,
     "location": "BEXHILL",
+    "discharge_site_name": "RICHMOND ROAD BEXHILL CSO",
     "reporting_percent": 37.0,
     "excuses": "Comms failure / issue Resolved - June",
     "lat": 50.835881555070195,
@@ -470,6 +522,7 @@
   {
     "id": 89,
     "location": "Poppit West",
+    "discharge_site_name": "Cardigan Pumping Station No.4",
     "reporting_percent": 38.99,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
     "lat": 52.08202472232535,
@@ -479,6 +532,7 @@
   {
     "id": 61,
     "location": "PLYMOUTH HOE (EAST)",
+    "discharge_site_name": "20 COMMERCIAL ROAD",
     "reporting_percent": 40.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
     "lat": 50.36473063643147,
@@ -488,6 +542,7 @@
   {
     "id": 43,
     "location": "Warkworth & Amble Links",
+    "discharge_site_name": "WARKWORTH PUMPING STATION NO3",
     "reporting_percent": 40.08828006088277,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 55.34291260362424,
@@ -497,6 +552,7 @@
   {
     "id": 116,
     "location": "SOUTHSEA, STOKES BAY",
+    "discharge_site_name": "GRUNEISON ROAD STORM PS",
     "reporting_percent": 41.0,
     "excuses": "Comms failure / issue Resolved - July",
     "lat": 50.81903884955803,
@@ -506,6 +562,7 @@
   {
     "id": 32,
     "location": "MOTHECOMBE BEACH",
+    "discharge_site_name": "PLAYING FIELD CSO",
     "reporting_percent": 43.0,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
     "lat": 50.362482813302286,
@@ -515,6 +572,7 @@
   {
     "id": 105,
     "location": "Morfa Nefyn",
+    "discharge_site_name": "NEFYN WWTW (CONT. S/WATER OUTFALL)",
     "reporting_percent": 43.3,
     "excuses": "Communications issue - escalated through business as usual process for communications failures.",
     "lat": 52.92860873944245,
@@ -524,6 +582,7 @@
   {
     "id": 90,
     "location": "Pendine",
+    "discharge_site_name": "PENDINE SEWAGE TREATMENT WORKS",
     "reporting_percent": 43.85,
     "excuses": "Further work needed on discharge  mechanism, revisit planned for 2022. ",
     "lat": 51.7424114632856,
@@ -533,6 +592,7 @@
   {
     "id": 28,
     "location": "GOODRINGTON BEACH",
+    "discharge_site_name": "CLENNON VALLEY PUMPING STATION",
     "reporting_percent": 44.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
     "lat": 50.432895746257664,
@@ -542,6 +602,7 @@
   {
     "id": 109,
     "location": "Spittal",
+    "discharge_site_name": "CASTLE TERRACE NO2 (BT341) CSO",
     "reporting_percent": 47.25837138508371,
     "excuses": "Comms failure / issue Resolved - July",
     "lat": 55.775329788926285,
@@ -551,6 +612,7 @@
   {
     "id": 27,
     "location": "DAWLISH (TOWN) BEACH",
+    "discharge_site_name": "ELM GROVE CSO",
     "reporting_percent": 49.0,
     "excuses": "Comms failure / issue Resolved - November",
     "lat": 50.58402172162599,
@@ -560,6 +622,7 @@
   {
     "id": 39,
     "location": "Seahouses North",
+    "discharge_site_name": "HARBOUR SPS",
     "reporting_percent": 49.21502727042398,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
     "lat": 55.583035734753544,
@@ -569,24 +632,27 @@
   {
     "id": 42,
     "location": "Warkworth & Amble Links",
+    "discharge_site_name": "PUMPING STATION NO4",
     "reporting_percent": 49.82724505327245,
     "excuses": "Comms failure / issue Resolved - November",
-    "lat": 55.343388606130084,
-    "lon": -1.6060903792211794,
+    "lat": 55.343387183809774,
+    "lon": -1.6056489138498984,
     "pcon20nm": "Berwick-upon-Tweed"
   },
   {
     "id": 54,
     "location": "PLYMOUTH HOE (WEST)",
+    "discharge_site_name": "MILLBAY TANKS",
     "reporting_percent": 51.0,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
-    "lat": 50.36443741144871,
-    "lon": -4.15160541414722,
+    "lat": 50.364344941971176,
+    "lon": -4.151741849188409,
     "pcon20nm": "Plymouth, Sutton and Devonport"
   },
   {
     "id": 4,
     "location": "Meols",
+    "discharge_site_name": "KINGFISHER WAY CSO",
     "reporting_percent": 52.31,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
     "lat": 53.39186037556761,
@@ -596,6 +662,7 @@
   {
     "id": 67,
     "location": "SELSEY",
+    "discharge_site_name": "EAST BEACH ROAD SELSEY CSO",
     "reporting_percent": 54.0,
     "excuses": "Power failure / issue N/A - Ongoing investigation",
     "lat": 50.734380457631836,
@@ -605,6 +672,7 @@
   {
     "id": 21,
     "location": "PLYMOUTH HOE (EAST & WEST)",
+    "discharge_site_name": "HOOE LAKE PUMPING STATION",
     "reporting_percent": 54.0,
     "excuses": "Installation set-up/design issue Resolved - November",
     "lat": 50.353547124297414,
@@ -614,6 +682,7 @@
   {
     "id": 35,
     "location": "TEIGNMOUTH (TOWN) BEACH",
+    "discharge_site_name": "STATION CAR PARK CSO",
     "reporting_percent": 54.0,
     "excuses": "Comms failure / issue Resolved - September",
     "lat": 50.54796144667121,
@@ -623,6 +692,7 @@
   {
     "id": 38,
     "location": "Spittal",
+    "discharge_site_name": "BERWICK NO 4 SEWAGE PUMPING STATION",
     "reporting_percent": 55.54375951293757,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
     "lat": 55.7672796912535,
@@ -632,15 +702,17 @@
   {
     "id": 111,
     "location": "PORTH KIDNEY SANDS",
+    "discharge_site_name": "HAYLE SEWAGE TREATMENT WORKS",
     "reporting_percent": 56.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
-    "lat": 50.17046760296864,
-    "lon": -5.435618677602865,
+    "lat": 50.171843184807344,
+    "lon": -5.434736866147066,
     "pcon20nm": "St Ives"
   },
   {
     "id": 24,
     "location": "BUDLEIGH SALTERTON BEACH",
+    "discharge_site_name": "LITTLE KNOWLE CSO",
     "reporting_percent": 59.0,
     "excuses": "Sensor failure / issue Resolved - September",
     "lat": 50.63231413274283,
@@ -650,6 +722,7 @@
   {
     "id": 79,
     "location": "BEACHLANDS CENTRAL, BEACHLANDS WEST, EASTOKE",
+    "discharge_site_name": "GREEN LANE HAYLING ISLAND CSO",
     "reporting_percent": 61.0,
     "excuses": "Power failure / issue Resolved - October",
     "lat": 50.785910304972724,
@@ -659,6 +732,7 @@
   {
     "id": 113,
     "location": "SOUTHSEA, STOKES BAY",
+    "discharge_site_name": "GRUNEISON ROAD STORM PS",
     "reporting_percent": 62.0,
     "excuses": "Power failure / issue Resolved - May",
     "lat": 50.81903884955803,
@@ -668,6 +742,7 @@
   {
     "id": 20,
     "location": "SHORTHORN BEACH",
+    "discharge_site_name": "DANIELS LANE CSO",
     "reporting_percent": 62.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
     "lat": 50.33983770807826,
@@ -677,6 +752,7 @@
   {
     "id": 23,
     "location": "BUDLEIGH SALTERTON BEACH",
+    "discharge_site_name": "MARINE PARADE CSO",
     "reporting_percent": 66.0,
     "excuses": "Comms failure / issue Resolved -  July",
     "lat": 50.62892608462011,
@@ -686,6 +762,7 @@
   {
     "id": 48,
     "location": "Whitley Bay",
+    "discharge_site_name": "PERCY ROAD HIGH LEVEL CSO",
     "reporting_percent": 69.21499238964992,
     "excuses": "Comms failure / issue Resolved - April",
     "lat": 55.04376798748986,
@@ -695,6 +772,7 @@
   {
     "id": 84,
     "location": "Jacksons Bay Barry",
+    "discharge_site_name": "COLDBROOK ROAD EAST 1  BARRY",
     "reporting_percent": 70.54,
     "excuses": "Communications issue, resolved in August 2021.",
     "lat": 51.416317339114556,
@@ -704,6 +782,7 @@
   {
     "id": 107,
     "location": "Prestatyn",
+    "discharge_site_name": "CORONATION GARDENS PS",
     "reporting_percent": 71.58,
     "excuses": "Communications issue, resolved in April 2021.",
     "lat": 53.33986938545058,
@@ -713,6 +792,7 @@
   {
     "id": 93,
     "location": "Limeslade",
+    "discharge_site_name": "SWO. NEAR NORTON AVENUE (POINT",
     "reporting_percent": 72.19,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
     "lat": 51.58032573451259,
@@ -722,6 +802,7 @@
   {
     "id": 5,
     "location": "Wallasey",
+    "discharge_site_name": "ARROWEBROOK LANE CSO",
     "reporting_percent": 72.87,
     "excuses": "Sensor failure / issue Resolved - November Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
     "lat": 53.373380362809186,
@@ -731,6 +812,7 @@
   {
     "id": 71,
     "location": "TANKERTON, WEST BEACH WHITSTABLE",
+    "discharge_site_name": "TANKERTON BAY OUTFALL",
     "reporting_percent": 73.0,
     "excuses": "Comms failure / issue Resolved - May",
     "lat": 51.36615685737017,
@@ -740,6 +822,7 @@
   {
     "id": 22,
     "location": "BUDLEIGH SALTERTON BEACH",
+    "discharge_site_name": "THE GREEN TANK CSO",
     "reporting_percent": 73.0,
     "excuses": "Power failure / issue Resolved - April",
     "lat": 50.63001934721195,
@@ -749,15 +832,17 @@
   {
     "id": 34,
     "location": "MOTHECOMBE BEACH",
+    "discharge_site_name": "HOLBETON SEWAGE TREATMENT WORKS",
     "reporting_percent": 73.0,
     "excuses": "Sensor failure / issue Resolved - May",
-    "lat": 50.33568190245362,
-    "lon": -3.9404952421710253,
+    "lat": 50.335774125895504,
+    "lon": -3.9403584709812325,
     "pcon20nm": "South West Devon"
   },
   {
     "id": 36,
     "location": "Spittal",
+    "discharge_site_name": "BT41 MAIN STREET NO 4 CSO",
     "reporting_percent": 73.67199391171997,
     "excuses": "Comms failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Ongoing investigation",
     "lat": 55.76730624570749,
@@ -767,6 +852,7 @@
   {
     "id": 25,
     "location": "BEACON COVE BEACH",
+    "discharge_site_name": "BEACON HILL",
     "reporting_percent": 74.0,
     "excuses": "Sensor failure / issue Resolved - October",
     "lat": 50.45879277981434,
@@ -776,6 +862,7 @@
   {
     "id": 112,
     "location": "THURLESTONE (SOUTH) BEACH",
+    "discharge_site_name": "SOUTH MILTON STW",
     "reporting_percent": 75.0,
     "excuses": "Comms failure / issue Resolved - September",
     "lat": 50.26619746734058,
@@ -785,6 +872,7 @@
   {
     "id": 55,
     "location": "EAST LOOE BEACH",
+    "discharge_site_name": "HEALTH CENTRE CAR PARK PSEO/CSO",
     "reporting_percent": 75.0,
     "excuses": "Comms failure / issue Resolved - October Performance - Infiltration N/A - Ongoing investigation",
     "lat": 50.35688535681722,
@@ -794,15 +882,17 @@
   {
     "id": 11,
     "location": "St Annes",
+    "discharge_site_name": "HOLME WWTW",
     "reporting_percent": 75.38,
     "excuses": "Comms failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
-    "lat": 54.20140048506719,
-    "lon": -2.735101867414958,
+    "lat": 54.201290211208274,
+    "lon": -2.735498475080503,
     "pcon20nm": "Westmorland and Lonsdale"
   },
   {
     "id": 104,
     "location": "Llandudno West Shore",
+    "discharge_site_name": "LLANDUDNO JUNCTION PS",
     "reporting_percent": 75.41,
     "excuses": "Communications issue, resolved in May 2021.",
     "lat": 53.28122684810124,
@@ -812,15 +902,17 @@
   {
     "id": 33,
     "location": "MOTHECOMBE BEACH",
+    "discharge_site_name": "HOLBETON SEWAGE TREATMENT WORKS",
     "reporting_percent": 76.0,
     "excuses": "Power failure/ issue Resolved - September",
-    "lat": 50.33568190245362,
-    "lon": -3.9404952421710253,
+    "lat": 50.335774125895504,
+    "lon": -3.9403584709812325,
     "pcon20nm": "South West Devon"
   },
   {
     "id": 70,
     "location": "BEXHILL, NORMANS BAY",
+    "discharge_site_name": "HARTFIELD ROAD CSO",
     "reporting_percent": 78.0,
     "excuses": "Comms failure / issue Resolved - March",
     "lat": 50.83329512076251,
@@ -830,6 +922,7 @@
   {
     "id": 52,
     "location": "Crimdon",
+    "discharge_site_name": "CRIMDON PARK PUMPING STATION",
     "reporting_percent": 81.382800608828,
     "excuses": "Comms failure / issue Resolved - November",
     "lat": 54.72325249335242,
@@ -839,6 +932,7 @@
   {
     "id": 63,
     "location": "TREVAUNANCE COVE BEACH",
+    "discharge_site_name": "COVE PUMPING STATION",
     "reporting_percent": 82.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
     "lat": 50.3196491130582,
@@ -848,6 +942,7 @@
   {
     "id": 47,
     "location": "Seaton Sluice",
+    "discharge_site_name": "SIMONSIDE CSO",
     "reporting_percent": 82.75494672754948,
     "excuses": "Comms failure / issue Resolved - December",
     "lat": 55.074442603337765,
@@ -857,6 +952,7 @@
   {
     "id": 97,
     "location": "Swansea Bay",
+    "discharge_site_name": "BLAEN Y MAES POINT 65 CSO  SWANSEA",
     "reporting_percent": 83.25,
     "excuses": "Communications issue, resolved in August 2021.",
     "lat": 51.64875102959391,
@@ -866,6 +962,7 @@
   {
     "id": 29,
     "location": "DAWLISH (TOWN) BEACH",
+    "discharge_site_name": "VIADUCT HIGH LEVEL STORM TANK CSO",
     "reporting_percent": 84.0,
     "excuses": "Sensor failure / issue Resolved - October",
     "lat": 50.57997627241152,
@@ -875,6 +972,7 @@
   {
     "id": 72,
     "location": "BRIGHTON CENTRAL, BRIGHTON KEMPTOWN, HOVE",
+    "discharge_site_name": "ALBION CSO",
     "reporting_percent": 84.0,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
     "lat": 50.818766041578016,
@@ -884,6 +982,7 @@
   {
     "id": 14,
     "location": "St Bees",
+    "discharge_site_name": "PICKET HOW FARM SSO",
     "reporting_percent": 84.5,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
     "lat": 54.47291172380537,
@@ -893,6 +992,7 @@
   {
     "id": 115,
     "location": "SOUTHSEA, STOKES BAY",
+    "discharge_site_name": "GRUNEISON ROAD STORM PS",
     "reporting_percent": 85.0,
     "excuses": "Power failure / issue Resolved - Feburary",
     "lat": 50.81903884955803,
@@ -902,6 +1002,7 @@
   {
     "id": 30,
     "location": "BUDLEIGH SALTERTON BEACH",
+    "discharge_site_name": "GRANARY LANE CSO",
     "reporting_percent": 85.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
     "lat": 50.632698546968676,
@@ -911,6 +1012,7 @@
   {
     "id": 56,
     "location": "PLYMOUTH HOE (EAST)",
+    "discharge_site_name": "EFFORD MARSH CSO",
     "reporting_percent": 85.0,
     "excuses": "Comms failure / issue Resolved - June",
     "lat": 50.39250880534935,
@@ -920,6 +1022,7 @@
   {
     "id": 98,
     "location": "Colwyn Bay",
+    "discharge_site_name": "BEACH ROAD CSO BEACH RD COLWYN BAY",
     "reporting_percent": 85.96,
     "excuses": "Communications issue, resolved in December 2021.",
     "lat": 53.294534350230904,
@@ -929,6 +1032,7 @@
   {
     "id": 1,
     "location": "LYME REGIS CHURCH CLIFF BEACH",
+    "discharge_site_name": "GOSLINGS BRIDGE CSO",
     "reporting_percent": 86.0,
     "excuses": "Power failure/ issue Resolved - October",
     "lat": 50.72673811757713,
@@ -938,6 +1042,7 @@
   {
     "id": 58,
     "location": "PLYMOUTH HOE (EAST)",
+    "discharge_site_name": "SHIRLEY GARDENS CSO",
     "reporting_percent": 86.0,
     "excuses": "Sensor failure / issue Resolved - February",
     "lat": 50.40339265933169,
@@ -947,15 +1052,17 @@
   {
     "id": 106,
     "location": "Sandy Cove",
+    "discharge_site_name": "MAES Y LLAN CSO",
     "reporting_percent": 86.09,
     "excuses": "Communications issue, resolved in November 2021.",
-    "lat": 53.3026384596256,
-    "lon": -3.542538308845762,
+    "lat": 53.302656042845875,
+    "lon": -3.542568957423067,
     "pcon20nm": "Clwyd West"
   },
   {
     "id": 66,
     "location": "SWANAGE CENTRAL",
+    "discharge_site_name": "HERSTON CROSS ATTENUATION TANK CSO",
     "reporting_percent": 86.4,
     "excuses": "Comms failure / issue Resolved - October",
     "lat": 50.61070018572516,
@@ -965,6 +1072,7 @@
   {
     "id": 85,
     "location": "Jacksons",
+    "discharge_site_name": "ATLANTIC TRADING EST PS   BARRY ,",
     "reporting_percent": 86.97,
     "excuses": "Data unreliable from 01/01 to 06/02/2021. Due to static telemetry signal, resolved.",
     "lat": 51.39927286908804,
@@ -974,6 +1082,7 @@
   {
     "id": 2,
     "location": "LYNMOUTH BEACH",
+    "discharge_site_name": "LYNTON/LYNMOUTH SEWERAGE",
     "reporting_percent": 87.0,
     "excuses": "Sensor failure / issue Resolved - March",
     "lat": 51.2272750143966,
@@ -983,6 +1092,7 @@
   {
     "id": 26,
     "location": "DAWLISH (TOWN) BEACH",
+    "discharge_site_name": "BARTON HILL/BRUNSWICK CSO",
     "reporting_percent": 87.0,
     "excuses": "Comms failure / issue Resolved - June",
     "lat": 50.58044913467272,
@@ -992,6 +1102,7 @@
   {
     "id": 57,
     "location": "SUMMERLEAZE",
+    "discharge_site_name": "NANNY MOORES BRIDGE CSO",
     "reporting_percent": 88.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
     "lat": 50.829402039922314,
@@ -1001,6 +1112,7 @@
   {
     "id": 62,
     "location": "READYMONEY COVE",
+    "discharge_site_name": "READYMONEY ROAD COMBINED SEWER",
     "reporting_percent": 88.0,
     "excuses": "Comms failure / issue Resolved - May",
     "lat": 50.330189009781634,
@@ -1010,6 +1122,7 @@
   {
     "id": 102,
     "location": "Criccieth",
+    "discharge_site_name": "CRICCIETH EAST PS   , ,",
     "reporting_percent": 88.64,
     "excuses": "Communications issue, resolved in February 2021.",
     "lat": 52.91772670783636,
@@ -1019,6 +1132,7 @@
   {
     "id": 64,
     "location": "EAST LOOE BEACH",
+    "discharge_site_name": "NEW ROAD CSO",
     "reporting_percent": 89.0,
     "excuses": "Comms failure / issue Resolved - February",
     "lat": 50.45045683094084,
@@ -1028,6 +1142,7 @@
   {
     "id": 78,
     "location": "EASTBOURNE",
+    "discharge_site_name": "GRANVILLE ROAD EASTBOURNE CSO",
     "reporting_percent": 89.0,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
     "lat": 50.760676693639844,
@@ -1037,6 +1152,7 @@
   {
     "id": 53,
     "location": "Seaham Hall",
+    "discharge_site_name": "DALTON-LE-DALE CSO",
     "reporting_percent": 89.54071537290714,
     "excuses": "Comms failure / issue Resolved - December Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
     "lat": 54.828149795872235,

@@ -1,5 +1,6 @@
 select row_number() over () as id,
        edm.bathing as location,
+       discharge_site_name,
        reporting_pct * 100 as reporting_percent,
        excuses,
        grid.lat,

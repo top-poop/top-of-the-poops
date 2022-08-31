@@ -8,7 +8,7 @@ import {ForkMeHero, TitleHero} from "./heroes";
 import {GeoJSON, MapContainer, Marker, Tooltip, useMap} from "react-leaflet";
 import Select from "react-select";
 import {useSortBy, useTable} from "react-table";
-import {formatNumber, renderNumericCell, toKebabCase} from "./text";
+import {formatNumber, renderNumericCell, renderPercentCell, toKebabCase} from "./text";
 import {Map, MapMove, Mobile} from "./maps";
 
 class ErrorBoundary extends React.Component {
@@ -97,13 +97,29 @@ const ConstituencyGeo = ({constituency }) => {
     }
 }
 
+const markerIcon = (colour) => {
+    return L.icon({
+        iconUrl: `assets/icons/leaflet/marker-icon-${colour}.png`,
+        iconRetinaUrl: `assets/icons/leaflet/marker-icon-2x-${colour}.png`,
+        iconAnchor: [ 5, 55],
+        popupAnchor: [ 10, -44],
+        iconSize: [25, 41 ]
+    })
+}
+
 const SewageMarkers = ({dumps}) => {
+
+    const blueIcon = markerIcon("blue");
+    const redIcon = markerIcon("red");
+
     return <React.Fragment>
         {dumps.map(it => <Marker
                 key={`${it.lat}-${it.lon}-${it.site_name}`}
-                position={[it.lat, it.lon]}>
-                <Tooltip>{it.site_name}<br/>{it.receiving_water}<br/>({formatNumber(it.spill_count)} Dumps
-                    / {formatNumber(it.total_spill_hours)} Hours)</Tooltip>
+                position={[it.lat, it.lon]}
+                icon={ it.reporting_percent < 50 ? redIcon : blueIcon }
+            >
+                <Tooltip>{it.site_name}<br/>{it.receiving_water}<br/>{formatNumber(it.spill_count)} Dumps
+                    / {formatNumber(it.total_spill_hours)} Hours / Reporting {formatNumber(it.reporting_percent, 2)}%</Tooltip>
             </Marker>
         )}
     </React.Fragment>
@@ -117,6 +133,7 @@ const DumpTable = ({dumps}) => {
         {title: "Site", accessor: "site_name"},
         {title: "Sewage Dumps", accessor: "spill_count", Cell: renderNumericCell},
         {title: "Hours", accessor: "total_spill_hours", Cell: renderNumericCell},
+        {title: "Reporting Active %", accessor: "reporting_percent", Cell: renderPercentCell},
     ]
 
     return <div className="table-responsive">
@@ -159,7 +176,7 @@ const What = ({initial, data}) => {
 
         window.history.replaceState(
             {},
-            `Top Of The Poops|Map|${value}`,
+            `Top Of The Poops | Map | ${value}`,
             `${window.location.pathname}?${params}`
         )
         setCon(value)
