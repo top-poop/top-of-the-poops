@@ -1,930 +1,1046 @@
 [
   {
     "id": 13,
-    "bathing": "Haverigg, Walney Biggar Bank, Walney West Shore, and Walney Sandy Gap",
+    "location": "Haverigg, Walney Biggar Bank, Walney West Shore, and Walney Sandy Gap",
     "reporting_percent": 0.0,
     "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation",
     "lat": 54.21251088327228,
-    "lon": -3.2616895695425954
-  },
-  {
-    "id": 96,
-    "bathing": "New Quay North",
-    "reporting_percent": 0.0,
-    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
-    "lat": 52.21555526622803,
-    "lon": -4.359029969308553
-  },
-  {
-    "id": 94,
-    "bathing": "Rest Bay",
-    "reporting_percent": 0.0,
-    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
-    "lat": 51.48085466121907,
-    "lon": -3.7147068226048585
-  },
-  {
-    "id": 92,
-    "bathing": "Newport N",
-    "reporting_percent": 0.0,
-    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
-    "lat": 52.0193560335847,
-    "lon": -4.841308427550894
-  },
-  {
-    "id": 91,
-    "bathing": "Caerfai",
-    "reporting_percent": 0.0,
-    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
-    "lat": 51.8818633742524,
-    "lon": -5.2697641253660965
-  },
-  {
-    "id": 88,
-    "bathing": "Lowestoft North",
-    "reporting_percent": 0.0,
-    "excuses": null,
-    "lat": 52.47277908142607,
-    "lon": 1.7488977550397768
-  },
-  {
-    "id": 87,
-    "bathing": "Holland",
-    "reporting_percent": 0.0,
-    "excuses": null,
-    "lat": 51.80938053280172,
-    "lon": 1.2175881014108143
-  },
-  {
-    "id": 86,
-    "bathing": "Ingoldsmell South",
-    "reporting_percent": 0.0,
-    "excuses": null,
-    "lat": 53.18954714808371,
-    "lon": 0.3483922305629638
-  },
-  {
-    "id": 83,
-    "bathing": "Jacksons Bay Barry",
-    "reporting_percent": 0.0,
-    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
-    "lat": 51.416709366581856,
-    "lon": -3.2707701570838723
-  },
-  {
-    "id": 82,
-    "bathing": "Cold Knap",
-    "reporting_percent": 0.0,
-    "excuses": "Communications issue - access issue",
-    "lat": 51.388039444616815,
-    "lon": -3.2899233606550644
-  },
-  {
-    "id": 75,
-    "bathing": "RYDE, SEAGROVE, ST HELENS",
-    "reporting_percent": 0.0,
-    "excuses": "Power failure / issue Scheduled",
-    "lat": 50.728182383866645,
-    "lon": -1.172653492705217
-  },
-  {
-    "id": 41,
-    "bathing": "Seahouses North",
-    "reporting_percent": 0.0,
-    "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
-    "lat": 55.580509096092555,
-    "lon": -1.6462687334747268
-  },
-  {
-    "id": 44,
-    "bathing": "Newbiggin North & Newbiggin South",
-    "reporting_percent": 0.0,
-    "excuses": "Installation set-up/design issue Resolved - December",
-    "lat": 55.17498019898691,
-    "lon": -1.5211142189553672
-  },
-  {
-    "id": 45,
-    "bathing": "Seaton Sluice",
-    "reporting_percent": 0.0,
-    "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
-    "lat": 55.08388213213199,
-    "lon": -1.4734835844401424
-  },
-  {
-    "id": 46,
-    "bathing": "Blyth South Beach",
-    "reporting_percent": 0.0,
-    "excuses": null,
-    "lat": 55.11427932343909,
-    "lon": -1.500675841377759
-  },
-  {
-    "id": 73,
-    "bathing": "LITTLEHAMPTON",
-    "reporting_percent": 0.0,
-    "excuses": "EDM not yet installed N/A - EDM to be installed by December 2023",
-    "lat": 50.80430367211203,
-    "lon": -0.5428879643379948
-  },
-  {
-    "id": 49,
-    "bathing": "Saltburn Pier",
-    "reporting_percent": 0.0,
-    "excuses": null,
-    "lat": 54.536639634377586,
-    "lon": -1.0745460879982374
-  },
-  {
-    "id": 50,
-    "bathing": "Seaton Carew (North)",
-    "reporting_percent": 0.0,
-    "excuses": null,
-    "lat": 54.67951264986998,
-    "lon": -1.1978562794376337
-  },
-  {
-    "id": 51,
-    "bathing": "Seaton Carew (North)",
-    "reporting_percent": 0.0,
-    "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
-    "lat": 54.67951264986998,
-    "lon": -1.1978562794376337
-  },
-  {
-    "id": 68,
-    "bathing": "TANKERTON, WEST BEACH WHITSTABLE",
-    "reporting_percent": 0.0,
-    "excuses": "Comms failure / issue Scheduled",
-    "lat": 51.35148097788368,
-    "lon": 1.0625699586379944
-  },
-  {
-    "id": 65,
-    "bathing": "Indirectly via Scalby Beck to Scarborough North Bay",
-    "reporting_percent": 0.0,
-    "excuses": "No longer operational as an overflow - permit revoked or to be revoked",
-    "lat": 54.30206216511149,
-    "lon": -0.42345645765816
-  },
-  {
-    "id": 3,
-    "bathing": "New Brighton",
-    "reporting_percent": 0.0,
-    "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
-    "lat": 53.40772265910916,
-    "lon": -3.077620318907516
-  },
-  {
-    "id": 110,
-    "bathing": "LITTLEHAMPTON",
-    "reporting_percent": 0.0,
-    "excuses": "Power failure / issue N/A - Ongoing investigation",
-    "lat": 50.816163970132806,
-    "lon": -0.48965289238807513
-  },
-  {
-    "id": 108,
-    "bathing": "MINSTER LEAS, SHEERNESS",
-    "reporting_percent": 0.0,
-    "excuses": "Power failure / issue Scheduled",
-    "lat": 51.42135099114513,
-    "lon": 0.7933376530364487
-  },
-  {
-    "id": 6,
-    "bathing": "New Brighton",
-    "reporting_percent": 0.0,
-    "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
-    "lat": 53.44038859918649,
-    "lon": -3.0010665676820945
-  },
-  {
-    "id": 7,
-    "bathing": "Wallasey",
-    "reporting_percent": 0.0,
-    "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation",
-    "lat": 53.434024237329325,
-    "lon": -2.9989602610623045
-  },
-  {
-    "id": 8,
-    "bathing": "New Brighton",
-    "reporting_percent": 0.0,
-    "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation",
-    "lat": 53.45817490990398,
-    "lon": -3.0130814322033377
-  },
-  {
-    "id": 9,
-    "bathing": "Fleetwood",
-    "reporting_percent": 0.0,
-    "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
-    "lat": 53.80583071363779,
-    "lon": -2.9385323905234753
-  },
-  {
-    "id": 12,
-    "bathing": "Morecambe North and Morecambe South",
-    "reporting_percent": 0.0,
-    "excuses": "Sensor failure / issue N/A - Ongoing investigation",
-    "lat": 54.06453013272965,
-    "lon": -2.8632256996086154
-  },
-  {
-    "id": 59,
-    "bathing": "LONG ROCK",
-    "reporting_percent": 0.0,
-    "excuses": null,
-    "lat": 50.12944591669707,
-    "lon": -5.52872847701077
-  },
-  {
-    "id": 101,
-    "bathing": "Criccieth",
-    "reporting_percent": 0.0,
-    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
-    "lat": 52.91971993561263,
-    "lon": -4.22504601458644
-  },
-  {
-    "id": 15,
-    "bathing": "Haverigg, Walney Biggar Bank, Walney West Shore, and Walney Sandy Gap",
-    "reporting_percent": 0.0,
-    "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
-    "lat": 54.19313770580262,
-    "lon": -3.208618244708395
-  },
-  {
-    "id": 17,
-    "bathing": "Walney Sandy Gap",
-    "reporting_percent": 0.0,
-    "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
-    "lat": 54.117914636725864,
-    "lon": -3.198928434201423
+    "lon": -3.2616895695425954,
+    "pcon20nm": "Copeland"
   },
   {
     "id": 18,
-    "bathing": "Allonby",
+    "location": "Allonby",
     "reporting_percent": 0.0,
     "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
     "lat": 54.7175896747311,
-    "lon": -3.4443148890026594
+    "lon": -3.4443148890026594,
+    "pcon20nm": "Workington"
   },
   {
     "id": 19,
-    "bathing": "Allonby",
+    "location": "Allonby",
     "reporting_percent": 0.0,
     "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
     "lat": 54.78157089683807,
-    "lon": -3.351588086799899
+    "lon": -3.351588086799899,
+    "pcon20nm": "Workington"
+  },
+  {
+    "id": 96,
+    "location": "New Quay North",
+    "reporting_percent": 0.0,
+    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
+    "lat": 52.21555526622803,
+    "lon": -4.359029969308553,
+    "pcon20nm": "Ceredigion"
+  },
+  {
+    "id": 94,
+    "location": "Rest Bay",
+    "reporting_percent": 0.0,
+    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
+    "lat": 51.48085466121907,
+    "lon": -3.7147068226048585,
+    "pcon20nm": "Bridgend"
+  },
+  {
+    "id": 92,
+    "location": "Newport N",
+    "reporting_percent": 0.0,
+    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
+    "lat": 52.0193560335847,
+    "lon": -4.841308427550894,
+    "pcon20nm": "Preseli Pembrokeshire"
+  },
+  {
+    "id": 91,
+    "location": "Caerfai",
+    "reporting_percent": 0.0,
+    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
+    "lat": 51.8818633742524,
+    "lon": -5.2697641253660965,
+    "pcon20nm": "Preseli Pembrokeshire"
+  },
+  {
+    "id": 88,
+    "location": "Lowestoft North",
+    "reporting_percent": 0.0,
+    "excuses": null,
+    "lat": 52.47277908142607,
+    "lon": 1.7488977550397768,
+    "pcon20nm": "Waveney"
+  },
+  {
+    "id": 87,
+    "location": "Holland",
+    "reporting_percent": 0.0,
+    "excuses": null,
+    "lat": 51.80938053280172,
+    "lon": 1.2175881014108143,
+    "pcon20nm": "Clacton"
+  },
+  {
+    "id": 86,
+    "location": "Ingoldsmell South",
+    "reporting_percent": 0.0,
+    "excuses": null,
+    "lat": 53.18954714808371,
+    "lon": 0.3483922305629638,
+    "pcon20nm": "Boston and Skegness"
+  },
+  {
+    "id": 83,
+    "location": "Jacksons Bay Barry",
+    "reporting_percent": 0.0,
+    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
+    "lat": 51.416709366581856,
+    "lon": -3.2707701570838723,
+    "pcon20nm": "Vale of Glamorgan"
+  },
+  {
+    "id": 82,
+    "location": "Cold Knap",
+    "reporting_percent": 0.0,
+    "excuses": "Communications issue - access issue",
+    "lat": 51.388039444616815,
+    "lon": -3.2899233606550644,
+    "pcon20nm": "Vale of Glamorgan"
+  },
+  {
+    "id": 75,
+    "location": "RYDE, SEAGROVE, ST HELENS",
+    "reporting_percent": 0.0,
+    "excuses": "Power failure / issue Scheduled",
+    "lat": 50.728182383866645,
+    "lon": -1.172653492705217,
+    "pcon20nm": "Isle of Wight"
+  },
+  {
+    "id": 41,
+    "location": "Seahouses North",
+    "reporting_percent": 0.0,
+    "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
+    "lat": 55.580509096092555,
+    "lon": -1.6462687334747268,
+    "pcon20nm": "Berwick-upon-Tweed"
+  },
+  {
+    "id": 45,
+    "location": "Seaton Sluice",
+    "reporting_percent": 0.0,
+    "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
+    "lat": 55.08388213213199,
+    "lon": -1.4734835844401424,
+    "pcon20nm": "Blyth Valley"
+  },
+  {
+    "id": 46,
+    "location": "Blyth South Beach",
+    "reporting_percent": 0.0,
+    "excuses": null,
+    "lat": 55.11427932343909,
+    "lon": -1.500675841377759,
+    "pcon20nm": "Blyth Valley"
+  },
+  {
+    "id": 73,
+    "location": "LITTLEHAMPTON",
+    "reporting_percent": 0.0,
+    "excuses": "EDM not yet installed N/A - EDM to be installed by December 2023",
+    "lat": 50.80430367211203,
+    "lon": -0.5428879643379948,
+    "pcon20nm": "Bognor Regis and Littlehampton"
+  },
+  {
+    "id": 49,
+    "location": "Saltburn Pier",
+    "reporting_percent": 0.0,
+    "excuses": null,
+    "lat": 54.536639634377586,
+    "lon": -1.0745460879982374,
+    "pcon20nm": "Middlesbrough South and East Cleveland"
+  },
+  {
+    "id": 50,
+    "location": "Seaton Carew (North)",
+    "reporting_percent": 0.0,
+    "excuses": null,
+    "lat": 54.67951264986998,
+    "lon": -1.1978562794376337,
+    "pcon20nm": "Hartlepool"
+  },
+  {
+    "id": 51,
+    "location": "Seaton Carew (North)",
+    "reporting_percent": 0.0,
+    "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
+    "lat": 54.67951264986998,
+    "lon": -1.1978562794376337,
+    "pcon20nm": "Hartlepool"
+  },
+  {
+    "id": 68,
+    "location": "TANKERTON, WEST BEACH WHITSTABLE",
+    "reporting_percent": 0.0,
+    "excuses": "Comms failure / issue Scheduled",
+    "lat": 51.35148097788368,
+    "lon": 1.0625699586379944,
+    "pcon20nm": "Canterbury"
+  },
+  {
+    "id": 65,
+    "location": "Indirectly via Scalby Beck to Scarborough North Bay",
+    "reporting_percent": 0.0,
+    "excuses": "No longer operational as an overflow - permit revoked or to be revoked",
+    "lat": 54.30206216511149,
+    "lon": -0.42345645765816,
+    "pcon20nm": "Scarborough and Whitby"
+  },
+  {
+    "id": 3,
+    "location": "New Brighton",
+    "reporting_percent": 0.0,
+    "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
+    "lat": 53.40772265910916,
+    "lon": -3.077620318907516,
+    "pcon20nm": "Birkenhead"
+  },
+  {
+    "id": 110,
+    "location": "LITTLEHAMPTON",
+    "reporting_percent": 0.0,
+    "excuses": "Power failure / issue N/A - Ongoing investigation",
+    "lat": 50.816163970132806,
+    "lon": -0.48965289238807513,
+    "pcon20nm": "Worthing West"
+  },
+  {
+    "id": 108,
+    "location": "MINSTER LEAS, SHEERNESS",
+    "reporting_percent": 0.0,
+    "excuses": "Power failure / issue Scheduled",
+    "lat": 51.42135099114513,
+    "lon": 0.7933376530364487,
+    "pcon20nm": "Sittingbourne and Sheppey"
+  },
+  {
+    "id": 6,
+    "location": "New Brighton",
+    "reporting_percent": 0.0,
+    "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
+    "lat": 53.44038859918649,
+    "lon": -3.0010665676820945,
+    "pcon20nm": "Bootle"
+  },
+  {
+    "id": 7,
+    "location": "Wallasey",
+    "reporting_percent": 0.0,
+    "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation",
+    "lat": 53.434024237329325,
+    "lon": -2.9989602610623045,
+    "pcon20nm": "Liverpool, Riverside"
+  },
+  {
+    "id": 8,
+    "location": "New Brighton",
+    "reporting_percent": 0.0,
+    "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation",
+    "lat": 53.45817490990398,
+    "lon": -3.0130814322033377,
+    "pcon20nm": "Bootle"
+  },
+  {
+    "id": 9,
+    "location": "Fleetwood",
+    "reporting_percent": 0.0,
+    "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
+    "lat": 53.80583071363779,
+    "lon": -2.9385323905234753,
+    "pcon20nm": "Fylde"
+  },
+  {
+    "id": 12,
+    "location": "Morecambe North and Morecambe South",
+    "reporting_percent": 0.0,
+    "excuses": "Sensor failure / issue N/A - Ongoing investigation",
+    "lat": 54.06453013272965,
+    "lon": -2.8632256996086154,
+    "pcon20nm": "Morecambe and Lunesdale"
+  },
+  {
+    "id": 59,
+    "location": "LONG ROCK",
+    "reporting_percent": 0.0,
+    "excuses": null,
+    "lat": 50.12944591669707,
+    "lon": -5.52872847701077,
+    "pcon20nm": "St Ives"
+  },
+  {
+    "id": 101,
+    "location": "Criccieth",
+    "reporting_percent": 0.0,
+    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
+    "lat": 52.91971993561263,
+    "lon": -4.22504601458644,
+    "pcon20nm": "Dwyfor Meirionnydd"
+  },
+  {
+    "id": 15,
+    "location": "Haverigg, Walney Biggar Bank, Walney West Shore, and Walney Sandy Gap",
+    "reporting_percent": 0.0,
+    "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
+    "lat": 54.19313770580262,
+    "lon": -3.208618244708395,
+    "pcon20nm": "Barrow and Furness"
+  },
+  {
+    "id": 17,
+    "location": "Walney Sandy Gap",
+    "reporting_percent": 0.0,
+    "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
+    "lat": 54.117914636725864,
+    "lon": -3.198928434201423,
+    "pcon20nm": "Barrow and Furness"
+  },
+  {
+    "id": 44,
+    "location": "Newbiggin North & Newbiggin South",
+    "reporting_percent": 0.005327245046715667,
+    "excuses": "Installation set-up/design issue Resolved - December",
+    "lat": 55.17498019898691,
+    "lon": -1.5211142189553672,
+    "pcon20nm": "Wansbeck"
   },
   {
     "id": 60,
-    "bathing": "SUMMERLEAZE",
+    "location": "SUMMERLEAZE",
     "reporting_percent": 3.0,
     "excuses": "Capital / maintenance works affect EDM operation N/A - Ongoing investigation",
     "lat": 50.82952782107877,
-    "lon": -4.54684840444922
+    "lon": -4.54684840444922,
+    "pcon20nm": "North Cornwall"
   },
   {
     "id": 100,
-    "bathing": "Llanddwyn",
-    "reporting_percent": 5.0,
+    "location": "Llanddwyn",
+    "reporting_percent": 5.56,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
     "lat": 53.164763422490154,
-    "lon": -4.328382736492827
+    "lon": -4.328382736492827,
+    "pcon20nm": "Ynys M\u00f4n"
   },
   {
     "id": 37,
-    "bathing": "Spittal",
-    "reporting_percent": 6.0,
+    "location": "Spittal",
+    "reporting_percent": 6.702447995939775,
     "excuses": "Installation set-up/design issue Resolved - December",
     "lat": 55.765838927221154,
-    "lon": -2.0278745681532366
+    "lon": -2.0278745681532366,
+    "pcon20nm": "Berwick-upon-Tweed"
   },
   {
     "id": 95,
-    "bathing": "Swansea Bay",
-    "reporting_percent": 6.0,
+    "location": "Swansea Bay",
+    "reporting_percent": 6.95,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
     "lat": 51.66890829399142,
-    "lon": -4.068878614356865
+    "lon": -4.068878614356865,
+    "pcon20nm": "Gower"
   },
   {
     "id": 103,
-    "bathing": "Harlech",
-    "reporting_percent": 11.0,
+    "location": "Harlech",
+    "reporting_percent": 11.26,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
     "lat": 52.86185001661703,
-    "lon": -4.107454188532391
+    "lon": -4.107454188532391,
+    "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
     "id": 74,
-    "bathing": "SHOREHAM BEACH, SOUTHWICK",
+    "location": "SHOREHAM BEACH, SOUTHWICK",
     "reporting_percent": 12.0,
     "excuses": "Power failure / issue Resolved - November",
     "lat": 50.83455577741374,
-    "lon": -0.2387401392955552
+    "lon": -0.2387401392955552,
+    "pcon20nm": "East Worthing and Shoreham"
   },
   {
     "id": 10,
-    "bathing": "Morecambe South",
-    "reporting_percent": 14.0,
+    "location": "Morecambe South",
+    "reporting_percent": 14.66,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation Performance - Other maintenance / capital works (e.g. jetting) Resolved - October",
     "lat": 54.0553421844796,
-    "lon": -2.819788303663221
+    "lon": -2.819788303663221,
+    "pcon20nm": "Morecambe and Lunesdale"
   },
   {
     "id": 99,
-    "bathing": "Llanfairfech",
-    "reporting_percent": 16.0,
+    "location": "Llanfairfech",
+    "reporting_percent": 16.66,
     "excuses": "Communications issue - access issue",
     "lat": 53.25645413450023,
-    "lon": -3.980169665978426
+    "lon": -3.980169665978426,
+    "pcon20nm": "Aberconwy"
   },
   {
     "id": 80,
-    "bathing": "CHRISTCHURCH BAY",
+    "location": "CHRISTCHURCH BAY",
     "reporting_percent": 19.0,
     "excuses": "Power failure / issue Scheduled",
     "lat": 50.74285200813861,
-    "lon": -1.659798838628263
+    "lon": -1.659798838628263,
+    "pcon20nm": "New Forest West"
   },
   {
     "id": 40,
-    "bathing": "Beadnell",
-    "reporting_percent": 20.0,
+    "location": "Beadnell",
+    "reporting_percent": 20.75266679350808,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 55.55115145394434,
-    "lon": -1.623864879448689
+    "lon": -1.623864879448689,
+    "pcon20nm": "Berwick-upon-Tweed"
   },
   {
     "id": 114,
-    "bathing": "SOUTHSEA, STOKES BAY",
+    "location": "SOUTHSEA, STOKES BAY",
     "reporting_percent": 21.0,
     "excuses": "Power failure / issue Resolved - November",
     "lat": 50.81903884955803,
-    "lon": -1.0918331609629355
+    "lon": -1.0918331609629355,
+    "pcon20nm": "Portsmouth North"
   },
   {
     "id": 81,
-    "bathing": "CHRISTCHURCH BAY",
+    "location": "CHRISTCHURCH BAY",
     "reporting_percent": 24.0,
     "excuses": "Power failure / issue Scheduled",
     "lat": 50.74375085762597,
-    "lon": -1.6596506139036735
+    "lon": -1.6596506139036735,
+    "pcon20nm": "New Forest West"
   },
   {
     "id": 16,
-    "bathing": "Walney Biggar Bank, Walney West Shore, and Walney Sandy Gap",
-    "reporting_percent": 28.0,
+    "location": "Walney Biggar Bank, Walney West Shore, and Walney Sandy Gap",
+    "reporting_percent": 28.09,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity",
     "lat": 54.10718846886326,
-    "lon": -3.1929591880043953
+    "lon": -3.1929591880043953,
+    "pcon20nm": "Barrow and Furness"
   },
   {
     "id": 31,
-    "bathing": "THURLESTONE (SOUTH) BEACH",
+    "location": "THURLESTONE (SOUTH) BEACH",
     "reporting_percent": 32.0,
     "excuses": "Installation set-up/design issue Resolved - September",
     "lat": 50.269811307358204,
-    "lon": -3.8309666103600826
+    "lon": -3.8309666103600826,
+    "pcon20nm": "Totnes"
   },
   {
     "id": 76,
-    "bathing": "SEAFORD",
+    "location": "SEAFORD",
     "reporting_percent": 33.0,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
     "lat": 50.78828085051092,
-    "lon": 0.05562151117182812
-  },
-  {
-    "id": 69,
-    "bathing": "BEXHILL",
-    "reporting_percent": 37.0,
-    "excuses": "Comms failure / issue Resolved - June",
-    "lat": 50.835881555070195,
-    "lon": 0.45880623694549905
+    "lon": 0.05562151117182812,
+    "pcon20nm": "Lewes"
   },
   {
     "id": 77,
-    "bathing": "SHOREHAM BEACH, SOUTHWICK",
+    "location": "SHOREHAM BEACH, SOUTHWICK",
     "reporting_percent": 37.0,
     "excuses": "Power failure / issue Resolved - December",
     "lat": 50.84003784945146,
-    "lon": -0.27461042848934314
+    "lon": -0.27461042848934314,
+    "pcon20nm": "East Worthing and Shoreham"
+  },
+  {
+    "id": 69,
+    "location": "BEXHILL",
+    "reporting_percent": 37.0,
+    "excuses": "Comms failure / issue Resolved - June",
+    "lat": 50.835881555070195,
+    "lon": 0.45880623694549905,
+    "pcon20nm": "Bexhill and Battle"
   },
   {
     "id": 89,
-    "bathing": "Poppit West",
-    "reporting_percent": 38.0,
+    "location": "Poppit West",
+    "reporting_percent": 38.99,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
     "lat": 52.08202472232535,
-    "lon": -4.663335027454237
+    "lon": -4.663335027454237,
+    "pcon20nm": "Ceredigion"
   },
   {
     "id": 61,
-    "bathing": "PLYMOUTH HOE (EAST)",
+    "location": "PLYMOUTH HOE (EAST)",
     "reporting_percent": 40.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
     "lat": 50.36473063643147,
-    "lon": -4.12684264851235
+    "lon": -4.12684264851235,
+    "pcon20nm": "Plymouth, Sutton and Devonport"
   },
   {
     "id": 43,
-    "bathing": "Warkworth & Amble Links",
-    "reporting_percent": 40.0,
+    "location": "Warkworth & Amble Links",
+    "reporting_percent": 40.08828006088277,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 55.34291260362424,
-    "lon": -1.6089646728795317
+    "lon": -1.6089646728795317,
+    "pcon20nm": "Berwick-upon-Tweed"
   },
   {
     "id": 116,
-    "bathing": "SOUTHSEA, STOKES BAY",
+    "location": "SOUTHSEA, STOKES BAY",
     "reporting_percent": 41.0,
     "excuses": "Comms failure / issue Resolved - July",
     "lat": 50.81903884955803,
-    "lon": -1.0918331609629355
+    "lon": -1.0918331609629355,
+    "pcon20nm": "Portsmouth North"
   },
   {
     "id": 32,
-    "bathing": "MOTHECOMBE BEACH",
+    "location": "MOTHECOMBE BEACH",
     "reporting_percent": 43.0,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
     "lat": 50.362482813302286,
-    "lon": -3.9134665359614935
-  },
-  {
-    "id": 90,
-    "bathing": "Pendine",
-    "reporting_percent": 43.0,
-    "excuses": "Further work needed on discharge  mechanism, revisit planned for 2022. ",
-    "lat": 51.7424114632856,
-    "lon": -4.536166306862006
+    "lon": -3.9134665359614935,
+    "pcon20nm": "South West Devon"
   },
   {
     "id": 105,
-    "bathing": "Morfa Nefyn",
-    "reporting_percent": 43.0,
+    "location": "Morfa Nefyn",
+    "reporting_percent": 43.3,
     "excuses": "Communications issue - escalated through business as usual process for communications failures.",
     "lat": 52.92860873944245,
-    "lon": -4.559574389478003
+    "lon": -4.559574389478003,
+    "pcon20nm": "Dwyfor Meirionnydd"
+  },
+  {
+    "id": 90,
+    "location": "Pendine",
+    "reporting_percent": 43.85,
+    "excuses": "Further work needed on discharge  mechanism, revisit planned for 2022. ",
+    "lat": 51.7424114632856,
+    "lon": -4.536166306862006,
+    "pcon20nm": "Carmarthen West and South Pembrokeshire"
   },
   {
     "id": 28,
-    "bathing": "GOODRINGTON BEACH",
+    "location": "GOODRINGTON BEACH",
     "reporting_percent": 44.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
     "lat": 50.432895746257664,
-    "lon": -3.5587772066620578
+    "lon": -3.5587772066620578,
+    "pcon20nm": "Torbay"
   },
   {
     "id": 109,
-    "bathing": "Spittal",
-    "reporting_percent": 47.0,
+    "location": "Spittal",
+    "reporting_percent": 47.25837138508371,
     "excuses": "Comms failure / issue Resolved - July",
     "lat": 55.775329788926285,
-    "lon": -2.0110633375105067
-  },
-  {
-    "id": 42,
-    "bathing": "Warkworth & Amble Links",
-    "reporting_percent": 49.0,
-    "excuses": "Comms failure / issue Resolved - November",
-    "lat": 55.343388606130084,
-    "lon": -1.6060903792211794
+    "lon": -2.0110633375105067,
+    "pcon20nm": "Berwick-upon-Tweed"
   },
   {
     "id": 27,
-    "bathing": "DAWLISH (TOWN) BEACH",
+    "location": "DAWLISH (TOWN) BEACH",
     "reporting_percent": 49.0,
     "excuses": "Comms failure / issue Resolved - November",
     "lat": 50.58402172162599,
-    "lon": -3.459229291062411
+    "lon": -3.459229291062411,
+    "pcon20nm": "Newton Abbot"
   },
   {
     "id": 39,
-    "bathing": "Seahouses North",
-    "reporting_percent": 49.0,
+    "location": "Seahouses North",
+    "reporting_percent": 49.21502727042398,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
     "lat": 55.583035734753544,
-    "lon": -1.653257706126932
+    "lon": -1.653257706126932,
+    "pcon20nm": "Berwick-upon-Tweed"
+  },
+  {
+    "id": 42,
+    "location": "Warkworth & Amble Links",
+    "reporting_percent": 49.82724505327245,
+    "excuses": "Comms failure / issue Resolved - November",
+    "lat": 55.343388606130084,
+    "lon": -1.6060903792211794,
+    "pcon20nm": "Berwick-upon-Tweed"
   },
   {
     "id": 54,
-    "bathing": "PLYMOUTH HOE (WEST)",
+    "location": "PLYMOUTH HOE (WEST)",
     "reporting_percent": 51.0,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
     "lat": 50.36443741144871,
-    "lon": -4.15160541414722
+    "lon": -4.15160541414722,
+    "pcon20nm": "Plymouth, Sutton and Devonport"
   },
   {
     "id": 4,
-    "bathing": "Meols",
-    "reporting_percent": 52.0,
+    "location": "Meols",
+    "reporting_percent": 52.31,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
     "lat": 53.39186037556761,
-    "lon": -3.1211295277457154
-  },
-  {
-    "id": 21,
-    "bathing": "PLYMOUTH HOE (EAST & WEST)",
-    "reporting_percent": 54.0,
-    "excuses": "Installation set-up/design issue Resolved - November",
-    "lat": 50.353547124297414,
-    "lon": -4.1127342641206175
+    "lon": -3.1211295277457154,
+    "pcon20nm": "Wallasey"
   },
   {
     "id": 67,
-    "bathing": "SELSEY",
+    "location": "SELSEY",
     "reporting_percent": 54.0,
     "excuses": "Power failure / issue N/A - Ongoing investigation",
     "lat": 50.734380457631836,
-    "lon": -0.773494381201437
+    "lon": -0.773494381201437,
+    "pcon20nm": "Chichester"
+  },
+  {
+    "id": 21,
+    "location": "PLYMOUTH HOE (EAST & WEST)",
+    "reporting_percent": 54.0,
+    "excuses": "Installation set-up/design issue Resolved - November",
+    "lat": 50.353547124297414,
+    "lon": -4.1127342641206175,
+    "pcon20nm": "South West Devon"
   },
   {
     "id": 35,
-    "bathing": "TEIGNMOUTH (TOWN) BEACH",
+    "location": "TEIGNMOUTH (TOWN) BEACH",
     "reporting_percent": 54.0,
     "excuses": "Comms failure / issue Resolved - September",
     "lat": 50.54796144667121,
-    "lon": -3.494391444345786
+    "lon": -3.494391444345786,
+    "pcon20nm": "Newton Abbot"
   },
   {
     "id": 38,
-    "bathing": "Spittal",
-    "reporting_percent": 55.0,
+    "location": "Spittal",
+    "reporting_percent": 55.54375951293757,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
     "lat": 55.7672796912535,
-    "lon": -1.9953625327701172
+    "lon": -1.9953625327701172,
+    "pcon20nm": "Berwick-upon-Tweed"
   },
   {
     "id": 111,
-    "bathing": "PORTH KIDNEY SANDS",
+    "location": "PORTH KIDNEY SANDS",
     "reporting_percent": 56.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
     "lat": 50.17046760296864,
-    "lon": -5.435618677602865
+    "lon": -5.435618677602865,
+    "pcon20nm": "St Ives"
   },
   {
     "id": 24,
-    "bathing": "BUDLEIGH SALTERTON BEACH",
+    "location": "BUDLEIGH SALTERTON BEACH",
     "reporting_percent": 59.0,
     "excuses": "Sensor failure / issue Resolved - September",
     "lat": 50.63231413274283,
-    "lon": -3.339684182845145
+    "lon": -3.339684182845145,
+    "pcon20nm": "East Devon"
   },
   {
     "id": 79,
-    "bathing": "BEACHLANDS CENTRAL, BEACHLANDS WEST, EASTOKE",
+    "location": "BEACHLANDS CENTRAL, BEACHLANDS WEST, EASTOKE",
     "reporting_percent": 61.0,
     "excuses": "Power failure / issue Resolved - October",
     "lat": 50.785910304972724,
-    "lon": -0.989198740979826
-  },
-  {
-    "id": 20,
-    "bathing": "SHORTHORN BEACH",
-    "reporting_percent": 62.0,
-    "excuses": "Sensor failure / issue N/A - Ongoing investigation",
-    "lat": 50.33983770807826,
-    "lon": -4.762167077922771
+    "lon": -0.989198740979826,
+    "pcon20nm": "Havant"
   },
   {
     "id": 113,
-    "bathing": "SOUTHSEA, STOKES BAY",
+    "location": "SOUTHSEA, STOKES BAY",
     "reporting_percent": 62.0,
     "excuses": "Power failure / issue Resolved - May",
     "lat": 50.81903884955803,
-    "lon": -1.0918331609629355
+    "lon": -1.0918331609629355,
+    "pcon20nm": "Portsmouth North"
+  },
+  {
+    "id": 20,
+    "location": "SHORTHORN BEACH",
+    "reporting_percent": 62.0,
+    "excuses": "Sensor failure / issue N/A - Ongoing investigation",
+    "lat": 50.33983770807826,
+    "lon": -4.762167077922771,
+    "pcon20nm": "St Austell and Newquay"
   },
   {
     "id": 23,
-    "bathing": "BUDLEIGH SALTERTON BEACH",
+    "location": "BUDLEIGH SALTERTON BEACH",
     "reporting_percent": 66.0,
     "excuses": "Comms failure / issue Resolved -  July",
     "lat": 50.62892608462011,
-    "lon": -3.32134819239357
+    "lon": -3.32134819239357,
+    "pcon20nm": "East Devon"
   },
   {
     "id": 48,
-    "bathing": "Whitley Bay",
-    "reporting_percent": 69.0,
+    "location": "Whitley Bay",
+    "reporting_percent": 69.21499238964992,
     "excuses": "Comms failure / issue Resolved - April",
     "lat": 55.04376798748986,
-    "lon": -1.4391738054836771
+    "lon": -1.4391738054836771,
+    "pcon20nm": "Tynemouth"
   },
   {
     "id": 84,
-    "bathing": "Jacksons Bay Barry",
-    "reporting_percent": 70.0,
+    "location": "Jacksons Bay Barry",
+    "reporting_percent": 70.54,
     "excuses": "Communications issue, resolved in August 2021.",
     "lat": 51.416317339114556,
-    "lon": -3.2503822367804958
+    "lon": -3.2503822367804958,
+    "pcon20nm": "Vale of Glamorgan"
   },
   {
     "id": 107,
-    "bathing": "Prestatyn",
-    "reporting_percent": 71.0,
+    "location": "Prestatyn",
+    "reporting_percent": 71.58,
     "excuses": "Communications issue, resolved in April 2021.",
     "lat": 53.33986938545058,
-    "lon": -3.3892196535393606
+    "lon": -3.3892196535393606,
+    "pcon20nm": "Vale of Clwyd"
   },
   {
     "id": 93,
-    "bathing": "Limeslade",
-    "reporting_percent": 72.0,
+    "location": "Limeslade",
+    "reporting_percent": 72.19,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
     "lat": 51.58032573451259,
-    "lon": -4.004388100283594
+    "lon": -4.004388100283594,
+    "pcon20nm": "Gower"
   },
   {
     "id": 5,
-    "bathing": "Wallasey",
-    "reporting_percent": 72.0,
+    "location": "Wallasey",
+    "reporting_percent": 72.87,
     "excuses": "Sensor failure / issue Resolved - November Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
     "lat": 53.373380362809186,
-    "lon": -3.1074173398395675
-  },
-  {
-    "id": 36,
-    "bathing": "Spittal",
-    "reporting_percent": 73.0,
-    "excuses": "Comms failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Ongoing investigation",
-    "lat": 55.76730624570749,
-    "lon": -2.010439746069174
+    "lon": -3.1074173398395675,
+    "pcon20nm": "Wirral West"
   },
   {
     "id": 71,
-    "bathing": "TANKERTON, WEST BEACH WHITSTABLE",
+    "location": "TANKERTON, WEST BEACH WHITSTABLE",
     "reporting_percent": 73.0,
     "excuses": "Comms failure / issue Resolved - May",
     "lat": 51.36615685737017,
-    "lon": 1.0378284609230448
+    "lon": 1.0378284609230448,
+    "pcon20nm": "Canterbury"
   },
   {
     "id": 22,
-    "bathing": "BUDLEIGH SALTERTON BEACH",
+    "location": "BUDLEIGH SALTERTON BEACH",
     "reporting_percent": 73.0,
     "excuses": "Power failure / issue Resolved - April",
     "lat": 50.63001934721195,
-    "lon": -3.3280244637988323
+    "lon": -3.3280244637988323,
+    "pcon20nm": "East Devon"
   },
   {
     "id": 34,
-    "bathing": "MOTHECOMBE BEACH",
+    "location": "MOTHECOMBE BEACH",
     "reporting_percent": 73.0,
     "excuses": "Sensor failure / issue Resolved - May",
     "lat": 50.33568190245362,
-    "lon": -3.9404952421710253
+    "lon": -3.9404952421710253,
+    "pcon20nm": "South West Devon"
+  },
+  {
+    "id": 36,
+    "location": "Spittal",
+    "reporting_percent": 73.67199391171997,
+    "excuses": "Comms failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Ongoing investigation",
+    "lat": 55.76730624570749,
+    "lon": -2.010439746069174,
+    "pcon20nm": "Berwick-upon-Tweed"
   },
   {
     "id": 25,
-    "bathing": "BEACON COVE BEACH",
+    "location": "BEACON COVE BEACH",
     "reporting_percent": 74.0,
     "excuses": "Sensor failure / issue Resolved - October",
     "lat": 50.45879277981434,
-    "lon": -3.525251359519307
-  },
-  {
-    "id": 11,
-    "bathing": "St Annes",
-    "reporting_percent": 75.0,
-    "excuses": "Comms failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
-    "lat": 54.20140048506719,
-    "lon": -2.735101867414958
+    "lon": -3.525251359519307,
+    "pcon20nm": "Torbay"
   },
   {
     "id": 112,
-    "bathing": "THURLESTONE (SOUTH) BEACH",
+    "location": "THURLESTONE (SOUTH) BEACH",
     "reporting_percent": 75.0,
     "excuses": "Comms failure / issue Resolved - September",
     "lat": 50.26619746734058,
-    "lon": -3.8439339939822252
+    "lon": -3.8439339939822252,
+    "pcon20nm": "Totnes"
   },
   {
     "id": 55,
-    "bathing": "EAST LOOE BEACH",
+    "location": "EAST LOOE BEACH",
     "reporting_percent": 75.0,
     "excuses": "Comms failure / issue Resolved - October Performance - Infiltration N/A - Ongoing investigation",
     "lat": 50.35688535681722,
-    "lon": -4.455516899643002
+    "lon": -4.455516899643002,
+    "pcon20nm": "South East Cornwall"
+  },
+  {
+    "id": 11,
+    "location": "St Annes",
+    "reporting_percent": 75.38,
+    "excuses": "Comms failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
+    "lat": 54.20140048506719,
+    "lon": -2.735101867414958,
+    "pcon20nm": "Westmorland and Lonsdale"
   },
   {
     "id": 104,
-    "bathing": "Llandudno West Shore",
-    "reporting_percent": 75.0,
+    "location": "Llandudno West Shore",
+    "reporting_percent": 75.41,
     "excuses": "Communications issue, resolved in May 2021.",
     "lat": 53.28122684810124,
-    "lon": -3.813160780467479
+    "lon": -3.813160780467479,
+    "pcon20nm": "Aberconwy"
   },
   {
     "id": 33,
-    "bathing": "MOTHECOMBE BEACH",
+    "location": "MOTHECOMBE BEACH",
     "reporting_percent": 76.0,
     "excuses": "Power failure/ issue Resolved - September",
     "lat": 50.33568190245362,
-    "lon": -3.9404952421710253
+    "lon": -3.9404952421710253,
+    "pcon20nm": "South West Devon"
   },
   {
     "id": 70,
-    "bathing": "BEXHILL, NORMANS BAY",
+    "location": "BEXHILL, NORMANS BAY",
     "reporting_percent": 78.0,
     "excuses": "Comms failure / issue Resolved - March",
     "lat": 50.83329512076251,
-    "lon": 0.4406328329445064
+    "lon": 0.4406328329445064,
+    "pcon20nm": "Bexhill and Battle"
   },
   {
     "id": 52,
-    "bathing": "Crimdon",
-    "reporting_percent": 81.0,
+    "location": "Crimdon",
+    "reporting_percent": 81.382800608828,
     "excuses": "Comms failure / issue Resolved - November",
     "lat": 54.72325249335242,
-    "lon": -1.2499369043131683
+    "lon": -1.2499369043131683,
+    "pcon20nm": "Easington"
   },
   {
     "id": 63,
-    "bathing": "TREVAUNANCE COVE BEACH",
+    "location": "TREVAUNANCE COVE BEACH",
     "reporting_percent": 82.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
     "lat": 50.3196491130582,
-    "lon": -5.201885228086882
+    "lon": -5.201885228086882,
+    "pcon20nm": "Truro and Falmouth"
   },
   {
     "id": 47,
-    "bathing": "Seaton Sluice",
-    "reporting_percent": 82.0,
+    "location": "Seaton Sluice",
+    "reporting_percent": 82.75494672754948,
     "excuses": "Comms failure / issue Resolved - December",
     "lat": 55.074442603337765,
-    "lon": -1.4725111233449921
+    "lon": -1.4725111233449921,
+    "pcon20nm": "Blyth Valley"
   },
   {
     "id": 97,
-    "bathing": "Swansea Bay",
-    "reporting_percent": 83.0,
+    "location": "Swansea Bay",
+    "reporting_percent": 83.25,
     "excuses": "Communications issue, resolved in August 2021.",
     "lat": 51.64875102959391,
-    "lon": -3.981052703211773
+    "lon": -3.981052703211773,
+    "pcon20nm": "Swansea East"
   },
   {
     "id": 29,
-    "bathing": "DAWLISH (TOWN) BEACH",
+    "location": "DAWLISH (TOWN) BEACH",
     "reporting_percent": 84.0,
     "excuses": "Sensor failure / issue Resolved - October",
     "lat": 50.57997627241152,
-    "lon": -3.4655450642721792
+    "lon": -3.4655450642721792,
+    "pcon20nm": "Newton Abbot"
   },
   {
     "id": 72,
-    "bathing": "BRIGHTON CENTRAL, BRIGHTON KEMPTOWN, HOVE",
+    "location": "BRIGHTON CENTRAL, BRIGHTON KEMPTOWN, HOVE",
     "reporting_percent": 84.0,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
     "lat": 50.818766041578016,
-    "lon": -0.1369738838854981
+    "lon": -0.1369738838854981,
+    "pcon20nm": "Brighton, Kemptown"
   },
   {
     "id": 14,
-    "bathing": "St Bees",
-    "reporting_percent": 84.0,
+    "location": "St Bees",
+    "reporting_percent": 84.5,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
     "lat": 54.47291172380537,
-    "lon": -3.52765616665667
-  },
-  {
-    "id": 98,
-    "bathing": "Colwyn Bay",
-    "reporting_percent": 85.0,
-    "excuses": "Communications issue, resolved in December 2021.",
-    "lat": 53.294534350230904,
-    "lon": -3.6969875262830443
-  },
-  {
-    "id": 30,
-    "bathing": "BUDLEIGH SALTERTON BEACH",
-    "reporting_percent": 85.0,
-    "excuses": "Sensor failure / issue N/A - Ongoing investigation",
-    "lat": 50.632698546968676,
-    "lon": -3.313818187055542
+    "lon": -3.52765616665667,
+    "pcon20nm": "Copeland"
   },
   {
     "id": 115,
-    "bathing": "SOUTHSEA, STOKES BAY",
+    "location": "SOUTHSEA, STOKES BAY",
     "reporting_percent": 85.0,
     "excuses": "Power failure / issue Resolved - Feburary",
     "lat": 50.81903884955803,
-    "lon": -1.0918331609629355
+    "lon": -1.0918331609629355,
+    "pcon20nm": "Portsmouth North"
+  },
+  {
+    "id": 30,
+    "location": "BUDLEIGH SALTERTON BEACH",
+    "reporting_percent": 85.0,
+    "excuses": "Sensor failure / issue N/A - Ongoing investigation",
+    "lat": 50.632698546968676,
+    "lon": -3.313818187055542,
+    "pcon20nm": "East Devon"
   },
   {
     "id": 56,
-    "bathing": "PLYMOUTH HOE (EAST)",
+    "location": "PLYMOUTH HOE (EAST)",
     "reporting_percent": 85.0,
     "excuses": "Comms failure / issue Resolved - June",
     "lat": 50.39250880534935,
-    "lon": -4.091953107716296
+    "lon": -4.091953107716296,
+    "pcon20nm": "Plymouth, Sutton and Devonport"
+  },
+  {
+    "id": 98,
+    "location": "Colwyn Bay",
+    "reporting_percent": 85.96,
+    "excuses": "Communications issue, resolved in December 2021.",
+    "lat": 53.294534350230904,
+    "lon": -3.6969875262830443,
+    "pcon20nm": "Clwyd West"
   },
   {
     "id": 1,
-    "bathing": "LYME REGIS CHURCH CLIFF BEACH",
+    "location": "LYME REGIS CHURCH CLIFF BEACH",
     "reporting_percent": 86.0,
     "excuses": "Power failure/ issue Resolved - October",
     "lat": 50.72673811757713,
-    "lon": -2.9346055275543677
+    "lon": -2.9346055275543677,
+    "pcon20nm": "West Dorset"
   },
   {
     "id": 58,
-    "bathing": "PLYMOUTH HOE (EAST)",
+    "location": "PLYMOUTH HOE (EAST)",
     "reporting_percent": 86.0,
     "excuses": "Sensor failure / issue Resolved - February",
     "lat": 50.40339265933169,
-    "lon": -4.151117821643289
-  },
-  {
-    "id": 66,
-    "bathing": "SWANAGE CENTRAL",
-    "reporting_percent": 86.0,
-    "excuses": "Comms failure / issue Resolved - October",
-    "lat": 50.61070018572516,
-    "lon": -1.9767630030514431
-  },
-  {
-    "id": 85,
-    "bathing": "Jacksons",
-    "reporting_percent": 86.0,
-    "excuses": "Data unreliable from 01/01 to 06/02/2021. Due to static telemetry signal, resolved.",
-    "lat": 51.39927286908804,
-    "lon": -3.2482060991760604
+    "lon": -4.151117821643289,
+    "pcon20nm": "Plymouth, Moor View"
   },
   {
     "id": 106,
-    "bathing": "Sandy Cove",
-    "reporting_percent": 86.0,
+    "location": "Sandy Cove",
+    "reporting_percent": 86.09,
     "excuses": "Communications issue, resolved in November 2021.",
     "lat": 53.3026384596256,
-    "lon": -3.542538308845762
+    "lon": -3.542538308845762,
+    "pcon20nm": "Clwyd West"
+  },
+  {
+    "id": 66,
+    "location": "SWANAGE CENTRAL",
+    "reporting_percent": 86.4,
+    "excuses": "Comms failure / issue Resolved - October",
+    "lat": 50.61070018572516,
+    "lon": -1.9767630030514431,
+    "pcon20nm": "South Dorset"
+  },
+  {
+    "id": 85,
+    "location": "Jacksons",
+    "reporting_percent": 86.97,
+    "excuses": "Data unreliable from 01/01 to 06/02/2021. Due to static telemetry signal, resolved.",
+    "lat": 51.39927286908804,
+    "lon": -3.2482060991760604,
+    "pcon20nm": "Vale of Glamorgan"
   },
   {
     "id": 2,
-    "bathing": "LYNMOUTH BEACH",
+    "location": "LYNMOUTH BEACH",
     "reporting_percent": 87.0,
     "excuses": "Sensor failure / issue Resolved - March",
     "lat": 51.2272750143966,
-    "lon": -3.831957374465258
+    "lon": -3.831957374465258,
+    "pcon20nm": "North Devon"
   },
   {
     "id": 26,
-    "bathing": "DAWLISH (TOWN) BEACH",
+    "location": "DAWLISH (TOWN) BEACH",
     "reporting_percent": 87.0,
     "excuses": "Comms failure / issue Resolved - June",
     "lat": 50.58044913467272,
-    "lon": -3.471548605875691
-  },
-  {
-    "id": 102,
-    "bathing": "Criccieth",
-    "reporting_percent": 88.0,
-    "excuses": "Communications issue, resolved in February 2021.",
-    "lat": 52.91772670783636,
-    "lon": -4.222013363285336
-  },
-  {
-    "id": 62,
-    "bathing": "READYMONEY COVE",
-    "reporting_percent": 88.0,
-    "excuses": "Comms failure / issue Resolved - May",
-    "lat": 50.330189009781634,
-    "lon": -4.64328505763306
+    "lon": -3.471548605875691,
+    "pcon20nm": "Newton Abbot"
   },
   {
     "id": 57,
-    "bathing": "SUMMERLEAZE",
+    "location": "SUMMERLEAZE",
     "reporting_percent": 88.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
     "lat": 50.829402039922314,
-    "lon": -4.545605975370409
+    "lon": -4.545605975370409,
+    "pcon20nm": "North Cornwall"
   },
   {
-    "id": 78,
-    "bathing": "EASTBOURNE",
-    "reporting_percent": 89.0,
-    "excuses": "Comms failure / issue N/A - Ongoing investigation",
-    "lat": 50.760676693639844,
-    "lon": 0.2871061205045518
+    "id": 62,
+    "location": "READYMONEY COVE",
+    "reporting_percent": 88.0,
+    "excuses": "Comms failure / issue Resolved - May",
+    "lat": 50.330189009781634,
+    "lon": -4.64328505763306,
+    "pcon20nm": "St Austell and Newquay"
   },
   {
-    "id": 53,
-    "bathing": "Seaham Hall",
-    "reporting_percent": 89.0,
-    "excuses": "Comms failure / issue Resolved - December Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
-    "lat": 54.828149795872235,
-    "lon": -1.3559916166888304
+    "id": 102,
+    "location": "Criccieth",
+    "reporting_percent": 88.64,
+    "excuses": "Communications issue, resolved in February 2021.",
+    "lat": 52.91772670783636,
+    "lon": -4.222013363285336,
+    "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
     "id": 64,
-    "bathing": "EAST LOOE BEACH",
+    "location": "EAST LOOE BEACH",
     "reporting_percent": 89.0,
     "excuses": "Comms failure / issue Resolved - February",
     "lat": 50.45045683094084,
-    "lon": -4.479800528627098
+    "lon": -4.479800528627098,
+    "pcon20nm": "South East Cornwall"
+  },
+  {
+    "id": 78,
+    "location": "EASTBOURNE",
+    "reporting_percent": 89.0,
+    "excuses": "Comms failure / issue N/A - Ongoing investigation",
+    "lat": 50.760676693639844,
+    "lon": 0.2871061205045518,
+    "pcon20nm": "Eastbourne"
+  },
+  {
+    "id": 53,
+    "location": "Seaham Hall",
+    "reporting_percent": 89.54071537290714,
+    "excuses": "Comms failure / issue Resolved - December Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
+    "lat": 54.828149795872235,
+    "lon": -1.3559916166888304,
+    "pcon20nm": "Easington"
   }
 ]

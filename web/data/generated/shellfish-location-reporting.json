@@ -1,1130 +1,1271 @@
 [
   {
-    "id": 106,
-    "shellfishery": "Swans E",
+    "id": 98,
+    "location": "Colne, Pyfleet",
     "reporting_percent": 0.0,
-    "lat": 51.572486219368926,
-    "lon": -3.76876029737324,
-    "pcon20nm": "Aberavon"
-  },
-  {
-    "id": 74,
-    "shellfishery": "Fowey",
-    "reporting_percent": 0.0,
-    "lat": 50.33966774606335,
-    "lon": -4.629896745279076,
-    "pcon20nm": "South East Cornwall"
-  },
-  {
-    "id": 97,
-    "shellfishery": "West Wash",
-    "reporting_percent": 0.0,
-    "lat": 52.971143694231436,
-    "lon": -0.027156963184824884,
-    "pcon20nm": "Boston and Skegness"
+    "excuses": null,
+    "lat": 51.87038901976662,
+    "lon": 0.9310691658742483,
+    "pcon20nm": "Colchester"
   },
   {
     "id": 4,
-    "shellfishery": "NORTH WIRRAL (EAST)",
+    "location": "NORTH WIRRAL (EAST)",
     "reporting_percent": 0.0,
+    "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
     "lat": 53.44038859918649,
     "lon": -3.0010665676820945,
     "pcon20nm": "Bootle"
   },
   {
     "id": 5,
-    "shellfishery": "North Wirral East",
+    "location": "North Wirral East",
     "reporting_percent": 0.0,
+    "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation",
     "lat": 53.434024237329325,
     "lon": -2.9989602610623045,
     "pcon20nm": "Liverpool, Riverside"
   },
   {
     "id": 6,
-    "shellfishery": "NORTH WIRRAL (EAST)",
+    "location": "NORTH WIRRAL (EAST)",
     "reporting_percent": 0.0,
+    "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation",
     "lat": 53.45817490990398,
     "lon": -3.0130814322033377,
     "pcon20nm": "Bootle"
   },
   {
     "id": 7,
-    "shellfishery": "Lune (Wyre)",
+    "location": "Lune (Wyre)",
     "reporting_percent": 0.0,
+    "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
     "lat": 53.80583071363779,
     "lon": -2.9385323905234753,
     "pcon20nm": "Fylde"
   },
   {
-    "id": 100,
-    "shellfishery": "Colne, Pyfleet",
-    "reporting_percent": 0.0,
-    "lat": 51.87038901976662,
-    "lon": 0.9310691658742483,
-    "pcon20nm": "Colchester"
-  },
-  {
-    "id": 135,
-    "shellfishery": "Teign",
-    "reporting_percent": 0.0,
-    "lat": 50.544344940140185,
-    "lon": -3.53732484894444,
-    "pcon20nm": "Newton Abbot"
-  },
-  {
-    "id": 134,
-    "shellfishery": "OUTER THAMES, SHEPPEY, SOUTHEND",
-    "reporting_percent": 0.0,
-    "lat": 51.42135099114513,
-    "lon": 0.7933376530364487,
-    "pcon20nm": "Sittingbourne and Sheppey"
-  },
-  {
-    "id": 91,
-    "shellfishery": "COWES, RYDE, SPITHEAD AND STOKES BAY",
-    "reporting_percent": 0.0,
-    "lat": 50.728182383866645,
-    "lon": -1.172653492705217,
-    "pcon20nm": "Isle of Wight"
-  },
-  {
-    "id": 119,
-    "shellfishery": "Malltraeth",
-    "reporting_percent": 0.0,
-    "lat": 53.193076682257704,
-    "lon": -4.382884121360325,
-    "pcon20nm": "Ynys M\u00f4n"
-  },
-  {
-    "id": 120,
-    "shellfishery": "Rhos on S",
-    "reporting_percent": 0.0,
-    "lat": 53.32006128611503,
-    "lon": -3.765410893335297,
-    "pcon20nm": "Aberconwy"
-  },
-  {
-    "id": 127,
-    "shellfishery": "Glaslyn",
-    "reporting_percent": 0.0,
-    "lat": 52.92930646163923,
-    "lon": -4.129761048039185,
-    "pcon20nm": "Dwyfor Meirionnydd"
-  },
-  {
-    "id": 84,
-    "shellfishery": "SWALE CENTRAL",
-    "reporting_percent": 0.0,
-    "lat": 51.34707506193416,
-    "lon": 0.7355352470254305,
-    "pcon20nm": "Sittingbourne and Sheppey"
-  },
-  {
-    "id": 124,
-    "shellfishery": "Malltraeth",
-    "reporting_percent": 0.0,
-    "lat": 53.19304824257814,
-    "lon": -4.382957398826815,
-    "pcon20nm": "Ynys M\u00f4n"
-  },
-  {
-    "id": 85,
-    "shellfishery": "SWALE EAST, SWALECLIFFE",
-    "reporting_percent": 0.0,
-    "lat": 51.35148097788368,
-    "lon": 1.0625699586379944,
-    "pcon20nm": "Canterbury"
-  },
-  {
-    "id": 72,
-    "shellfishery": "Fal Estuary",
-    "reporting_percent": 0.0,
-    "lat": 50.15632074620042,
-    "lon": -5.070533855252042,
-    "pcon20nm": "Truro and Falmouth"
-  },
-  {
     "id": 10,
-    "shellfishery": "Morecambe Bay East",
+    "location": "Morecambe Bay East",
     "reporting_percent": 0.0,
+    "excuses": "Sensor failure / issue N/A - Ongoing investigation",
     "lat": 54.06453013272965,
     "lon": -2.8632256996086154,
     "pcon20nm": "Morecambe and Lunesdale"
   },
   {
     "id": 12,
-    "shellfishery": "Duddon and Walney",
+    "location": "Duddon and Walney",
     "reporting_percent": 0.0,
+    "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation",
     "lat": 54.21251088327228,
     "lon": -3.2616895695425954,
     "pcon20nm": "Copeland"
   },
   {
     "id": 13,
-    "shellfishery": "Ravenglass",
+    "location": "Ravenglass",
     "reporting_percent": 0.0,
+    "excuses": "Sensor failure / issue N/A - Ongoing investigation",
     "lat": 54.35148991654478,
     "lon": -3.408824320599825,
     "pcon20nm": "Copeland"
   },
   {
     "id": 14,
-    "shellfishery": "Duddon and Walney",
+    "location": "Duddon and Walney",
     "reporting_percent": 0.0,
+    "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
     "lat": 54.19313770580262,
     "lon": -3.208618244708395,
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 1,
-    "shellfishery": "NORTH WIRRAL (EAST)",
-    "reporting_percent": 0.0,
-    "lat": 53.40772265910916,
-    "lon": -3.077620318907516,
-    "pcon20nm": "Birkenhead"
-  },
-  {
     "id": 16,
-    "shellfishery": "WALNEY EAST",
+    "location": "WALNEY EAST",
     "reporting_percent": 0.0,
+    "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
     "lat": 54.12525217160554,
     "lon": -3.202201011611086,
     "pcon20nm": "Barrow and Furness"
   },
   {
     "id": 17,
-    "shellfishery": "WALNEY EAST",
+    "location": "WALNEY EAST",
     "reporting_percent": 0.0,
+    "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
     "lat": 54.117914636725864,
     "lon": -3.198928434201423,
     "pcon20nm": "Barrow and Furness"
   },
   {
     "id": 18,
-    "shellfishery": "Silloth",
+    "location": "Silloth",
     "reporting_percent": 0.0,
+    "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
     "lat": 54.7175896747311,
     "lon": -3.4443148890026594,
     "pcon20nm": "Workington"
   },
   {
     "id": 19,
-    "shellfishery": "SILLOTH",
+    "location": "SILLOTH",
     "reporting_percent": 0.0,
+    "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
     "lat": 54.78157089683807,
     "lon": -3.351588086799899,
     "pcon20nm": "Workington"
   },
   {
     "id": 20,
-    "shellfishery": "Solway",
+    "location": "Solway",
     "reporting_percent": 0.0,
+    "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
     "lat": 54.89971515489499,
     "lon": -2.9608816161798748,
     "pcon20nm": "Carlisle"
   },
   {
     "id": 21,
-    "shellfishery": "Solway",
+    "location": "Solway",
     "reporting_percent": 0.0,
+    "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation",
     "lat": 54.89971515489499,
     "lon": -2.9608816161798748,
     "pcon20nm": "Carlisle"
   },
   {
     "id": 22,
-    "shellfishery": "Solway",
+    "location": "Solway",
     "reporting_percent": 0.0,
+    "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
     "lat": 54.921323981527145,
     "lon": -2.998171423405871,
     "pcon20nm": "Penrith and The Border"
   },
   {
-    "id": 67,
-    "shellfishery": "Fal Estuary",
+    "id": 135,
+    "location": "Teign",
     "reporting_percent": 0.0,
+    "excuses": "Sensor failure / issue N/A - Ongoing investigation",
+    "lat": 50.544344940140185,
+    "lon": -3.53732484894444,
+    "pcon20nm": "Newton Abbot"
+  },
+  {
+    "id": 134,
+    "location": "OUTER THAMES, SHEPPEY, SOUTHEND",
+    "reporting_percent": 0.0,
+    "excuses": "Power failure / issue Scheduled",
+    "lat": 51.42135099114513,
+    "lon": 0.7933376530364487,
+    "pcon20nm": "Sittingbourne and Sheppey"
+  },
+  {
+    "id": 127,
+    "location": "Glaslyn",
+    "reporting_percent": 0.0,
+    "excuses": "Data unreliable from 01/01/2021 to 31/12/2021. Due to erratic telemetry signal. Instrumentation task escalated through business as usual for instrumentation defect. ",
+    "lat": 52.92930646163923,
+    "lon": -4.129761048039185,
+    "pcon20nm": "Dwyfor Meirionnydd"
+  },
+  {
+    "id": 124,
+    "location": "Malltraeth",
+    "reporting_percent": 0.0,
+    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
+    "lat": 53.19304824257814,
+    "lon": -4.382957398826815,
+    "pcon20nm": "Ynys M\u00f4n"
+  },
+  {
+    "id": 120,
+    "location": "Rhos on S",
+    "reporting_percent": 0.0,
+    "excuses": "Communications issue - access issue",
+    "lat": 53.32006128611503,
+    "lon": -3.765410893335297,
+    "pcon20nm": "Aberconwy"
+  },
+  {
+    "id": 119,
+    "location": "Malltraeth",
+    "reporting_percent": 0.0,
+    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
+    "lat": 53.193076682257704,
+    "lon": -4.382884121360325,
+    "pcon20nm": "Ynys M\u00f4n"
+  },
+  {
+    "id": 67,
+    "location": "Fal Estuary",
+    "reporting_percent": 0.0,
+    "excuses": "Comms failure / issue N/A - Ongoing investigation",
     "lat": 50.26113445783007,
     "lon": -5.049629249074469,
     "pcon20nm": "Truro and Falmouth"
   },
   {
-    "id": 92,
-    "shellfishery": "MEDINA",
-    "reporting_percent": 0.0,
-    "lat": 50.69979586148643,
-    "lon": -1.3010175076596708,
-    "pcon20nm": "Isle of Wight"
-  },
-  {
     "id": 110,
-    "shellfishery": "Porthcawl",
+    "location": "Porthcawl",
     "reporting_percent": 0.0,
+    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
     "lat": 51.48085466121907,
     "lon": -3.7147068226048585,
     "pcon20nm": "Bridgend"
   },
   {
-    "id": 98,
-    "shellfishery": "Colne, Pyfleet",
+    "id": 1,
+    "location": "NORTH WIRRAL (EAST)",
     "reporting_percent": 0.0,
+    "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
+    "lat": 53.40772265910916,
+    "lon": -3.077620318907516,
+    "pcon20nm": "Birkenhead"
+  },
+  {
+    "id": 72,
+    "location": "Fal Estuary",
+    "reporting_percent": 0.0,
+    "excuses": "Sensor failure / issue N/A - Ongoing investigation",
+    "lat": 50.15632074620042,
+    "lon": -5.070533855252042,
+    "pcon20nm": "Truro and Falmouth"
+  },
+  {
+    "id": 106,
+    "location": "Swans E",
+    "reporting_percent": 0.0,
+    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
+    "lat": 51.572486219368926,
+    "lon": -3.76876029737324,
+    "pcon20nm": "Aberavon"
+  },
+  {
+    "id": 74,
+    "location": "Fowey",
+    "reporting_percent": 0.0,
+    "excuses": "Sensor failure / issue N/A - Ongoing investigation",
+    "lat": 50.33966774606335,
+    "lon": -4.629896745279076,
+    "pcon20nm": "South East Cornwall"
+  },
+  {
+    "id": 84,
+    "location": "SWALE CENTRAL",
+    "reporting_percent": 0.0,
+    "excuses": "Power failure / issue Scheduled",
+    "lat": 51.34707506193416,
+    "lon": 0.7355352470254305,
+    "pcon20nm": "Sittingbourne and Sheppey"
+  },
+  {
+    "id": 85,
+    "location": "SWALE EAST, SWALECLIFFE",
+    "reporting_percent": 0.0,
+    "excuses": "Comms failure / issue Scheduled",
+    "lat": 51.35148097788368,
+    "lon": 1.0625699586379944,
+    "pcon20nm": "Canterbury"
+  },
+  {
+    "id": 91,
+    "location": "COWES, RYDE, SPITHEAD AND STOKES BAY",
+    "reporting_percent": 0.0,
+    "excuses": "Power failure / issue Scheduled",
+    "lat": 50.728182383866645,
+    "lon": -1.172653492705217,
+    "pcon20nm": "Isle of Wight"
+  },
+  {
+    "id": 92,
+    "location": "MEDINA",
+    "reporting_percent": 0.0,
+    "excuses": "EDM not yet installed N/A - EDM to be installed by December 2023",
+    "lat": 50.69979586148643,
+    "lon": -1.3010175076596708,
+    "pcon20nm": "Isle of Wight"
+  },
+  {
+    "id": 100,
+    "location": "Colne, Pyfleet",
+    "reporting_percent": 0.0,
+    "excuses": null,
     "lat": 51.87038901976662,
     "lon": 0.9310691658742483,
     "pcon20nm": "Colchester"
   },
   {
-    "id": 131,
-    "shellfishery": "Dee (East)",
-    "reporting_percent": 5.0,
-    "lat": 53.31434177092878,
-    "lon": -3.085624360916398,
-    "pcon20nm": "Wirral South"
+    "id": 97,
+    "location": "West Wash",
+    "reporting_percent": 0.0,
+    "excuses": "Comms failure / issue N/A - Ongoing investigation",
+    "lat": 52.971143694231436,
+    "lon": -0.027156963184824884,
+    "pcon20nm": "Boston and Skegness"
   },
   {
     "id": 123,
-    "shellfishery": "Menai W",
-    "reporting_percent": 5.0,
+    "location": "Menai W",
+    "reporting_percent": 5.56,
+    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
     "lat": 53.164763422490154,
     "lon": -4.328382736492827,
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
     "id": 130,
-    "shellfishery": "Dee (East)",
-    "reporting_percent": 5.0,
+    "location": "Dee (East)",
+    "reporting_percent": 5.81,
+    "excuses": "Comms failure / issue N/A - Ongoing investigation",
+    "lat": 53.31434177092878,
+    "lon": -3.085624360916398,
+    "pcon20nm": "Wirral South"
+  },
+  {
+    "id": 131,
+    "location": "Dee (East)",
+    "reporting_percent": 5.81,
+    "excuses": "Comms failure / issue N/A - Ongoing investigation",
     "lat": 53.31434177092878,
     "lon": -3.085624360916398,
     "pcon20nm": "Wirral South"
   },
   {
     "id": 125,
-    "shellfishery": "Malltraeth",
-    "reporting_percent": 6.0,
+    "location": "Malltraeth",
+    "reporting_percent": 6.8,
+    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
     "lat": 53.16848687943376,
     "lon": -4.366618575982579,
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
     "id": 137,
-    "shellfishery": "COWES, RYDE",
+    "location": "COWES, RYDE",
     "reporting_percent": 9.0,
+    "excuses": "Comms failure / issue Scheduled",
     "lat": 50.72683024164327,
     "lon": -1.224532785341755,
     "pcon20nm": "Isle of Wight"
   },
   {
     "id": 41,
-    "shellfishery": "Brixham",
+    "location": "Brixham",
     "reporting_percent": 13.0,
+    "excuses": "Comms failure / issue Resolved - November",
     "lat": 50.38774305032574,
     "lon": -3.5181876309602815,
     "pcon20nm": "Totnes"
   },
   {
-    "id": 8,
-    "shellfishery": "Morecambe Bay East and Lune (Broadfleet and Plover Scar)",
-    "reporting_percent": 14.0,
-    "lat": 54.0553421844796,
-    "lon": -2.819788303663221,
-    "pcon20nm": "Morecambe and Lunesdale"
-  },
-  {
     "id": 82,
-    "shellfishery": "SWALE CENTRAL, SWALE EAST",
+    "location": "SWALE CENTRAL, SWALE EAST",
     "reporting_percent": 14.0,
+    "excuses": "Power failure / issue Resolved - November",
     "lat": 51.3165196180431,
     "lon": 0.8917365100797611,
     "pcon20nm": "Faversham and Mid Kent"
   },
   {
-    "id": 122,
-    "shellfishery": "Menai E",
-    "reporting_percent": 16.0,
-    "lat": 53.25645413450023,
-    "lon": -3.980169665978426,
-    "pcon20nm": "Aberconwy"
+    "id": 8,
+    "location": "Morecambe Bay East and Lune (Broadfleet and Plover Scar)",
+    "reporting_percent": 14.66,
+    "excuses": "Sensor failure / issue N/A - Ongoing investigation Performance - Other maintenance / capital works (e.g. jetting) Resolved - October",
+    "lat": 54.0553421844796,
+    "lon": -2.819788303663221,
+    "pcon20nm": "Morecambe and Lunesdale"
   },
   {
     "id": 33,
-    "shellfishery": "Exe",
+    "location": "Exe",
     "reporting_percent": 16.0,
+    "excuses": "comms failure / issue N/A - Ongoing investigation",
     "lat": 50.73043471163732,
     "lon": -3.5017506359565087,
     "pcon20nm": "Exeter"
   },
   {
+    "id": 122,
+    "location": "Menai E",
+    "reporting_percent": 16.66,
+    "excuses": "Communications issue - access issue",
+    "lat": 53.25645413450023,
+    "lon": -3.980169665978426,
+    "pcon20nm": "Aberconwy"
+  },
+  {
     "id": 118,
-    "shellfishery": "Menai W",
-    "reporting_percent": 17.0,
+    "location": "Menai W",
+    "reporting_percent": 17.74,
+    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
     "lat": 53.13944672550988,
     "lon": -4.279046743933592,
     "pcon20nm": "Arfon"
   },
   {
-    "id": 113,
-    "shellfishery": "Gwendrae",
-    "reporting_percent": 18.0,
-    "lat": 51.736885515187424,
-    "lon": -4.310983770747327,
-    "pcon20nm": "Llanelli"
-  },
-  {
     "id": 105,
-    "shellfishery": "Gwendrae",
-    "reporting_percent": 18.0,
+    "location": "Gwendrae",
+    "reporting_percent": 18.12,
+    "excuses": "Communications issue, resolved in October 2021.",
     "lat": 51.73572803196567,
     "lon": -4.310852284034972,
     "pcon20nm": "Llanelli"
   },
   {
+    "id": 113,
+    "location": "Gwendrae",
+    "reporting_percent": 18.12,
+    "excuses": "Communications issue, resolved in October 2021.",
+    "lat": 51.736885515187424,
+    "lon": -4.310983770747327,
+    "pcon20nm": "Llanelli"
+  },
+  {
     "id": 138,
-    "shellfishery": "PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
+    "location": "PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
     "reporting_percent": 21.0,
+    "excuses": "Power failure / issue Resolved - November",
     "lat": 50.81903884955803,
     "lon": -1.0918331609629355,
     "pcon20nm": "Portsmouth North"
   },
   {
     "id": 26,
-    "shellfishery": "Exe",
+    "location": "Exe",
     "reporting_percent": 22.0,
+    "excuses": "Sensor failure / issue Resolved - January",
     "lat": 50.629167764813744,
     "lon": -3.4156639954009402,
     "pcon20nm": "East Devon"
   },
   {
     "id": 117,
-    "shellfishery": "Menai E",
-    "reporting_percent": 23.0,
+    "location": "Menai E",
+    "reporting_percent": 23.66,
+    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
     "lat": 53.221358107454385,
     "lon": -4.208627927875217,
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
-    "id": 111,
-    "shellfishery": "Burry N",
-    "reporting_percent": 24.0,
-    "lat": 51.684323997323105,
-    "lon": -4.17866368193784,
-    "pcon20nm": "Llanelli"
-  },
-  {
     "id": 89,
-    "shellfishery": "SOUTHAMPTON WATER",
+    "location": "SOUTHAMPTON WATER",
     "reporting_percent": 24.0,
+    "excuses": "Power failure / issue Resolved - November",
     "lat": 50.92056541238379,
     "lon": -1.3635853400559468,
     "pcon20nm": "Southampton, Itchen"
   },
   {
-    "id": 108,
-    "shellfishery": "Swans E",
-    "reporting_percent": 28.0,
-    "lat": 51.620627165186555,
-    "lon": -3.893554367512364,
-    "pcon20nm": "Swansea East"
+    "id": 111,
+    "location": "Burry N",
+    "reporting_percent": 24.61,
+    "excuses": "Communications issue - escalated through business as usual process for communications failures. Data unreliable from 10/12/2021 to 14/12/2021 and from  24/12/2021 to  31/12/2021.  Due to erratic telemetry signal.",
+    "lat": 51.684323997323105,
+    "lon": -4.17866368193784,
+    "pcon20nm": "Llanelli"
   },
   {
     "id": 15,
-    "shellfishery": "Walney and Roose Beck",
-    "reporting_percent": 28.0,
+    "location": "Walney and Roose Beck",
+    "reporting_percent": 28.09,
+    "excuses": "Sensor failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity",
     "lat": 54.10718846886326,
     "lon": -3.1929591880043953,
     "pcon20nm": "Barrow and Furness"
   },
   {
+    "id": 108,
+    "location": "Swans E",
+    "reporting_percent": 28.76,
+    "excuses": "Data unreliable from 01/01 to 16/04/2021. Due to static telemetry signal. Instrumentation task escalated through business as usual for instrumentation defect. ",
+    "lat": 51.620627165186555,
+    "lon": -3.893554367512364,
+    "pcon20nm": "Swansea East"
+  },
+  {
     "id": 35,
-    "shellfishery": "Exe",
+    "location": "Exe",
     "reporting_percent": 31.0,
+    "excuses": "Sensor failure / issue Resolved - September",
     "lat": 50.72155218442169,
     "lon": -3.5278178263948474,
     "pcon20nm": "Exeter"
   },
   {
     "id": 95,
-    "shellfishery": "SWALE CENTRAL",
+    "location": "SWALE CENTRAL",
     "reporting_percent": 31.0,
+    "excuses": "Power failure / issue Resolved - September",
     "lat": 51.34370627711578,
     "lon": 0.7257131624769755,
     "pcon20nm": "Sittingbourne and Sheppey"
   },
   {
     "id": 46,
-    "shellfishery": "Dart",
+    "location": "Dart",
     "reporting_percent": 35.0,
+    "excuses": "Sensor failure / issue N/A - Ongoing investigation",
     "lat": 50.445515479984756,
     "lon": -3.70426776304273,
     "pcon20nm": "Totnes"
   },
   {
     "id": 136,
-    "shellfishery": "PENNINGTON, YARMOUTH",
+    "location": "PENNINGTON, YARMOUTH",
     "reporting_percent": 38.0,
+    "excuses": "Comms failure / issue Scheduled",
     "lat": 50.6830816091831,
     "lon": -1.5159931802612008,
     "pcon20nm": "Isle of Wight"
   },
   {
     "id": 115,
-    "shellfishery": "Swans W",
-    "reporting_percent": 38.0,
+    "location": "Swans W",
+    "reporting_percent": 38.56,
+    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
     "lat": 51.587796415712624,
     "lon": -4.009250104647505,
     "pcon20nm": "Gower"
   },
   {
     "id": 140,
-    "shellfishery": "PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
+    "location": "PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
     "reporting_percent": 41.0,
+    "excuses": "Comms failure / issue Resolved - July",
     "lat": 50.81903884955803,
     "lon": -1.0918331609629355,
     "pcon20nm": "Portsmouth North"
   },
   {
     "id": 43,
-    "shellfishery": "Dart",
+    "location": "Dart",
     "reporting_percent": 43.0,
+    "excuses": "Comms failure / issue N/A - Ongoing investigation",
     "lat": 50.43862114742476,
     "lon": -3.6897964532302603,
     "pcon20nm": "Totnes"
   },
   {
     "id": 44,
-    "shellfishery": "Dart",
+    "location": "Dart",
     "reporting_percent": 46.0,
+    "excuses": "Comms failure / issue Resolved - January",
     "lat": 50.43220081517852,
     "lon": -3.7044938877402376,
     "pcon20nm": "Totnes"
   },
   {
     "id": 87,
-    "shellfishery": "PORTSMOUTH HARBOUR",
+    "location": "PORTSMOUTH HARBOUR",
     "reporting_percent": 47.0,
+    "excuses": "Power failure / issue Scheduled",
     "lat": 50.84337423207722,
     "lon": -1.1973188726387296,
     "pcon20nm": "Fareham"
   },
   {
     "id": 90,
-    "shellfishery": "LANGSTONE HARBOUR, PORTSMOUTH HARBOUR",
+    "location": "LANGSTONE HARBOUR, PORTSMOUTH HARBOUR",
     "reporting_percent": 48.0,
+    "excuses": "Power failure / issue Resolved - October",
     "lat": 50.86047243813051,
     "lon": -1.0438545253487064,
     "pcon20nm": "Havant"
   },
   {
     "id": 40,
-    "shellfishery": "Exe",
+    "location": "Exe",
     "reporting_percent": 51.0,
+    "excuses": "Sensor failure / issue Resolved - December",
     "lat": 50.61603959737763,
     "lon": -3.4555837581706825,
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 2,
-    "shellfishery": "NORTH WIRRAL (WEST)",
-    "reporting_percent": 52.0,
-    "lat": 53.39186037556761,
-    "lon": -3.1211295277457154,
-    "pcon20nm": "Wallasey"
-  },
-  {
     "id": 64,
-    "shellfishery": "Tamar",
+    "location": "Tamar",
     "reporting_percent": 52.0,
+    "excuses": "Comms failure / issue Resolved - June",
     "lat": 50.40598791858152,
     "lon": -4.164901489751962,
     "pcon20nm": "Plymouth, Moor View"
   },
   {
     "id": 34,
-    "shellfishery": "Exe",
+    "location": "Exe",
     "reporting_percent": 52.0,
+    "excuses": "Comms failure / issue Resolved - September",
     "lat": 50.72469989606442,
     "lon": -3.5070928494968494,
     "pcon20nm": "Exeter"
   },
   {
-    "id": 63,
-    "shellfishery": "Tamar",
-    "reporting_percent": 53.0,
-    "lat": 50.40587303079651,
-    "lon": -4.167204419964875,
-    "pcon20nm": "Plymouth, Moor View"
+    "id": 2,
+    "location": "NORTH WIRRAL (WEST)",
+    "reporting_percent": 52.31,
+    "excuses": "Comms failure / issue N/A - Ongoing investigation",
+    "lat": 53.39186037556761,
+    "lon": -3.1211295277457154,
+    "pcon20nm": "Wallasey"
   },
   {
     "id": 75,
-    "shellfishery": "Helford",
+    "location": "Helford",
     "reporting_percent": 53.0,
+    "excuses": "Comms failure / issue Resolved - January",
     "lat": 50.093592115494516,
     "lon": -5.135462094424918,
     "pcon20nm": "St Ives"
   },
   {
+    "id": 63,
+    "location": "Tamar",
+    "reporting_percent": 53.0,
+    "excuses": "Comms failure / issue Resolved -  July",
+    "lat": 50.40587303079651,
+    "lon": -4.167204419964875,
+    "pcon20nm": "Plymouth, Moor View"
+  },
+  {
     "id": 93,
-    "shellfishery": "SOUTHAMPTON WATER",
+    "location": "SOUTHAMPTON WATER",
     "reporting_percent": 54.0,
+    "excuses": "Power failure / issue Resolved - July",
     "lat": 50.900821998545084,
     "lon": -1.3878878775590264,
     "pcon20nm": "Southampton, Itchen"
   },
   {
     "id": 78,
-    "shellfishery": "MEDINA",
+    "location": "MEDINA",
     "reporting_percent": 55.0,
+    "excuses": "Comms failure / issue Resolved - June",
     "lat": 50.69180209206084,
     "lon": -1.2878283643018908,
     "pcon20nm": "Isle of Wight"
   },
   {
     "id": 83,
-    "shellfishery": "SWALE CENTRAL, SWALE EAST",
+    "location": "SWALE CENTRAL, SWALE EAST",
     "reporting_percent": 56.0,
+    "excuses": "Comms failure / issue Resolved - June",
     "lat": 51.32227741923317,
     "lon": 0.9025774762621963,
     "pcon20nm": "Faversham and Mid Kent"
   },
   {
     "id": 62,
-    "shellfishery": "Tamar",
+    "location": "Tamar",
     "reporting_percent": 56.0,
+    "excuses": "Sensor failure / issue N/A - Ongoing investigation",
     "lat": 50.39674712260611,
     "lon": -4.17952242559509,
     "pcon20nm": "Plymouth, Moor View"
   },
   {
     "id": 51,
-    "shellfishery": "Teign",
+    "location": "Teign",
     "reporting_percent": 59.0,
+    "excuses": "Sensor failure / issue Resolved - November",
     "lat": 50.54769046607849,
     "lon": -3.5077498492573898,
     "pcon20nm": "Newton Abbot"
   },
   {
     "id": 59,
-    "shellfishery": "Yealm",
+    "location": "Yealm",
     "reporting_percent": 60.0,
+    "excuses": "Sensor failure / issue Resolved - October",
     "lat": 50.3471615750988,
     "lon": -4.000842861109954,
     "pcon20nm": "South West Devon"
   },
   {
     "id": 94,
-    "shellfishery": "CHICHESTER HARBOUR (EMSWORTH C, LANGSTONE HARBOUR",
+    "location": "CHICHESTER HARBOUR (EMSWORTH C, LANGSTONE HARBOUR",
     "reporting_percent": 61.0,
+    "excuses": "Power failure / issue Resolved - October",
     "lat": 50.785910304972724,
     "lon": -0.989198740979826,
     "pcon20nm": "Havant"
   },
   {
     "id": 139,
-    "shellfishery": "PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
+    "location": "PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
     "reporting_percent": 62.0,
+    "excuses": "Power failure / issue Resolved - May",
     "lat": 50.81903884955803,
     "lon": -1.0918331609629355,
     "pcon20nm": "Portsmouth North"
   },
   {
     "id": 23,
-    "shellfishery": "St.Austell Bay",
+    "location": "St.Austell Bay",
     "reporting_percent": 62.0,
+    "excuses": "Sensor failure / issue N/A - Ongoing investigation",
     "lat": 50.33983770807826,
     "lon": -4.762167077922771,
     "pcon20nm": "St Austell and Newquay"
   },
   {
     "id": 76,
-    "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
-    "reporting_percent": 63.0,
+    "location": "PORTLAND NORTH EASTERN BREAKWATER",
+    "reporting_percent": 63.2,
+    "excuses": "Sensor failure / issue Resolved - June",
     "lat": 50.61245126296575,
     "lon": -2.4701622690380094,
     "pcon20nm": "South Dorset"
   },
   {
     "id": 37,
-    "shellfishery": "Exe",
+    "location": "Exe",
     "reporting_percent": 65.0,
+    "excuses": "Sensor failure / issue Resolved - December",
     "lat": 50.71678949983582,
     "lon": -3.527521259939024,
     "pcon20nm": "Exeter"
   },
   {
-    "id": 121,
-    "shellfishery": "Glaslyn",
-    "reporting_percent": 66.0,
-    "lat": 52.915112995612255,
-    "lon": -4.13559400566383,
-    "pcon20nm": "Dwyfor Meirionnydd"
-  },
-  {
     "id": 65,
-    "shellfishery": "Fal Estuary",
+    "location": "Fal Estuary",
     "reporting_percent": 66.0,
+    "excuses": "Sensor failure / issue Resolved - September",
     "lat": 50.26371957645386,
     "lon": -5.057372491632143,
     "pcon20nm": "Truro and Falmouth"
   },
   {
+    "id": 121,
+    "location": "Glaslyn",
+    "reporting_percent": 66.88,
+    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
+    "lat": 52.915112995612255,
+    "lon": -4.13559400566383,
+    "pcon20nm": "Dwyfor Meirionnydd"
+  },
+  {
     "id": 102,
-    "shellfishery": "Upper Roach",
-    "reporting_percent": 67.0,
+    "location": "Upper Roach",
+    "reporting_percent": 67.5913242009133,
+    "excuses": "Comms failure / issue Resolved - June",
     "lat": 51.57967313028756,
     "lon": 0.7116648634023168,
     "pcon20nm": "Rochford and Southend East"
   },
   {
     "id": 48,
-    "shellfishery": "Teign",
+    "location": "Teign",
     "reporting_percent": 68.0,
+    "excuses": "Comms failure / issue Resolved -  July",
     "lat": 50.54970529149195,
     "lon": -3.507729433617285,
     "pcon20nm": "Newton Abbot"
   },
   {
     "id": 133,
-    "shellfishery": "SOUTHAMPTON WATER",
+    "location": "SOUTHAMPTON WATER",
     "reporting_percent": 68.0,
+    "excuses": "Power failure / issue Resolved - September",
     "lat": 50.94211784479408,
     "lon": -1.374677551249486,
     "pcon20nm": "Romsey and Southampton North"
   },
   {
     "id": 57,
-    "shellfishery": "Fal Estuary",
+    "location": "Fal Estuary",
     "reporting_percent": 69.0,
+    "excuses": "Comms failure / issue Resolved - April",
     "lat": 50.263489880910804,
     "lon": -5.045569762591801,
     "pcon20nm": "Truro and Falmouth"
   },
   {
     "id": 55,
-    "shellfishery": "Tamar",
+    "location": "Tamar",
     "reporting_percent": 70.0,
+    "excuses": "Sensor failure / issue N/A - Ongoing investigation",
     "lat": 50.417914423002735,
     "lon": -4.2394797841753595,
     "pcon20nm": "South East Cornwall"
   },
   {
-    "id": 3,
-    "shellfishery": "North Wirral East",
-    "reporting_percent": 72.0,
-    "lat": 53.373380362809186,
-    "lon": -3.1074173398395675,
-    "pcon20nm": "Wirral West"
-  },
-  {
     "id": 109,
-    "shellfishery": "Swans W",
-    "reporting_percent": 72.0,
+    "location": "Swans W",
+    "reporting_percent": 72.19,
+    "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
     "lat": 51.58032573451259,
     "lon": -4.004388100283594,
     "pcon20nm": "Gower"
   },
   {
-    "id": 104,
-    "shellfishery": "West Wash",
-    "reporting_percent": 73.0,
-    "lat": 52.972640177760724,
-    "lon": -0.01442928838414819,
-    "pcon20nm": "Boston and Skegness"
+    "id": 3,
+    "location": "North Wirral East",
+    "reporting_percent": 72.87,
+    "excuses": "Sensor failure / issue Resolved - November Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
+    "lat": 53.373380362809186,
+    "lon": -3.1074173398395675,
+    "pcon20nm": "Wirral West"
   },
   {
     "id": 86,
-    "shellfishery": "SWALE EAST, SWALECLIFFE",
+    "location": "SWALE EAST, SWALECLIFFE",
     "reporting_percent": 73.0,
+    "excuses": "Comms failure / issue Resolved - May",
     "lat": 51.36615685737017,
     "lon": 1.0378284609230448,
     "pcon20nm": "Canterbury"
   },
   {
+    "id": 104,
+    "location": "West Wash",
+    "reporting_percent": 73.0688736681887,
+    "excuses": "Comms failure / issue N/A - Ongoing investigation Performance - Other maintenance / capital works (e.g. jetting) Resolved - May",
+    "lat": 52.972640177760724,
+    "lon": -0.01442928838414819,
+    "pcon20nm": "Boston and Skegness"
+  },
+  {
     "id": 101,
-    "shellfishery": "Colne",
-    "reporting_percent": 73.0,
+    "location": "Colne",
+    "reporting_percent": 73.2165144596652,
+    "excuses": "Comms failure / issue N/A - Ongoing investigation",
     "lat": 51.855726753260896,
     "lon": 0.9491422993949857,
     "pcon20nm": "Harwich and North Essex"
   },
   {
     "id": 45,
-    "shellfishery": "Dart",
+    "location": "Dart",
     "reporting_percent": 74.0,
+    "excuses": "Comms failure / issue Resolved - November",
     "lat": 50.44653227581676,
     "lon": -3.708529880357099,
     "pcon20nm": "Totnes"
   },
   {
-    "id": 107,
-    "shellfishery": "Burry N",
-    "reporting_percent": 75.0,
-    "lat": 51.67878818300304,
-    "lon": -4.140310504280637,
-    "pcon20nm": "Llanelli"
-  },
-  {
-    "id": 9,
-    "shellfishery": "RIBBLE",
-    "reporting_percent": 75.0,
-    "lat": 54.20140048506719,
-    "lon": -2.735101867414958,
-    "pcon20nm": "Westmorland and Lonsdale"
-  },
-  {
     "id": 88,
-    "shellfishery": "LYMINGTON AND SOWLEY_M, PENNINGTON",
+    "location": "LYMINGTON AND SOWLEY_M, PENNINGTON",
     "reporting_percent": 75.0,
+    "excuses": "Power failure / issue Resolved - December",
     "lat": 50.757601948052724,
     "lon": -1.5536457849647107,
     "pcon20nm": "New Forest West"
   },
   {
+    "id": 9,
+    "location": "RIBBLE",
+    "reporting_percent": 75.38,
+    "excuses": "Comms failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
+    "lat": 54.20140048506719,
+    "lon": -2.735101867414958,
+    "pcon20nm": "Westmorland and Lonsdale"
+  },
+  {
     "id": 129,
-    "shellfishery": "Conwy",
-    "reporting_percent": 75.0,
+    "location": "Conwy",
+    "reporting_percent": 75.41,
+    "excuses": "Communications issue, resolved in May 2021.",
     "lat": 53.28122684810124,
     "lon": -3.813160780467479,
     "pcon20nm": "Aberconwy"
   },
   {
-    "id": 66,
-    "shellfishery": "Fal Estuary",
-    "reporting_percent": 76.0,
-    "lat": 50.266227691765124,
-    "lon": -5.050937111731506,
-    "pcon20nm": "Truro and Falmouth"
+    "id": 107,
+    "location": "Burry N",
+    "reporting_percent": 75.6,
+    "excuses": "Communications issue - escalated through business as usual process for communications failures.",
+    "lat": 51.67878818300304,
+    "lon": -4.140310504280637,
+    "pcon20nm": "Llanelli"
   },
   {
     "id": 54,
-    "shellfishery": "Fal Estuary",
+    "location": "Fal Estuary",
     "reporting_percent": 76.0,
+    "excuses": "Comms failure / issue N/A - Ongoing investigation",
     "lat": 50.25821128288666,
     "lon": -5.047898971702197,
     "pcon20nm": "Truro and Falmouth"
   },
   {
     "id": 47,
-    "shellfishery": "Dart",
+    "location": "Dart",
     "reporting_percent": 76.0,
+    "excuses": "Comms failure / issue Resolved - April",
     "lat": 50.44499878423402,
     "lon": -3.7026998735835956,
     "pcon20nm": "Totnes"
   },
   {
-    "id": 112,
-    "shellfishery": "Burry N",
+    "id": 66,
+    "location": "Fal Estuary",
     "reporting_percent": 76.0,
+    "excuses": "Comms failure / issue N/A - Ongoing investigation",
+    "lat": 50.266227691765124,
+    "lon": -5.050937111731506,
+    "pcon20nm": "Truro and Falmouth"
+  },
+  {
+    "id": 112,
+    "location": "Burry N",
+    "reporting_percent": 76.18,
+    "excuses": "Communications issue, resolved in October 2021.",
     "lat": 51.68449089218086,
     "lon": -4.196263899184059,
     "pcon20nm": "Llanelli"
   },
   {
-    "id": 31,
-    "shellfishery": "Teign",
-    "reporting_percent": 77.0,
-    "lat": 50.58335709005175,
-    "lon": -3.631401632060034,
-    "pcon20nm": "Central Devon"
-  },
-  {
     "id": 70,
-    "shellfishery": "Tamar",
+    "location": "Tamar",
     "reporting_percent": 77.0,
+    "excuses": "Comms failure / issue Resolved - May",
     "lat": 50.43233785104762,
     "lon": -4.142290725473645,
     "pcon20nm": "Plymouth, Moor View"
   },
   {
-    "id": 114,
-    "shellfishery": "Burry S",
+    "id": 31,
+    "location": "Teign",
     "reporting_percent": 77.0,
+    "excuses": "Comms failure / issue Resolved - October",
+    "lat": 50.58335709005175,
+    "lon": -3.631401632060034,
+    "pcon20nm": "Central Devon"
+  },
+  {
+    "id": 114,
+    "location": "Burry S",
+    "reporting_percent": 77.48,
+    "excuses": "Communications failure from 01/01 - 09/01/2021 and from 20/02 to 25/03/2021. Data unreliable from 04/10 to 21/10/21.  Due to erratic telemetry signal.",
     "lat": 51.63260233219132,
     "lon": -4.129883857805049,
     "pcon20nm": "Gower"
   },
   {
     "id": 56,
-    "shellfishery": "Fal Estuary",
+    "location": "Fal Estuary",
     "reporting_percent": 79.0,
+    "excuses": "Sensor failure / issue Resolved - December",
     "lat": 50.2637587264632,
     "lon": -5.052463298486083,
     "pcon20nm": "Truro and Falmouth"
   },
   {
-    "id": 116,
-    "shellfishery": "Glaslyn",
-    "reporting_percent": 80.0,
-    "lat": 52.92556805493755,
-    "lon": -4.132166185669181,
-    "pcon20nm": "Dwyfor Meirionnydd"
-  },
-  {
     "id": 79,
-    "shellfishery": "LYMINGTON AND SOWLEY_M, PENNINGTON",
+    "location": "LYMINGTON AND SOWLEY_M, PENNINGTON",
     "reporting_percent": 80.0,
+    "excuses": "Comms failure / issue Resolved - May",
     "lat": 50.7890233382375,
     "lon": -1.540011505925775,
     "pcon20nm": "New Forest East"
   },
   {
+    "id": 116,
+    "location": "Glaslyn",
+    "reporting_percent": 80.57,
+    "excuses": "Communications issue - escalated through business as usual process for communications failures.",
+    "lat": 52.92556805493755,
+    "lon": -4.132166185669181,
+    "pcon20nm": "Dwyfor Meirionnydd"
+  },
+  {
     "id": 24,
-    "shellfishery": "Taw/Torridge",
+    "location": "Taw/Torridge",
     "reporting_percent": 81.0,
+    "excuses": "Sensor failure / issue Resolved - December",
     "lat": 50.948221082292015,
     "lon": -4.138304999409106,
     "pcon20nm": "Torridge and West Devon"
   },
   {
     "id": 36,
-    "shellfishery": "Exe",
+    "location": "Exe",
     "reporting_percent": 81.0,
+    "excuses": "Telemetry or data archiving failure / issue Resolved - June",
     "lat": 50.717870118869655,
     "lon": -3.527414738377101,
     "pcon20nm": "Exeter"
   },
   {
     "id": 52,
-    "shellfishery": "Taw/Torridge",
+    "location": "Taw/Torridge",
     "reporting_percent": 82.0,
+    "excuses": "Sensor failure / issue Resolved - September",
     "lat": 51.07818140590675,
     "lon": -4.063199337378674,
     "pcon20nm": "North Devon"
   },
   {
-    "id": 99,
-    "shellfishery": "Colne, Pyfleet",
-    "reporting_percent": 82.0,
-    "lat": 51.87038901976662,
-    "lon": 0.9310691658742483,
-    "pcon20nm": "Colchester"
-  },
-  {
-    "id": 53,
-    "shellfishery": "Teign",
-    "reporting_percent": 82.0,
-    "lat": 50.547880530689646,
-    "lon": -3.507657106492995,
-    "pcon20nm": "Newton Abbot"
-  },
-  {
     "id": 96,
-    "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, SOUTHAMPTON WATER",
+    "location": "APPROACHES TO SOUTHAMPTONWATER, SOUTHAMPTON WATER",
     "reporting_percent": 82.0,
+    "excuses": "Power failure / issue Resolved - March",
     "lat": 50.87502807095422,
     "lon": -1.3572414266470711,
     "pcon20nm": "Eastleigh"
   },
   {
     "id": 50,
-    "shellfishery": "Taw/Torridge",
+    "location": "Taw/Torridge",
     "reporting_percent": 82.0,
+    "excuses": "Sensor failure / issue Resolved - December",
     "lat": 51.012501475975235,
     "lon": -4.2262454464489965,
     "pcon20nm": "Torridge and West Devon"
   },
   {
+    "id": 53,
+    "location": "Teign",
+    "reporting_percent": 82.0,
+    "excuses": "Sensor failure / issue Resolved  -  August",
+    "lat": 50.547880530689646,
+    "lon": -3.507657106492995,
+    "pcon20nm": "Newton Abbot"
+  },
+  {
+    "id": 99,
+    "location": "Colne, Pyfleet",
+    "reporting_percent": 82.44,
+    "excuses": "Installation set-up/design issue Resolved - July",
+    "lat": 51.87038901976662,
+    "lon": 0.9310691658742483,
+    "pcon20nm": "Colchester"
+  },
+  {
     "id": 60,
-    "shellfishery": "Helford",
+    "location": "Helford",
     "reporting_percent": 83.0,
+    "excuses": "Comms failure / issue Resolved - June",
     "lat": 50.11755628739299,
     "lon": -5.177182626577316,
     "pcon20nm": "Camborne and Redruth"
   },
   {
     "id": 128,
-    "shellfishery": "Glaslyn",
-    "reporting_percent": 83.0,
+    "location": "Glaslyn",
+    "reporting_percent": 83.11,
+    "excuses": "Communications issue, resolved in April 2021.",
     "lat": 52.92782117960719,
     "lon": -4.132366231483057,
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
     "id": 103,
-    "shellfishery": "West Wash",
-    "reporting_percent": 83.0,
+    "location": "West Wash",
+    "reporting_percent": 83.5239726027397,
+    "excuses": "Comms failure / issue N/A - Ongoing investigation",
     "lat": 52.96729035555053,
     "lon": -0.027928039338238283,
     "pcon20nm": "Boston and Skegness"
   },
   {
-    "id": 126,
-    "shellfishery": "Menai W",
-    "reporting_percent": 84.0,
-    "lat": 53.175614630994936,
-    "lon": -4.258891458359056,
-    "pcon20nm": "Ynys M\u00f4n"
-  },
-  {
     "id": 73,
-    "shellfishery": "Fal Estuary",
+    "location": "Fal Estuary",
     "reporting_percent": 84.0,
+    "excuses": "Comms failure / issue Resolved - April",
     "lat": 50.26244621188564,
     "lon": -5.054484312393047,
     "pcon20nm": "Truro and Falmouth"
   },
   {
     "id": 80,
-    "shellfishery": "SOUTHAMPTON WATER",
+    "location": "SOUTHAMPTON WATER",
     "reporting_percent": 84.0,
+    "excuses": "Power failure / issue Scheduled",
     "lat": 50.92062231630011,
     "lon": -1.3910425712978556,
     "pcon20nm": "Southampton, Test"
   },
   {
-    "id": 29,
-    "shellfishery": "Avon",
+    "id": 126,
+    "location": "Menai W",
+    "reporting_percent": 84.79,
+    "excuses": "Communications issue from 01/01 to 25/02/2021, resolved.",
+    "lat": 53.175614630994936,
+    "lon": -4.258891458359056,
+    "pcon20nm": "Ynys M\u00f4n"
+  },
+  {
+    "id": 27,
+    "location": "Taw/Torridge",
     "reporting_percent": 85.0,
+    "excuses": "Capital / maintenance works affect EDM operation Resolved - February",
+    "lat": 51.03420081828792,
+    "lon": -4.234403519628009,
+    "pcon20nm": "Torridge and West Devon"
+  },
+  {
+    "id": 29,
+    "location": "Avon",
+    "reporting_percent": 85.0,
+    "excuses": "Comms failure / issue Resolved - April",
     "lat": 50.42212658396769,
     "lon": -3.834637017111493,
     "pcon20nm": "Totnes"
   },
   {
     "id": 81,
-    "shellfishery": "SOUTHAMPTON WATER",
+    "location": "SOUTHAMPTON WATER",
     "reporting_percent": 85.0,
+    "excuses": "Power failure / issue Resolved - October",
     "lat": 50.91518382809019,
     "lon": -1.4000756062165212,
     "pcon20nm": "Southampton, Test"
   },
   {
     "id": 141,
-    "shellfishery": "PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
+    "location": "PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
     "reporting_percent": 85.0,
+    "excuses": "Power failure / issue Resolved - Feburary",
     "lat": 50.81903884955803,
     "lon": -1.0918331609629355,
     "pcon20nm": "Portsmouth North"
   },
   {
-    "id": 27,
-    "shellfishery": "Taw/Torridge",
-    "reporting_percent": 85.0,
-    "lat": 51.03420081828792,
-    "lon": -4.234403519628009,
-    "pcon20nm": "Torridge and West Devon"
-  },
-  {
     "id": 25,
-    "shellfishery": "Taw/Torridge",
+    "location": "Taw/Torridge",
     "reporting_percent": 86.0,
+    "excuses": "Comms failure / issue Resolved - May",
     "lat": 50.95504744064211,
     "lon": -4.1485859674681,
     "pcon20nm": "Torridge and West Devon"
   },
   {
-    "id": 68,
-    "shellfishery": "St.Austell Bay",
-    "reporting_percent": 87.0,
-    "lat": 50.33759226248154,
-    "lon": -4.681362511536222,
-    "pcon20nm": "St Austell and Newquay"
-  },
-  {
     "id": 58,
-    "shellfishery": "Camel",
+    "location": "Camel",
     "reporting_percent": 87.0,
+    "excuses": "Comms failure / issue Resolved - April",
     "lat": 50.474025280345536,
     "lon": -4.728824674067313,
     "pcon20nm": "North Cornwall"
   },
   {
-    "id": 39,
-    "shellfishery": "Dart",
+    "id": 68,
+    "location": "St.Austell Bay",
     "reporting_percent": 87.0,
+    "excuses": "Comms failure / issue Resolved - April",
+    "lat": 50.33759226248154,
+    "lon": -4.681362511536222,
+    "pcon20nm": "St Austell and Newquay"
+  },
+  {
+    "id": 39,
+    "location": "Dart",
+    "reporting_percent": 87.0,
+    "excuses": "Comms failure / issue Resolved - April",
     "lat": 50.43454519301235,
     "lon": -3.691763652468954,
     "pcon20nm": "Totnes"
   },
   {
     "id": 11,
-    "shellfishery": "Morecambe Bay (Leven)",
-    "reporting_percent": 87.0,
+    "location": "Morecambe Bay (Leven)",
+    "reporting_percent": 87.6,
+    "excuses": "Sensor failure / issue Resolved - March",
     "lat": 54.18908401594246,
     "lon": -3.088040385312578,
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 30,
-    "shellfishery": "Teign",
+    "id": 32,
+    "location": "Exe",
     "reporting_percent": 88.0,
-    "lat": 50.522997208006544,
-    "lon": -3.6193033942200463,
-    "pcon20nm": "Newton Abbot"
+    "excuses": "Comms failure / issue Resolved - April",
+    "lat": 50.704051033823376,
+    "lon": -3.5043061452953457,
+    "pcon20nm": "Exeter"
   },
   {
     "id": 69,
-    "shellfishery": "Fowey",
+    "location": "Fowey",
     "reporting_percent": 88.0,
+    "excuses": "Comms failure / issue Resolved - May",
     "lat": 50.330189009781634,
     "lon": -4.64328505763306,
     "pcon20nm": "St Austell and Newquay"
   },
   {
     "id": 49,
-    "shellfishery": "Teign",
+    "location": "Teign",
     "reporting_percent": 88.0,
+    "excuses": "Sensor failure / issue N/A - Ongoing investigation",
     "lat": 50.52640401767776,
     "lon": -3.59925829674833,
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 77,
-    "shellfishery": "SOUTHAMPTON WATER",
+    "id": 30,
+    "location": "Teign",
     "reporting_percent": 88.0,
+    "excuses": "Comms failure / issue Resolved - April",
+    "lat": 50.522997208006544,
+    "lon": -3.6193033942200463,
+    "pcon20nm": "Newton Abbot"
+  },
+  {
+    "id": 77,
+    "location": "SOUTHAMPTON WATER",
+    "reporting_percent": 88.0,
+    "excuses": "Comms failure / issue Resolved - Feburary",
     "lat": 50.904012901430264,
     "lon": -1.4508490937301988,
     "pcon20nm": "Southampton, Test"
   },
   {
-    "id": 32,
-    "shellfishery": "Exe",
-    "reporting_percent": 88.0,
-    "lat": 50.704051033823376,
-    "lon": -3.5043061452953457,
-    "pcon20nm": "Exeter"
-  },
-  {
     "id": 132,
-    "shellfishery": "Dee W",
-    "reporting_percent": 88.0,
+    "location": "Dee W",
+    "reporting_percent": 88.73,
+    "excuses": "Communications issue, resolved in October 2021.",
     "lat": 53.303026786544876,
     "lon": -3.2369049473727665,
     "pcon20nm": "Delyn"
   },
   {
-    "id": 38,
-    "shellfishery": "Teign",
+    "id": 61,
+    "location": "Fal Estuary",
     "reporting_percent": 89.0,
-    "lat": 50.53071477990069,
-    "lon": -3.6140644146333036,
-    "pcon20nm": "Newton Abbot"
+    "excuses": "Comms failure / issue Resolved - December",
+    "lat": 50.17166767380448,
+    "lon": -5.10905650990975,
+    "pcon20nm": "Truro and Falmouth"
   },
   {
     "id": 42,
-    "shellfishery": "Dart",
+    "location": "Dart",
     "reporting_percent": 89.0,
+    "excuses": "Comms failure / issue Resolved - May",
     "lat": 50.402960695173604,
     "lon": -3.619531030236991,
     "pcon20nm": "Totnes"
   },
   {
     "id": 28,
-    "shellfishery": "Exe",
+    "location": "Exe",
     "reporting_percent": 89.0,
+    "excuses": "Comms failure / issue Resolved - April",
     "lat": 50.7289645365191,
     "lon": -3.524941693354745,
     "pcon20nm": "Exeter"
   },
   {
-    "id": 61,
-    "shellfishery": "Fal Estuary",
-    "reporting_percent": 89.0,
-    "lat": 50.17166767380448,
-    "lon": -5.10905650990975,
-    "pcon20nm": "Truro and Falmouth"
-  },
-  {
     "id": 71,
-    "shellfishery": "Fal Estuary",
+    "location": "Fal Estuary",
     "reporting_percent": 89.0,
+    "excuses": "Comms failure / issue Resolved - June",
     "lat": 50.16824751701923,
     "lon": -5.0990302906806155,
     "pcon20nm": "Truro and Falmouth"
+  },
+  {
+    "id": 38,
+    "location": "Teign",
+    "reporting_percent": 89.0,
+    "excuses": "Comms failure / issue Resolved - April",
+    "lat": 50.53071477990069,
+    "lon": -3.6140644146333036,
+    "pcon20nm": "Newton Abbot"
   }
 ]

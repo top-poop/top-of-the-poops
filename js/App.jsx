@@ -2,7 +2,14 @@ import * as React from 'react';
 import {useState} from 'react';
 import ReactDOM from 'react-dom';
 import {LoadingPlot} from "./plot";
-import {BathingSewage, ShellfishSewage, SpillsByConstituency, SpillsByRiver, SpillsByWaterType} from "./spill-tables";
+import {
+    BathingSewage,
+    ReportingTable,
+    ShellfishSewage,
+    SpillsByConstituency,
+    SpillsByRiver,
+    SpillsByWaterType
+} from "./spill-tables";
 import {Alert, Card, Col, Container, Row, Table} from "react-bootstrap";
 import {ForkMeHero, TitleHero} from "./heroes";
 import {companies} from "./companies";
@@ -19,6 +26,8 @@ const spillMax = 80000;
 const spillColours = ['#fff7ec', '#fee8c8', '#fdd49e', '#fdbb84', '#fc8d59', '#ef6548', '#d7301f', '#990000']
 const beachMax = 5500;
 const beachColours = ['#e66101', '#fdb863', '#b2abd2', '#5e3c99']
+
+const reportingColours = ['#5e3c99', '#b2abd2', '#fdb863', '#e66101'];
 
 const colourScale = (colours, maxValue) => {
 
@@ -44,16 +53,27 @@ const spillsStyle = (feature) => {
 
 const beachStyle = (beach) => {
     const n = beach.total_spill_hours;
-    const beachColour = colourScale(beachColours, beachMax)(n)
+    const colour = colourScale(beachColours, beachMax)(n)
     return {
-        color: beachColour,
-        fillColor: beachColour,
+        color: colour,
+        fillColor: colour,
         fillOpacity: 0.5,
         radius: Math.log(n) * 500,
     }
 }
 
-const MapLegend = ({colours, max}) => {
+const reportingStyle = (reporting) => {
+    const n = reporting.reporting_percent;
+    const colour = colourScale(reportingColours, 100)(n)
+    return {
+        color: colour,
+        fillColor: colour,
+        fillOpacity: 0.5,
+        radius: 5000,
+    }
+}
+
+const MapLegend = ({colours, max, children}) => {
 
     const count = colours.length
     const step = max / count
@@ -66,7 +86,10 @@ const MapLegend = ({colours, max}) => {
             <br/>
         </React.Fragment>
     })
-    return <React.Fragment>{things}</React.Fragment>;
+    return <React.Fragment>
+        <div>{children}</div>
+        {things}
+    </React.Fragment>;
 }
 
 const CompaniesTable = () => {
@@ -225,6 +248,40 @@ const BeachMap = () => {
             {info}
         </InfoBox>
     </Map>
+}
+
+const ReportingInfo = ({report}) => {
+    return <React.Fragment>
+        <b>{report.location}</b>
+        <br/>Reporting working: {formatNumber(report.reporting_percent, 2)}%
+        <br/>Excuse: {report.excuses}
+    </React.Fragment>
+}
+
+const ReportingMap = ({url}) => {
+
+    const [ location, setLocation ] = useState()
+
+    const info = location ? <ReportingInfo report={location}/> :
+        <React.Fragment>Hover over/Tap on a location</React.Fragment>
+
+    return <Map>
+        <LoadingCircles
+            url={url}
+            style={reportingStyle}
+            onSelection={setLocation}
+        />
+        <Legend>
+            <MapLegend colours={reportingColours} max={100}>
+                Reporting Working Percentage
+            </MapLegend>
+        </Legend>
+        <InfoBox>
+            {info}
+        </InfoBox>
+    </Map>
+
+
 }
 
 const FacebookShare = () => {
@@ -482,8 +539,51 @@ class App extends React.Component {
                             a 'consent' - however some companies don't seem to match up very well at all.
                         </p>
 
+                        <p>Sometimes the recording or reporting is broken, so that the sewage is only being monitored as certain
+                        percentage of the time. Below we show bathing and shellfish areas where the reporting was active for
+                        less than 90% of the time. Notice that some reporting was active for ZERO percent - this means
+                        the reporting was switched off for the whole year. That might be why no sewage was reported.</p>
+                    </Col>
+                </Row>
+
+                <Row className="justify-content-md-center">
+                    <Col md={6}>
+                        <Card>
+                            <Card.Header className="font-weight-bold">Bathing Area Reporting Percentages 2021</Card.Header>
+                            <Card.Body className="m-0 p-0">
+                                <ReportingMap url="data/generated/beach-location-reporting.json"/>
+                            </Card.Body>
+                        </Card>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col>
+                        <ReportingTable url="data/generated/beach-location-reporting.json"/>
+                    </Col>
+                </Row>
+
+                <Row className="justify-content-md-center">
+                    <Col md={6}>
+                        <Card>
+                            <Card.Header className="font-weight-bold">Shellfish Area Reporting Percentages 2021</Card.Header>
+                            <Card.Body className="m-0 p-0">
+                                <ReportingMap url="data/generated/shellfish-location-reporting.json"/>
+                            </Card.Body>
+                        </Card>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col>
+                        <ReportingTable url="data/generated/shellfish-location-reporting.json"/>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <Col>
                         <p>
-                            In particular, United Utilities registers very many sewage dump incidents against permit
+                            Sometimes reporting happens against permit
                             numbers that appear to be
                             expired. We don't know the reason for this - it could be that they have no legal basis for
                             the sewage dump, or it could be that
@@ -498,7 +598,6 @@ class App extends React.Component {
                             Northumbrian Water lists 519 as 'Permit Anomaly', and Welsh Water lists over 2,000 spills as
                             "Unpermitted"
                         </p>
-
                     </Col>
                 </Row>
 

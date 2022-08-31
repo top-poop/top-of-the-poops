@@ -2,7 +2,7 @@ import {LoadingTable} from "./tables";
 import * as React from "react";
 import {tweetURI} from "./twitter";
 import {companiesMap} from "./companies";
-import {formatNumber, renderNumericCell} from "./text";
+import {formatNumber, renderNumericCell, renderPercentCell} from "./text";
 
 // oddly, react-table built-in compare, does stringy number compare (without sign)
 function compareNumeric(rowA, rowB, columnId) {
@@ -133,6 +133,17 @@ const SpillsByWaterType = () => {
     return <LoadingTable url={url} columns={columns}/>
 }
 
+
+const ReportingTable = ({url}) => {
+    const columns = [
+        {title: "Constituency", accessor: "pcon20nm", Cell: renderConstituencyCell},
+        {title: "Location", accessor: "location"},
+        {title: "Reporting", accessor: "reporting_percent", Cell: renderPercentCell},
+        {title: "Excuses", accessor: "excuses"},
+    ]
+    return <LoadingTable url={url} columns={columns}/>
+}
+
 const tweetTextFromRow = (row) => {
     const constituency = row.original.constituency
 
@@ -244,4 +255,4 @@ const SpillsByConstituency = () => {
     return <LoadingTable className="mp-info" url={spillsByConstituencyURL} columns={columns}/>
 }
 
-export {SpillsByWaterType, SpillsByConstituency, SpillsByRiver, ShellfishSewage, BathingSewage}
+export {SpillsByWaterType, SpillsByConstituency, SpillsByRiver, ShellfishSewage, BathingSewage, ReportingTable}

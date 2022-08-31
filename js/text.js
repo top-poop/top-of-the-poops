@@ -12,5 +12,7 @@ const formatNumber = (n, m) => n.toLocaleString(undefined, {
 
 const renderNumericCell = ({value}) => formatNumber(value)
 
-export {toKebabCase, formatNumber, renderNumericCell}
+const renderPercentCell = ({value}) => formatNumber(value, 2)
+
+export {toKebabCase, formatNumber, renderNumericCell, renderPercentCell}
 
