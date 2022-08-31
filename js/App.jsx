@@ -420,7 +420,7 @@ class App extends React.Component {
                     </Col>
                 </Row>
 
-                <Row><Col><h2>Into all water courses</h2></Col></Row>
+                <Row><Col><h2 id="water">Into all water courses</h2></Col></Row>
                 <Row>
                     <Col>
                         <p>Sewage overflows happen into all types of water system. Freshwater suddenly doesn't sound so
@@ -433,7 +433,7 @@ class App extends React.Component {
                     </Col>
                 </Row>
 
-                <Row><Col><h2>Into all rivers</h2></Col></Row>
+                <Row><Col><h2 id="rivers">Into all rivers</h2></Col></Row>
                 <Row>
                     <Col>
                         <p>Some rivers seem to receive more sewage than others. You can find your local river.</p>
@@ -446,7 +446,7 @@ class App extends React.Component {
                     </Col>
                 </Row>
 
-                <Row><Col><h2>Seasides</h2></Col></Row>
+                <Row><Col><h2 id="beaches">Seasides</h2></Col></Row>
 
                 <Mobile>
                     <Alert variant="success">
@@ -481,11 +481,7 @@ class App extends React.Component {
                     </Col>
                 </Row>
 
-                <Row>
-                    <Col>
-                        <h2>Shellfisheries</h2>
-                    </Col>
-                </Row>
+                <Row><Col><h2 id="shellfish">Shellfisheries</h2></Col></Row>
 
                 <Mobile>
                     <Alert variant="success">
@@ -525,11 +521,7 @@ class App extends React.Component {
                     </Col>
                 </Row>
 
-                <Row>
-                    <Col>
-                        <h2>Data Quality</h2>
-                    </Col>
-                </Row>
+                <Row><Col><h2 id="data">Data Quality</h2></Col></Row>
 
                 <Row>
                     <Col>
@@ -635,11 +627,7 @@ class App extends React.Component {
                     </Col>
                 </Row>
 
-                <Row>
-                    <Col>
-                        <h3>Company Contact Information</h3>
-                    </Col>
-                </Row>
+                <Row><Col><h3 id="companies">Company Contact Information</h3></Col></Row>
 
                 <Row>
                     <Col>
@@ -647,11 +635,7 @@ class App extends React.Component {
                     </Col>
                 </Row>
 
-                <Row>
-                    <Col>
-                        <h3>Media</h3>
-                    </Col>
-                </Row>
+                <Row><Col><h3 id="media">Media</h3></Col></Row>
 
                 <Row>
                     <Col>
@@ -669,11 +653,7 @@ class App extends React.Component {
                     </Col>
                 </Row>
 
-                <Row>
-                    <Col>
-                        <h3>Data Sources & Accuracy</h3>
-                    </Col>
-                </Row>
+                <Row><Col><h3 id="data">Data Sources & Accuracy</h3></Col></Row>
 
                 <Row>
                     <Col>
