@@ -258,7 +258,7 @@ const ReportingInfo = ({report}) => {
     </React.Fragment>
 }
 
-const ReportingMap = ({url}) => {
+const ReportingMap = ({url, maxReporting}) => {
 
     const [ location, setLocation ] = useState()
 
@@ -272,7 +272,7 @@ const ReportingMap = ({url}) => {
             onSelection={setLocation}
         />
         <Legend>
-            <MapLegend colours={reportingColours} max={100}>
+            <MapLegend colours={reportingColours} max={maxReporting ? maxReporting : 100}>
                 Reporting Working Percentage
             </MapLegend>
         </Legend>
@@ -537,6 +537,26 @@ class App extends React.Component {
                         the reporting was switched off for the whole year. That might be why no sewage was reported.</p>
                     </Col>
                 </Row>
+
+                <Row className="justify-content-md-center">
+                    <Col md={6}>
+                        <Card>
+                            <Card.Header className="font-weight-bold">Rivers Reporting Percentages 2021  - Under 50%</Card.Header>
+                            <Card.Body className="m-0 p-0">
+                                <ReportingMap url="data/generated/river-reporting.json" maxReporting={50}/>
+                            </Card.Body>
+                        </Card>
+                    </Col>
+                </Row>
+
+                <Row><Col>&nbsp;</Col></Row>
+
+                <Row>
+                    <Col>
+                        <ReportingTable url="data/generated/river-reporting.json"/>
+                    </Col>
+                </Row>
+
 
                 <Row className="justify-content-md-center">
                     <Col md={6}>
