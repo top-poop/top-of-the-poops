@@ -659,15 +659,13 @@ class App extends React.Component {
                     <Col>
                         <p>Please check out our policy on data re-use and attribution at <a
                             href="https://github.com/top-poop/top-of-the-poops">our GitHub page</a></p>
-                        <p>We've been featured in:
-
+                        <p>We've been featured in:</p>
                             <ul>
                                 <li><a href="https://sotn.newstatesman.com/2022/04/mapped-sewage-dumps-and-spills-in-england-and-wales/">The New Statesman</a> "Mapped: Sewage dumps and spills in England and Wales" </li>
                                 <li><a href="https://www.theguardian.com/environment/2022/may/02/untreated-sewage-discharge-england-coastal-bathing-waters-2021">The Guardian</a> "Raw sewage ‘pumped into English bathing waters 25,000 times in 2021’"</li>
                                 <li><a href="https://www.bbc.co.uk/news/uk-england-61194173">BBC News</a> "Protests over water firms dumping sewage in rivers"</li>
                                 <li><a href="https://www.independent.co.uk/news/uk/home-news/sewage-shellfish-pollution-england-uk-b1963688.html">The Independent</a> "Shellfish areas polluted by sewage tens of thousands of times last year"</li>
                             </ul>
-                             </p>
                     </Col>
                 </Row>
 
