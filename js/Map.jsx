@@ -203,9 +203,9 @@ const What = ({initial, data}) => {
                     <Row>
                         <Col>
                             <Alert variant="success">
-                                <p>Select the constituency from the drop-down - you can type in the box to search</p>
+                                Select the constituency from the drop-down - you can type in the box to search
                                 <Mobile>
-                                    <MapMove/>
+                                    <br/><MapMove/>
                                 </Mobile>
                             </Alert>
                             <Form>

@@ -408,10 +408,7 @@ class App extends React.Component {
                 </Row>
                 <Row>
                     <Col>
-                        <Alert variant="success">
-                            <p>Click on the constituency name to see a map of all the sewage dumps in the
-                                constituency</p>
-                        </Alert>
+                        <Alert variant="success">Click on the constituency name to see a map of all the sewage dumps in the constituency</Alert>
                     </Col>
                 </Row>
                 <Row>
@@ -449,9 +446,7 @@ class App extends React.Component {
                 <Row><Col><h2 id="beaches">Seasides</h2></Col></Row>
 
                 <Mobile>
-                    <Alert variant="success">
-                        <MapMove/>
-                    </Alert>
+                    <Alert variant="success"><MapMove/></Alert>
                 </Mobile>
 
                 <Row className="justify-content-md-center">
@@ -486,9 +481,7 @@ class App extends React.Component {
                 <Row><Col><h2 id="shellfish">Shellfisheries</h2></Col></Row>
 
                 <Mobile>
-                    <Alert variant="success">
-                        <MapMove/>
-                    </Alert>
+                    <Alert variant="success"><MapMove/></Alert>
                 </Mobile>
 
                 <Row className="justify-content-md-center">

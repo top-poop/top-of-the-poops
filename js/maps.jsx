@@ -109,7 +109,7 @@ const Mobile = ({children}) => {
 }
 
 const MapMove = () => {
-    return <p>Use two fingers to move &amp; zoom the map</p>
+    return <React.Fragment>Use two fingers to move &amp; zoom the map</React.Fragment>
 }
 
 
