@@ -1,6 +1,6 @@
 import {MapContainer, TileLayer, useMap} from "react-leaflet";
 import * as React from "react";
-import {useMemo} from "react";
+import {useEffect, useMemo, useState} from "react";
 import ReactDOMServer from 'react-dom/server'
 import {Loading} from "./loading";
 
@@ -32,12 +32,43 @@ const ewBounds = [
     [56.0474995832989, 1.7138671875000002]
 ]
 
+const Scrolly = () => {
+    const map = useMap();
+
+    const [dragging, setDragging] = useState(false);
+
+    useEffect(
+        () => {
+            map.on("movestart", () => {
+                setDragging(true)
+            });
+
+            map.on("moveend", () => {
+                setDragging(false)
+            });
+
+            map.on('focus', function() { map.scrollWheelZoom.enable(); });
+            map.on('blur', function() { map.scrollWheelZoom.disable(); });
+            map.on('mouseout', () => { map.scrollWheelZoom.disable();});
+
+            map._container.addEventListener("touchmove", (e) => {
+                if (dragging) {
+                    e.preventDefault()
+                }
+            })
+        },
+        [ map ]
+    )
+    return null;
+}
+
 const Map = ({children}) => {
     return <MapContainer
         bounds={ewBounds}
         dragging={!L.Browser.mobile}
-        scrollWheelZoom={true}>
+        scrollWheelZoom={false}>
         <Tiles/>
+        <Scrolly/>
         {children}
     </MapContainer>
 }
