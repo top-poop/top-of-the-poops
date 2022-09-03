@@ -173,6 +173,16 @@ table.top-10 {
     border-radius: 5px;
 }
 
+blockquote {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.container-fluid {
+    max-width: 1200px;
+}
+
+
 
 .resp-sharing-button__link,
 .resp-sharing-button__icon {

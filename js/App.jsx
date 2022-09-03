@@ -375,7 +375,7 @@ class App extends React.Component {
                 </Row>
 
                 <Row className="justify-content-md-center">
-                    <Col md={6}>
+                    <Col md={10}>
                         <Card>
                             <Card.Header className="font-weight-bold">Hours of Sewage By Constituency 2021</Card.Header>
                             <Card.Body className="m-0 p-0">
@@ -455,7 +455,7 @@ class App extends React.Component {
                 </Mobile>
 
                 <Row className="justify-content-md-center">
-                    <Col md={6}>
+                    <Col md={10}>
                         <Card>
                             <Card.Header className="font-weight-bold">Hours of Sewage By Bathing Area 2021</Card.Header>
                             <Card.Body className="m-0 p-0">
@@ -464,6 +464,8 @@ class App extends React.Component {
                         </Card>
                     </Col>
                 </Row>
+
+                <Row><Col>&nbsp;</Col></Row>
 
                 <Row>
                     <Col>
@@ -490,7 +492,7 @@ class App extends React.Component {
                 </Mobile>
 
                 <Row className="justify-content-md-center">
-                    <Col md={6}>
+                    <Col md={10}>
                         <Card>
                             <Card.Header className="font-weight-bold">Hours of Sewage By Shellfish Area
                                 2021</Card.Header>
@@ -507,11 +509,12 @@ class App extends React.Component {
                     </Col>
                 </Row>
 
+                <Row><Col>&nbsp;</Col></Row>
+
                 <Row>
                     <Col>
                         <p>Shellfish can become unfit for human consumption when polluted by sewage.</p>
-                        <p>In the 2021 data, there is no information for "Ravenglass", as the monitoring was broken for
-                            the whole year.</p>
+                        <p>Lots of the monitoring is completely broken. See below for more information</p>
                     </Col>
                 </Row>
 
@@ -538,7 +541,7 @@ class App extends React.Component {
                 </Row>
 
                 <Row className="justify-content-md-center">
-                    <Col md={6}>
+                    <Col md={10}>
                         <Card>
                             <Card.Header className="font-weight-bold">Rivers Reporting Percentages 2021  - Under 50%</Card.Header>
                             <Card.Body className="m-0 p-0">
@@ -558,7 +561,7 @@ class App extends React.Component {
 
 
                 <Row className="justify-content-md-center">
-                    <Col md={6}>
+                    <Col md={10}>
                         <Card>
                             <Card.Header className="font-weight-bold">Bathing Area Reporting Percentages 2021 - Under 90%</Card.Header>
                             <Card.Body className="m-0 p-0">
@@ -577,7 +580,7 @@ class App extends React.Component {
                 </Row>
 
                 <Row className="justify-content-md-center">
-                    <Col md={6}>
+                    <Col md={10}>
                         <Card>
                             <Card.Header className="font-weight-bold">Shellfish Area Reporting Percentages 2021  - Under 90%</Card.Header>
                             <Card.Body className="m-0 p-0">

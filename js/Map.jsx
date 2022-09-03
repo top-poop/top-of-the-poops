@@ -202,6 +202,12 @@ const What = ({initial, data}) => {
                 <Container>
                     <Row>
                         <Col>
+                            <Alert variant="success">
+                                <p>Select the constituency from the drop-down - you can type in the box to search</p>
+                                <Mobile>
+                                    <MapMove/>
+                                </Mobile>
+                            </Alert>
                             <Form>
                                 <FormGroup>
                                     <Form.Label>Constituency</Form.Label>
@@ -236,12 +242,6 @@ const MapApp = ( { constituency }) => {
     return <div>
         <TitleHero/>
         <ForkMeHero/>
-        <Alert variant="success">
-            <p>Select the constituency from the drop-down - you can type in the box to search</p>
-            <Mobile>
-                <MapMove/>
-            </Mobile>
-        </Alert>
         <Loading url="data/generated/spills-all.json"
                  render={(data) => <What data={data} initial={constituency}/>}
         />
