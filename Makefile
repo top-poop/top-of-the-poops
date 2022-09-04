@@ -30,7 +30,7 @@ web/data/generated/%.json: generate/$(basename $(notdir %)).sql $(PYTHON) $(GENE
 
 .PHONY: clean
 clean:
-	rm web/data/generated/*.json
+	rm web/data/generated/*.json web/data/generated/chloropleth/chloro.json
 
 generated: $(GENERATED) web/data/generated/chloropleth/chloro.json
 

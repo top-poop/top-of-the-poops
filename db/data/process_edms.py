@@ -73,6 +73,11 @@ def thames_water(row):
 
 
 def united_utilities(row):
+
+    # permit number in different place
+    row[2] = row[10]
+
+
     # spill hours as hh:mm:ss
     match = re.search(r"(\d+):(\d+):(\d+)", row[6])
     total = 0.0

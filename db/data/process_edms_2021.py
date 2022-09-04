@@ -3,6 +3,7 @@
 import argparse
 import csv
 import os
+import re
 
 nas = {"n/a", "#n/a", "#na"}
 
@@ -40,7 +41,12 @@ def ensure_is_percentage(thing):
     return thing
 
 
-def epr_consent(provided):
+def epr_consent(company, provided):
+
+    if company == "Wessex Water":
+        if re.match(r"^\d{5}$", provided):
+            provided = f"0{provided}"
+
     if provided.startswith("EPR"):
         provided = "".join(provided.split("/"))
     return provided
@@ -55,7 +61,7 @@ def write_row(writer, row):
 
 def bodge(row):
     return 2021, row[0], row[1], \
-           epr_consent(row[3]), row[5], \
+           epr_consent(row[0], row[3]), row[5], \
            ensure_bathing_or_shellfish(row[11]), ensure_bathing_or_shellfish(row[12]), \
            ensure_numeric_or_empty(row[14]), \
            ensure_numeric_or_empty(row[15]), \

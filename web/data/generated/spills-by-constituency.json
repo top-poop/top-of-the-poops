@@ -50,14 +50,26 @@
   {
     "constituency": "Penrith and The Border",
     "company": "United Utilities",
-    "total_spills": 5668.0,
-    "total_hours": 50037.28,
-    "spills_increase": -2195.0,
-    "hours_increase": -18847.55,
+    "total_spills": 6084.0,
+    "total_hours": 51249.75,
+    "spills_increase": -3229.0,
+    "hours_increase": -28494.12,
     "mp_name": "Neil Hudson",
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/25875/neil_hudson/penrith_and_the_border",
     "twitter_handle": "@DrNeilHudson"
+  },
+  {
+    "constituency": "Workington",
+    "company": "United Utilities",
+    "total_spills": 4707.0,
+    "total_hours": 44453.62,
+    "spills_increase": -2923.0,
+    "hours_increase": -25337.69,
+    "mp_name": "Mark Jenkinson",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25792/mark_jenkinson/workington",
+    "twitter_handle": "@markjenkinsonmp"
   },
   {
     "constituency": "Carmarthen West and South Pembrokeshire",
@@ -82,18 +94,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/24914/mel_stride/central_devon",
     "twitter_handle": "@MelJStride"
-  },
-  {
-    "constituency": "Workington",
-    "company": "United Utilities",
-    "total_spills": 4234.0,
-    "total_hours": 42742.94,
-    "spills_increase": -2424.0,
-    "hours_increase": -16233.42,
-    "mp_name": "Mark Jenkinson",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25792/mark_jenkinson/workington",
-    "twitter_handle": "@markjenkinsonmp"
   },
   {
     "constituency": "Ceredigion",
@@ -204,18 +204,6 @@
     "twitter_handle": "@scottmann4NC"
   },
   {
-    "constituency": "Ribble Valley",
-    "company": "United Utilities",
-    "total_spills": 2550.0,
-    "total_hours": 30093.0,
-    "spills_increase": -978.0,
-    "hours_increase": -9957.93,
-    "mp_name": "Nigel Evans",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/10190/nigel_evans/ribble_valley",
-    "twitter_handle": "@nigelmp"
-  },
-  {
     "constituency": "Ogmore",
     "company": "Dwr Cymru Welsh Water",
     "total_spills": 3391.0,
@@ -276,6 +264,18 @@
     "twitter_handle": "@Rees4Neath"
   },
   {
+    "constituency": "Ribble Valley",
+    "company": "United Utilities",
+    "total_spills": 2826.0,
+    "total_hours": 26701.85,
+    "spills_increase": -1673.0,
+    "hours_increase": -19970.13,
+    "mp_name": "Nigel Evans",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/10190/nigel_evans/ribble_valley",
+    "twitter_handle": "@nigelmp"
+  },
+  {
     "constituency": "Richmond (Yorks)",
     "company": "Yorkshire Water",
     "total_spills": 3188.0,
@@ -300,6 +300,18 @@
     "twitter_handle": "@neil_parish"
   },
   {
+    "constituency": "Copeland",
+    "company": "United Utilities",
+    "total_spills": 3088.0,
+    "total_hours": 24660.46,
+    "spills_increase": -2641.0,
+    "hours_increase": -26867.06,
+    "mp_name": "Trudy Harrison",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25600/trudy_harrison/copeland",
+    "twitter_handle": null
+  },
+  {
     "constituency": "Shrewsbury and Atcham",
     "company": "Severn Trent Water",
     "total_spills": 2000.0,
@@ -310,6 +322,18 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/11817/daniel_kawczynski/shrewsbury_and_atcham",
     "twitter_handle": "@DKShrewsbury"
+  },
+  {
+    "constituency": "Barrow and Furness",
+    "company": "United Utilities",
+    "total_spills": 2204.0,
+    "total_hours": 22703.49,
+    "spills_increase": -580.0,
+    "hours_increase": -2185.14,
+    "mp_name": "Simon Fell",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25869/simon_fell/barrow_and_furness",
+    "twitter_handle": "@simonfell"
   },
   {
     "constituency": "Hexham",
@@ -326,26 +350,14 @@
   {
     "constituency": "Westmorland and Lonsdale",
     "company": "United Utilities",
-    "total_spills": 1857.0,
-    "total_hours": 22371.8,
-    "spills_increase": -321.0,
-    "hours_increase": -5042.39,
+    "total_spills": 1889.0,
+    "total_hours": 22638.7,
+    "spills_increase": -1064.0,
+    "hours_increase": -15334.08,
     "mp_name": "Tim Farron",
     "mp_party": "Liberal Democrat",
     "mp_uri": "https://www.theyworkforyou.com/mp/11923/tim_farron/westmorland_and_lonsdale",
     "twitter_handle": "@timfarron"
-  },
-  {
-    "constituency": "Barrow and Furness",
-    "company": "United Utilities",
-    "total_spills": 2041.0,
-    "total_hours": 22241.1,
-    "spills_increase": 347.0,
-    "hours_increase": 4948.08,
-    "mp_name": "Simon Fell",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25869/simon_fell/barrow_and_furness",
-    "twitter_handle": "@simonfell"
   },
   {
     "constituency": "Selby and Ainsty",
@@ -358,18 +370,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/24878/nigel_adams/selby_and_ainsty",
     "twitter_handle": "@nadams"
-  },
-  {
-    "constituency": "Copeland",
-    "company": "United Utilities",
-    "total_spills": 2725.0,
-    "total_hours": 21462.95,
-    "spills_increase": -1970.0,
-    "hours_increase": -19915.99,
-    "mp_name": "Trudy Harrison",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25600/trudy_harrison/copeland",
-    "twitter_handle": null
   },
   {
     "constituency": "North Devon",
@@ -444,6 +444,18 @@
     "twitter_handle": "@GillianKeegan"
   },
   {
+    "constituency": "Somerton and Frome",
+    "company": "Wessex Water",
+    "total_spills": 1962.0,
+    "total_hours": 18427.0,
+    "spills_increase": -408.0,
+    "hours_increase": -4678.68,
+    "mp_name": "David Warburton",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25372/david_warburton/somerton_and_frome",
+    "twitter_handle": "@DJWarburton"
+  },
+  {
     "constituency": "Calder Valley",
     "company": "Yorkshire Water",
     "total_spills": 3159.0,
@@ -454,6 +466,30 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/24944/craig_whittaker/calder_valley",
     "twitter_handle": "@CWhittaker_MP"
+  },
+  {
+    "constituency": "West Dorset",
+    "company": "Wessex Water",
+    "total_spills": 1958.0,
+    "total_hours": 17346.72,
+    "spills_increase": -561.0,
+    "hours_increase": -11965.31,
+    "mp_name": "Chris Loder",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25918/chris_loder/west_dorset",
+    "twitter_handle": "@chrisloder"
+  },
+  {
+    "constituency": "Amber Valley",
+    "company": "Severn Trent Water",
+    "total_spills": 2416.0,
+    "total_hours": 16922.501061,
+    "spills_increase": 533.0,
+    "hours_increase": 3507.891061,
+    "mp_name": "Nigel Mills",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24965/nigel_mills/amber_valley",
+    "twitter_handle": "@nigelmills"
   },
   {
     "constituency": "North West Durham",
@@ -504,18 +540,6 @@
     "twitter_handle": "@DavidTCDavies"
   },
   {
-    "constituency": "Amber Valley",
-    "company": "Severn Trent Water",
-    "total_spills": 2447.0,
-    "total_hours": 16527.105226,
-    "spills_increase": 535.0,
-    "hours_increase": 3011.935226,
-    "mp_name": "Nigel Mills",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24965/nigel_mills/amber_valley",
-    "twitter_handle": "@nigelmills"
-  },
-  {
     "constituency": "Rhondda",
     "company": "Dwr Cymru Welsh Water",
     "total_spills": 3167.0,
@@ -530,10 +554,10 @@
   {
     "constituency": "York Central",
     "company": "Yorkshire Water",
-    "total_spills": 1896.0,
-    "total_hours": 15509.216666666667,
-    "spills_increase": 140.0,
-    "hours_increase": 739.2766666666666,
+    "total_spills": 1940.0,
+    "total_hours": 15944.716666666667,
+    "spills_increase": 173.0,
+    "hours_increase": 1103.6166666666666,
     "mp_name": "Rachael Maskell",
     "mp_party": "Labour/Co-operative",
     "mp_uri": "https://www.theyworkforyou.com/mp/25433/rachael_maskell/york_central",
@@ -648,6 +672,18 @@
     "twitter_handle": null
   },
   {
+    "constituency": "Tatton",
+    "company": "United Utilities",
+    "total_spills": 1983.0,
+    "total_hours": 14247.09,
+    "spills_increase": -199.0,
+    "hours_increase": 6189.55,
+    "mp_name": "Esther McVey",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24882/esther_mcvey/tatton",
+    "twitter_handle": "@EstherMcVey1"
+  },
+  {
     "constituency": "Llanelli",
     "company": "Dwr Cymru Welsh Water",
     "total_spills": 1863.0,
@@ -686,10 +722,10 @@
   {
     "constituency": "Keighley",
     "company": "Yorkshire Water",
-    "total_spills": 2103.0,
-    "total_hours": 13720.6,
-    "spills_increase": 100.0,
-    "hours_increase": -1175.87,
+    "total_spills": 2079.0,
+    "total_hours": 13643.4,
+    "spills_increase": 118.0,
+    "hours_increase": -1108.77,
     "mp_name": "Robbie Moore",
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/25922/robbie_moore/keighley",
@@ -700,24 +736,12 @@
     "company": "United Utilities",
     "total_spills": 1213.0,
     "total_hours": 13292.77,
-    "spills_increase": -288.0,
-    "hours_increase": -4783.41,
+    "spills_increase": -502.0,
+    "hours_increase": -7153.06,
     "mp_name": "Julian Smith",
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/24961/julian_smith/skipton_and_ripon",
     "twitter_handle": "@JulianSmithUK"
-  },
-  {
-    "constituency": "Tatton",
-    "company": "United Utilities",
-    "total_spills": 1483.0,
-    "total_hours": 13244.33,
-    "spills_increase": -501.0,
-    "hours_increase": 5749.34,
-    "mp_name": "Esther McVey",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24882/esther_mcvey/tatton",
-    "twitter_handle": "@EstherMcVey1"
   },
   {
     "constituency": "St Austell and Newquay",
@@ -730,6 +754,18 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/25410/steve_double/st_austell_and_newquay",
     "twitter_handle": "@stevedouble"
+  },
+  {
+    "constituency": "Bolton West",
+    "company": "United Utilities",
+    "total_spills": 1598.0,
+    "total_hours": 13035.37,
+    "spills_increase": 115.0,
+    "hours_increase": 6281.88,
+    "mp_name": "Chris Green",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25359/chris_green/bolton_west",
+    "twitter_handle": "@CGreenUK"
   },
   {
     "constituency": "Bishop Auckland",
@@ -794,14 +830,50 @@
   {
     "constituency": "Sedgefield",
     "company": "Northumbrian Water",
-    "total_spills": 1583.0,
-    "total_hours": 12032.25,
-    "spills_increase": 609.0,
-    "hours_increase": 6047.87,
+    "total_spills": 1587.0,
+    "total_hours": 12040.0,
+    "spills_increase": 613.0,
+    "hours_increase": 6055.62,
     "mp_name": "Paul Howell",
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/25855/paul_howell/sedgefield",
     "twitter_handle": "@PaulHowellMP"
+  },
+  {
+    "constituency": "North East Somerset",
+    "company": "Wessex Water",
+    "total_spills": 1934.0,
+    "total_hours": 11986.966666666667,
+    "spills_increase": -661.0,
+    "hours_increase": -11201.953333333333,
+    "mp_name": "Jacob Rees-Mogg",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24926/jacob_rees-mogg/north_east_somerset",
+    "twitter_handle": "@Jacob_Rees_Mogg"
+  },
+  {
+    "constituency": "North Wiltshire",
+    "company": "Wessex Water",
+    "total_spills": 1217.0,
+    "total_hours": 11771.4,
+    "spills_increase": -482.0,
+    "hours_increase": -6620.6,
+    "mp_name": "James Gray",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/10240/james_gray/north_wiltshire",
+    "twitter_handle": "@JGray"
+  },
+  {
+    "constituency": "Morecambe and Lunesdale",
+    "company": "United Utilities",
+    "total_spills": 949.0,
+    "total_hours": 11733.24,
+    "spills_increase": -310.0,
+    "hours_increase": -389.06,
+    "mp_name": "David Morris",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24966/david_morris/morecambe_and_lunesdale",
+    "twitter_handle": "@davidmorrisml"
   },
   {
     "constituency": "Newton Abbot",
@@ -816,6 +888,18 @@
     "twitter_handle": "@AnneMarieMorris"
   },
   {
+    "constituency": "Stretford and Urmston",
+    "company": "United Utilities",
+    "total_spills": 1726.0,
+    "total_hours": 11682.38,
+    "spills_increase": -280.0,
+    "hours_increase": -312.1,
+    "mp_name": "Kate Green",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24896/kate_green/stretford_and_urmston",
+    "twitter_handle": "@KateGreenSU"
+  },
+  {
     "constituency": "Tewkesbury",
     "company": "Severn Trent Water",
     "total_spills": 1243.0,
@@ -828,16 +912,28 @@
     "twitter_handle": "@lrobertsonTewks"
   },
   {
-    "constituency": "Morecambe and Lunesdale",
+    "constituency": "Leigh",
     "company": "United Utilities",
-    "total_spills": 863.0,
-    "total_hours": 11533.63,
-    "spills_increase": -43.0,
-    "hours_increase": 1976.07,
-    "mp_name": "David Morris",
+    "total_spills": 1491.0,
+    "total_hours": 11518.44,
+    "spills_increase": 465.0,
+    "hours_increase": 6967.2,
+    "mp_name": "James Grundy",
     "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24966/david_morris/morecambe_and_lunesdale",
-    "twitter_handle": "@davidmorrisml"
+    "mp_uri": "https://www.theyworkforyou.com/mp/25812/james_grundy/leigh",
+    "twitter_handle": null
+  },
+  {
+    "constituency": "North Dorset",
+    "company": "Wessex Water",
+    "total_spills": 984.0,
+    "total_hours": 11499.0,
+    "spills_increase": 119.0,
+    "hours_increase": 2700.01,
+    "mp_name": "Simon Hoare",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25427/simon_hoare/north_dorset",
+    "twitter_handle": "@Simon4NDorset"
   },
   {
     "constituency": "East Devon",
@@ -864,6 +960,30 @@
     "twitter_handle": "@SKinnock"
   },
   {
+    "constituency": "Pendle",
+    "company": "United Utilities",
+    "total_spills": 1295.0,
+    "total_hours": 11120.19,
+    "spills_increase": -152.0,
+    "hours_increase": 2505.87,
+    "mp_name": "Andrew Stephenson",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24759/andrew_stephenson/pendle",
+    "twitter_handle": "@Andrew4Pendle"
+  },
+  {
+    "constituency": "Salisbury",
+    "company": "Wessex Water",
+    "total_spills": 889.0,
+    "total_hours": 10994.4,
+    "spills_increase": -269.0,
+    "hours_increase": -5788.29,
+    "mp_name": "John Glen",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24839/john_glen/salisbury",
+    "twitter_handle": "@JohnGlenUK"
+  },
+  {
     "constituency": "Ludlow",
     "company": "Severn Trent Water",
     "total_spills": 1424.0,
@@ -874,18 +994,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/11696/philip_dunne/ludlow",
     "twitter_handle": "@Dunne4Ludlow"
-  },
-  {
-    "constituency": "Somerton and Frome",
-    "company": "Wessex Water",
-    "total_spills": 1276.0,
-    "total_hours": 10895.5,
-    "spills_increase": -1094.0,
-    "hours_increase": -12210.18,
-    "mp_name": "David Warburton",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25372/david_warburton/somerton_and_frome",
-    "twitter_handle": "@DJWarburton"
   },
   {
     "constituency": "Montgomeryshire",
@@ -902,10 +1010,10 @@
   {
     "constituency": "South Derbyshire",
     "company": "Severn Trent Water",
-    "total_spills": 1101.0,
-    "total_hours": 10713.553318,
-    "spills_increase": -250.0,
-    "hours_increase": -5787.366682,
+    "total_spills": 1109.0,
+    "total_hours": 10734.42304,
+    "spills_increase": -249.0,
+    "hours_increase": -5767.83696,
     "mp_name": "Heather Wheeler",
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/24769/heather_wheeler/south_derbyshire",
@@ -946,18 +1054,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/25799/simon_baynes/clwyd_south",
     "twitter_handle": "@baynes_simon"
-  },
-  {
-    "constituency": "Leigh",
-    "company": "United Utilities",
-    "total_spills": 1239.0,
-    "total_hours": 10467.69,
-    "spills_increase": 295.0,
-    "hours_increase": 6375.53,
-    "mp_name": "James Grundy",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25812/james_grundy/leigh",
-    "twitter_handle": null
   },
   {
     "constituency": "Penistone and Stocksbridge",
@@ -1008,30 +1104,6 @@
     "twitter_handle": "@RobertJenrick"
   },
   {
-    "constituency": "North Wiltshire",
-    "company": "Wessex Water",
-    "total_spills": 964.0,
-    "total_hours": 9973.1,
-    "spills_increase": -735.0,
-    "hours_increase": -8418.9,
-    "mp_name": "James Gray",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/10240/james_gray/north_wiltshire",
-    "twitter_handle": "@JGray"
-  },
-  {
-    "constituency": "Wentworth and Dearne",
-    "company": "Yorkshire Water",
-    "total_spills": 1389.0,
-    "total_hours": 9950.4,
-    "spills_increase": 524.0,
-    "hours_increase": -2208.82,
-    "mp_name": "John Healey",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/10268/john_healey/wentworth_and_dearne",
-    "twitter_handle": "@JohnHealey_MP"
-  },
-  {
     "constituency": "Beverley and Holderness",
     "company": "Yorkshire Water",
     "total_spills": 1754.0,
@@ -1080,6 +1152,30 @@
     "twitter_handle": "@RishiSunak"
   },
   {
+    "constituency": "Chorley",
+    "company": "United Utilities",
+    "total_spills": 1486.0,
+    "total_hours": 9836.5,
+    "spills_increase": -285.0,
+    "hours_increase": 1279.26,
+    "mp_name": "Lindsay Hoyle",
+    "mp_party": "Speaker",
+    "mp_uri": "https://www.theyworkforyou.com/mp/10295/lindsay_hoyle/chorley",
+    "twitter_handle": "@LindsayHoyle_MP"
+  },
+  {
+    "constituency": "South Ribble",
+    "company": "United Utilities",
+    "total_spills": 1282.0,
+    "total_hours": 9801.09,
+    "spills_increase": -497.0,
+    "hours_increase": -651.02,
+    "mp_name": "Katherine Fletcher",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25830/katherine_fletcher/south_ribble",
+    "twitter_handle": "@K_Fletcher_MP"
+  },
+  {
     "constituency": "Bosworth",
     "company": "Severn Trent Water",
     "total_spills": 1153.0,
@@ -1092,40 +1188,40 @@
     "twitter_handle": "@drlukeevans"
   },
   {
-    "constituency": "North East Somerset",
+    "constituency": "Yeovil",
     "company": "Wessex Water",
-    "total_spills": 1138.0,
-    "total_hours": 9720.666666666666,
-    "spills_increase": -1457.0,
-    "hours_increase": -13468.253333333334,
-    "mp_name": "Jacob Rees-Mogg",
+    "total_spills": 1375.0,
+    "total_hours": 9710.833333333334,
+    "spills_increase": -32.0,
+    "hours_increase": -1988.4666666666667,
+    "mp_name": "Marcus Fysh",
     "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24926/jacob_rees-mogg/north_east_somerset",
-    "twitter_handle": "@Jacob_Rees_Mogg"
+    "mp_uri": "https://www.theyworkforyou.com/mp/25384/marcus_fysh/yeovil",
+    "twitter_handle": "@MarcusFysh"
   },
   {
-    "constituency": "West Dorset",
-    "company": "Wessex Water",
-    "total_spills": 1235.0,
-    "total_hours": 9537.32,
-    "spills_increase": -1284.0,
-    "hours_increase": -19774.71,
-    "mp_name": "Chris Loder",
+    "constituency": "Rossendale and Darwen",
+    "company": "United Utilities",
+    "total_spills": 1927.0,
+    "total_hours": 9642.03,
+    "spills_increase": -871.0,
+    "hours_increase": -1593.28,
+    "mp_name": "Jake Berry",
     "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25918/chris_loder/west_dorset",
-    "twitter_handle": "@chrisloder"
+    "mp_uri": "https://www.theyworkforyou.com/mp/24860/jake_berry/rossendale_and_darwen",
+    "twitter_handle": "@JakeBerry"
   },
   {
-    "constituency": "Huddersfield",
-    "company": "Yorkshire Water",
-    "total_spills": 2167.0,
-    "total_hours": 9450.9,
-    "spills_increase": 494.0,
-    "hours_increase": 1395.67,
-    "mp_name": "Barry Sheerman",
-    "mp_party": "Labour/Co-operative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/10534/barry_sheerman/huddersfield",
-    "twitter_handle": "@BarrySheerman"
+    "constituency": "Taunton Deane",
+    "company": "Wessex Water",
+    "total_spills": 1122.0,
+    "total_hours": 9605.943888888954,
+    "spills_increase": -95.0,
+    "hours_increase": -4387.256111111045,
+    "mp_name": "Rebecca Pow",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25407/rebecca_pow/taunton_deane",
+    "twitter_handle": "@pow_rebecca"
   },
   {
     "constituency": "Newbury",
@@ -1150,6 +1246,18 @@
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/11003/kevan_jones/north_durham",
     "twitter_handle": "@KevanJonesMP"
+  },
+  {
+    "constituency": "High Peak",
+    "company": "United Utilities",
+    "total_spills": 1238.0,
+    "total_hours": 9244.94,
+    "spills_increase": -604.0,
+    "hours_increase": -4593.69,
+    "mp_name": "Robert Largan",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25841/robert_largan/high_peak",
+    "twitter_handle": "@robertlargan"
   },
   {
     "constituency": "Ashford",
@@ -1212,28 +1320,28 @@
     "twitter_handle": "@AlbertoCostaMP"
   },
   {
+    "constituency": "Wentworth and Dearne",
+    "company": "Yorkshire Water",
+    "total_spills": 1309.0,
+    "total_hours": 8746.4,
+    "spills_increase": 457.0,
+    "hours_increase": -3199.14,
+    "mp_name": "John Healey",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/10268/john_healey/wentworth_and_dearne",
+    "twitter_handle": "@JohnHealey_MP"
+  },
+  {
     "constituency": "Jarrow",
     "company": "Northumbrian Water",
-    "total_spills": 1248.0,
-    "total_hours": 8719.14,
-    "spills_increase": 277.0,
-    "hours_increase": 3457.38,
+    "total_spills": 1249.0,
+    "total_hours": 8721.64,
+    "spills_increase": 278.0,
+    "hours_increase": 3459.88,
     "mp_name": "Kate Osborne",
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/25794/kate_osborne/jarrow",
     "twitter_handle": "@KateOsborneMP"
-  },
-  {
-    "constituency": "Hemsworth",
-    "company": "Yorkshire Water",
-    "total_spills": 990.0,
-    "total_hours": 8709.8,
-    "spills_increase": -99.0,
-    "hours_increase": 3886.44,
-    "mp_name": "Jon Trickett",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/10604/jon_trickett/hemsworth",
-    "twitter_handle": "@jon_trickett"
   },
   {
     "constituency": "The Cotswolds",
@@ -1320,16 +1428,28 @@
     "twitter_handle": "@AlexDaviesJones"
   },
   {
-    "constituency": "York Outer",
+    "constituency": "Batley and Spen",
     "company": "Yorkshire Water",
-    "total_spills": 1024.0,
-    "total_hours": 8344.7,
-    "spills_increase": 489.0,
-    "hours_increase": 3341.94,
-    "mp_name": "Julian Sturdy",
+    "total_spills": 1160.0,
+    "total_hours": 8310.3,
+    "spills_increase": 552.0,
+    "hours_increase": 4964.89,
+    "mp_name": "Kim Leadbeater",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/26040/kim_leadbeater/batley_and_spen",
+    "twitter_handle": "@TracyBrabin"
+  },
+  {
+    "constituency": "Wyre and Preston North",
+    "company": "United Utilities",
+    "total_spills": 1280.0,
+    "total_hours": 8235.53,
+    "spills_increase": -632.0,
+    "hours_increase": -1685.18,
+    "mp_name": "Ben Wallace",
     "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24853/julian_sturdy/york_outer",
-    "twitter_handle": "@JulianSturdy"
+    "mp_uri": "https://www.theyworkforyou.com/mp/11668/ben_wallace/wyre_and_preston_north",
+    "twitter_handle": "@BWallaceMP"
   },
   {
     "constituency": "South Northamptonshire",
@@ -1354,6 +1474,18 @@
     "mp_party": "Labour/Co-operative",
     "mp_uri": "https://www.theyworkforyou.com/mp/25690/luke_pollard/plymouth%2C_sutton_and_devonport",
     "twitter_handle": "@LukePollard"
+  },
+  {
+    "constituency": "Eddisbury",
+    "company": "United Utilities",
+    "total_spills": 1121.0,
+    "total_hours": 8155.94,
+    "spills_increase": -70.0,
+    "hours_increase": 4386.62,
+    "mp_name": "Edward Timpson",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/14128/edward_timpson/eddisbury",
+    "twitter_handle": "@edwardtimpson"
   },
   {
     "constituency": "Henley",
@@ -1392,16 +1524,16 @@
     "twitter_handle": "@craig4nwarks"
   },
   {
-    "constituency": "Stretford and Urmston",
-    "company": "United Utilities",
-    "total_spills": 1186.0,
-    "total_hours": 8087.3,
-    "spills_increase": -222.0,
-    "hours_increase": -1220.66,
-    "mp_name": "Kate Green",
+    "constituency": "Hemsworth",
+    "company": "Yorkshire Water",
+    "total_spills": 943.0,
+    "total_hours": 8022.3,
+    "spills_increase": -87.0,
+    "hours_increase": 4145.05,
+    "mp_name": "Jon Trickett",
     "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24896/kate_green/stretford_and_urmston",
-    "twitter_handle": "@KateGreenSU"
+    "mp_uri": "https://www.theyworkforyou.com/mp/10604/jon_trickett/hemsworth",
+    "twitter_handle": "@jon_trickett"
   },
   {
     "constituency": "Barnsley East",
@@ -1414,18 +1546,6 @@
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/25617/stephanie_peacock/barnsley_east",
     "twitter_handle": "@Steph_Peacock"
-  },
-  {
-    "constituency": "Bolsover",
-    "company": "Severn Trent Water",
-    "total_spills": 806.0,
-    "total_hours": 7959.561383,
-    "spills_increase": 255.0,
-    "hours_increase": 2758.251383,
-    "mp_name": "Mark Fletcher",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25903/mark_fletcher/bolsover",
-    "twitter_handle": null
   },
   {
     "constituency": "Rushcliffe",
@@ -1452,16 +1572,40 @@
     "twitter_handle": null
   },
   {
-    "constituency": "South Ribble",
+    "constituency": "Warrington South",
     "company": "United Utilities",
-    "total_spills": 780.0,
-    "total_hours": 7856.61,
-    "spills_increase": -535.0,
-    "hours_increase": 1240.7,
-    "mp_name": "Katherine Fletcher",
+    "total_spills": 1120.0,
+    "total_hours": 7921.89,
+    "spills_increase": -335.0,
+    "hours_increase": -2521.92,
+    "mp_name": "Andy Carter",
     "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25830/katherine_fletcher/south_ribble",
-    "twitter_handle": "@K_Fletcher_MP"
+    "mp_uri": "https://www.theyworkforyou.com/mp/25884/andy_carter/warrington_south",
+    "twitter_handle": "@MrAndy_Carter"
+  },
+  {
+    "constituency": "Bolton North East",
+    "company": "United Utilities",
+    "total_spills": 1367.0,
+    "total_hours": 7917.44,
+    "spills_increase": -464.0,
+    "hours_increase": -3507.09,
+    "mp_name": "Mark Logan",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25886/mark_logan/bolton_north_east",
+    "twitter_handle": null
+  },
+  {
+    "constituency": "York Outer",
+    "company": "Yorkshire Water",
+    "total_spills": 980.0,
+    "total_hours": 7909.2,
+    "spills_increase": 456.0,
+    "hours_increase": 2977.6,
+    "mp_name": "Julian Sturdy",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24853/julian_sturdy/york_outer",
+    "twitter_handle": "@JulianSturdy"
   },
   {
     "constituency": "Buckingham",
@@ -1512,28 +1656,16 @@
     "twitter_handle": "@GeraldJonesLAB"
   },
   {
-    "constituency": "Bolton North East",
+    "constituency": "Fylde",
     "company": "United Utilities",
-    "total_spills": 1144.0,
-    "total_hours": 7586.97,
-    "spills_increase": 105.0,
-    "hours_increase": 2303.14,
-    "mp_name": "Mark Logan",
+    "total_spills": 1428.0,
+    "total_hours": 7641.92,
+    "spills_increase": -391.0,
+    "hours_increase": -4219.58,
+    "mp_name": "Mark Menzies",
     "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25886/mark_logan/bolton_north_east",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24804/mark_menzies/fylde",
     "twitter_handle": null
-  },
-  {
-    "constituency": "Eddisbury",
-    "company": "United Utilities",
-    "total_spills": 1022.0,
-    "total_hours": 7585.98,
-    "spills_increase": 37.0,
-    "hours_increase": 4698.12,
-    "mp_name": "Edward Timpson",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/14128/edward_timpson/eddisbury",
-    "twitter_handle": "@edwardtimpson"
   },
   {
     "constituency": "North Tyneside",
@@ -1546,6 +1678,18 @@
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/24927/mary_glindon/north_tyneside",
     "twitter_handle": "@GlindonMary"
+  },
+  {
+    "constituency": "Bolsover",
+    "company": "Severn Trent Water",
+    "total_spills": 837.0,
+    "total_hours": 7564.165548,
+    "spills_increase": 257.0,
+    "hours_increase": 2262.295548,
+    "mp_name": "Mark Fletcher",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25903/mark_fletcher/bolsover",
+    "twitter_handle": null
   },
   {
     "constituency": "Staffordshire Moorlands",
@@ -1600,24 +1744,12 @@
     "company": "United Utilities",
     "total_spills": 544.0,
     "total_hours": 7263.17,
-    "spills_increase": -605.0,
-    "hours_increase": 4330.56,
+    "spills_increase": -613.0,
+    "hours_increase": 4328.53,
     "mp_name": "Mick Whitley",
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/25798/mick_whitley/birkenhead",
     "twitter_handle": "@MickWhitleyMP"
-  },
-  {
-    "constituency": "Rossendale and Darwen",
-    "company": "United Utilities",
-    "total_spills": 1098.0,
-    "total_hours": 7224.91,
-    "spills_increase": -1067.0,
-    "hours_increase": -1252.18,
-    "mp_name": "Jake Berry",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24860/jake_berry/rossendale_and_darwen",
-    "twitter_handle": "@JakeBerry"
   },
   {
     "constituency": "North West Norfolk",
@@ -1632,16 +1764,16 @@
     "twitter_handle": "@jamesowild"
   },
   {
-    "constituency": "Bolton West",
+    "constituency": "Heywood and Middleton",
     "company": "United Utilities",
-    "total_spills": 978.0,
-    "total_hours": 6994.12,
-    "spills_increase": -196.0,
-    "hours_increase": 2213.7,
-    "mp_name": "Chris Green",
+    "total_spills": 1383.0,
+    "total_hours": 7080.3,
+    "spills_increase": -212.0,
+    "hours_increase": -1209.77,
+    "mp_name": "Chris Clarkson",
     "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25359/chris_green/bolton_west",
-    "twitter_handle": "@CGreenUK"
+    "mp_uri": "https://www.theyworkforyou.com/mp/25825/chris_clarkson/heywood_and_middleton",
+    "twitter_handle": "@ChrisClarksonMP"
   },
   {
     "constituency": "Hartlepool",
@@ -1656,28 +1788,64 @@
     "twitter_handle": "@Jill4Hartlepool"
   },
   {
-    "constituency": "Fylde",
-    "company": "United Utilities",
-    "total_spills": 1232.0,
-    "total_hours": 6873.5,
-    "spills_increase": 160.0,
-    "hours_increase": -143.96,
-    "mp_name": "Mark Menzies",
+    "constituency": "Thornbury and Yate",
+    "company": "Wessex Water",
+    "total_spills": 736.0,
+    "total_hours": 6853.3,
+    "spills_increase": -239.0,
+    "hours_increase": -2621.53,
+    "mp_name": "Luke Hall",
     "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24804/mark_menzies/fylde",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25373/luke_hall/thornbury_and_yate",
+    "twitter_handle": "@LukeHall"
+  },
+  {
+    "constituency": "Bridgwater and West Somerset",
+    "company": "Wessex Water",
+    "total_spills": 1123.0,
+    "total_hours": 6700.083333333333,
+    "spills_increase": -340.0,
+    "hours_increase": -7037.4366666666665,
+    "mp_name": "Ian Liddell-Grainger",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/11048/ian_liddell-grainger/bridgwater_and_west_somerset",
     "twitter_handle": null
   },
   {
     "constituency": "Wirral South",
     "company": "United Utilities",
-    "total_spills": 806.0,
-    "total_hours": 6641.03,
-    "spills_increase": 323.0,
-    "hours_increase": 2191.55,
+    "total_spills": 843.0,
+    "total_hours": 6681.16,
+    "spills_increase": -378.0,
+    "hours_increase": -288.63,
     "mp_name": "Alison McGovern",
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/24897/alison_mcgovern/wirral_south",
     "twitter_handle": "@Alison_McGovern"
+  },
+  {
+    "constituency": "Worsley and Eccles South",
+    "company": "United Utilities",
+    "total_spills": 1073.0,
+    "total_hours": 6617.38,
+    "spills_increase": 148.0,
+    "hours_increase": 1947.06,
+    "mp_name": "Barbara Keeley",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/11943/barbara_keeley/worsley_and_eccles_south",
+    "twitter_handle": "@KeeleyMP"
+  },
+  {
+    "constituency": "Hazel Grove",
+    "company": "United Utilities",
+    "total_spills": 1042.0,
+    "total_hours": 6580.34,
+    "spills_increase": -282.0,
+    "hours_increase": 1023.36,
+    "mp_name": "William Wragg",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25360/william_wragg/hazel_grove",
+    "twitter_handle": "@William_Wragg"
   },
   {
     "constituency": "Blaydon",
@@ -1704,24 +1872,24 @@
     "twitter_handle": null
   },
   {
-    "constituency": "Yeovil",
-    "company": "Wessex Water",
-    "total_spills": 1050.0,
-    "total_hours": 6558.1,
-    "spills_increase": -357.0,
-    "hours_increase": -5141.2,
-    "mp_name": "Marcus Fysh",
+    "constituency": "Witham",
+    "company": "Anglian Water",
+    "total_spills": 383.0,
+    "total_hours": 6482.03,
+    "spills_increase": 147.0,
+    "hours_increase": 2671.61,
+    "mp_name": "Priti Patel",
     "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25384/marcus_fysh/yeovil",
-    "twitter_handle": "@MarcusFysh"
+    "mp_uri": "https://www.theyworkforyou.com/mp/24778/priti_patel/witham",
+    "twitter_handle": "@pritipatel"
   },
   {
     "constituency": "Central Suffolk and North Ipswich",
     "company": "Anglian Water",
-    "total_spills": 595.0,
-    "total_hours": 6473.38,
-    "spills_increase": 399.0,
-    "hours_increase": 4732.56,
+    "total_spills": 575.0,
+    "total_hours": 6460.68,
+    "spills_increase": 407.0,
+    "hours_increase": 4729.66,
     "mp_name": "Daniel Poulter",
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/24756/daniel_poulter/central_suffolk_and_north_ipswich",
@@ -1752,16 +1920,16 @@
     "twitter_handle": null
   },
   {
-    "constituency": "Warrington South",
-    "company": "United Utilities",
-    "total_spills": 673.0,
-    "total_hours": 6335.72,
-    "spills_increase": -453.0,
-    "hours_increase": -2771.57,
-    "mp_name": "Andy Carter",
+    "constituency": "Wells",
+    "company": "Wessex Water",
+    "total_spills": 999.0,
+    "total_hours": 6382.6,
+    "spills_increase": -177.0,
+    "hours_increase": -3209.26,
+    "mp_name": "James Heappey",
     "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25884/andy_carter/warrington_south",
-    "twitter_handle": "@MrAndy_Carter"
+    "mp_uri": "https://www.theyworkforyou.com/mp/25438/james_heappey/wells",
+    "twitter_handle": "@JSHeappey"
   },
   {
     "constituency": "Lewes",
@@ -1786,30 +1954,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/24809/caroline_nokes/romsey_and_southampton_north",
     "twitter_handle": "@carolinenokes"
-  },
-  {
-    "constituency": "Worsley and Eccles South",
-    "company": "United Utilities",
-    "total_spills": 844.0,
-    "total_hours": 6208.8,
-    "spills_increase": -81.0,
-    "hours_increase": 1538.48,
-    "mp_name": "Barbara Keeley",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/11943/barbara_keeley/worsley_and_eccles_south",
-    "twitter_handle": "@KeeleyMP"
-  },
-  {
-    "constituency": "Dewsbury",
-    "company": "Yorkshire Water",
-    "total_spills": 936.0,
-    "total_hours": 6201.1,
-    "spills_increase": 304.0,
-    "hours_increase": 311.04,
-    "mp_name": "Mark Eastwood",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25923/mark_eastwood/dewsbury",
-    "twitter_handle": "@mark4dewsbury"
   },
   {
     "constituency": "Blaenau Gwent",
@@ -1872,6 +2016,18 @@
     "twitter_handle": "@grahamemorris"
   },
   {
+    "constituency": "Dewsbury",
+    "company": "Yorkshire Water",
+    "total_spills": 876.0,
+    "total_hours": 5904.9,
+    "spills_increase": 287.0,
+    "hours_increase": 164.84,
+    "mp_name": "Mark Eastwood",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25923/mark_eastwood/dewsbury",
+    "twitter_handle": "@mark4dewsbury"
+  },
+  {
     "constituency": "North Shropshire",
     "company": "Severn Trent Water",
     "total_spills": 736.0,
@@ -1918,6 +2074,18 @@
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/25378/justin_madders/ellesmere_port_and_neston",
     "twitter_handle": "@justinmadders"
+  },
+  {
+    "constituency": "Blackley and Broughton",
+    "company": "United Utilities",
+    "total_spills": 1478.0,
+    "total_hours": 5827.93,
+    "spills_increase": -534.0,
+    "hours_increase": -5787.31,
+    "mp_name": "Graham Stringer",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/10576/graham_stringer/blackley_and_broughton",
+    "twitter_handle": null
   },
   {
     "constituency": "Normanton, Pontefract and Castleford",
@@ -1968,28 +2136,40 @@
     "twitter_handle": "@bhatti_saqib"
   },
   {
+    "constituency": "Doncaster North",
+    "company": "Yorkshire Water",
+    "total_spills": 977.0,
+    "total_hours": 5703.8,
+    "spills_increase": 122.0,
+    "hours_increase": 3216.25,
+    "mp_name": "Ed Miliband",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/11545/ed_miliband/doncaster_north",
+    "twitter_handle": "@Ed_Miliband"
+  },
+  {
+    "constituency": "Lancaster and Fleetwood",
+    "company": "United Utilities",
+    "total_spills": 934.0,
+    "total_hours": 5701.94,
+    "spills_increase": -245.0,
+    "hours_increase": -1612.01,
+    "mp_name": "Cat Smith",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25432/cat_smith/lancaster_and_fleetwood",
+    "twitter_handle": "@CatSmithMP"
+  },
+  {
     "constituency": "Blyth Valley",
     "company": "Northumbrian Water",
-    "total_spills": 923.0,
-    "total_hours": 5708.35,
-    "spills_increase": 119.0,
-    "hours_increase": 1722.88,
+    "total_spills": 919.0,
+    "total_hours": 5700.6,
+    "spills_increase": 115.0,
+    "hours_increase": 1715.13,
     "mp_name": "Ian Levy",
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/25791/ian_levy/blyth_valley",
     "twitter_handle": null
-  },
-  {
-    "constituency": "Lichfield",
-    "company": "Severn Trent Water",
-    "total_spills": 688.0,
-    "total_hours": 5648.134431,
-    "spills_increase": -129.0,
-    "hours_increase": -7900.455569,
-    "mp_name": "Michael Fabricant",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/10193/michael_fabricant/lichfield",
-    "twitter_handle": "@Mike_Fabricant"
   },
   {
     "constituency": "High Peak",
@@ -2004,16 +2184,28 @@
     "twitter_handle": "@robertlargan"
   },
   {
-    "constituency": "Lancaster and Fleetwood",
+    "constituency": "Bury South",
     "company": "United Utilities",
-    "total_spills": 896.0,
-    "total_hours": 5628.47,
-    "spills_increase": -177.0,
-    "hours_increase": -1184.31,
-    "mp_name": "Cat Smith",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25432/cat_smith/lancaster_and_fleetwood",
-    "twitter_handle": "@CatSmithMP"
+    "total_spills": 1188.0,
+    "total_hours": 5638.6,
+    "spills_increase": -162.0,
+    "hours_increase": 920.4,
+    "mp_name": "Christian Wakeford",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25874/christian_wakeford/bury_south",
+    "twitter_handle": "@Christian4BuryS"
+  },
+  {
+    "constituency": "Lichfield",
+    "company": "Severn Trent Water",
+    "total_spills": 680.0,
+    "total_hours": 5627.264709,
+    "spills_increase": -130.0,
+    "hours_increase": -7919.985291,
+    "mp_name": "Michael Fabricant",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/10193/michael_fabricant/lichfield",
+    "twitter_handle": "@Mike_Fabricant"
   },
   {
     "constituency": "Bassetlaw",
@@ -2026,18 +2218,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/25862/brendan_clarke-smith/bassetlaw",
     "twitter_handle": "@Bren4Bassetlaw"
-  },
-  {
-    "constituency": "Heywood and Middleton",
-    "company": "United Utilities",
-    "total_spills": 859.0,
-    "total_hours": 5614.26,
-    "spills_increase": -463.0,
-    "hours_increase": -980.08,
-    "mp_name": "Chris Clarkson",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25825/chris_clarkson/heywood_and_middleton",
-    "twitter_handle": "@ChrisClarksonMP"
   },
   {
     "constituency": "Shipley",
@@ -2076,6 +2256,30 @@
     "twitter_handle": "@MPritchardUK"
   },
   {
+    "constituency": "Bolton South East",
+    "company": "United Utilities",
+    "total_spills": 1493.0,
+    "total_hours": 5467.49,
+    "spills_increase": -649.0,
+    "hours_increase": -2837.39,
+    "mp_name": "Yasmin Qureshi",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24775/yasmin_qureshi/bolton_south_east",
+    "twitter_handle": "@YasminQureshiMP"
+  },
+  {
+    "constituency": "St Helens North",
+    "company": "United Utilities",
+    "total_spills": 1135.0,
+    "total_hours": 5466.71,
+    "spills_increase": 185.0,
+    "hours_increase": 2035.14,
+    "mp_name": "Conor McGinn",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25423/conor_mcginn/st_helens_north",
+    "twitter_handle": "@ConorMcGinn"
+  },
+  {
     "constituency": "Sleaford and North Hykeham",
     "company": "Anglian Water",
     "total_spills": 626.0,
@@ -2086,6 +2290,18 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/25597/dr_caroline_johnson/sleaford_and_north_hykeham",
     "twitter_handle": "@drcarolinej"
+  },
+  {
+    "constituency": "Congleton",
+    "company": "United Utilities",
+    "total_spills": 1345.0,
+    "total_hours": 5442.57,
+    "spills_increase": -1130.0,
+    "hours_increase": -8452.64,
+    "mp_name": "Fiona Bruce",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24857/fiona_bruce/congleton",
+    "twitter_handle": null
   },
   {
     "constituency": "Saffron Walden",
@@ -2112,18 +2328,6 @@
     "twitter_handle": "@EdwardLeighMP"
   },
   {
-    "constituency": "Hazel Grove",
-    "company": "United Utilities",
-    "total_spills": 837.0,
-    "total_hours": 5384.45,
-    "spills_increase": -308.0,
-    "hours_increase": 196.02,
-    "mp_name": "William Wragg",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25360/william_wragg/hazel_grove",
-    "twitter_handle": "@William_Wragg"
-  },
-  {
     "constituency": "Louth and Horncastle",
     "company": "Anglian Water",
     "total_spills": 975.0,
@@ -2148,28 +2352,28 @@
     "twitter_handle": "@david4wantage"
   },
   {
-    "constituency": "Witham",
-    "company": "Anglian Water",
-    "total_spills": 311.0,
-    "total_hours": 5302.3,
-    "spills_increase": 161.0,
-    "hours_increase": 2980.05,
-    "mp_name": "Priti Patel",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24778/priti_patel/witham",
-    "twitter_handle": "@pritipatel"
+    "constituency": "Warrington North",
+    "company": "United Utilities",
+    "total_spills": 736.0,
+    "total_hours": 5330.89,
+    "spills_increase": -201.0,
+    "hours_increase": -3167.48,
+    "mp_name": "Charlotte Nichols",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25885/charlotte_nichols/warrington_north",
+    "twitter_handle": "@charlotte2153"
   },
   {
-    "constituency": "Stone",
-    "company": "Severn Trent Water",
-    "total_spills": 809.0,
-    "total_hours": 5261.082487,
-    "spills_increase": 175.0,
-    "hours_increase": 541.852487,
-    "mp_name": "Bill Cash",
+    "constituency": "Bury North",
+    "company": "United Utilities",
+    "total_spills": 835.0,
+    "total_hours": 5311.94,
+    "spills_increase": -248.0,
+    "hours_increase": 1525.04,
+    "mp_name": "James Daly",
     "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/10095/bill_cash/stone",
-    "twitter_handle": "@BillCashMP"
+    "mp_uri": "https://www.theyworkforyou.com/mp/25905/james_daly/bury_north",
+    "twitter_handle": "@JamesDalyMP"
   },
   {
     "constituency": "North Norfolk",
@@ -2196,6 +2400,18 @@
     "twitter_handle": "@Alex_Stafford"
   },
   {
+    "constituency": "Halton",
+    "company": "United Utilities",
+    "total_spills": 1168.0,
+    "total_hours": 5193.89,
+    "spills_increase": -409.0,
+    "hours_increase": 878.04,
+    "mp_name": "Derek Twigg",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/10610/derek_twigg/halton",
+    "twitter_handle": "@DerekTwiggMP"
+  },
+  {
     "constituency": "Haltemprice and Howden",
     "company": "Yorkshire Water",
     "total_spills": 1468.0,
@@ -2206,6 +2422,30 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/10162/david_davis/haltemprice_and_howden",
     "twitter_handle": "@DavidDavisMP"
+  },
+  {
+    "constituency": "Stone",
+    "company": "Severn Trent Water",
+    "total_spills": 782.0,
+    "total_hours": 5190.555821,
+    "spills_increase": 161.0,
+    "hours_increase": 479.565821,
+    "mp_name": "Bill Cash",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/10095/bill_cash/stone",
+    "twitter_handle": "@BillCashMP"
+  },
+  {
+    "constituency": "Stalybridge and Hyde",
+    "company": "United Utilities",
+    "total_spills": 989.0,
+    "total_hours": 5173.86,
+    "spills_increase": -812.0,
+    "hours_increase": -6873.33,
+    "mp_name": "Jonathan Reynolds",
+    "mp_party": "Labour/Co-operative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24929/jonathan_reynolds/stalybridge_and_hyde",
+    "twitter_handle": "@jreynoldsMP"
   },
   {
     "constituency": "Stroud",
@@ -2220,40 +2460,28 @@
     "twitter_handle": "@Siobhan_Baillie"
   },
   {
-    "constituency": "Pendle",
-    "company": "United Utilities",
-    "total_spills": 639.0,
-    "total_hours": 5149.22,
-    "spills_increase": -458.0,
-    "hours_increase": -2759.01,
-    "mp_name": "Andrew Stephenson",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24759/andrew_stephenson/pendle",
-    "twitter_handle": "@Andrew4Pendle"
-  },
-  {
     "constituency": "Devizes",
     "company": "Wessex Water",
-    "total_spills": 443.0,
-    "total_hours": 5131.9,
-    "spills_increase": -305.0,
-    "hours_increase": -2073.98,
+    "total_spills": 454.0,
+    "total_hours": 5161.6,
+    "spills_increase": -294.0,
+    "hours_increase": -2044.28,
     "mp_name": "Danny Kruger",
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/25913/danny_kruger/devizes",
     "twitter_handle": "@danny__kruger"
   },
   {
-    "constituency": "Taunton Deane",
-    "company": "Wessex Water",
-    "total_spills": 653.0,
-    "total_hours": 5130.177222222288,
-    "spills_increase": -564.0,
-    "hours_increase": -8863.022777777713,
-    "mp_name": "Rebecca Pow",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25407/rebecca_pow/taunton_deane",
-    "twitter_handle": "@pow_rebecca"
+    "constituency": "Oldham East and Saddleworth",
+    "company": "United Utilities",
+    "total_spills": 654.0,
+    "total_hours": 5100.21,
+    "spills_increase": -228.0,
+    "hours_increase": -2159.62,
+    "mp_name": "Debbie Abrahams",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25034/debbie_abrahams/oldham_east_and_saddleworth",
+    "twitter_handle": "@Debbie_abrahams"
   },
   {
     "constituency": "Alyn and Deeside",
@@ -2268,6 +2496,18 @@
     "twitter_handle": "@MarkTamiMP"
   },
   {
+    "constituency": "Huddersfield",
+    "company": "Yorkshire Water",
+    "total_spills": 1723.0,
+    "total_hours": 5094.5,
+    "spills_increase": 124.0,
+    "hours_increase": -2104.37,
+    "mp_name": "Barry Sheerman",
+    "mp_party": "Labour/Co-operative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/10534/barry_sheerman/huddersfield",
+    "twitter_handle": "@BarrySheerman"
+  },
+  {
     "constituency": "Brentwood and Ongar",
     "company": "Thames Water",
     "total_spills": 481.0,
@@ -2278,6 +2518,18 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/25659/alex_burghart/brentwood_and_ongar",
     "twitter_handle": "@alexburghart"
+  },
+  {
+    "constituency": "Gateshead",
+    "company": "Northumbrian Water",
+    "total_spills": 1230.0,
+    "total_hours": 5070.570556,
+    "spills_increase": 294.0,
+    "hours_increase": 2791.770556,
+    "mp_name": "Ian Mearns",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24919/ian_mearns/gateshead",
+    "twitter_handle": "@IanMearnsMP"
   },
   {
     "constituency": "Harwich and North Essex",
@@ -2292,28 +2544,28 @@
     "twitter_handle": "@bernardjenkin"
   },
   {
-    "constituency": "St Helens North",
-    "company": "United Utilities",
-    "total_spills": 950.0,
-    "total_hours": 5064.77,
-    "spills_increase": 86.0,
-    "hours_increase": 2348.49,
-    "mp_name": "Conor McGinn",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25423/conor_mcginn/st_helens_north",
-    "twitter_handle": "@ConorMcGinn"
+    "constituency": "Burton",
+    "company": "Severn Trent Water",
+    "total_spills": 693.0,
+    "total_hours": 5062.085546,
+    "spills_increase": -6.0,
+    "hours_increase": -2259.234454,
+    "mp_name": "Kate Griffiths",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25839/kate_griffiths/burton",
+    "twitter_handle": null
   },
   {
-    "constituency": "Bridgwater and West Somerset",
-    "company": "Wessex Water",
-    "total_spills": 884.0,
-    "total_hours": 5063.083333333333,
-    "spills_increase": -579.0,
-    "hours_increase": -8674.436666666666,
-    "mp_name": "Ian Liddell-Grainger",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/11048/ian_liddell-grainger/bridgwater_and_west_somerset",
-    "twitter_handle": null
+    "constituency": "Rotherham",
+    "company": "Yorkshire Water",
+    "total_spills": 1064.0,
+    "total_hours": 5050.3,
+    "spills_increase": 464.0,
+    "hours_increase": 2282.36,
+    "mp_name": "Sarah Champion",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25168/sarah_champion/rotherham",
+    "twitter_handle": "@SarahChampionMP"
   },
   {
     "constituency": "Stockton North",
@@ -2326,42 +2578,6 @@
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/24742/alex_cunningham/stockton_north",
     "twitter_handle": "@ACunninghamMP"
-  },
-  {
-    "constituency": "Doncaster North",
-    "company": "Yorkshire Water",
-    "total_spills": 930.0,
-    "total_hours": 5016.3,
-    "spills_increase": 134.0,
-    "hours_increase": 3474.86,
-    "mp_name": "Ed Miliband",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/11545/ed_miliband/doncaster_north",
-    "twitter_handle": "@Ed_Miliband"
-  },
-  {
-    "constituency": "Gateshead",
-    "company": "Northumbrian Water",
-    "total_spills": 1199.0,
-    "total_hours": 5006.070556,
-    "spills_increase": 285.0,
-    "hours_increase": 2757.520556,
-    "mp_name": "Ian Mearns",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24919/ian_mearns/gateshead",
-    "twitter_handle": "@IanMearnsMP"
-  },
-  {
-    "constituency": "Burton",
-    "company": "Severn Trent Water",
-    "total_spills": 666.0,
-    "total_hours": 4991.55888,
-    "spills_increase": -20.0,
-    "hours_increase": -2321.52112,
-    "mp_name": "Kate Griffiths",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25839/kate_griffiths/burton",
-    "twitter_handle": null
   },
   {
     "constituency": "South East Cambridgeshire",
@@ -2388,16 +2604,16 @@
     "twitter_handle": "@KevinBrennanMP"
   },
   {
-    "constituency": "Wyre and Preston North",
+    "constituency": "Makerfield",
     "company": "United Utilities",
-    "total_spills": 856.0,
-    "total_hours": 4835.87,
-    "spills_increase": -463.0,
-    "hours_increase": -1560.31,
-    "mp_name": "Ben Wallace",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/11668/ben_wallace/wyre_and_preston_north",
-    "twitter_handle": "@BWallaceMP"
+    "total_spills": 1022.0,
+    "total_hours": 4844.01,
+    "spills_increase": -93.0,
+    "hours_increase": 1042.21,
+    "mp_name": "Yvonne Fovargue",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24805/yvonne_fovargue/makerfield",
+    "twitter_handle": "@Y_FovargueMP"
   },
   {
     "constituency": "South Staffordshire",
@@ -2460,30 +2676,6 @@
     "twitter_handle": null
   },
   {
-    "constituency": "Bolton South East",
-    "company": "United Utilities",
-    "total_spills": 1140.0,
-    "total_hours": 4647.56,
-    "spills_increase": -661.0,
-    "hours_increase": -1080.34,
-    "mp_name": "Yasmin Qureshi",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24775/yasmin_qureshi/bolton_south_east",
-    "twitter_handle": "@YasminQureshiMP"
-  },
-  {
-    "constituency": "Blackley and Broughton",
-    "company": "United Utilities",
-    "total_spills": 1011.0,
-    "total_hours": 4620.06,
-    "spills_increase": -975.0,
-    "hours_increase": -7218.93,
-    "mp_name": "Graham Stringer",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/10576/graham_stringer/blackley_and_broughton",
-    "twitter_handle": null
-  },
-  {
     "constituency": "North East Hampshire",
     "company": "Thames Water",
     "total_spills": 387.0,
@@ -2496,24 +2688,12 @@
     "twitter_handle": "@TeamRanil"
   },
   {
-    "constituency": "Maldon",
-    "company": "Anglian Water",
-    "total_spills": 504.0,
-    "total_hours": 4580.06,
-    "spills_increase": 27.0,
-    "hours_increase": -286.89,
-    "mp_name": "John Whittingdale",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/10632/john_whittingdale/maldon",
-    "twitter_handle": "@JWhittingdale"
-  },
-  {
     "constituency": "Salford and Eccles",
     "company": "United Utilities",
-    "total_spills": 1080.0,
-    "total_hours": 4565.79,
-    "spills_increase": 70.0,
-    "hours_increase": 2629.86,
+    "total_spills": 1088.0,
+    "total_hours": 4566.69,
+    "spills_increase": -415.0,
+    "hours_increase": 281.07,
     "mp_name": "Rebecca Long-Bailey",
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/25368/rebecca_long-bailey/salford_and_eccles",
@@ -2604,6 +2784,18 @@
     "twitter_handle": "@SallyAnn1066"
   },
   {
+    "constituency": "Carlisle",
+    "company": "United Utilities",
+    "total_spills": 780.0,
+    "total_hours": 4403.29,
+    "spills_increase": -414.0,
+    "hours_increase": -4569.25,
+    "mp_name": "John Stevenson",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24799/john_stevenson/carlisle",
+    "twitter_handle": "@John4Carlisle"
+  },
+  {
     "constituency": "Forest of Dean",
     "company": "Dwr Cymru Welsh Water",
     "total_spills": 648.0,
@@ -2614,18 +2806,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/11588/mark_harper/forest_of_dean",
     "twitter_handle": "@Mark_J_Harper"
-  },
-  {
-    "constituency": "Chorley",
-    "company": "United Utilities",
-    "total_spills": 797.0,
-    "total_hours": 4322.4,
-    "spills_increase": -566.0,
-    "hours_increase": -2790.9,
-    "mp_name": "Lindsay Hoyle",
-    "mp_party": "Speaker",
-    "mp_uri": "https://www.theyworkforyou.com/mp/10295/lindsay_hoyle/chorley",
-    "twitter_handle": "@LindsayHoyle_MP"
   },
   {
     "constituency": "North Herefordshire",
@@ -2640,52 +2820,16 @@
     "twitter_handle": null
   },
   {
-    "constituency": "Stalybridge and Hyde",
+    "constituency": "Rochdale",
     "company": "United Utilities",
-    "total_spills": 611.0,
-    "total_hours": 4178.32,
-    "spills_increase": -985.0,
-    "hours_increase": -7473.28,
-    "mp_name": "Jonathan Reynolds",
-    "mp_party": "Labour/Co-operative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24929/jonathan_reynolds/stalybridge_and_hyde",
-    "twitter_handle": "@jreynoldsMP"
-  },
-  {
-    "constituency": "Warrington North",
-    "company": "United Utilities",
-    "total_spills": 544.0,
-    "total_hours": 4174.78,
-    "spills_increase": -188.0,
-    "hours_increase": -3569.68,
-    "mp_name": "Charlotte Nichols",
+    "total_spills": 1102.0,
+    "total_hours": 4233.08,
+    "spills_increase": -344.0,
+    "hours_increase": -1376.74,
+    "mp_name": "Tony Lloyd",
     "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25885/charlotte_nichols/warrington_north",
-    "twitter_handle": "@charlotte2153"
-  },
-  {
-    "constituency": "Leeds East",
-    "company": "Yorkshire Water",
-    "total_spills": 1011.0,
-    "total_hours": 4131.4,
-    "spills_increase": 9.0,
-    "hours_increase": 1045.4,
-    "mp_name": "Richard Burgon",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25391/richard_burgon/leeds_east",
-    "twitter_handle": "@RichardBurgon"
-  },
-  {
-    "constituency": "Oldham East and Saddleworth",
-    "company": "United Utilities",
-    "total_spills": 493.0,
-    "total_hours": 4120.52,
-    "spills_increase": -442.0,
-    "hours_increase": -3906.22,
-    "mp_name": "Debbie Abrahams",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25034/debbie_abrahams/oldham_east_and_saddleworth",
-    "twitter_handle": "@Debbie_abrahams"
+    "mp_uri": "https://www.theyworkforyou.com/mp/10367/tony_lloyd/rochdale",
+    "twitter_handle": "@tony4rochdale"
   },
   {
     "constituency": "Middlesbrough South and East Cleveland",
@@ -2702,10 +2846,10 @@
   {
     "constituency": "West Lancashire",
     "company": "United Utilities",
-    "total_spills": 534.0,
-    "total_hours": 4029.61,
-    "spills_increase": -176.0,
-    "hours_increase": -802.55,
+    "total_spills": 549.0,
+    "total_hours": 4036.32,
+    "spills_increase": -142.0,
+    "hours_increase": -764.29,
     "mp_name": "Rosie Cooper",
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/11667/rosie_cooper/west_lancashire",
@@ -2736,18 +2880,6 @@
     "twitter_handle": null
   },
   {
-    "constituency": "Batley and Spen",
-    "company": "Yorkshire Water",
-    "total_spills": 716.0,
-    "total_hours": 3953.9,
-    "spills_increase": 182.0,
-    "hours_increase": 1464.85,
-    "mp_name": "Kim Leadbeater",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/26040/kim_leadbeater/batley_and_spen",
-    "twitter_handle": "@TracyBrabin"
-  },
-  {
     "constituency": "Sherwood",
     "company": "Severn Trent Water",
     "total_spills": 559.0,
@@ -2772,6 +2904,18 @@
     "twitter_handle": "@Imran_HussainMP"
   },
   {
+    "constituency": "Leeds Central",
+    "company": "Yorkshire Water",
+    "total_spills": 1169.0,
+    "total_hours": 3911.7,
+    "spills_increase": 188.0,
+    "hours_increase": 1391.63,
+    "mp_name": "Hilary Benn",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/10669/hilary_benn/leeds_central",
+    "twitter_handle": "@hilarybennmp"
+  },
+  {
     "constituency": "Wrexham",
     "company": "Dwr Cymru Welsh Water",
     "total_spills": 710.0,
@@ -2782,18 +2926,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/25810/sarah_atherton/wrexham",
     "twitter_handle": "@AthertonNWales"
-  },
-  {
-    "constituency": "Rotherham",
-    "company": "Yorkshire Water",
-    "total_spills": 984.0,
-    "total_hours": 3846.3,
-    "spills_increase": 397.0,
-    "hours_increase": 1292.04,
-    "mp_name": "Sarah Champion",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25168/sarah_champion/rotherham",
-    "twitter_handle": "@SarahChampionMP"
   },
   {
     "constituency": "Cleethorpes",
@@ -2808,16 +2940,16 @@
     "twitter_handle": "@MartinVickers"
   },
   {
-    "constituency": "Carlisle",
-    "company": "United Utilities",
-    "total_spills": 621.0,
-    "total_hours": 3827.23,
-    "spills_increase": -371.0,
-    "hours_increase": -4119.08,
-    "mp_name": "John Stevenson",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24799/john_stevenson/carlisle",
-    "twitter_handle": "@John4Carlisle"
+    "constituency": "Bristol North West",
+    "company": "Wessex Water",
+    "total_spills": 1654.0,
+    "total_hours": 3837.9666666666435,
+    "spills_increase": 139.0,
+    "hours_increase": -991.5233333333566,
+    "mp_name": "Darren Jones",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25637/darren_jones/bristol_north_west",
+    "twitter_handle": "@darrenpjones"
   },
   {
     "constituency": "Bolsover",
@@ -2880,18 +3012,6 @@
     "twitter_handle": "@alexsobel"
   },
   {
-    "constituency": "Bristol North West",
-    "company": "Wessex Water",
-    "total_spills": 1466.0,
-    "total_hours": 3631.9666666666667,
-    "spills_increase": -49.0,
-    "hours_increase": -1197.5233333333333,
-    "mp_name": "Darren Jones",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25637/darren_jones/bristol_north_west",
-    "twitter_handle": "@darrenpjones"
-  },
-  {
     "constituency": "Wyre Forest",
     "company": "Severn Trent Water",
     "total_spills": 386.0,
@@ -2916,16 +3036,16 @@
     "twitter_handle": "@Lee4NED"
   },
   {
-    "constituency": "Wells",
-    "company": "Wessex Water",
-    "total_spills": 696.0,
-    "total_hours": 3537.7,
-    "spills_increase": -480.0,
-    "hours_increase": -6054.16,
-    "mp_name": "James Heappey",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25438/james_heappey/wells",
-    "twitter_handle": "@JSHeappey"
+    "constituency": "Sefton Central",
+    "company": "United Utilities",
+    "total_spills": 835.0,
+    "total_hours": 3545.36,
+    "spills_increase": -232.0,
+    "hours_increase": -219.84,
+    "mp_name": "Bill Esterson",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24905/bill_esterson/sefton_central",
+    "twitter_handle": "@Bill_Esterson"
   },
   {
     "constituency": "Charnwood",
@@ -2988,6 +3108,18 @@
     "twitter_handle": "@PeterBoneUK"
   },
   {
+    "constituency": "Weaver Vale",
+    "company": "United Utilities",
+    "total_spills": 1039.0,
+    "total_hours": 3438.32,
+    "spills_increase": -224.0,
+    "hours_increase": -2050.88,
+    "mp_name": "Mike Amesbury",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25702/mike_amesbury/weaver_vale",
+    "twitter_handle": "@MikeAmesburyMP"
+  },
+  {
     "constituency": "New Forest East",
     "company": "Southern Water",
     "total_spills": 373.0,
@@ -3000,18 +3132,6 @@
     "twitter_handle": null
   },
   {
-    "constituency": "Halton",
-    "company": "United Utilities",
-    "total_spills": 608.0,
-    "total_hours": 3404.18,
-    "spills_increase": -874.0,
-    "hours_increase": -861.82,
-    "mp_name": "Derek Twigg",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/10610/derek_twigg/halton",
-    "twitter_handle": "@DerekTwiggMP"
-  },
-  {
     "constituency": "Bridgwater and West Somerset",
     "company": "South West Water",
     "total_spills": 363.0,
@@ -3022,6 +3142,18 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/11048/ian_liddell-grainger/bridgwater_and_west_somerset",
     "twitter_handle": null
+  },
+  {
+    "constituency": "Maldon",
+    "company": "Anglian Water",
+    "total_spills": 432.0,
+    "total_hours": 3400.33,
+    "spills_increase": 41.0,
+    "hours_increase": 21.55,
+    "mp_name": "John Whittingdale",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/10632/john_whittingdale/maldon",
+    "twitter_handle": "@JWhittingdale"
   },
   {
     "constituency": "Mole Valley",
@@ -3048,6 +3180,18 @@
     "twitter_handle": "@ab4scambs"
   },
   {
+    "constituency": "Stockport",
+    "company": "United Utilities",
+    "total_spills": 1056.0,
+    "total_hours": 3349.22,
+    "spills_increase": -22.0,
+    "hours_increase": 1426.36,
+    "mp_name": "Navendu Mishra",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25836/navendu_mishra/stockport",
+    "twitter_handle": "@NavPMishra"
+  },
+  {
     "constituency": "Brigg and Goole",
     "company": "Anglian Water",
     "total_spills": 280.0,
@@ -3072,6 +3216,18 @@
     "twitter_handle": "@RichardGrahamUK"
   },
   {
+    "constituency": "Wigan",
+    "company": "United Utilities",
+    "total_spills": 939.0,
+    "total_hours": 3302.43,
+    "spills_increase": -395.0,
+    "hours_increase": -1065.84,
+    "mp_name": "Lisa Nandy",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24831/lisa_nandy/wigan",
+    "twitter_handle": "@lisanandy"
+  },
+  {
     "constituency": "Barnsley Central",
     "company": "Yorkshire Water",
     "total_spills": 630.0,
@@ -3082,18 +3238,6 @@
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/25067/dan_jarvis/barnsley_central",
     "twitter_handle": "@DanJarvisMP"
-  },
-  {
-    "constituency": "Rochdale",
-    "company": "United Utilities",
-    "total_spills": 854.0,
-    "total_hours": 3193.4,
-    "spills_increase": -430.0,
-    "hours_increase": -2029.81,
-    "mp_name": "Tony Lloyd",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/10367/tony_lloyd/rochdale",
-    "twitter_handle": "@tony4rochdale"
   },
   {
     "constituency": "Redditch",
@@ -3132,18 +3276,6 @@
     "twitter_handle": "@OliverHealdUK"
   },
   {
-    "constituency": "Stockport",
-    "company": "United Utilities",
-    "total_spills": 1029.0,
-    "total_hours": 3175.89,
-    "spills_increase": 109.0,
-    "hours_increase": 1508.63,
-    "mp_name": "Navendu Mishra",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25836/navendu_mishra/stockport",
-    "twitter_handle": "@NavPMishra"
-  },
-  {
     "constituency": "West Suffolk",
     "company": "Anglian Water",
     "total_spills": 231.0,
@@ -3156,16 +3288,28 @@
     "twitter_handle": "@MattHancock"
   },
   {
-    "constituency": "Thornbury and Yate",
-    "company": "Wessex Water",
-    "total_spills": 506.0,
-    "total_hours": 3115.8,
-    "spills_increase": -469.0,
-    "hours_increase": -6359.03,
-    "mp_name": "Luke Hall",
+    "constituency": "Preston",
+    "company": "United Utilities",
+    "total_spills": 507.0,
+    "total_hours": 3110.74,
+    "spills_increase": -123.0,
+    "hours_increase": 590.21,
+    "mp_name": "Mark Hendrick",
+    "mp_party": "Labour/Co-operative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/10682/mark_hendrick/preston",
+    "twitter_handle": "@MpHendrick"
+  },
+  {
+    "constituency": "Cheadle",
+    "company": "United Utilities",
+    "total_spills": 581.0,
+    "total_hours": 3059.38,
+    "spills_increase": 28.0,
+    "hours_increase": 836.92,
+    "mp_name": "Mary Robinson",
     "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25373/luke_hall/thornbury_and_yate",
-    "twitter_handle": "@LukeHall"
+    "mp_uri": "https://www.theyworkforyou.com/mp/25405/mary_robinson/cheadle",
+    "twitter_handle": "@MaryRobinson01"
   },
   {
     "constituency": "Broxtowe",
@@ -3178,18 +3322,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/25871/darren_henry/broxtowe",
     "twitter_handle": "@DarrenG_Henry"
-  },
-  {
-    "constituency": "Congleton",
-    "company": "United Utilities",
-    "total_spills": 672.0,
-    "total_hours": 2975.4,
-    "spills_increase": -1561.0,
-    "hours_increase": -9726.51,
-    "mp_name": "Fiona Bruce",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24857/fiona_bruce/congleton",
-    "twitter_handle": null
   },
   {
     "constituency": "Bradford West",
@@ -3240,12 +3372,36 @@
     "twitter_handle": "@ClaireCoutinho"
   },
   {
+    "constituency": "Chippenham",
+    "company": "Wessex Water",
+    "total_spills": 596.0,
+    "total_hours": 2860.3,
+    "spills_increase": -233.0,
+    "hours_increase": -2433.81,
+    "mp_name": "Michelle Donelan",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25316/michelle_donelan/chippenham",
+    "twitter_handle": "@michelledonelan"
+  },
+  {
+    "constituency": "Ellesmere Port and Neston",
+    "company": "United Utilities",
+    "total_spills": 472.0,
+    "total_hours": 2843.72,
+    "spills_increase": -207.0,
+    "hours_increase": -2136.79,
+    "mp_name": "Justin Madders",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25378/justin_madders/ellesmere_port_and_neston",
+    "twitter_handle": "@justinmadders"
+  },
+  {
     "constituency": "Garston and Halewood",
     "company": "United Utilities",
     "total_spills": 267.0,
     "total_hours": 2835.82,
-    "spills_increase": 112.0,
-    "hours_increase": 1198.44,
+    "spills_increase": 40.0,
+    "hours_increase": 997.5,
     "mp_name": "Maria Eagle",
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/10183/maria_eagle/garston_and_halewood",
@@ -3264,16 +3420,16 @@
     "twitter_handle": "@JamesDavies"
   },
   {
-    "constituency": "North Dorset",
-    "company": "Wessex Water",
-    "total_spills": 369.0,
-    "total_hours": 2791.4,
-    "spills_increase": -496.0,
-    "hours_increase": -6007.59,
-    "mp_name": "Simon Hoare",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25427/simon_hoare/north_dorset",
-    "twitter_handle": "@Simon4NDorset"
+    "constituency": "Wirral West",
+    "company": "United Utilities",
+    "total_spills": 592.0,
+    "total_hours": 2807.28,
+    "spills_increase": -184.0,
+    "hours_increase": -1982.39,
+    "mp_name": "Margaret Greenwood",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25349/margaret_greenwood/wirral_west",
+    "twitter_handle": "@MGreenwoodWW"
   },
   {
     "constituency": "Daventry",
@@ -3286,18 +3442,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/24841/chris_heaton-harris/daventry",
     "twitter_handle": "@chhcalling"
-  },
-  {
-    "constituency": "Makerfield",
-    "company": "United Utilities",
-    "total_spills": 703.0,
-    "total_hours": 2777.12,
-    "spills_increase": 47.0,
-    "hours_increase": 725.25,
-    "mp_name": "Yvonne Fovargue",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24805/yvonne_fovargue/makerfield",
-    "twitter_handle": "@Y_FovargueMP"
   },
   {
     "constituency": "Maidstone and The Weald",
@@ -3324,16 +3468,16 @@
     "twitter_handle": "@JulieElliottMP"
   },
   {
-    "constituency": "Bury South",
+    "constituency": "Denton and Reddish",
     "company": "United Utilities",
-    "total_spills": 710.0,
-    "total_hours": 2739.35,
-    "spills_increase": -374.0,
-    "hours_increase": -1335.44,
-    "mp_name": "Christian Wakeford",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25874/christian_wakeford/bury_south",
-    "twitter_handle": "@Christian4BuryS"
+    "total_spills": 905.0,
+    "total_hours": 2750.49,
+    "spills_increase": -910.0,
+    "hours_increase": -9131.01,
+    "mp_name": "Andrew Gwynne",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/11531/andrew_gwynne/denton_and_reddish",
+    "twitter_handle": "@GwynneMP"
   },
   {
     "constituency": "Stockton South",
@@ -3348,6 +3492,18 @@
     "twitter_handle": "@Matt_VickersMP"
   },
   {
+    "constituency": "Blackburn",
+    "company": "United Utilities",
+    "total_spills": 1056.0,
+    "total_hours": 2724.28,
+    "spills_increase": -678.0,
+    "hours_increase": -3963.69,
+    "mp_name": "Kate Hollern",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25298/kate_hollern/blackburn",
+    "twitter_handle": "@Kate_HollernMP"
+  },
+  {
     "constituency": "Hemel Hempstead",
     "company": "Thames Water",
     "total_spills": 147.0,
@@ -3360,16 +3516,16 @@
     "twitter_handle": null
   },
   {
-    "constituency": "Chippenham",
-    "company": "Wessex Water",
-    "total_spills": 575.0,
-    "total_hours": 2697.6,
-    "spills_increase": -254.0,
-    "hours_increase": -2596.51,
-    "mp_name": "Michelle Donelan",
+    "constituency": "Hyndburn",
+    "company": "United Utilities",
+    "total_spills": 741.0,
+    "total_hours": 2697.99,
+    "spills_increase": -222.0,
+    "hours_increase": -508.69,
+    "mp_name": "Sara Britcliffe",
     "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25316/michelle_donelan/chippenham",
-    "twitter_handle": "@michelledonelan"
+    "mp_uri": "https://www.theyworkforyou.com/mp/25876/sara_britcliffe/hyndburn",
+    "twitter_handle": "@SarBritcliffeMP"
   },
   {
     "constituency": "Corby",
@@ -3382,18 +3538,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/25387/tom_pursglove/corby",
     "twitter_handle": "@VotePursglove"
-  },
-  {
-    "constituency": "High Peak",
-    "company": "United Utilities",
-    "total_spills": 666.0,
-    "total_hours": 2683.61,
-    "spills_increase": -1151.0,
-    "hours_increase": -10730.42,
-    "mp_name": "Robert Largan",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25841/robert_largan/high_peak",
-    "twitter_handle": "@robertlargan"
   },
   {
     "constituency": "North Shropshire",
@@ -3420,6 +3564,30 @@
     "twitter_handle": "@EmmaLewellBuck"
   },
   {
+    "constituency": "Weston-Super-Mare",
+    "company": "Wessex Water",
+    "total_spills": 198.0,
+    "total_hours": 2609.3,
+    "spills_increase": -187.0,
+    "hours_increase": -2446.75,
+    "mp_name": "John Penrose",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/11924/john_penrose/weston-super-mare",
+    "twitter_handle": null
+  },
+  {
+    "constituency": "Wallasey",
+    "company": "United Utilities",
+    "total_spills": 639.0,
+    "total_hours": 2599.04,
+    "spills_increase": -833.0,
+    "hours_increase": -2914.07,
+    "mp_name": "Angela Eagle",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/10182/angela_eagle/wallasey",
+    "twitter_handle": "@angelaeagle"
+  },
+  {
     "constituency": "Ashfield",
     "company": "Severn Trent Water",
     "total_spills": 588.0,
@@ -3444,16 +3612,16 @@
     "twitter_handle": null
   },
   {
-    "constituency": "Sefton Central",
+    "constituency": "Macclesfield",
     "company": "United Utilities",
-    "total_spills": 575.0,
-    "total_hours": 2562.04,
-    "spills_increase": -496.0,
-    "hours_increase": -1210.33,
-    "mp_name": "Bill Esterson",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24905/bill_esterson/sefton_central",
-    "twitter_handle": "@Bill_Esterson"
+    "total_spills": 881.0,
+    "total_hours": 2565.09,
+    "spills_increase": -576.0,
+    "hours_increase": -7128.36,
+    "mp_name": "David Rutley",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24820/david_rutley/macclesfield",
+    "twitter_handle": "@DavidRutley"
   },
   {
     "constituency": "Cheltenham",
@@ -3468,16 +3636,16 @@
     "twitter_handle": "@AlexChalkChelt"
   },
   {
-    "constituency": "Wallasey",
+    "constituency": "Altrincham and Sale West",
     "company": "United Utilities",
-    "total_spills": 580.0,
-    "total_hours": 2509.27,
-    "spills_increase": 0.0,
-    "hours_increase": 1205.59,
-    "mp_name": "Angela Eagle",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/10182/angela_eagle/wallasey",
-    "twitter_handle": "@angelaeagle"
+    "total_spills": 797.0,
+    "total_hours": 2534.07,
+    "spills_increase": -345.0,
+    "hours_increase": -7585.7,
+    "mp_name": "Graham Brady",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/10062/graham_brady/altrincham_and_sale_west",
+    "twitter_handle": "@SirGrahamBrady"
   },
   {
     "constituency": "Stourbridge",
@@ -3600,6 +3768,18 @@
     "twitter_handle": "@kitmalthouse"
   },
   {
+    "constituency": "Stone",
+    "company": "United Utilities",
+    "total_spills": 234.0,
+    "total_hours": 2333.84,
+    "spills_increase": -99.0,
+    "hours_increase": -128.73,
+    "mp_name": "Bill Cash",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/10095/bill_cash/stone",
+    "twitter_handle": "@BillCashMP"
+  },
+  {
     "constituency": "The Cotswolds",
     "company": "Severn Trent Water",
     "total_spills": 402.0,
@@ -3610,42 +3790,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/10119/geoffrey_clifton-brown/the_cotswolds",
     "twitter_handle": null
-  },
-  {
-    "constituency": "Hyndburn",
-    "company": "United Utilities",
-    "total_spills": 532.0,
-    "total_hours": 2314.97,
-    "spills_increase": -32.0,
-    "hours_increase": 284.78,
-    "mp_name": "Sara Britcliffe",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25876/sara_britcliffe/hyndburn",
-    "twitter_handle": "@SarBritcliffeMP"
-  },
-  {
-    "constituency": "Wirral West",
-    "company": "United Utilities",
-    "total_spills": 442.0,
-    "total_hours": 2291.03,
-    "spills_increase": -342.0,
-    "hours_increase": -2769.52,
-    "mp_name": "Margaret Greenwood",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25349/margaret_greenwood/wirral_west",
-    "twitter_handle": "@MGreenwoodWW"
-  },
-  {
-    "constituency": "Macclesfield",
-    "company": "United Utilities",
-    "total_spills": 551.0,
-    "total_hours": 2224.59,
-    "spills_increase": -662.0,
-    "hours_increase": -6645.9,
-    "mp_name": "David Rutley",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24820/david_rutley/macclesfield",
-    "twitter_handle": "@DavidRutley"
   },
   {
     "constituency": "Reigate",
@@ -3660,18 +3804,6 @@
     "twitter_handle": "@CrispinBlunt"
   },
   {
-    "constituency": "Preston",
-    "company": "United Utilities",
-    "total_spills": 351.0,
-    "total_hours": 2214.2,
-    "spills_increase": 61.0,
-    "hours_increase": 786.83,
-    "mp_name": "Mark Hendrick",
-    "mp_party": "Labour/Co-operative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/10682/mark_hendrick/preston",
-    "twitter_handle": "@MpHendrick"
-  },
-  {
     "constituency": "Sheffield, Brightside and Hillsborough",
     "company": "Yorkshire Water",
     "total_spills": 761.0,
@@ -3682,6 +3814,42 @@
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/25489/gill_furniss/sheffield%2C_brightside_and_hillsborough",
     "twitter_handle": "@GillFurnissMP"
+  },
+  {
+    "constituency": "North Somerset",
+    "company": "Wessex Water",
+    "total_spills": 394.0,
+    "total_hours": 2204.0,
+    "spills_increase": -108.0,
+    "hours_increase": -2759.4,
+    "mp_name": "Liam Fox",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/10213/liam_fox/north_somerset",
+    "twitter_handle": "@LiamFox"
+  },
+  {
+    "constituency": "Oldham West and Royton",
+    "company": "United Utilities",
+    "total_spills": 595.0,
+    "total_hours": 2192.74,
+    "spills_increase": -186.0,
+    "hours_increase": -451.89,
+    "mp_name": "Jim McMahon",
+    "mp_party": "Labour/Co-operative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25475/jim_mcmahon/oldham_west_and_royton",
+    "twitter_handle": "@JimfromOldham"
+  },
+  {
+    "constituency": "Burnley",
+    "company": "United Utilities",
+    "total_spills": 602.0,
+    "total_hours": 2167.32,
+    "spills_increase": -446.0,
+    "hours_increase": -1725.66,
+    "mp_name": "Antony Higginbotham",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25842/antony_higginbotham/burnley",
+    "twitter_handle": "@antony_hig"
   },
   {
     "constituency": "Faversham and Mid Kent",
@@ -3708,28 +3876,28 @@
     "twitter_handle": "@ClaireCoutinho"
   },
   {
-    "constituency": "Weaver Vale",
+    "constituency": "Crewe and Nantwich",
     "company": "United Utilities",
-    "total_spills": 540.0,
-    "total_hours": 2137.9,
-    "spills_increase": -337.0,
-    "hours_increase": -59.93,
-    "mp_name": "Mike Amesbury",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25702/mike_amesbury/weaver_vale",
-    "twitter_handle": "@MikeAmesburyMP"
+    "total_spills": 364.0,
+    "total_hours": 2131.43,
+    "spills_increase": -151.0,
+    "hours_increase": -489.23,
+    "mp_name": "Kieran Mullan",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25883/kieran_mullan/crewe_and_nantwich",
+    "twitter_handle": "@KieranMullanUK"
   },
   {
-    "constituency": "Ellesmere Port and Neston",
-    "company": "United Utilities",
-    "total_spills": 362.0,
-    "total_hours": 2124.58,
-    "spills_increase": -161.0,
-    "hours_increase": -2449.29,
-    "mp_name": "Justin Madders",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25378/justin_madders/ellesmere_port_and_neston",
-    "twitter_handle": "@justinmadders"
+    "constituency": "South West Wiltshire",
+    "company": "Wessex Water",
+    "total_spills": 480.0,
+    "total_hours": 2115.4,
+    "spills_increase": -290.0,
+    "hours_increase": -4027.97,
+    "mp_name": "Andrew Murrison",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/11132/andrew_murrison/south_west_wiltshire",
+    "twitter_handle": "@AWMurrison"
   },
   {
     "constituency": "Tamworth",
@@ -3804,6 +3972,18 @@
     "twitter_handle": "@NickFletcherMP"
   },
   {
+    "constituency": "The Cotswolds",
+    "company": "Wessex Water",
+    "total_spills": 317.0,
+    "total_hours": 1986.1,
+    "spills_increase": -154.0,
+    "hours_increase": -2150.38,
+    "mp_name": "Geoffrey Clifton-Brown",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/10119/geoffrey_clifton-brown/the_cotswolds",
+    "twitter_handle": null
+  },
+  {
     "constituency": "Braintree",
     "company": "Anglian Water",
     "total_spills": 247.0,
@@ -3828,28 +4008,16 @@
     "twitter_handle": "@BenPBradshaw"
   },
   {
-    "constituency": "Wigan",
-    "company": "United Utilities",
-    "total_spills": 624.0,
-    "total_hours": 1936.04,
-    "spills_increase": -322.0,
-    "hours_increase": -1309.51,
-    "mp_name": "Lisa Nandy",
+    "constituency": "Leeds East",
+    "company": "Yorkshire Water",
+    "total_spills": 525.0,
+    "total_hours": 1942.8,
+    "spills_increase": 85.0,
+    "hours_increase": 574.48,
+    "mp_name": "Richard Burgon",
     "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24831/lisa_nandy/wigan",
-    "twitter_handle": "@lisanandy"
-  },
-  {
-    "constituency": "Oldham West and Royton",
-    "company": "United Utilities",
-    "total_spills": 480.0,
-    "total_hours": 1883.51,
-    "spills_increase": 37.0,
-    "hours_increase": -23.83,
-    "mp_name": "Jim McMahon",
-    "mp_party": "Labour/Co-operative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25475/jim_mcmahon/oldham_west_and_royton",
-    "twitter_handle": "@JimfromOldham"
+    "mp_uri": "https://www.theyworkforyou.com/mp/25391/richard_burgon/leeds_east",
+    "twitter_handle": "@RichardBurgon"
   },
   {
     "constituency": "Newcastle upon Tyne Central",
@@ -3864,30 +4032,6 @@
     "twitter_handle": "@ChiOnwurah"
   },
   {
-    "constituency": "South Suffolk",
-    "company": "Anglian Water",
-    "total_spills": 288.0,
-    "total_hours": 1860.53,
-    "spills_increase": 113.0,
-    "hours_increase": 938.95,
-    "mp_name": "James Cartlidge",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25414/james_cartlidge/south_suffolk",
-    "twitter_handle": "@jc4southsuffolk"
-  },
-  {
-    "constituency": "Denton and Reddish",
-    "company": "United Utilities",
-    "total_spills": 476.0,
-    "total_hours": 1845.73,
-    "spills_increase": -1007.0,
-    "hours_increase": -8119.23,
-    "mp_name": "Andrew Gwynne",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/11531/andrew_gwynne/denton_and_reddish",
-    "twitter_handle": "@GwynneMP"
-  },
-  {
     "constituency": "Clacton",
     "company": "Anglian Water",
     "total_spills": 440.0,
@@ -3898,6 +4042,18 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/25644/giles_watling/clacton",
     "twitter_handle": "@GilesWatling"
+  },
+  {
+    "constituency": "Manchester, Withington",
+    "company": "United Utilities",
+    "total_spills": 357.0,
+    "total_hours": 1839.0,
+    "spills_increase": -36.0,
+    "hours_increase": 438.35,
+    "mp_name": "Jeff Smith",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25366/jeff_smith/manchester%2C_withington",
+    "twitter_handle": "@JeffSmithetc"
   },
   {
     "constituency": "Hertford and Stortford",
@@ -3960,6 +4116,18 @@
     "twitter_handle": "@joymorrissey"
   },
   {
+    "constituency": "Ashton-under-Lyne",
+    "company": "United Utilities",
+    "total_spills": 578.0,
+    "total_hours": 1792.89,
+    "spills_increase": -533.0,
+    "hours_increase": -1174.43,
+    "mp_name": "Angela Rayner",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25429/angela_rayner/ashton-under-lyne",
+    "twitter_handle": "@AngelaRayner"
+  },
+  {
     "constituency": "Rayleigh and Wickford",
     "company": "Anglian Water",
     "total_spills": 150.0,
@@ -3970,30 +4138,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/10901/mark_francois/rayleigh_and_wickford",
     "twitter_handle": null
-  },
-  {
-    "constituency": "South West Wiltshire",
-    "company": "Wessex Water",
-    "total_spills": 413.0,
-    "total_hours": 1776.5,
-    "spills_increase": -357.0,
-    "hours_increase": -4366.87,
-    "mp_name": "Andrew Murrison",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/11132/andrew_murrison/south_west_wiltshire",
-    "twitter_handle": "@AWMurrison"
-  },
-  {
-    "constituency": "Salisbury",
-    "company": "Wessex Water",
-    "total_spills": 386.0,
-    "total_hours": 1769.1,
-    "spills_increase": -772.0,
-    "hours_increase": -15013.59,
-    "mp_name": "John Glen",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24839/john_glen/salisbury",
-    "twitter_handle": "@JohnGlenUK"
   },
   {
     "constituency": "Newport East",
@@ -4020,6 +4164,18 @@
     "twitter_handle": "@KemiBadenoch"
   },
   {
+    "constituency": "Bath",
+    "company": "Wessex Water",
+    "total_spills": 1681.0,
+    "total_hours": 1734.9666666666667,
+    "spills_increase": -401.0,
+    "hours_increase": -2144.8233333333333,
+    "mp_name": "Wera Hobhouse",
+    "mp_party": "Liberal Democrat",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25648/wera_hobhouse/bath",
+    "twitter_handle": "@Wera_Hobhouse"
+  },
+  {
     "constituency": "Dagenham and Rainham",
     "company": "Thames Water",
     "total_spills": 102.0,
@@ -4030,18 +4186,6 @@
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/10828/jon_cruddas/dagenham_and_rainham",
     "twitter_handle": "@JonCruddas_1"
-  },
-  {
-    "constituency": "Leeds Central",
-    "company": "Yorkshire Water",
-    "total_spills": 683.0,
-    "total_hours": 1723.1,
-    "spills_increase": 264.0,
-    "hours_increase": 920.71,
-    "mp_name": "Hilary Benn",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/10669/hilary_benn/leeds_central",
-    "twitter_handle": "@hilarybennmp"
   },
   {
     "constituency": "Leeds North West",
@@ -4128,18 +4272,6 @@
     "twitter_handle": "@NickFletcherMP"
   },
   {
-    "constituency": "North Somerset",
-    "company": "Wessex Water",
-    "total_spills": 302.0,
-    "total_hours": 1610.6,
-    "spills_increase": -200.0,
-    "hours_increase": -3352.8,
-    "mp_name": "Liam Fox",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/10213/liam_fox/north_somerset",
-    "twitter_handle": "@LiamFox"
-  },
-  {
     "constituency": "Portsmouth South",
     "company": "Southern Water",
     "total_spills": 213.0,
@@ -4162,6 +4294,18 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/11859/jeremy_hunt/south_west_surrey",
     "twitter_handle": "@Jeremy_Hunt"
+  },
+  {
+    "constituency": "South Dorset",
+    "company": "Wessex Water",
+    "total_spills": 732.0,
+    "total_hours": 1567.3,
+    "spills_increase": -147.0,
+    "hours_increase": -2111.89,
+    "mp_name": "Richard Drax",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24903/richard_drax/south_dorset",
+    "twitter_handle": null
   },
   {
     "constituency": "Battersea",
@@ -4200,18 +4344,6 @@
     "twitter_handle": "@Alison_McGovern"
   },
   {
-    "constituency": "Weston-Super-Mare",
-    "company": "Wessex Water",
-    "total_spills": 105.0,
-    "total_hours": 1534.3,
-    "spills_increase": -280.0,
-    "hours_increase": -3521.75,
-    "mp_name": "John Penrose",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/11924/john_penrose/weston-super-mare",
-    "twitter_handle": null
-  },
-  {
     "constituency": "Sheffield, Hallam",
     "company": "Yorkshire Water",
     "total_spills": 453.0,
@@ -4234,18 +4366,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/24880/mark_pawsey/rugby",
     "twitter_handle": "@MarkPawsey"
-  },
-  {
-    "constituency": "Washington and Sunderland West",
-    "company": "Northumbrian Water",
-    "total_spills": 307.0,
-    "total_hours": 1504.4,
-    "spills_increase": 76.0,
-    "hours_increase": 858.67,
-    "mp_name": "Sharon Hodgson",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/11592/sharon_hodgson/washington_and_sunderland_west",
-    "twitter_handle": "@SharonHodgsonMP"
   },
   {
     "constituency": "Bromsgrove",
@@ -4296,6 +4416,30 @@
     "twitter_handle": "@BBradley_Mans"
   },
   {
+    "constituency": "Washington and Sunderland West",
+    "company": "Northumbrian Water",
+    "total_spills": 275.0,
+    "total_hours": 1437.4,
+    "spills_increase": 66.0,
+    "hours_increase": 821.92,
+    "mp_name": "Sharon Hodgson",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/11592/sharon_hodgson/washington_and_sunderland_west",
+    "twitter_handle": "@SharonHodgsonMP"
+  },
+  {
+    "constituency": "South Suffolk",
+    "company": "Anglian Water",
+    "total_spills": 208.0,
+    "total_hours": 1433.03,
+    "spills_increase": 122.0,
+    "hours_increase": 1015.45,
+    "mp_name": "James Cartlidge",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25414/james_cartlidge/south_suffolk",
+    "twitter_handle": "@jc4southsuffolk"
+  },
+  {
     "constituency": "Harborough",
     "company": "Severn Trent Water",
     "total_spills": 290.0,
@@ -4306,18 +4450,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/25679/neil_o%27brien/harborough",
     "twitter_handle": "@NeilDotObrien"
-  },
-  {
-    "constituency": "Bath",
-    "company": "Wessex Water",
-    "total_spills": 1194.0,
-    "total_hours": 1420.8666666666666,
-    "spills_increase": -888.0,
-    "hours_increase": -2458.923333333333,
-    "mp_name": "Wera Hobhouse",
-    "mp_party": "Liberal Democrat",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25648/wera_hobhouse/bath",
-    "twitter_handle": "@Wera_Hobhouse"
   },
   {
     "constituency": "West Dorset",
@@ -4368,6 +4500,18 @@
     "twitter_handle": "@PaulBlomfieldMP"
   },
   {
+    "constituency": "Newcastle-under-Lyme",
+    "company": "United Utilities",
+    "total_spills": 212.0,
+    "total_hours": 1368.42,
+    "spills_increase": -6.0,
+    "hours_increase": -599.04,
+    "mp_name": "Aaron Bell",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25916/aaron_bell/newcastle-under-lyme",
+    "twitter_handle": "@AaronBell4NUL"
+  },
+  {
     "constituency": "Warwick and Leamington",
     "company": "Severn Trent Water",
     "total_spills": 204.0,
@@ -4392,6 +4536,18 @@
     "twitter_handle": "@JohnGlenUK"
   },
   {
+    "constituency": "Southport",
+    "company": "United Utilities",
+    "total_spills": 256.0,
+    "total_hours": 1337.98,
+    "spills_increase": -48.0,
+    "hours_increase": 602.04,
+    "mp_name": "Damien Moore",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25630/damien_moore/southport",
+    "twitter_handle": null
+  },
+  {
     "constituency": "Canterbury",
     "company": "Southern Water",
     "total_spills": 249.0,
@@ -4402,18 +4558,6 @@
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/25656/rosie_duffield/canterbury",
     "twitter_handle": "@RosieDuffield1"
-  },
-  {
-    "constituency": "Crewe and Nantwich",
-    "company": "United Utilities",
-    "total_spills": 143.0,
-    "total_hours": 1321.77,
-    "spills_increase": -175.0,
-    "hours_increase": 647.52,
-    "mp_name": "Kieran Mullan",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25883/kieran_mullan/crewe_and_nantwich",
-    "twitter_handle": "@KieranMullanUK"
   },
   {
     "constituency": "Sheffield, Heeley",
@@ -4488,6 +4632,18 @@
     "twitter_handle": "@JudithCummins"
   },
   {
+    "constituency": "Mid Dorset and North Poole",
+    "company": "Wessex Water",
+    "total_spills": 278.0,
+    "total_hours": 1286.3,
+    "spills_increase": -128.0,
+    "hours_increase": -2005.14,
+    "mp_name": "Michael Tomlinson",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25422/michael_tomlinson/mid_dorset_and_north_poole",
+    "twitter_handle": "@Michael4MDNP"
+  },
+  {
     "constituency": "Bridgend",
     "company": "Dwr Cymru Welsh Water",
     "total_spills": 131.0,
@@ -4536,6 +4692,18 @@
     "twitter_handle": "@AndyMcDonaldMP"
   },
   {
+    "constituency": "Staffordshire Moorlands",
+    "company": "United Utilities",
+    "total_spills": 240.0,
+    "total_hours": 1262.77,
+    "spills_increase": -176.0,
+    "hours_increase": -787.0,
+    "mp_name": "Karen Bradley",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24725/karen_bradley/staffordshire_moorlands",
+    "twitter_handle": null
+  },
+  {
     "constituency": "Birmingham, Hodge Hill",
     "company": "Severn Trent Water",
     "total_spills": 387.0,
@@ -4546,6 +4714,18 @@
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/11360/liam_byrne/birmingham%2C_hodge_hill",
     "twitter_handle": "@liambyrnemp"
+  },
+  {
+    "constituency": "Manchester Central",
+    "company": "United Utilities",
+    "total_spills": 649.0,
+    "total_hours": 1258.05,
+    "spills_increase": -673.0,
+    "hours_increase": -1369.77,
+    "mp_name": "Lucy Powell",
+    "mp_party": "Labour/Co-operative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25165/lucy_powell/manchester_central",
+    "twitter_handle": "@LucyMPowell"
   },
   {
     "constituency": "South West Surrey",
@@ -4584,18 +4764,6 @@
     "twitter_handle": "@MPIainDS"
   },
   {
-    "constituency": "South Dorset",
-    "company": "Wessex Water",
-    "total_spills": 626.0,
-    "total_hours": 1209.0,
-    "spills_increase": -253.0,
-    "hours_increase": -2470.19,
-    "mp_name": "Richard Drax",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24903/richard_drax/south_dorset",
-    "twitter_handle": null
-  },
-  {
     "constituency": "South Norfolk",
     "company": "Anglian Water",
     "total_spills": 130.0,
@@ -4606,30 +4774,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/10707/richard_bacon/south_norfolk",
     "twitter_handle": "@richardbaconmp"
-  },
-  {
-    "constituency": "Staffordshire Moorlands",
-    "company": "United Utilities",
-    "total_spills": 193.0,
-    "total_hours": 1177.3,
-    "spills_increase": -77.0,
-    "hours_increase": 138.48,
-    "mp_name": "Karen Bradley",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24725/karen_bradley/staffordshire_moorlands",
-    "twitter_handle": null
-  },
-  {
-    "constituency": "The Cotswolds",
-    "company": "Wessex Water",
-    "total_spills": 243.0,
-    "total_hours": 1171.5,
-    "spills_increase": -228.0,
-    "hours_increase": -2964.98,
-    "mp_name": "Geoffrey Clifton-Brown",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/10119/geoffrey_clifton-brown/the_cotswolds",
-    "twitter_handle": null
   },
   {
     "constituency": "Bognor Regis and Littlehampton",
@@ -4680,6 +4824,18 @@
     "twitter_handle": "@pauljholmes"
   },
   {
+    "constituency": "Bristol West",
+    "company": "Wessex Water",
+    "total_spills": 677.0,
+    "total_hours": 1050.7499999998681,
+    "spills_increase": 169.0,
+    "hours_increase": 230.12999999986806,
+    "mp_name": "Thangam Debbonaire",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25402/thangam_debbonaire/bristol_west",
+    "twitter_handle": "@ThangamMP"
+  },
+  {
     "constituency": "North Thanet",
     "company": "Southern Water",
     "total_spills": 128.0,
@@ -4690,18 +4846,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/10217/roger_gale/north_thanet",
     "twitter_handle": "@SirRogerGale"
-  },
-  {
-    "constituency": "Newcastle-under-Lyme",
-    "company": "United Utilities",
-    "total_spills": 156.0,
-    "total_hours": 1042.32,
-    "spills_increase": -180.0,
-    "hours_increase": -1633.04,
-    "mp_name": "Aaron Bell",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25916/aaron_bell/newcastle-under-lyme",
-    "twitter_handle": "@AaronBell4NUL"
   },
   {
     "constituency": "Doncaster Central",
@@ -4740,6 +4884,18 @@
     "twitter_handle": "@Jane_Stevenson_"
   },
   {
+    "constituency": "Liverpool, Riverside",
+    "company": "United Utilities",
+    "total_spills": 321.0,
+    "total_hours": 1006.06,
+    "spills_increase": -116.0,
+    "hours_increase": 180.22,
+    "mp_name": "Kim Johnson",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25803/kim_johnson/liverpool%2C_riverside",
+    "twitter_handle": "@KimJohnsonMP"
+  },
+  {
     "constituency": "Brigg and Goole",
     "company": "Yorkshire Water",
     "total_spills": 477.0,
@@ -4750,18 +4906,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/24832/andrew_percy/brigg_and_goole",
     "twitter_handle": null
-  },
-  {
-    "constituency": "Liverpool, Riverside",
-    "company": "United Utilities",
-    "total_spills": 316.0,
-    "total_hours": 997.83,
-    "spills_increase": 108.0,
-    "hours_increase": 539.97,
-    "mp_name": "Kim Johnson",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25803/kim_johnson/liverpool%2C_riverside",
-    "twitter_handle": "@KimJohnsonMP"
   },
   {
     "constituency": "Swansea West",
@@ -4788,18 +4932,6 @@
     "twitter_handle": "@JamesMorris"
   },
   {
-    "constituency": "Altrincham and Sale West",
-    "company": "United Utilities",
-    "total_spills": 440.0,
-    "total_hours": 988.7,
-    "spills_increase": -464.0,
-    "hours_increase": -3921.88,
-    "mp_name": "Graham Brady",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/10062/graham_brady/altrincham_and_sale_west",
-    "twitter_handle": "@SirGrahamBrady"
-  },
-  {
     "constituency": "Gillingham and Rainham",
     "company": "Southern Water",
     "total_spills": 502.0,
@@ -4824,18 +4956,6 @@
     "twitter_handle": "@Andrew4Pendle"
   },
   {
-    "constituency": "Cheadle",
-    "company": "United Utilities",
-    "total_spills": 269.0,
-    "total_hours": 978.12,
-    "spills_increase": -306.0,
-    "hours_increase": -1313.32,
-    "mp_name": "Mary Robinson",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25405/mary_robinson/cheadle",
-    "twitter_handle": "@MaryRobinson01"
-  },
-  {
     "constituency": "Derby South",
     "company": "Severn Trent Water",
     "total_spills": 311.0,
@@ -4846,30 +4966,6 @@
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/10031/margaret_beckett/derby_south",
     "twitter_handle": null
-  },
-  {
-    "constituency": "Bristol West",
-    "company": "Wessex Water",
-    "total_spills": 563.0,
-    "total_hours": 974.249999999868,
-    "spills_increase": 55.0,
-    "hours_increase": 153.62999999986806,
-    "mp_name": "Thangam Debbonaire",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25402/thangam_debbonaire/bristol_west",
-    "twitter_handle": "@ThangamMP"
-  },
-  {
-    "constituency": "Mid Dorset and North Poole",
-    "company": "Wessex Water",
-    "total_spills": 200.0,
-    "total_hours": 972.3,
-    "spills_increase": -206.0,
-    "hours_increase": -2319.14,
-    "mp_name": "Michael Tomlinson",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25422/michael_tomlinson/mid_dorset_and_north_poole",
-    "twitter_handle": "@Michael4MDNP"
   },
   {
     "constituency": "Runnymede and Weybridge",
@@ -4968,36 +5064,12 @@
     "twitter_handle": "@AnnelieseDodds"
   },
   {
-    "constituency": "Manchester Central",
-    "company": "United Utilities",
-    "total_spills": 383.0,
-    "total_hours": 889.66,
-    "spills_increase": -689.0,
-    "hours_increase": -1111.8,
-    "mp_name": "Lucy Powell",
-    "mp_party": "Labour/Co-operative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25165/lucy_powell/manchester_central",
-    "twitter_handle": "@LucyMPowell"
-  },
-  {
-    "constituency": "Stone",
-    "company": "United Utilities",
-    "total_spills": 57.0,
-    "total_hours": 887.57,
-    "spills_increase": -276.0,
-    "hours_increase": -1575.0,
-    "mp_name": "Bill Cash",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/10095/bill_cash/stone",
-    "twitter_handle": "@BillCashMP"
-  },
-  {
     "constituency": "Bootle",
     "company": "United Utilities",
     "total_spills": 215.0,
     "total_hours": 845.32,
-    "spills_increase": 0.0,
-    "hours_increase": 0.0,
+    "spills_increase": -136.0,
+    "hours_increase": -313.02,
     "mp_name": "Peter Dowd",
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/25309/peter_dowd/bootle",
@@ -5038,18 +5110,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/25272/suella_braverman/fareham",
     "twitter_handle": "@SuellaBraverman"
-  },
-  {
-    "constituency": "Blackburn",
-    "company": "United Utilities",
-    "total_spills": 425.0,
-    "total_hours": 824.29,
-    "spills_increase": -600.0,
-    "hours_increase": -2130.44,
-    "mp_name": "Kate Hollern",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25298/kate_hollern/blackburn",
-    "twitter_handle": "@Kate_HollernMP"
   },
   {
     "constituency": "Newcastle-under-Lyme",
@@ -5124,18 +5184,6 @@
     "twitter_handle": "@JamesDuddridge"
   },
   {
-    "constituency": "Ashton-under-Lyne",
-    "company": "United Utilities",
-    "total_spills": 251.0,
-    "total_hours": 769.86,
-    "spills_increase": -860.0,
-    "hours_increase": -2197.46,
-    "mp_name": "Angela Rayner",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25429/angela_rayner/ashton-under-lyne",
-    "twitter_handle": "@AngelaRayner"
-  },
-  {
     "constituency": "Suffolk Coastal",
     "company": "Anglian Water",
     "total_spills": 335.0,
@@ -5146,18 +5194,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/24771/therese_coffey/suffolk_coastal",
     "twitter_handle": "@theresecoffey"
-  },
-  {
-    "constituency": "Bury North",
-    "company": "United Utilities",
-    "total_spills": 176.0,
-    "total_hours": 746.54,
-    "spills_increase": -885.0,
-    "hours_increase": -3011.66,
-    "mp_name": "James Daly",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25905/james_daly/bury_north",
-    "twitter_handle": "@JamesDalyMP"
   },
   {
     "constituency": "South Swindon",
@@ -5176,8 +5212,8 @@
     "company": "United Utilities",
     "total_spills": 389.0,
     "total_hours": 727.67,
-    "spills_increase": 214.0,
-    "hours_increase": 432.2,
+    "spills_increase": 120.0,
+    "hours_increase": -99.99,
     "mp_name": "Marie Rimmer",
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/25321/marie_rimmer/st_helens_south_and_whiston",
@@ -5356,8 +5392,8 @@
     "company": "United Utilities",
     "total_spills": 64.0,
     "total_hours": 576.52,
-    "spills_increase": 41.0,
-    "hours_increase": 524.06,
+    "spills_increase": 9.0,
+    "hours_increase": 282.27,
     "mp_name": "Paul Maynard",
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/24764/paul_maynard/blackpool_north_and_cleveleys",
@@ -5410,6 +5446,30 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/25337/lucy_allan/telford",
     "twitter_handle": "@lucyallan"
+  },
+  {
+    "constituency": "Ipswich",
+    "company": "Anglian Water",
+    "total_spills": 173.0,
+    "total_hours": 539.65,
+    "spills_increase": -34.0,
+    "hours_increase": -55.97,
+    "mp_name": "Tom Hunt",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25811/tom_hunt/ipswich",
+    "twitter_handle": "@tomhunt1988"
+  },
+  {
+    "constituency": "Kingswood",
+    "company": "Wessex Water",
+    "total_spills": 457.0,
+    "total_hours": 534.8,
+    "spills_increase": -14.0,
+    "hours_increase": -361.64,
+    "mp_name": "Chris Skidmore",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24713/chris_skidmore/kingswood",
+    "twitter_handle": "@CSkidmoreUK"
   },
   {
     "constituency": "Tynemouth",
@@ -5484,18 +5544,6 @@
     "twitter_handle": "@Ed_Miliband"
   },
   {
-    "constituency": "Kingswood",
-    "company": "Wessex Water",
-    "total_spills": 443.0,
-    "total_hours": 480.7,
-    "spills_increase": -28.0,
-    "hours_increase": -415.74,
-    "mp_name": "Chris Skidmore",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/24713/chris_skidmore/kingswood",
-    "twitter_handle": "@CSkidmoreUK"
-  },
-  {
     "constituency": "Vauxhall",
     "company": "Thames Water",
     "total_spills": 118.0,
@@ -5544,27 +5592,27 @@
     "twitter_handle": "@karlmccartney"
   },
   {
-    "constituency": "Southport",
-    "company": "United Utilities",
-    "total_spills": 152.0,
-    "total_hours": 463.85,
-    "spills_increase": -118.0,
-    "hours_increase": -239.52,
-    "mp_name": "Damien Moore",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25630/damien_moore/southport",
-    "twitter_handle": null
-  },
-  {
     "constituency": "Christchurch",
     "company": "Wessex Water",
-    "total_spills": 75.0,
-    "total_hours": 450.9,
-    "spills_increase": -65.0,
-    "hours_increase": -608.65,
+    "total_spills": 79.0,
+    "total_hours": 451.7,
+    "spills_increase": -61.0,
+    "hours_increase": -607.85,
     "mp_name": "Christopher Chope",
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/10103/christopher_chope/christchurch",
+    "twitter_handle": null
+  },
+  {
+    "constituency": "Fylde",
+    "company": "Wessex Water",
+    "total_spills": 47.0,
+    "total_hours": 445.8,
+    "spills_increase": -2.0,
+    "hours_increase": -146.45,
+    "mp_name": "Mark Menzies",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/24804/mark_menzies/fylde",
     "twitter_handle": null
   },
   {
@@ -5604,16 +5652,16 @@
     "twitter_handle": null
   },
   {
-    "constituency": "Burnley",
-    "company": "United Utilities",
-    "total_spills": 129.0,
-    "total_hours": 390.2,
-    "spills_increase": -729.0,
-    "hours_increase": -2614.55,
-    "mp_name": "Antony Higginbotham",
+    "constituency": "Chelmsford",
+    "company": "Anglian Water",
+    "total_spills": 73.0,
+    "total_hours": 392.0,
+    "spills_increase": 46.0,
+    "hours_increase": 329.0,
+    "mp_name": "Vicky Ford",
     "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25842/antony_higginbotham/burnley",
-    "twitter_handle": "@antony_hig"
+    "mp_uri": "https://www.theyworkforyou.com/mp/25614/vicky_ford/chelmsford",
+    "twitter_handle": "@vickyford"
   },
   {
     "constituency": "Chelsea and Fulham",
@@ -5664,18 +5712,6 @@
     "twitter_handle": "@willquince"
   },
   {
-    "constituency": "Chelmsford",
-    "company": "Anglian Water",
-    "total_spills": 59.0,
-    "total_hours": 381.0,
-    "spills_increase": 40.0,
-    "hours_increase": 343.5,
-    "mp_name": "Vicky Ford",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25614/vicky_ford/chelmsford",
-    "twitter_handle": "@vickyford"
-  },
-  {
     "constituency": "South Basildon and East Thurrock",
     "company": "Anglian Water",
     "total_spills": 42.0,
@@ -5712,6 +5748,18 @@
     "twitter_handle": "@DrNeilHudson"
   },
   {
+    "constituency": "Bristol East",
+    "company": "Wessex Water",
+    "total_spills": 576.0,
+    "total_hours": 368.1,
+    "spills_increase": 92.0,
+    "hours_increase": -175.9,
+    "mp_name": "Kerry McCarthy",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/11455/kerry_mccarthy/bristol_east",
+    "twitter_handle": "@KerryMP"
+  },
+  {
     "constituency": "Leyton and Wanstead",
     "company": "Thames Water",
     "total_spills": 102.0,
@@ -5734,18 +5782,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/24802/henry_smith/crawley",
     "twitter_handle": "@HenrySmithUK"
-  },
-  {
-    "constituency": "Bristol East",
-    "company": "Wessex Water",
-    "total_spills": 524.0,
-    "total_hours": 336.9,
-    "spills_increase": 40.0,
-    "hours_increase": -207.1,
-    "mp_name": "Kerry McCarthy",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/11455/kerry_mccarthy/bristol_east",
-    "twitter_handle": "@KerryMP"
   },
   {
     "constituency": "Portsmouth North",
@@ -5812,8 +5848,8 @@
     "company": "United Utilities",
     "total_spills": 50.0,
     "total_hours": 305.71,
-    "spills_increase": 50.0,
-    "hours_increase": 305.71,
+    "spills_increase": -28.0,
+    "hours_increase": -157.51,
     "mp_name": "Mike Kane",
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/25220/mike_kane/wythenshawe_and_sale_east",
@@ -5904,6 +5940,18 @@
     "twitter_handle": "@stephenctimms"
   },
   {
+    "constituency": "Poole",
+    "company": "Wessex Water",
+    "total_spills": 116.0,
+    "total_hours": 277.8,
+    "spills_increase": -90.0,
+    "hours_increase": -560.34,
+    "mp_name": "Robert Syms",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/10582/robert_syms/poole",
+    "twitter_handle": "@RobertSyms"
+  },
+  {
     "constituency": "Bristol South",
     "company": "Wessex Water",
     "total_spills": 169.0,
@@ -5988,28 +6036,28 @@
     "twitter_handle": "@steve_mccabe"
   },
   {
-    "constituency": "Blackpool South",
-    "company": "United Utilities",
-    "total_spills": 50.0,
-    "total_hours": 233.46,
-    "spills_increase": 0.0,
-    "hours_increase": 0.0,
-    "mp_name": "Scott Benton",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25800/scott_benton/blackpool_south",
-    "twitter_handle": "@ScottBentonMP"
-  },
-  {
     "constituency": "Knowsley",
     "company": "United Utilities",
-    "total_spills": 54.0,
-    "total_hours": 232.4,
-    "spills_increase": -22.0,
-    "hours_increase": 160.28,
+    "total_spills": 62.0,
+    "total_hours": 235.73,
+    "spills_increase": -53.0,
+    "hours_increase": 117.54,
     "mp_name": "George Howarth",
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/10292/george_howarth/knowsley",
     "twitter_handle": null
+  },
+  {
+    "constituency": "Blackpool South",
+    "company": "United Utilities",
+    "total_spills": 50.0,
+    "total_hours": 233.46,
+    "spills_increase": -2.0,
+    "hours_increase": 36.41,
+    "mp_name": "Scott Benton",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25800/scott_benton/blackpool_south",
+    "twitter_handle": "@ScottBentonMP"
   },
   {
     "constituency": "East Worthing and Shoreham",
@@ -6046,18 +6094,6 @@
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/25888/tahir_ali/birmingham%2C_hall_green",
     "twitter_handle": "@TahirAliMP"
-  },
-  {
-    "constituency": "Poole",
-    "company": "Wessex Water",
-    "total_spills": 83.0,
-    "total_hours": 217.2,
-    "spills_increase": -123.0,
-    "hours_increase": -620.94,
-    "mp_name": "Robert Syms",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/10582/robert_syms/poole",
-    "twitter_handle": "@RobertSyms"
   },
   {
     "constituency": "Ealing Central and Acton",
@@ -6146,10 +6182,10 @@
   {
     "constituency": "South Staffordshire",
     "company": "United Utilities",
-    "total_spills": 65.0,
-    "total_hours": 195.67,
-    "spills_increase": 60.0,
-    "hours_increase": 195.27,
+    "total_spills": 68.0,
+    "total_hours": 196.4,
+    "spills_increase": -61.0,
+    "hours_increase": -489.85,
     "mp_name": "Gavin Williamson",
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/24729/gavin_williamson/south_staffordshire",
@@ -6192,6 +6228,18 @@
     "twitter_handle": "@Ben_Everitt"
   },
   {
+    "constituency": "Manchester, Gorton",
+    "company": "United Utilities",
+    "total_spills": 76.0,
+    "total_hours": 172.71,
+    "spills_increase": -34.0,
+    "hours_increase": 59.8,
+    "mp_name": "Afzal Khan",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25662/afzal_khan/manchester%2C_gorton",
+    "twitter_handle": "@Afzal4Gorton"
+  },
+  {
     "constituency": "Slough",
     "company": "Thames Water",
     "total_spills": 16.0,
@@ -6214,18 +6262,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/25437/craig_mackinlay/south_thanet",
     "twitter_handle": "@cmackinlay"
-  },
-  {
-    "constituency": "Manchester, Withington",
-    "company": "United Utilities",
-    "total_spills": 93.0,
-    "total_hours": 165.2,
-    "spills_increase": -290.0,
-    "hours_increase": -1233.32,
-    "mp_name": "Jeff Smith",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25366/jeff_smith/manchester%2C_withington",
-    "twitter_handle": "@JeffSmithetc"
   },
   {
     "constituency": "Wimbledon",
@@ -6288,18 +6324,6 @@
     "twitter_handle": "@GarethBaconMP"
   },
   {
-    "constituency": "Manchester, Gorton",
-    "company": "United Utilities",
-    "total_spills": 56.0,
-    "total_hours": 151.51,
-    "spills_increase": 27.0,
-    "hours_increase": 129.48,
-    "mp_name": "Afzal Khan",
-    "mp_party": "Labour",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25662/afzal_khan/manchester%2C_gorton",
-    "twitter_handle": "@Afzal4Gorton"
-  },
-  {
     "constituency": "Leicester East",
     "company": "Severn Trent Water",
     "total_spills": 68.0,
@@ -6310,6 +6334,18 @@
     "mp_party": "Independent",
     "mp_uri": "https://www.theyworkforyou.com/mp/25797/claudia_webbe/leicester_east",
     "twitter_handle": "@ClaudiaWebbe"
+  },
+  {
+    "constituency": "Bournemouth East",
+    "company": "Wessex Water",
+    "total_spills": 68.0,
+    "total_hours": 137.1,
+    "spills_increase": -4.0,
+    "hours_increase": -19.23,
+    "mp_name": "Tobias Ellwood",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/11437/tobias_ellwood/bournemouth_east",
+    "twitter_handle": "@Tobias_Ellwood"
   },
   {
     "constituency": "Birmingham, Northfield",
@@ -6384,6 +6420,18 @@
     "twitter_handle": "@pow_rebecca"
   },
   {
+    "constituency": "North Shropshire",
+    "company": "United Utilities",
+    "total_spills": 61.0,
+    "total_hours": 115.03,
+    "spills_increase": -27.0,
+    "hours_increase": -19.9,
+    "mp_name": "Owen Paterson",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/10473/owen_paterson/north_shropshire",
+    "twitter_handle": "@OwenPaterson"
+  },
+  {
     "constituency": "Southend West",
     "company": "Anglian Water",
     "total_spills": 42.0,
@@ -6454,30 +6502,6 @@
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/25907/elliot_colburn/carshalton_and_wallington",
     "twitter_handle": "@ElliotColburn"
-  },
-  {
-    "constituency": "Ipswich",
-    "company": "Anglian Water",
-    "total_spills": 73.0,
-    "total_hours": 99.45,
-    "spills_increase": -17.0,
-    "hours_increase": 17.63,
-    "mp_name": "Tom Hunt",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25811/tom_hunt/ipswich",
-    "twitter_handle": "@tomhunt1988"
-  },
-  {
-    "constituency": "Bournemouth East",
-    "company": "Wessex Water",
-    "total_spills": 55.0,
-    "total_hours": 98.3,
-    "spills_increase": -17.0,
-    "hours_increase": -58.03,
-    "mp_name": "Tobias Ellwood",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/11437/tobias_ellwood/bournemouth_east",
-    "twitter_handle": "@Tobias_Ellwood"
   },
   {
     "constituency": "Finchley and Golders Green",
@@ -6612,18 +6636,6 @@
     "twitter_handle": null
   },
   {
-    "constituency": "Montgomeryshire",
-    "company": "United Utilities",
-    "total_spills": 34.0,
-    "total_hours": 51.07,
-    "spills_increase": -30.0,
-    "hours_increase": -46.92,
-    "mp_name": "Craig Williams",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/25329/craig_williams/montgomeryshire",
-    "twitter_handle": "@craig4monty"
-  },
-  {
     "constituency": "Croydon Central",
     "company": "Thames Water",
     "total_spills": 20.0,
@@ -6748,8 +6760,8 @@
     "company": "United Utilities",
     "total_spills": 37.0,
     "total_hours": 26.7,
-    "spills_increase": -289.0,
-    "hours_increase": -1654.95,
+    "spills_increase": -72.0,
+    "hours_increase": -74.74,
     "mp_name": "Guy Opperman",
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/24962/guy_opperman/hexham",
@@ -6802,6 +6814,18 @@
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/25856/bell_ribeiro-addy/streatham",
     "twitter_handle": "@BellRibeiroAddy"
+  },
+  {
+    "constituency": "Richmond (Yorks)",
+    "company": "United Utilities",
+    "total_spills": 26.0,
+    "total_hours": 22.37,
+    "spills_increase": -115.0,
+    "hours_increase": -59.96,
+    "mp_name": "Rishi Sunak",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25428/rishi_sunak/richmond_%28yorks%29",
+    "twitter_handle": "@RishiSunak"
   },
   {
     "constituency": "Norwich North",
@@ -6864,18 +6888,6 @@
     "twitter_handle": "@BrineMP"
   },
   {
-    "constituency": "Hemel Hempstead",
-    "company": "Anglian Water",
-    "total_spills": 14.0,
-    "total_hours": 11.0,
-    "spills_increase": 6.0,
-    "hours_increase": -14.5,
-    "mp_name": "Mike Penning",
-    "mp_party": "Conservative",
-    "mp_uri": "https://www.theyworkforyou.com/mp/11626/mike_penning/hemel_hempstead",
-    "twitter_handle": null
-  },
-  {
     "constituency": "Scunthorpe",
     "company": "Anglian Water",
     "total_spills": 5.0,
@@ -6922,6 +6934,18 @@
     "mp_party": "Labour",
     "mp_uri": "https://www.theyworkforyou.com/mp/25915/taiwo_owatemi/coventry_north_west",
     "twitter_handle": "@TaiwoOwatemi"
+  },
+  {
+    "constituency": "Liverpool, West Derby",
+    "company": "United Utilities",
+    "total_spills": 3.0,
+    "total_hours": 3.77,
+    "spills_increase": 2.0,
+    "hours_increase": 0.4,
+    "mp_name": "Ian Byrne",
+    "mp_party": "Labour",
+    "mp_uri": "https://www.theyworkforyou.com/mp/25816/ian_byrne/liverpool%2C_west_derby",
+    "twitter_handle": "@IanByrneMP"
   },
   {
     "constituency": "Croydon North",
@@ -7041,6 +7065,18 @@
     "mp_name": "John Baron",
     "mp_party": "Conservative",
     "mp_uri": "https://www.theyworkforyou.com/mp/10715/john_baron/basildon_and_billericay",
+    "twitter_handle": null
+  },
+  {
+    "constituency": "Dumfriesshire, Clydesdale and Tweeddale",
+    "company": "United Utilities",
+    "total_spills": 0.0,
+    "total_hours": 0.0,
+    "spills_increase": -141.0,
+    "hours_increase": -970.48,
+    "mp_name": "David Mundell",
+    "mp_party": "Conservative",
+    "mp_uri": "https://www.theyworkforyou.com/mp/11970/david_mundell/dumfriesshire%2C_clydesdale_and_tweeddale",
     "twitter_handle": null
   },
   {

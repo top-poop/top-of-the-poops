@@ -7,7 +7,6 @@ from bodges import process_receiving_water
 
 
 def process_permit_number(permit):
-    permit = re.sub(r"\d\d([A-Z]{3}\d{4})", r"\1", permit)
     return permit
 
 

@@ -87,13 +87,13 @@
     "reporting_year": 2020,
     "company_name": "United Utilities",
     "type": "matched",
-    "count": 90995.0
+    "count": 113891.0
   },
   {
     "reporting_year": 2020,
     "company_name": "United Utilities",
     "type": "unmatched",
-    "count": 22945.0
+    "count": 49.0
   },
   {
     "reporting_year": 2020,
@@ -207,25 +207,25 @@
     "reporting_year": 2021,
     "company_name": "United Utilities",
     "type": "matched",
-    "count": 61349.0
+    "count": 81581.0
   },
   {
     "reporting_year": 2021,
     "company_name": "United Utilities",
     "type": "unmatched",
-    "count": 20239.0
+    "count": 7.0
   },
   {
     "reporting_year": 2021,
     "company_name": "Wessex Water",
     "type": "matched",
-    "count": 16872.0
+    "count": 23508.0
   },
   {
     "reporting_year": 2021,
     "company_name": "Wessex Water",
     "type": "unmatched",
-    "count": 6652.0
+    "count": 16.0
   },
   {
     "reporting_year": 2021,
