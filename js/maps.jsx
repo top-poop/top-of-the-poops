@@ -77,7 +77,7 @@ const Circle = ({item, style, onSelection}) => {
 
     const map = useMap()
 
-    const circle = L.circle([item.lat, item.lon], style(item));
+    const circle = L.circleMarker([item.lat, item.lon], style(item));
     if (onSelection) {
         circle.on({
             mouseover: () => onSelection(item),

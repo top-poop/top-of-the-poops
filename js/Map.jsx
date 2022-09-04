@@ -191,6 +191,7 @@ const What = ({initial, data}) => {
     return <Container>
         <Row>
             <Col md={8}>
+                <Mobile><Alert variant="success"><MapMove/></Alert></Mobile>
                 <ErrorBoundary>
                     <Map>
                         <ConstituencyGeo constituency={constituency}/>
@@ -202,12 +203,7 @@ const What = ({initial, data}) => {
                 <Container>
                     <Row>
                         <Col>
-                            <Alert variant="success">
-                                Select the constituency from the drop-down - you can type in the box to search
-                                <Mobile>
-                                    <br/><MapMove/>
-                                </Mobile>
-                            </Alert>
+                            <Alert variant="success">Select the constituency from the drop-down - you can type in the box to search</Alert>
                             <Form>
                                 <FormGroup>
                                     <Form.Label>Constituency</Form.Label>

@@ -58,7 +58,7 @@ const beachStyle = (beach) => {
         color: colour,
         fillColor: colour,
         fillOpacity: 0.5,
-        radius: Math.log(n) * 500,
+        radius: 10,
     }
 }
 
@@ -69,7 +69,7 @@ const reportingStyle = (reporting) => {
         color: colour,
         fillColor: colour,
         fillOpacity: 0.5,
-        radius: 5000,
+        radius: 10,
     }
 }
 
@@ -125,8 +125,8 @@ const SewageDumpsChart = () => {
             marginTop: 50,
             marginLeft: 75,
             marginBottom: 150,
-            width: vw - 10,
-            height: 500,
+            width: Math.min(1150, vw - 50),
+            height: 600,
             x: {
                 padding: 0,
                 tickRotate: 45,
@@ -138,7 +138,7 @@ const SewageDumpsChart = () => {
             },
             facet: {
                 data: data,
-                x: "reporting_year",
+                y: "reporting_year",
             },
             marks: [
                 Plot.barY(data, {
@@ -147,7 +147,7 @@ const SewageDumpsChart = () => {
                         insetLeft: 0.5,
                         insetRight: 0.5,
                         fill: "company_name",
-                        title: d => d.company_name + " " + formatNumber(d.count),
+                        title: d => d.company_name + ` (${d.reporting_year}) ` + formatNumber(d.count),
                     }
                 ),
                 Plot.ruleY([0])
@@ -164,24 +164,24 @@ const DataMatch = () => {
             marginTop: 50,
             marginLeft: 100,
             marginBottom: 150,
-            width: vw,
-            height: 500,
+            width: Math.min(1150, vw - 50),
+            height: 600,
             x: {
                 padding: 0, tickRotate: 45, label: "",
             },
             y: {
-                grid: true, label: "count of sewage dumps ↑",
+                grid: true, label: "number of sites ↑",
             },
             facet: {
                 data: data,
-                x: "reporting_year",
+                y: "reporting_year",
             },
             marks: [
                 Plot.barY(data, {
                     x: "company_name",
                     y: "count",
                     fill: "type",
-                    title: d => d.type + " " + formatNumber(d.count),
+                    title: d => d.type + ` (${d.reporting_year}) ` + formatNumber(d.count),
                     insetLeft: 0.5,
                     insetRight: 0.5,
                 }),
@@ -190,7 +190,7 @@ const DataMatch = () => {
         }
     }
     return <div>
-        <div><em>Figure:</em><i>Sewage dumps matched to a permit</i></div>
+        <div><em>Figure:</em><i>Sites matched to a permit</i></div>
         <LoadingPlot url={url} options={optionsFn}/>
     </div>
 }
@@ -250,9 +250,39 @@ const BeachMap = () => {
     </Map>
 }
 
+const ShellfishInfo = ({location}) => {
+    return <React.Fragment>
+        <b>{location.shellfishery}</b>
+        <br/>{formatNumber(location.total_spill_hours, 2)} hours of sewage
+    </React.Fragment>
+}
+
+
+const ShellfishMap = () => {
+
+    const [ location, setLocation ] = useState()
+
+    const info = location ? <ShellfishInfo location={location}/> :
+        <React.Fragment>Hover over/Tap on a location</React.Fragment>
+
+    return <Map>
+        <LoadingCircles url="data/generated/shellfish-location-totals.json"
+                        style={beachStyle}
+                        onSelection={setLocation}
+        />
+        <Legend>
+            <MapLegend colours={beachColours} max={beachMax}/>
+        </Legend>
+        <InfoBox>
+            {info}
+        </InfoBox>
+    </Map>
+}
+
 const ReportingInfo = ({report}) => {
     return <React.Fragment>
         <b>{report.location}</b>
+        <br/>{report.discharge_site_name}
         <br/>Reporting working: {formatNumber(report.reporting_percent, 2)}%
         <br/>Excuse: {report.excuses}
     </React.Fragment>
@@ -379,6 +409,7 @@ class App extends React.Component {
                         <Card>
                             <Card.Header className="font-weight-bold">Hours of Sewage By Constituency 2021</Card.Header>
                             <Card.Body className="m-0 p-0">
+                                <Mobile><Alert variant="success"><MapMove/></Alert></Mobile>
                                 <ConstituencyMap/>
                             </Card.Body>
                         </Card>
@@ -445,15 +476,12 @@ class App extends React.Component {
 
                 <Row><Col><h2 id="beaches">Seasides</h2></Col></Row>
 
-                <Mobile>
-                    <Alert variant="success"><MapMove/></Alert>
-                </Mobile>
-
                 <Row className="justify-content-md-center">
                     <Col md={10}>
                         <Card>
                             <Card.Header className="font-weight-bold">Hours of Sewage By Bathing Area 2021</Card.Header>
                             <Card.Body className="m-0 p-0">
+                                <Mobile><Alert variant="success"><MapMove/></Alert></Mobile>
                                 <BeachMap/>
                             </Card.Body>
                         </Card>
@@ -480,23 +508,13 @@ class App extends React.Component {
 
                 <Row><Col><h2 id="shellfish">Shellfisheries</h2></Col></Row>
 
-                <Mobile>
-                    <Alert variant="success"><MapMove/></Alert>
-                </Mobile>
-
                 <Row className="justify-content-md-center">
                     <Col md={10}>
                         <Card>
-                            <Card.Header className="font-weight-bold">Hours of Sewage By Shellfish Area
-                                2021</Card.Header>
+                            <Card.Header className="font-weight-bold">Hours of Sewage By Shellfish Area 2021</Card.Header>
                             <Card.Body className="m-0 p-0">
-                                <Map>
-                                    <LoadingCircles url="data/generated/shellfish-location-totals.json"
-                                                    style={beachStyle}/>
-                                    <Legend>
-                                        <MapLegend colours={beachColours} max={beachMax}/>
-                                    </Legend>
-                                </Map>
+                                <Mobile><Alert variant="success"><MapMove/></Alert></Mobile>
+                                <ShellfishMap/>
                             </Card.Body>
                         </Card>
                     </Col>
@@ -538,6 +556,7 @@ class App extends React.Component {
                         <Card>
                             <Card.Header className="font-weight-bold">Rivers Reporting Percentages 2021  - Under 50%</Card.Header>
                             <Card.Body className="m-0 p-0">
+                                <Mobile><Alert variant="success"><MapMove/></Alert></Mobile>
                                 <ReportingMap url="data/generated/river-reporting.json" maxReporting={50}/>
                             </Card.Body>
                         </Card>
@@ -558,6 +577,7 @@ class App extends React.Component {
                         <Card>
                             <Card.Header className="font-weight-bold">Bathing Area Reporting Percentages 2021 - Under 90%</Card.Header>
                             <Card.Body className="m-0 p-0">
+                                <Mobile><Alert variant="success"><MapMove/></Alert></Mobile>
                                 <ReportingMap url="data/generated/beach-location-reporting.json"/>
                             </Card.Body>
                         </Card>
@@ -577,6 +597,7 @@ class App extends React.Component {
                         <Card>
                             <Card.Header className="font-weight-bold">Shellfish Area Reporting Percentages 2021  - Under 90%</Card.Header>
                             <Card.Body className="m-0 p-0">
+                                <Mobile><Alert variant="success"><MapMove/></Alert></Mobile>
                                 <ReportingMap url="data/generated/shellfish-location-reporting.json"/>
                             </Card.Body>
                         </Card>
@@ -591,23 +612,16 @@ class App extends React.Component {
                     </Col>
                 </Row>
 
+
+                <Row><Col><h3>Incomplete Monitoring</h3></Col></Row>
+
                 <Row>
                     <Col>
                         <p>
-                            Sometimes reporting happens against permit
-                            numbers that appear to be
-                            expired. We don't know the reason for this - it could be that they have no legal basis for
-                            the sewage dump, or it could be that
-                            the Environment Agency have supplied only partial data for the consent data set.
-                        </p>
-
-                        <p>
-                            To put this another way - if the spill records list 'consents' that don't appear in the
-                            consent database,
-                            do these consents exist at all. Even more obviously, Severn Trent Water lists 1199 spill
-                            events as 'No Known Permit', and
-                            Northumbrian Water lists 519 as 'Permit Anomaly', and Welsh Water lists over 2,000 spills as
-                            "Unpermitted"
+                            Monitoring is incomplete for many events. Quite a few of the sewage dump sites report their
+                            monitoring as 'zero percent'. This means that even for this incomplete data - we know the
+                            real picture is way worse.
+                            They were completely unmonitored, for various reasons.
                         </p>
                     </Col>
                 </Row>
@@ -618,26 +632,31 @@ class App extends React.Component {
                     </Col>
                 </Row>
 
-                <Row style={{overflow: 'auto'}}>
-                    <Col>
-                        <DataMatch/>
-                    </Col>
-                </Row>
-
-                <Row>
-                    <Col>
-                        <h3>Incomplete Monitoring</h3>
-                    </Col>
-                </Row>
+                <Row><Col><h2 id="legality">Legality</h2></Col></Row>
 
                 <Row>
                     <Col>
                         <p>
-                            Monitoring is incomplete for many events. Quite a few of the sewage dump sites report their
-                            monitoring as 'zero percent'. This means that even for this incomplete data - we know the
-                            real picture is way worse.
-                            They were completely unmonitored, for various reasons.
+                            Sometimes reporting happens against permit
+                            numbers that appear to be
+                            expired. We don't know the reason for this - it could be that they have no legal basis for
+                            the sewage dump, or it could be that
+                            the Environment Agency have supplied only partial data for the consent data set.
                         </p>
+                        <p>
+                            To put this another way - if the spill records list 'consents' that don't appear in the
+                            consent database, do these consents exist at all.
+                        </p>
+
+                        <p>Some sites simply don't have a permit at all</p>
+
+                        <p>Servern Trent and Northumbrian list many sites as "TBC", Dwr Cymru as "N/A", or, tellingly "Unpermitted" </p>
+                    </Col>
+                </Row>
+
+                <Row style={{overflow: 'auto'}}>
+                    <Col>
+                        <DataMatch/>
                     </Col>
                 </Row>
 

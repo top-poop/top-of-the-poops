@@ -3,240 +3,240 @@
     "reporting_year": 2020,
     "company_name": "Anglian Water",
     "type": "matched",
-    "count": 15023.0
+    "count": 642
   },
   {
     "reporting_year": 2020,
     "company_name": "Anglian Water",
     "type": "unmatched",
-    "count": 2405.0
+    "count": 93
   },
   {
     "reporting_year": 2020,
     "company_name": "Dwr Cymru Welsh Water",
     "type": "matched",
-    "count": 106378.0
+    "count": 2077
   },
   {
     "reporting_year": 2020,
     "company_name": "Dwr Cymru Welsh Water",
     "type": "unmatched",
-    "count": 2084.0
+    "count": 39
   },
   {
     "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "type": "matched",
-    "count": 31529.0
+    "count": 1466
   },
   {
     "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "type": "unmatched",
-    "count": 968.0
+    "count": 54
   },
   {
     "reporting_year": 2020,
     "company_name": "Severn Trent Water",
     "type": "matched",
-    "count": 55112.0
+    "count": 1911
   },
   {
     "reporting_year": 2020,
     "company_name": "Severn Trent Water",
     "type": "unmatched",
-    "count": 5870.0
+    "count": 377
   },
   {
     "reporting_year": 2020,
     "company_name": "South West Water",
     "type": "matched",
-    "count": 37356.0
+    "count": 932
   },
   {
     "reporting_year": 2020,
     "company_name": "South West Water",
     "type": "unmatched",
-    "count": 4697.0
+    "count": 163
   },
   {
     "reporting_year": 2020,
     "company_name": "Southern Water",
     "type": "matched",
-    "count": 20053.0
+    "count": 1462
   },
   {
     "reporting_year": 2020,
     "company_name": "Southern Water",
     "type": "unmatched",
-    "count": 260.0
+    "count": 15
   },
   {
     "reporting_year": 2020,
     "company_name": "Thames Water",
     "type": "matched",
-    "count": 17995.0
+    "count": 461
   },
   {
     "reporting_year": 2020,
     "company_name": "Thames Water",
     "type": "unmatched",
-    "count": 448.0
+    "count": 7
   },
   {
     "reporting_year": 2020,
     "company_name": "United Utilities",
     "type": "matched",
-    "count": 113891.0
+    "count": 1923
   },
   {
     "reporting_year": 2020,
     "company_name": "United Utilities",
     "type": "unmatched",
-    "count": 49.0
+    "count": 2
   },
   {
     "reporting_year": 2020,
     "company_name": "Wessex Water",
     "type": "matched",
-    "count": 28506.0
+    "count": 949
   },
   {
     "reporting_year": 2020,
     "company_name": "Wessex Water",
     "type": "unmatched",
-    "count": 508.0
+    "count": 26
   },
   {
     "reporting_year": 2020,
     "company_name": "Yorkshire Water",
     "type": "matched",
-    "count": 61606.0
+    "count": 2063
   },
   {
     "reporting_year": 2020,
     "company_name": "Yorkshire Water",
     "type": "unmatched",
-    "count": 3477.0
+    "count": 122
   },
   {
     "reporting_year": 2021,
     "company_name": "Anglian Water",
     "type": "matched",
-    "count": 21351.0
+    "count": 1541
   },
   {
     "reporting_year": 2021,
     "company_name": "Anglian Water",
     "type": "unmatched",
-    "count": 0.0
+    "count": 1
   },
   {
     "reporting_year": 2021,
     "company_name": "Dwr Cymru Welsh Water",
     "type": "matched",
-    "count": 95830.0
+    "count": 2268
   },
   {
     "reporting_year": 2021,
     "company_name": "Dwr Cymru Welsh Water",
     "type": "unmatched",
-    "count": 5683.0
+    "count": 166
   },
   {
     "reporting_year": 2021,
     "company_name": "Northumbrian Water",
     "type": "matched",
-    "count": 35896.0
+    "count": 1516
   },
   {
     "reporting_year": 2021,
     "company_name": "Northumbrian Water",
     "type": "unmatched",
-    "count": 587.0
+    "count": 51
   },
   {
     "reporting_year": 2021,
     "company_name": "Severn Trent Water",
     "type": "matched",
-    "count": 56086.0
+    "count": 2229
   },
   {
     "reporting_year": 2021,
     "company_name": "Severn Trent Water",
     "type": "unmatched",
-    "count": 3590.0
+    "count": 425
   },
   {
     "reporting_year": 2021,
     "company_name": "South West Water",
     "type": "matched",
-    "count": 41735.0
+    "count": 1363
   },
   {
     "reporting_year": 2021,
     "company_name": "South West Water",
     "type": "unmatched",
-    "count": 391.0
+    "count": 14
   },
   {
     "reporting_year": 2021,
     "company_name": "Southern Water",
     "type": "matched",
-    "count": 18959.41
+    "count": 964
   },
   {
     "reporting_year": 2021,
     "company_name": "Southern Water",
     "type": "unmatched",
-    "count": 118.0
+    "count": 14
   },
   {
     "reporting_year": 2021,
     "company_name": "Thames Water",
     "type": "matched",
-    "count": 14614.0
+    "count": 462
   },
   {
     "reporting_year": 2021,
     "company_name": "Thames Water",
     "type": "unmatched",
-    "count": 99.0
+    "count": 3
   },
   {
     "reporting_year": 2021,
     "company_name": "United Utilities",
     "type": "matched",
-    "count": 81581.0
+    "count": 2190
   },
   {
     "reporting_year": 2021,
     "company_name": "United Utilities",
     "type": "unmatched",
-    "count": 7.0
+    "count": 1
   },
   {
     "reporting_year": 2021,
     "company_name": "Wessex Water",
     "type": "matched",
-    "count": 23508.0
+    "count": 1275
   },
   {
     "reporting_year": 2021,
     "company_name": "Wessex Water",
     "type": "unmatched",
-    "count": 16.0
+    "count": 3
   },
   {
     "reporting_year": 2021,
     "company_name": "Yorkshire Water",
     "type": "matched",
-    "count": 69854.0
+    "count": 2230
   },
   {
     "reporting_year": 2021,
     "company_name": "Yorkshire Water",
     "type": "unmatched",
-    "count": 208.0
+    "count": 16
   }
 ]
