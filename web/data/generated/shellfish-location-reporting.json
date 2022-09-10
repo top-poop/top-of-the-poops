@@ -6,8 +6,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
-    "lat": 50.15632074620042,
-    "lon": -5.070533855252042,
+    "lat": 50.156321,
+    "lon": -5.070534,
     "pcon20nm": "Truro and Falmouth"
   },
   {
@@ -17,8 +17,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
-    "lat": 51.572486219368926,
-    "lon": -3.76876029737324,
+    "lat": 51.572486,
+    "lon": -3.76876,
     "pcon20nm": "Aberavon"
   },
   {
@@ -28,8 +28,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
-    "lat": 53.40772265910916,
-    "lon": -3.077620318907516,
+    "lat": 53.407723,
+    "lon": -3.07762,
     "pcon20nm": "Birkenhead"
   },
   {
@@ -39,8 +39,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": null,
-    "lat": 51.87268384261549,
-    "lon": 0.9328167052846653,
+    "lat": 51.872684,
+    "lon": 0.932817,
     "pcon20nm": "Colchester"
   },
   {
@@ -50,8 +50,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": null,
-    "lat": 51.87268384261549,
-    "lon": 0.9328167052846653,
+    "lat": 51.872684,
+    "lon": 0.932817,
     "pcon20nm": "Colchester"
   },
   {
@@ -61,8 +61,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
-    "lat": 52.971143694231436,
-    "lon": -0.027156963184824884,
+    "lat": 52.971144,
+    "lon": -0.027157,
     "pcon20nm": "Boston and Skegness"
   },
   {
@@ -72,8 +72,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "EDM not yet installed N/A - EDM to be installed by December 2023",
-    "lat": 50.69979586148643,
-    "lon": -1.3010175076596708,
+    "lat": 50.699796,
+    "lon": -1.301018,
     "pcon20nm": "Isle of Wight"
   },
   {
@@ -83,8 +83,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Power failure / issue Scheduled",
-    "lat": 50.728182383866645,
-    "lon": -1.172653492705217,
+    "lat": 50.728182,
+    "lon": -1.172653,
     "pcon20nm": "Isle of Wight"
   },
   {
@@ -94,8 +94,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Comms failure / issue Scheduled",
-    "lat": 51.35148097788368,
-    "lon": 1.0625699586379944,
+    "lat": 51.351481,
+    "lon": 1.06257,
     "pcon20nm": "Canterbury"
   },
   {
@@ -105,8 +105,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Power failure / issue Scheduled",
-    "lat": 51.34707506193416,
-    "lon": 0.7355352470254305,
+    "lat": 51.347075,
+    "lon": 0.735535,
     "pcon20nm": "Sittingbourne and Sheppey"
   },
   {
@@ -116,8 +116,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
-    "lat": 50.33966774606335,
-    "lon": -4.629896745279076,
+    "lat": 50.339668,
+    "lon": -4.629897,
     "pcon20nm": "South East Cornwall"
   },
   {
@@ -127,8 +127,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
-    "lat": 50.26113445783007,
-    "lon": -5.049629249074469,
+    "lat": 50.261134,
+    "lon": -5.049629,
     "pcon20nm": "Truro and Falmouth"
   },
   {
@@ -138,8 +138,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
-    "lat": 50.544344940140185,
-    "lon": -3.53732484894444,
+    "lat": 50.544345,
+    "lon": -3.537325,
     "pcon20nm": "Newton Abbot"
   },
   {
@@ -149,8 +149,8 @@
     "reporting_percent": 0.0,
     "spill_count": 45.0,
     "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
-    "lat": 53.44038859918649,
-    "lon": -3.0010665676820945,
+    "lat": 53.440389,
+    "lon": -3.001067,
     "pcon20nm": "Bootle"
   },
   {
@@ -160,8 +160,8 @@
     "reporting_percent": 0.0,
     "spill_count": 19.0,
     "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation",
-    "lat": 53.434024237329325,
-    "lon": -2.9989602610623045,
+    "lat": 53.434024,
+    "lon": -2.99896,
     "pcon20nm": "Liverpool, Riverside"
   },
   {
@@ -171,8 +171,8 @@
     "reporting_percent": 0.0,
     "spill_count": 13.0,
     "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation",
-    "lat": 53.45817490990398,
-    "lon": -3.0130814322033377,
+    "lat": 53.458175,
+    "lon": -3.013081,
     "pcon20nm": "Bootle"
   },
   {
@@ -182,8 +182,8 @@
     "reporting_percent": 0.0,
     "spill_count": 117.0,
     "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
-    "lat": 53.80609675753135,
-    "lon": -2.9389938751409637,
+    "lat": 53.806097,
+    "lon": -2.938994,
     "pcon20nm": "Fylde"
   },
   {
@@ -193,8 +193,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Power failure / issue Scheduled",
-    "lat": 51.42135099114513,
-    "lon": 0.7933376530364487,
+    "lat": 51.421351,
+    "lon": 0.793338,
     "pcon20nm": "Sittingbourne and Sheppey"
   },
   {
@@ -204,8 +204,8 @@
     "reporting_percent": 0.0,
     "spill_count": 16.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
-    "lat": 54.06453013272965,
-    "lon": -2.8632256996086154,
+    "lat": 54.06453,
+    "lon": -2.863226,
     "pcon20nm": "Morecambe and Lunesdale"
   },
   {
@@ -215,8 +215,8 @@
     "reporting_percent": 0.0,
     "spill_count": 26.0,
     "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation",
-    "lat": 54.21251088327228,
-    "lon": -3.2616895695425954,
+    "lat": 54.212511,
+    "lon": -3.26169,
     "pcon20nm": "Copeland"
   },
   {
@@ -226,8 +226,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
-    "lat": 54.35148991654478,
-    "lon": -3.408824320599825,
+    "lat": 54.35149,
+    "lon": -3.408824,
     "pcon20nm": "Copeland"
   },
   {
@@ -237,8 +237,8 @@
     "reporting_percent": 0.0,
     "spill_count": 216.0,
     "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
-    "lat": 54.19313770580262,
-    "lon": -3.208618244708395,
+    "lat": 54.193138,
+    "lon": -3.208618,
     "pcon20nm": "Barrow and Furness"
   },
   {
@@ -248,8 +248,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
-    "lat": 54.12525217160554,
-    "lon": -3.202201011611086,
+    "lat": 54.125252,
+    "lon": -3.202201,
     "pcon20nm": "Barrow and Furness"
   },
   {
@@ -259,8 +259,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
-    "lat": 54.117914636725864,
-    "lon": -3.198928434201423,
+    "lat": 54.117915,
+    "lon": -3.198928,
     "pcon20nm": "Barrow and Furness"
   },
   {
@@ -270,8 +270,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
-    "lat": 54.99885794773936,
-    "lon": -3.4471648598295404,
+    "lat": 54.998858,
+    "lon": -3.447165,
     "pcon20nm": "Dumfriesshire, Clydesdale and Tweeddale"
   },
   {
@@ -281,8 +281,8 @@
     "reporting_percent": 0.0,
     "spill_count": 76.0,
     "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
-    "lat": 54.78157089683807,
-    "lon": -3.351588086799899,
+    "lat": 54.781571,
+    "lon": -3.351588,
     "pcon20nm": "Workington"
   },
   {
@@ -292,8 +292,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
-    "lat": 54.89971515489499,
-    "lon": -2.9608816161798748,
+    "lat": 54.899715,
+    "lon": -2.960882,
     "pcon20nm": "Carlisle"
   },
   {
@@ -303,8 +303,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation",
-    "lat": 54.89971515489499,
-    "lon": -2.9608816161798748,
+    "lat": 54.899715,
+    "lon": -2.960882,
     "pcon20nm": "Carlisle"
   },
   {
@@ -314,8 +314,8 @@
     "reporting_percent": 0.0,
     "spill_count": 361.0,
     "excuses": "Telemetry or data archiving failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
-    "lat": 54.921323981527145,
-    "lon": -2.998171423405871,
+    "lat": 54.921324,
+    "lon": -2.998171,
     "pcon20nm": "Penrith and The Border"
   },
   {
@@ -325,8 +325,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
-    "lat": 54.11614042061739,
-    "lon": -3.196582342168946,
+    "lat": 54.11614,
+    "lon": -3.196582,
     "pcon20nm": "Barrow and Furness"
   },
   {
@@ -336,8 +336,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
-    "lat": 54.13040137978053,
-    "lon": -3.215710747944325,
+    "lat": 54.130401,
+    "lon": -3.215711,
     "pcon20nm": "Barrow and Furness"
   },
   {
@@ -347,8 +347,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
-    "lat": 54.13145128754852,
-    "lon": -3.21142569426149,
+    "lat": 54.131451,
+    "lon": -3.211426,
     "pcon20nm": "Barrow and Furness"
   },
   {
@@ -358,8 +358,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
-    "lat": 54.124344888651414,
-    "lon": -3.209320638591927,
+    "lat": 54.124345,
+    "lon": -3.209321,
     "pcon20nm": "Barrow and Furness"
   },
   {
@@ -369,8 +369,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
-    "lat": 54.125933844911714,
-    "lon": -3.2023431956674306,
+    "lat": 54.125934,
+    "lon": -3.202343,
     "pcon20nm": "Barrow and Furness"
   },
   {
@@ -380,8 +380,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
-    "lat": 54.118211916600416,
-    "lon": -3.198860529616773,
+    "lat": 54.118212,
+    "lon": -3.198861,
     "pcon20nm": "Barrow and Furness"
   },
   {
@@ -391,8 +391,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Installation set-up/design issue N/A - Ongoing investigation",
-    "lat": 54.118252064910266,
-    "lon": -3.201141319395199,
+    "lat": 54.118252,
+    "lon": -3.201141,
     "pcon20nm": "Barrow and Furness"
   },
   {
@@ -402,8 +402,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Data unreliable from 01/01/2021 to 31/12/2021. Due to erratic telemetry signal. Instrumentation task escalated through business as usual for instrumentation defect. ",
-    "lat": 52.92930646163923,
-    "lon": -4.129761048039185,
+    "lat": 52.929306,
+    "lon": -4.129761,
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
@@ -413,8 +413,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
-    "lat": 53.19309464443117,
-    "lon": -4.382885117710381,
+    "lat": 53.193095,
+    "lon": -4.382885,
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
@@ -424,8 +424,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Communications issue - access issue",
-    "lat": 53.32006128611503,
-    "lon": -3.765410893335297,
+    "lat": 53.320061,
+    "lon": -3.765411,
     "pcon20nm": "Aberconwy"
   },
   {
@@ -435,8 +435,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
-    "lat": 53.193076682257704,
-    "lon": -4.382884121360325,
+    "lat": 53.193077,
+    "lon": -4.382884,
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
@@ -446,8 +446,8 @@
     "reporting_percent": 0.0,
     "spill_count": 0.0,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
-    "lat": 51.48085466121907,
-    "lon": -3.7147068226048585,
+    "lat": 51.480855,
+    "lon": -3.714707,
     "pcon20nm": "Bridgend"
   },
   {
@@ -457,8 +457,8 @@
     "reporting_percent": 5.56,
     "spill_count": 5.0,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
-    "lat": 53.164763422490154,
-    "lon": -4.328382736492827,
+    "lat": 53.164763,
+    "lon": -4.328383,
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
@@ -468,8 +468,8 @@
     "reporting_percent": 5.81,
     "spill_count": 0.0,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
-    "lat": 53.31434177092878,
-    "lon": -3.085624360916398,
+    "lat": 53.314342,
+    "lon": -3.085624,
     "pcon20nm": "Wirral South"
   },
   {
@@ -479,8 +479,8 @@
     "reporting_percent": 5.81,
     "spill_count": 0.0,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
-    "lat": 53.31434177092878,
-    "lon": -3.085624360916398,
+    "lat": 53.314342,
+    "lon": -3.085624,
     "pcon20nm": "Wirral South"
   },
   {
@@ -490,8 +490,8 @@
     "reporting_percent": 6.8,
     "spill_count": 0.0,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
-    "lat": 53.16848687943376,
-    "lon": -4.366618575982579,
+    "lat": 53.168487,
+    "lon": -4.366619,
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
@@ -501,8 +501,8 @@
     "reporting_percent": 9.0,
     "spill_count": 34.0,
     "excuses": "Comms failure / issue Scheduled",
-    "lat": 50.72683024164327,
-    "lon": -1.224532785341755,
+    "lat": 50.72683,
+    "lon": -1.224533,
     "pcon20nm": "Isle of Wight"
   },
   {
@@ -512,8 +512,8 @@
     "reporting_percent": 13.0,
     "spill_count": 7.0,
     "excuses": "Comms failure / issue Resolved - November",
-    "lat": 50.38774305032574,
-    "lon": -3.5181876309602815,
+    "lat": 50.387743,
+    "lon": -3.518188,
     "pcon20nm": "Totnes"
   },
   {
@@ -523,8 +523,8 @@
     "reporting_percent": 14.0,
     "spill_count": 3.0,
     "excuses": "Power failure / issue Resolved - November",
-    "lat": 51.3165196180431,
-    "lon": 0.8917365100797611,
+    "lat": 51.31652,
+    "lon": 0.891737,
     "pcon20nm": "Faversham and Mid Kent"
   },
   {
@@ -534,8 +534,8 @@
     "reporting_percent": 14.66,
     "spill_count": 226.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation Performance - Other maintenance / capital works (e.g. jetting) Resolved - October",
-    "lat": 54.0553421844796,
-    "lon": -2.819788303663221,
+    "lat": 54.055342,
+    "lon": -2.819788,
     "pcon20nm": "Morecambe and Lunesdale"
   },
   {
@@ -545,8 +545,8 @@
     "reporting_percent": 16.0,
     "spill_count": 0.0,
     "excuses": "comms failure / issue N/A - Ongoing investigation",
-    "lat": 50.73043471163732,
-    "lon": -3.5017506359565087,
+    "lat": 50.730435,
+    "lon": -3.501751,
     "pcon20nm": "Exeter"
   },
   {
@@ -556,8 +556,8 @@
     "reporting_percent": 16.66,
     "spill_count": 24.0,
     "excuses": "Communications issue - access issue",
-    "lat": 53.25645413450023,
-    "lon": -3.980169665978426,
+    "lat": 53.256454,
+    "lon": -3.98017,
     "pcon20nm": "Aberconwy"
   },
   {
@@ -567,8 +567,8 @@
     "reporting_percent": 17.74,
     "spill_count": 0.0,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
-    "lat": 53.13944672550988,
-    "lon": -4.279046743933592,
+    "lat": 53.139447,
+    "lon": -4.279047,
     "pcon20nm": "Arfon"
   },
   {
@@ -578,8 +578,8 @@
     "reporting_percent": 18.12,
     "spill_count": 3.0,
     "excuses": "Communications issue, resolved in October 2021.",
-    "lat": 51.73572803196567,
-    "lon": -4.310852284034972,
+    "lat": 51.735728,
+    "lon": -4.310852,
     "pcon20nm": "Llanelli"
   },
   {
@@ -589,8 +589,8 @@
     "reporting_percent": 18.12,
     "spill_count": 3.0,
     "excuses": "Communications issue, resolved in October 2021.",
-    "lat": 51.73701271053685,
-    "lon": -4.310917840254511,
+    "lat": 51.737013,
+    "lon": -4.310918,
     "pcon20nm": "Llanelli"
   },
   {
@@ -600,8 +600,8 @@
     "reporting_percent": 21.0,
     "spill_count": 2.0,
     "excuses": "Power failure / issue Resolved - November",
-    "lat": 50.81903884955803,
-    "lon": -1.0918331609629355,
+    "lat": 50.819039,
+    "lon": -1.091833,
     "pcon20nm": "Portsmouth North"
   },
   {
@@ -611,8 +611,8 @@
     "reporting_percent": 22.0,
     "spill_count": 12.0,
     "excuses": "Sensor failure / issue Resolved - January",
-    "lat": 50.629167764813744,
-    "lon": -3.4156639954009402,
+    "lat": 50.629168,
+    "lon": -3.415664,
     "pcon20nm": "East Devon"
   },
   {
@@ -622,8 +622,8 @@
     "reporting_percent": 23.66,
     "spill_count": 0.0,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
-    "lat": 53.21391016606311,
-    "lon": -4.202508158884844,
+    "lat": 53.21391,
+    "lon": -4.202508,
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
@@ -633,8 +633,8 @@
     "reporting_percent": 24.0,
     "spill_count": 0.0,
     "excuses": "Power failure / issue Resolved - November",
-    "lat": 50.92056541238379,
-    "lon": -1.3635853400559468,
+    "lat": 50.920565,
+    "lon": -1.363585,
     "pcon20nm": "Southampton, Itchen"
   },
   {
@@ -644,8 +644,8 @@
     "reporting_percent": 24.61,
     "spill_count": 5.0,
     "excuses": "Communications issue - escalated through business as usual process for communications failures. Data unreliable from 10/12/2021 to 14/12/2021 and from  24/12/2021 to  31/12/2021.  Due to erratic telemetry signal.",
-    "lat": 51.684323997323105,
-    "lon": -4.17866368193784,
+    "lat": 51.684324,
+    "lon": -4.178664,
     "pcon20nm": "Llanelli"
   },
   {
@@ -655,8 +655,8 @@
     "reporting_percent": 28.09,
     "spill_count": 57.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity",
-    "lat": 54.10718846886326,
-    "lon": -3.1929591880043953,
+    "lat": 54.107188,
+    "lon": -3.192959,
     "pcon20nm": "Barrow and Furness"
   },
   {
@@ -666,8 +666,8 @@
     "reporting_percent": 28.76,
     "spill_count": 18.0,
     "excuses": "Data unreliable from 01/01 to 16/04/2021. Due to static telemetry signal. Instrumentation task escalated through business as usual for instrumentation defect. ",
-    "lat": 51.620627165186555,
-    "lon": -3.893554367512364,
+    "lat": 51.620627,
+    "lon": -3.893554,
     "pcon20nm": "Swansea East"
   },
   {
@@ -677,8 +677,8 @@
     "reporting_percent": 31.0,
     "spill_count": 15.0,
     "excuses": "Sensor failure / issue Resolved - September",
-    "lat": 50.72155218442169,
-    "lon": -3.5278178263948474,
+    "lat": 50.721552,
+    "lon": -3.527818,
     "pcon20nm": "Exeter"
   },
   {
@@ -688,8 +688,8 @@
     "reporting_percent": 31.0,
     "spill_count": 4.0,
     "excuses": "Power failure / issue Resolved - September",
-    "lat": 51.34370627711578,
-    "lon": 0.7257131624769755,
+    "lat": 51.343706,
+    "lon": 0.725713,
     "pcon20nm": "Sittingbourne and Sheppey"
   },
   {
@@ -699,8 +699,8 @@
     "reporting_percent": 35.0,
     "spill_count": 34.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
-    "lat": 50.445515479984756,
-    "lon": -3.70426776304273,
+    "lat": 50.445515,
+    "lon": -3.704268,
     "pcon20nm": "Totnes"
   },
   {
@@ -710,8 +710,8 @@
     "reporting_percent": 38.0,
     "spill_count": 29.0,
     "excuses": "Comms failure / issue Scheduled",
-    "lat": 50.6830816091831,
-    "lon": -1.5159931802612008,
+    "lat": 50.683082,
+    "lon": -1.515993,
     "pcon20nm": "Isle of Wight"
   },
   {
@@ -721,8 +721,8 @@
     "reporting_percent": 38.56,
     "spill_count": 4.0,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
-    "lat": 51.587796415712624,
-    "lon": -4.009250104647505,
+    "lat": 51.587796,
+    "lon": -4.00925,
     "pcon20nm": "Gower"
   },
   {
@@ -732,8 +732,8 @@
     "reporting_percent": 41.0,
     "spill_count": 23.0,
     "excuses": "Comms failure / issue Resolved - July",
-    "lat": 50.81903884955803,
-    "lon": -1.0918331609629355,
+    "lat": 50.819039,
+    "lon": -1.091833,
     "pcon20nm": "Portsmouth North"
   },
   {
@@ -743,8 +743,8 @@
     "reporting_percent": 43.0,
     "spill_count": 18.0,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
-    "lat": 50.43862114742476,
-    "lon": -3.6897964532302603,
+    "lat": 50.438621,
+    "lon": -3.689796,
     "pcon20nm": "Totnes"
   },
   {
@@ -754,8 +754,8 @@
     "reporting_percent": 46.0,
     "spill_count": 19.0,
     "excuses": "Comms failure / issue Resolved - January",
-    "lat": 50.43220081517852,
-    "lon": -3.7044938877402376,
+    "lat": 50.432201,
+    "lon": -3.704494,
     "pcon20nm": "Totnes"
   },
   {
@@ -765,8 +765,8 @@
     "reporting_percent": 47.0,
     "spill_count": 0.0,
     "excuses": "Power failure / issue Scheduled",
-    "lat": 50.84337423207722,
-    "lon": -1.1973188726387296,
+    "lat": 50.843374,
+    "lon": -1.197319,
     "pcon20nm": "Fareham"
   },
   {
@@ -776,8 +776,8 @@
     "reporting_percent": 48.0,
     "spill_count": 0.0,
     "excuses": "Power failure / issue Resolved - October",
-    "lat": 50.86047243813051,
-    "lon": -1.0438545253487064,
+    "lat": 50.860472,
+    "lon": -1.043855,
     "pcon20nm": "Havant"
   },
   {
@@ -787,8 +787,8 @@
     "reporting_percent": 51.0,
     "spill_count": 11.0,
     "excuses": "Sensor failure / issue Resolved - December",
-    "lat": 50.61603959737763,
-    "lon": -3.4555837581706825,
+    "lat": 50.61604,
+    "lon": -3.455584,
     "pcon20nm": "Newton Abbot"
   },
   {
@@ -798,8 +798,8 @@
     "reporting_percent": 52.0,
     "spill_count": 0.0,
     "excuses": "Comms failure / issue Resolved - June",
-    "lat": 50.40598791858152,
-    "lon": -4.164901489751962,
+    "lat": 50.405988,
+    "lon": -4.164901,
     "pcon20nm": "Plymouth, Moor View"
   },
   {
@@ -809,8 +809,8 @@
     "reporting_percent": 52.0,
     "spill_count": 10.0,
     "excuses": "Comms failure / issue Resolved - September",
-    "lat": 50.72469989606442,
-    "lon": -3.5070928494968494,
+    "lat": 50.7247,
+    "lon": -3.507093,
     "pcon20nm": "Exeter"
   },
   {
@@ -820,8 +820,8 @@
     "reporting_percent": 52.31,
     "spill_count": 2.0,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
-    "lat": 53.39186037556761,
-    "lon": -3.1211295277457154,
+    "lat": 53.39186,
+    "lon": -3.12113,
     "pcon20nm": "Wallasey"
   },
   {
@@ -831,8 +831,8 @@
     "reporting_percent": 53.0,
     "spill_count": 0.0,
     "excuses": "Comms failure / issue Resolved - January",
-    "lat": 50.093592115494516,
-    "lon": -5.135462094424918,
+    "lat": 50.093592,
+    "lon": -5.135462,
     "pcon20nm": "St Ives"
   },
   {
@@ -842,8 +842,8 @@
     "reporting_percent": 53.0,
     "spill_count": 4.0,
     "excuses": "Comms failure / issue Resolved -  July",
-    "lat": 50.40587303079651,
-    "lon": -4.167204419964875,
+    "lat": 50.405873,
+    "lon": -4.167204,
     "pcon20nm": "Plymouth, Moor View"
   },
   {
@@ -853,8 +853,8 @@
     "reporting_percent": 54.0,
     "spill_count": 1.0,
     "excuses": "Power failure / issue Resolved - July",
-    "lat": 50.900821998545084,
-    "lon": -1.3878878775590264,
+    "lat": 50.900822,
+    "lon": -1.387888,
     "pcon20nm": "Southampton, Itchen"
   },
   {
@@ -864,8 +864,8 @@
     "reporting_percent": 55.0,
     "spill_count": 4.0,
     "excuses": "Comms failure / issue Resolved - June",
-    "lat": 50.69180209206084,
-    "lon": -1.2878283643018908,
+    "lat": 50.691802,
+    "lon": -1.287828,
     "pcon20nm": "Isle of Wight"
   },
   {
@@ -875,8 +875,8 @@
     "reporting_percent": 56.0,
     "spill_count": 5.0,
     "excuses": "Comms failure / issue Resolved - June",
-    "lat": 51.32227741923317,
-    "lon": 0.9025774762621963,
+    "lat": 51.322277,
+    "lon": 0.902577,
     "pcon20nm": "Faversham and Mid Kent"
   },
   {
@@ -886,8 +886,8 @@
     "reporting_percent": 56.0,
     "spill_count": 26.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
-    "lat": 50.39674712260611,
-    "lon": -4.17952242559509,
+    "lat": 50.396747,
+    "lon": -4.179522,
     "pcon20nm": "Plymouth, Moor View"
   },
   {
@@ -897,8 +897,8 @@
     "reporting_percent": 59.0,
     "spill_count": 3.0,
     "excuses": "Sensor failure / issue Resolved - November",
-    "lat": 50.54769046607849,
-    "lon": -3.5077498492573898,
+    "lat": 50.54769,
+    "lon": -3.50775,
     "pcon20nm": "Newton Abbot"
   },
   {
@@ -908,8 +908,8 @@
     "reporting_percent": 60.0,
     "spill_count": 0.0,
     "excuses": "Sensor failure / issue Resolved - October",
-    "lat": 50.3471615750988,
-    "lon": -4.000842861109954,
+    "lat": 50.347162,
+    "lon": -4.000843,
     "pcon20nm": "South West Devon"
   },
   {
@@ -919,8 +919,8 @@
     "reporting_percent": 61.0,
     "spill_count": 0.0,
     "excuses": "Power failure / issue Resolved - October",
-    "lat": 50.785910304972724,
-    "lon": -0.989198740979826,
+    "lat": 50.78591,
+    "lon": -0.989199,
     "pcon20nm": "Havant"
   },
   {
@@ -930,8 +930,8 @@
     "reporting_percent": 62.0,
     "spill_count": 7.0,
     "excuses": "Power failure / issue Resolved - May",
-    "lat": 50.81903884955803,
-    "lon": -1.0918331609629355,
+    "lat": 50.819039,
+    "lon": -1.091833,
     "pcon20nm": "Portsmouth North"
   },
   {
@@ -941,8 +941,8 @@
     "reporting_percent": 62.0,
     "spill_count": 13.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
-    "lat": 50.33983770807826,
-    "lon": -4.762167077922771,
+    "lat": 50.339838,
+    "lon": -4.762167,
     "pcon20nm": "St Austell and Newquay"
   },
   {
@@ -952,8 +952,8 @@
     "reporting_percent": 63.2,
     "spill_count": 5.0,
     "excuses": "Sensor failure / issue Resolved - June",
-    "lat": 50.61245126296575,
-    "lon": -2.4701622690380094,
+    "lat": 50.612451,
+    "lon": -2.470162,
     "pcon20nm": "South Dorset"
   },
   {
@@ -963,8 +963,8 @@
     "reporting_percent": 65.0,
     "spill_count": 0.0,
     "excuses": "Sensor failure / issue Resolved - December",
-    "lat": 50.71678949983582,
-    "lon": -3.527521259939024,
+    "lat": 50.716789,
+    "lon": -3.527521,
     "pcon20nm": "Exeter"
   },
   {
@@ -974,8 +974,8 @@
     "reporting_percent": 66.0,
     "spill_count": 0.0,
     "excuses": "Sensor failure / issue Resolved - September",
-    "lat": 50.26371957645386,
-    "lon": -5.057372491632143,
+    "lat": 50.26372,
+    "lon": -5.057372,
     "pcon20nm": "Truro and Falmouth"
   },
   {
@@ -985,8 +985,8 @@
     "reporting_percent": 66.88,
     "spill_count": 0.0,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
-    "lat": 52.91518896541067,
-    "lon": -4.134868910728599,
+    "lat": 52.915189,
+    "lon": -4.134869,
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
@@ -996,8 +996,8 @@
     "reporting_percent": 67.5913242009133,
     "spill_count": 17.0,
     "excuses": "Comms failure / issue Resolved - June",
-    "lat": 51.57967313028756,
-    "lon": 0.7116648634023168,
+    "lat": 51.579673,
+    "lon": 0.711665,
     "pcon20nm": "Rochford and Southend East"
   },
   {
@@ -1007,8 +1007,8 @@
     "reporting_percent": 68.0,
     "spill_count": 0.0,
     "excuses": "Comms failure / issue Resolved -  July",
-    "lat": 50.54970529149195,
-    "lon": -3.507729433617285,
+    "lat": 50.549705,
+    "lon": -3.507729,
     "pcon20nm": "Newton Abbot"
   },
   {
@@ -1018,8 +1018,8 @@
     "reporting_percent": 68.0,
     "spill_count": 0.0,
     "excuses": "Power failure / issue Resolved - September",
-    "lat": 50.94211784479408,
-    "lon": -1.374677551249486,
+    "lat": 50.942118,
+    "lon": -1.374678,
     "pcon20nm": "Romsey and Southampton North"
   },
   {
@@ -1029,8 +1029,8 @@
     "reporting_percent": 69.0,
     "spill_count": 3.0,
     "excuses": "Comms failure / issue Resolved - April",
-    "lat": 50.263489880910804,
-    "lon": -5.045569762591801,
+    "lat": 50.26349,
+    "lon": -5.04557,
     "pcon20nm": "Truro and Falmouth"
   },
   {
@@ -1040,8 +1040,8 @@
     "reporting_percent": 70.0,
     "spill_count": 9.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
-    "lat": 50.417914423002735,
-    "lon": -4.2394797841753595,
+    "lat": 50.417914,
+    "lon": -4.23948,
     "pcon20nm": "South East Cornwall"
   },
   {
@@ -1051,8 +1051,8 @@
     "reporting_percent": 72.19,
     "spill_count": 66.0,
     "excuses": "Deterioration of 4G network coverage. Alternative solutions are being considered. ",
-    "lat": 51.58032573451259,
-    "lon": -4.004388100283594,
+    "lat": 51.580326,
+    "lon": -4.004388,
     "pcon20nm": "Gower"
   },
   {
@@ -1062,8 +1062,8 @@
     "reporting_percent": 72.87,
     "spill_count": 108.0,
     "excuses": "Sensor failure / issue Resolved - November Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
-    "lat": 53.373380362809186,
-    "lon": -3.1074173398395675,
+    "lat": 53.37338,
+    "lon": -3.107417,
     "pcon20nm": "Wirral West"
   },
   {
@@ -1073,8 +1073,8 @@
     "reporting_percent": 73.0,
     "spill_count": 10.0,
     "excuses": "Comms failure / issue Resolved - May",
-    "lat": 51.36615685737017,
-    "lon": 1.0378284609230448,
+    "lat": 51.366157,
+    "lon": 1.037828,
     "pcon20nm": "Canterbury"
   },
   {
@@ -1084,8 +1084,8 @@
     "reporting_percent": 73.0688736681887,
     "spill_count": 3.0,
     "excuses": "Comms failure / issue N/A - Ongoing investigation Performance - Other maintenance / capital works (e.g. jetting) Resolved - May",
-    "lat": 52.972640177760724,
-    "lon": -0.01442928838414819,
+    "lat": 52.97264,
+    "lon": -0.014429,
     "pcon20nm": "Boston and Skegness"
   },
   {
@@ -1095,8 +1095,8 @@
     "reporting_percent": 73.2165144596652,
     "spill_count": 7.0,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
-    "lat": 51.855726753260896,
-    "lon": 0.9491422993949857,
+    "lat": 51.855727,
+    "lon": 0.949142,
     "pcon20nm": "Harwich and North Essex"
   },
   {
@@ -1106,8 +1106,8 @@
     "reporting_percent": 74.0,
     "spill_count": 31.0,
     "excuses": "Comms failure / issue Resolved - November",
-    "lat": 50.44653227581676,
-    "lon": -3.708529880357099,
+    "lat": 50.446532,
+    "lon": -3.70853,
     "pcon20nm": "Totnes"
   },
   {
@@ -1117,8 +1117,8 @@
     "reporting_percent": 75.0,
     "spill_count": 0.0,
     "excuses": "Power failure / issue Resolved - December",
-    "lat": 50.757601948052724,
-    "lon": -1.5536457849647107,
+    "lat": 50.757602,
+    "lon": -1.553646,
     "pcon20nm": "New Forest West"
   },
   {
@@ -1128,8 +1128,8 @@
     "reporting_percent": 75.38,
     "spill_count": 56.0,
     "excuses": "Comms failure / issue N/A - Ongoing investigation Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
-    "lat": 54.201290211208274,
-    "lon": -2.735498475080503,
+    "lat": 54.20129,
+    "lon": -2.735498,
     "pcon20nm": "Westmorland and Lonsdale"
   },
   {
@@ -1139,8 +1139,8 @@
     "reporting_percent": 75.41,
     "spill_count": 10.0,
     "excuses": "Communications issue, resolved in May 2021.",
-    "lat": 53.28122684810124,
-    "lon": -3.813160780467479,
+    "lat": 53.281227,
+    "lon": -3.813161,
     "pcon20nm": "Aberconwy"
   },
   {
@@ -1150,8 +1150,8 @@
     "reporting_percent": 75.6,
     "spill_count": 0.0,
     "excuses": "Communications issue - escalated through business as usual process for communications failures.",
-    "lat": 51.67878818300304,
-    "lon": -4.140310504280637,
+    "lat": 51.678788,
+    "lon": -4.140311,
     "pcon20nm": "Llanelli"
   },
   {
@@ -1161,8 +1161,8 @@
     "reporting_percent": 76.0,
     "spill_count": 44.0,
     "excuses": "Comms failure / issue Resolved - April",
-    "lat": 50.44499878423402,
-    "lon": -3.7026998735835956,
+    "lat": 50.444999,
+    "lon": -3.7027,
     "pcon20nm": "Totnes"
   },
   {
@@ -1172,8 +1172,8 @@
     "reporting_percent": 76.0,
     "spill_count": 17.0,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
-    "lat": 50.266227691765124,
-    "lon": -5.050937111731506,
+    "lat": 50.266228,
+    "lon": -5.050937,
     "pcon20nm": "Truro and Falmouth"
   },
   {
@@ -1183,8 +1183,8 @@
     "reporting_percent": 76.0,
     "spill_count": 31.0,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
-    "lat": 50.25821128288666,
-    "lon": -5.047898971702197,
+    "lat": 50.258211,
+    "lon": -5.047899,
     "pcon20nm": "Truro and Falmouth"
   },
   {
@@ -1194,8 +1194,8 @@
     "reporting_percent": 76.18,
     "spill_count": 2.0,
     "excuses": "Communications issue, resolved in October 2021.",
-    "lat": 51.68449089218086,
-    "lon": -4.196263899184059,
+    "lat": 51.684491,
+    "lon": -4.196264,
     "pcon20nm": "Llanelli"
   },
   {
@@ -1205,8 +1205,8 @@
     "reporting_percent": 77.0,
     "spill_count": 20.0,
     "excuses": "Comms failure / issue Resolved - May",
-    "lat": 50.43233785104762,
-    "lon": -4.142290725473645,
+    "lat": 50.432338,
+    "lon": -4.142291,
     "pcon20nm": "Plymouth, Moor View"
   },
   {
@@ -1216,8 +1216,8 @@
     "reporting_percent": 77.0,
     "spill_count": 23.0,
     "excuses": "Comms failure / issue Resolved - October",
-    "lat": 50.58335709005175,
-    "lon": -3.631401632060034,
+    "lat": 50.583357,
+    "lon": -3.631402,
     "pcon20nm": "Central Devon"
   },
   {
@@ -1227,8 +1227,8 @@
     "reporting_percent": 77.48,
     "spill_count": 20.0,
     "excuses": "Communications failure from 01/01 - 09/01/2021 and from 20/02 to 25/03/2021. Data unreliable from 04/10 to 21/10/21.  Due to erratic telemetry signal.",
-    "lat": 51.63260233219132,
-    "lon": -4.129883857805049,
+    "lat": 51.632602,
+    "lon": -4.129884,
     "pcon20nm": "Gower"
   },
   {
@@ -1238,8 +1238,8 @@
     "reporting_percent": 79.0,
     "spill_count": 6.0,
     "excuses": "Sensor failure / issue Resolved - December",
-    "lat": 50.2637587264632,
-    "lon": -5.052463298486083,
+    "lat": 50.263759,
+    "lon": -5.052463,
     "pcon20nm": "Truro and Falmouth"
   },
   {
@@ -1249,8 +1249,8 @@
     "reporting_percent": 80.0,
     "spill_count": 1.0,
     "excuses": "Comms failure / issue Resolved - May",
-    "lat": 50.7890233382375,
-    "lon": -1.540011505925775,
+    "lat": 50.789023,
+    "lon": -1.540012,
     "pcon20nm": "New Forest East"
   },
   {
@@ -1260,8 +1260,8 @@
     "reporting_percent": 80.57,
     "spill_count": 19.0,
     "excuses": "Communications issue - escalated through business as usual process for communications failures.",
-    "lat": 52.92328252207481,
-    "lon": -4.12976278643328,
+    "lat": 52.923283,
+    "lon": -4.129763,
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
@@ -1271,8 +1271,8 @@
     "reporting_percent": 81.0,
     "spill_count": 86.0,
     "excuses": "Sensor failure / issue Resolved - December",
-    "lat": 50.948221082292015,
-    "lon": -4.138304999409106,
+    "lat": 50.948221,
+    "lon": -4.138305,
     "pcon20nm": "Torridge and West Devon"
   },
   {
@@ -1282,8 +1282,8 @@
     "reporting_percent": 81.0,
     "spill_count": 0.0,
     "excuses": "Telemetry or data archiving failure / issue Resolved - June",
-    "lat": 50.717870118869655,
-    "lon": -3.527414738377101,
+    "lat": 50.71787,
+    "lon": -3.527415,
     "pcon20nm": "Exeter"
   },
   {
@@ -1293,8 +1293,8 @@
     "reporting_percent": 82.0,
     "spill_count": 3.0,
     "excuses": "Sensor failure / issue Resolved  -  August",
-    "lat": 50.547880530689646,
-    "lon": -3.507657106492995,
+    "lat": 50.547881,
+    "lon": -3.507657,
     "pcon20nm": "Newton Abbot"
   },
   {
@@ -1304,8 +1304,8 @@
     "reporting_percent": 82.0,
     "spill_count": 0.0,
     "excuses": "Sensor failure / issue Resolved - December",
-    "lat": 51.012501475975235,
-    "lon": -4.2262454464489965,
+    "lat": 51.012501,
+    "lon": -4.226245,
     "pcon20nm": "Torridge and West Devon"
   },
   {
@@ -1315,8 +1315,8 @@
     "reporting_percent": 82.0,
     "spill_count": 2.0,
     "excuses": "Power failure / issue Resolved - March",
-    "lat": 50.87502807095422,
-    "lon": -1.3572414266470711,
+    "lat": 50.875028,
+    "lon": -1.357241,
     "pcon20nm": "Eastleigh"
   },
   {
@@ -1326,8 +1326,8 @@
     "reporting_percent": 82.0,
     "spill_count": 16.0,
     "excuses": "Sensor failure / issue Resolved - September",
-    "lat": 51.07818140590675,
-    "lon": -4.063199337378674,
+    "lat": 51.078181,
+    "lon": -4.063199,
     "pcon20nm": "North Devon"
   },
   {
@@ -1337,8 +1337,8 @@
     "reporting_percent": 82.44,
     "spill_count": 28.0,
     "excuses": "Installation set-up/design issue Resolved - July",
-    "lat": 51.87268384261549,
-    "lon": 0.9328167052846653,
+    "lat": 51.872684,
+    "lon": 0.932817,
     "pcon20nm": "Colchester"
   },
   {
@@ -1348,8 +1348,8 @@
     "reporting_percent": 83.0,
     "spill_count": 29.0,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
-    "lat": 53.350595295943464,
-    "lon": -3.0746925332771387,
+    "lat": 53.350595,
+    "lon": -3.074693,
     "pcon20nm": "Wirral West"
   },
   {
@@ -1359,8 +1359,8 @@
     "reporting_percent": 83.0,
     "spill_count": 22.0,
     "excuses": "Comms failure / issue Resolved - June",
-    "lat": 50.11776012851077,
-    "lon": -5.177951654413454,
+    "lat": 50.11776,
+    "lon": -5.177952,
     "pcon20nm": "Camborne and Redruth"
   },
   {
@@ -1370,8 +1370,8 @@
     "reporting_percent": 83.11,
     "spill_count": 0.0,
     "excuses": "Communications issue, resolved in April 2021.",
-    "lat": 52.92957614379851,
-    "lon": -4.130265300662919,
+    "lat": 52.929576,
+    "lon": -4.130265,
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
@@ -1381,8 +1381,8 @@
     "reporting_percent": 83.5239726027397,
     "spill_count": 0.0,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
-    "lat": 52.96729035555053,
-    "lon": -0.027928039338238283,
+    "lat": 52.96729,
+    "lon": -0.027928,
     "pcon20nm": "Boston and Skegness"
   },
   {
@@ -1392,8 +1392,8 @@
     "reporting_percent": 84.0,
     "spill_count": 21.0,
     "excuses": "Comms failure / issue Resolved - April",
-    "lat": 50.26244621188564,
-    "lon": -5.054484312393047,
+    "lat": 50.262446,
+    "lon": -5.054484,
     "pcon20nm": "Truro and Falmouth"
   },
   {
@@ -1403,8 +1403,8 @@
     "reporting_percent": 84.0,
     "spill_count": 6.0,
     "excuses": "Power failure / issue Scheduled",
-    "lat": 50.92062231630011,
-    "lon": -1.3910425712978556,
+    "lat": 50.920622,
+    "lon": -1.391043,
     "pcon20nm": "Southampton, Test"
   },
   {
@@ -1414,8 +1414,8 @@
     "reporting_percent": 84.79,
     "spill_count": 99.0,
     "excuses": "Communications issue from 01/01 to 25/02/2021, resolved.",
-    "lat": 53.175614630994936,
-    "lon": -4.258891458359056,
+    "lat": 53.175615,
+    "lon": -4.258891,
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
@@ -1425,8 +1425,8 @@
     "reporting_percent": 85.0,
     "spill_count": 26.0,
     "excuses": "Comms failure / issue Resolved - April",
-    "lat": 50.42212658396769,
-    "lon": -3.834637017111493,
+    "lat": 50.422127,
+    "lon": -3.834637,
     "pcon20nm": "Totnes"
   },
   {
@@ -1436,8 +1436,8 @@
     "reporting_percent": 85.0,
     "spill_count": 2.0,
     "excuses": "Power failure / issue Resolved - Feburary",
-    "lat": 50.81903884955803,
-    "lon": -1.0918331609629355,
+    "lat": 50.819039,
+    "lon": -1.091833,
     "pcon20nm": "Portsmouth North"
   },
   {
@@ -1447,8 +1447,8 @@
     "reporting_percent": 85.0,
     "spill_count": 6.0,
     "excuses": "Capital / maintenance works affect EDM operation Resolved - February",
-    "lat": 51.03420081828792,
-    "lon": -4.234403519628009,
+    "lat": 51.034201,
+    "lon": -4.234404,
     "pcon20nm": "Torridge and West Devon"
   },
   {
@@ -1458,8 +1458,8 @@
     "reporting_percent": 85.0,
     "spill_count": 3.0,
     "excuses": "Power failure / issue Resolved - October",
-    "lat": 50.91518382809019,
-    "lon": -1.4000756062165212,
+    "lat": 50.915184,
+    "lon": -1.400076,
     "pcon20nm": "Southampton, Test"
   },
   {
@@ -1469,8 +1469,8 @@
     "reporting_percent": 86.0,
     "spill_count": 80.0,
     "excuses": "Comms failure / issue Resolved - May",
-    "lat": 50.955139919971515,
-    "lon": -4.148447842854529,
+    "lat": 50.95514,
+    "lon": -4.148448,
     "pcon20nm": "Torridge and West Devon"
   },
   {
@@ -1480,8 +1480,8 @@
     "reporting_percent": 86.4,
     "spill_count": 7.0,
     "excuses": "Telemetry or data archiving failure / issue Resolved - February",
-    "lat": 50.68926602158559,
-    "lon": -1.939350498612254,
+    "lat": 50.689266,
+    "lon": -1.93935,
     "pcon20nm": "Poole"
   },
   {
@@ -1491,8 +1491,8 @@
     "reporting_percent": 87.0,
     "spill_count": 44.0,
     "excuses": "Comms failure / issue Resolved - April",
-    "lat": 50.33750890308644,
-    "lon": -4.681076723392464,
+    "lat": 50.337509,
+    "lon": -4.681077,
     "pcon20nm": "St Austell and Newquay"
   },
   {
@@ -1502,8 +1502,8 @@
     "reporting_percent": 87.0,
     "spill_count": 23.0,
     "excuses": "Comms failure / issue Resolved - April",
-    "lat": 50.43454519301235,
-    "lon": -3.691763652468954,
+    "lat": 50.434545,
+    "lon": -3.691764,
     "pcon20nm": "Totnes"
   },
   {
@@ -1513,8 +1513,8 @@
     "reporting_percent": 87.0,
     "spill_count": 116.0,
     "excuses": "Comms failure / issue Resolved - April",
-    "lat": 50.474025280345536,
-    "lon": -4.728824674067313,
+    "lat": 50.474025,
+    "lon": -4.728825,
     "pcon20nm": "North Cornwall"
   },
   {
@@ -1524,8 +1524,8 @@
     "reporting_percent": 87.6,
     "spill_count": 0.0,
     "excuses": "Sensor failure / issue Resolved - March",
-    "lat": 54.18908401594246,
-    "lon": -3.088040385312578,
+    "lat": 54.189084,
+    "lon": -3.08804,
     "pcon20nm": "Barrow and Furness"
   },
   {
@@ -1535,8 +1535,8 @@
     "reporting_percent": 88.0,
     "spill_count": 4.0,
     "excuses": "Comms failure / issue Resolved - April",
-    "lat": 50.522997208006544,
-    "lon": -3.6193033942200463,
+    "lat": 50.522997,
+    "lon": -3.619303,
     "pcon20nm": "Newton Abbot"
   },
   {
@@ -1546,8 +1546,8 @@
     "reporting_percent": 88.0,
     "spill_count": 0.0,
     "excuses": "Comms failure / issue Resolved - Feburary",
-    "lat": 50.904012901430264,
-    "lon": -1.4508490937301988,
+    "lat": 50.904013,
+    "lon": -1.450849,
     "pcon20nm": "Southampton, Test"
   },
   {
@@ -1557,8 +1557,8 @@
     "reporting_percent": 88.0,
     "spill_count": 10.0,
     "excuses": "Comms failure / issue Resolved - May",
-    "lat": 50.330189009781634,
-    "lon": -4.64328505763306,
+    "lat": 50.330189,
+    "lon": -4.643285,
     "pcon20nm": "St Austell and Newquay"
   },
   {
@@ -1568,8 +1568,8 @@
     "reporting_percent": 88.0,
     "spill_count": 60.0,
     "excuses": "Sensor failure / issue N/A - Ongoing investigation",
-    "lat": 50.52640401767776,
-    "lon": -3.59925829674833,
+    "lat": 50.526404,
+    "lon": -3.599258,
     "pcon20nm": "Newton Abbot"
   },
   {
@@ -1579,8 +1579,8 @@
     "reporting_percent": 88.0,
     "spill_count": 18.0,
     "excuses": "Comms failure / issue Resolved - April",
-    "lat": 50.704051033823376,
-    "lon": -3.5043061452953457,
+    "lat": 50.704051,
+    "lon": -3.504306,
     "pcon20nm": "Exeter"
   },
   {
@@ -1590,8 +1590,8 @@
     "reporting_percent": 88.73,
     "spill_count": 32.0,
     "excuses": "Communications issue, resolved in October 2021.",
-    "lat": 53.303026786544876,
-    "lon": -3.2369049473727665,
+    "lat": 53.303027,
+    "lon": -3.236905,
     "pcon20nm": "Delyn"
   },
   {
@@ -1601,8 +1601,8 @@
     "reporting_percent": 89.0,
     "spill_count": 37.0,
     "excuses": "Comms failure / issue Resolved - December",
-    "lat": 50.17166767380448,
-    "lon": -5.10905650990975,
+    "lat": 50.171668,
+    "lon": -5.109057,
     "pcon20nm": "Truro and Falmouth"
   },
   {
@@ -1612,8 +1612,8 @@
     "reporting_percent": 89.0,
     "spill_count": 0.0,
     "excuses": "Comms failure / issue Resolved - April",
-    "lat": 50.53071477990069,
-    "lon": -3.6140644146333036,
+    "lat": 50.530715,
+    "lon": -3.614064,
     "pcon20nm": "Newton Abbot"
   },
   {
@@ -1623,8 +1623,8 @@
     "reporting_percent": 89.0,
     "spill_count": 100.0,
     "excuses": "Comms failure / issue Resolved - June",
-    "lat": 50.16824751701923,
-    "lon": -5.0990302906806155,
+    "lat": 50.168248,
+    "lon": -5.09903,
     "pcon20nm": "Truro and Falmouth"
   },
   {
@@ -1634,8 +1634,8 @@
     "reporting_percent": 89.0,
     "spill_count": 0.0,
     "excuses": "Comms failure / issue Resolved - April",
-    "lat": 50.7289645365191,
-    "lon": -3.524941693354745,
+    "lat": 50.728965,
+    "lon": -3.524942,
     "pcon20nm": "Exeter"
   },
   {
@@ -1645,8 +1645,8 @@
     "reporting_percent": 89.0,
     "spill_count": 28.0,
     "excuses": "Comms failure / issue Resolved - May",
-    "lat": 50.402960695173604,
-    "lon": -3.619531030236991,
+    "lat": 50.402961,
+    "lon": -3.619531,
     "pcon20nm": "Totnes"
   },
   {
@@ -1656,8 +1656,8 @@
     "reporting_percent": 89.7,
     "spill_count": 31.0,
     "excuses": null,
-    "lat": 53.17680550036027,
-    "lon": -2.828391656661555,
+    "lat": 53.176806,
+    "lon": -2.828392,
     "pcon20nm": "Eddisbury"
   }
 ]
