@@ -260,5 +260,10 @@ download/rainfall/stations.csv: rainfall-stations.py $(RAINFALL_FILES)
 .PHONY: rainfall
 rainfall: download/rainfall/stations.csv download/rainfall/rainfall.csv
 
+.PHONY: load-rainfall
+load-rainfall: rainfall.sql load_rainfall.sql rainfall
+	$(PSQL) -f $<
+	$(PSQL) -f $(word 2,$^)
+
 clean:
 	rm -rf $(DOWNLOAD)
