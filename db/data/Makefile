@@ -242,6 +242,10 @@ load-politics: load-constituencies load-mps load-mps-twitter
 .PHONY: load-all
 load-all: load-politics load-sewage load-grid-references
 
+UK_RAINFALL=download/rainfall/uk.txt
+
+$(UK_RAINFALL):
+	$(CURL) -o $@ https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Rainfall/date/UK.txt
 
 RAINFALL_STATIONS=aberporth armagh ballypatrick bradford braemar camborne cambridge cardiff chivenor cwmystwyth dunstaffnage durham eastbourne eskdalemuir heathrow hurn lerwick leuchars lowestoft manston nairn newtonrigg oxford paisley ringway rossonwye shawbury sheffield southampton stornoway suttonbonington tiree valley waddington whitby wickairport yeovilton
 RAINFALL_FILES=$(foreach v,$(RAINFALL_STATIONS), download/rainfall/$(v).txt )
@@ -256,6 +260,9 @@ download/rainfall/%.txt:
 download/rainfall/rainfall.csv:
 download/rainfall/stations.csv: rainfall-stations.py $(RAINFALL_FILES)
 	$(PYTHON) rainfall-stations.py download/rainfall/stations.csv download/rainfall/rainfall.csv $(RAINFALL_FILES)
+
+download/rainfall/uk.csv: $(UK_RAINFALL) rainfall-uk.py
+	$(PYTHON) rainfall-uk.py $(UK_RAINFALL) $@
 
 .PHONY: rainfall
 rainfall: download/rainfall/stations.csv download/rainfall/rainfall.csv
