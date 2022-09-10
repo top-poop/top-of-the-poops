@@ -33,6 +33,27 @@ load-mps: mps.sql load_mps.sql $(DOWNLOAD)/mps.csv
 	$(PSQL) -f $(word 2,$^)
 
 
+
+# Counties
+
+COUNTIES_NAME=Counties_And_Unitary_Authorities_Dec_21_UK_BUC.zip
+
+$(DOWNLOAD)/$(COUNTIES_NAME):
+	@mkdir -p $(@D)
+	$(CURL) -o $@ 'https://opendata.arcgis.com/api/v3/datasets/23104db66a214d8c9a8ad9e97c51a95c_0/downloads/data?format=shp&spatialRefId=27700&where=1%3D1'
+
+$(DOWNLOAD)/CTYUA_DEC_2021_UK_BUC.shp: $(DOWNLOAD)/$(COUNTIES_NAME)
+	unzip -o -d $(DOWNLOAD) $<
+	touch $@
+
+$(DOWNLOAD)/CTYUA_DEC_2021_UK_BUC.sql:  $(DOWNLOAD)/CTYUA_DEC_2021_UK_BUC.shp
+	ogr2ogr -nlt PROMOTE_TO_MULTI -f PGDump -t_srs "EPSG:4326" $@ $<
+	sed -i -e 's/NUMERIC(24,15)/NUMERIC/' $@
+
+.PHONY: load-counties
+load-counties: $(DOWNLOAD)/CTYUA_DEC_2021_UK_BUC.sql
+	$(PSQL) -f $<
+
 ## Constituencies
 
 $(DOWNLOAD)/$(CONSTITUENCIES_NAME):
