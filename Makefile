@@ -32,7 +32,7 @@ web/data/generated/%.json: generate/$(basename $(notdir %)).sql $(PYTHON) $(GENE
 clean:
 	rm web/data/generated/*.json web/data/generated/chloropleth/chloro.json
 
-generated: $(GENERATED) web/data/generated/chloropleth/chloro.json
+generated: $(GENERATED) web/data/generated/chloropleth/chloro.json web/data/generated/chloropleth/chloro-counties.json
 
 .PHONY: it
 it:
@@ -56,7 +56,11 @@ constituencies: generate/constituencies/constituencies.py generate/constituencie
 
 
 web/data/generated/chloropleth/chloro.json: generate/constituencies/cloropleth.py  generate/constituencies/chloropleth.sql
-	mkdir -p $(dir $@)
+	@mkdir -p $(@D)
+	$(PYTHON) $< $@
+
+web/data/generated/chloropleth/chloro-counties.json: generate/counties/cloropleth.py  generate/counties/chloropleth-counties.sql
+	@mkdir -p $(@D)
 	$(PYTHON) $< $@
 
 .PHONY: prod
