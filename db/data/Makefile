@@ -268,7 +268,7 @@ download/rainfall/uk.csv: $(UK_RAINFALL) rainfall-uk.py
 rainfall: download/rainfall/stations.csv download/rainfall/rainfall.csv
 
 .PHONY: load-rainfall
-load-rainfall: rainfall.sql load_rainfall.sql rainfall
+load-rainfall: rainfall.sql load_rainfall.sql rainfall download/rainfall/uk.csv
 	$(PSQL) -f $<
 	$(PSQL) -f $(word 2,$^)
 
