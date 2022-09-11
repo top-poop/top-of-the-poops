@@ -145,7 +145,7 @@ const MonitoringChart = () => {
                         title: d => `${d.bin}% - ${d.count}`
                     }
                 ),
-
+                Plot.text(data, { x: "bin", y: 130, text: "count" } ),
             ]
         }
     }
@@ -205,7 +205,9 @@ class App extends React.Component {
                     <Col>
                         <h1>Reporting</h1>
                         <p>We still see that the monitoring on the Combined Sewer Overflows isn't working. Here we are only looking at
-                        those that cover beach locations - and we can see almost 50 locations have monitoring that isn't working at all</p>
+                        those that cover beach locations - and we can see over 40 locations have monitoring that isn't working at all</p>
+                        <p>No CSO that releases to a bathing location is supposed to have monitoring that is operational less than 90% of the time.
+                        This is a very low target! - It means that the monitoring could be switched off for 36 days a year, and still meet the target.</p>
                         <MonitoringChart/>
                     </Col>
                 </Row>
