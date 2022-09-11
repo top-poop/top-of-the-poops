@@ -1,0 +1,110 @@
+[
+  {
+    "month": "Jan",
+    "avg": 123.625,
+    "plus_1_stddev": 165.3554793074056,
+    "minus_1_stddev": 81.89452069259441,
+    "max": 189.3,
+    "min": 29.0,
+    "reading": 61.3
+  },
+  {
+    "month": "Feb",
+    "avg": 99.471875,
+    "plus_1_stddev": 143.31967800800751,
+    "minus_1_stddev": 55.624071991992494,
+    "max": 213.7,
+    "min": 33.3,
+    "reading": 146.2
+  },
+  {
+    "month": "Mar",
+    "avg": 85.446875,
+    "plus_1_stddev": 110.28921638327597,
+    "minus_1_stddev": 60.604533616724034,
+    "max": 146.3,
+    "min": 36.7,
+    "reading": 49.6
+  },
+  {
+    "month": "Apr",
+    "avg": 69.765625,
+    "plus_1_stddev": 98.54400632791416,
+    "minus_1_stddev": 40.98724367208583,
+    "max": 128.2,
+    "min": 20.6,
+    "reading": 48.9
+  },
+  {
+    "month": "May",
+    "avg": 71.44375,
+    "plus_1_stddev": 98.67819140031325,
+    "minus_1_stddev": 44.20930859968674,
+    "max": 121.4,
+    "min": 22.6,
+    "reading": 75.7
+  },
+  {
+    "month": "Jun",
+    "avg": 76.696875,
+    "plus_1_stddev": 108.10479966647293,
+    "minus_1_stddev": 45.28895033352707,
+    "max": 149.0,
+    "min": 29.7,
+    "reading": 59.0
+  },
+  {
+    "month": "Jul",
+    "avg": 81.23125,
+    "plus_1_stddev": 106.31319875255522,
+    "minus_1_stddev": 56.149301247444775,
+    "max": 145.5,
+    "min": 46.1,
+    "reading": 46.3
+  },
+  {
+    "month": "Aug",
+    "avg": 92.215625,
+    "plus_1_stddev": 124.81244959673522,
+    "minus_1_stddev": 59.61880040326477,
+    "max": 162.9,
+    "min": 18.4,
+    "reading": 50.8
+  },
+  {
+    "month": "Sep",
+    "avg": 90.35625,
+    "plus_1_stddev": 119.43390950447292,
+    "minus_1_stddev": 61.27859049552708,
+    "max": 140.2,
+    "min": 22.5,
+    "reading": null
+  },
+  {
+    "month": "Oct",
+    "avg": 124.63125,
+    "plus_1_stddev": 164.07490059905896,
+    "minus_1_stddev": 85.18759940094102,
+    "max": 199.6,
+    "min": 47.0,
+    "reading": null
+  },
+  {
+    "month": "Nov",
+    "avg": 120.596875,
+    "plus_1_stddev": 152.88104154142079,
+    "minus_1_stddev": 88.31270845857921,
+    "max": 215.0,
+    "min": 73.5,
+    "reading": null
+  },
+  {
+    "month": "Dec",
+    "avg": 126.871875,
+    "plus_1_stddev": 170.02046473791574,
+    "minus_1_stddev": 83.72328526208426,
+    "max": 216.9,
+    "min": 47.1,
+    "reading": null
+  }
+]

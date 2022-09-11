@@ -10,12 +10,18 @@ const Attribution = () => <span>
     Contains OS data &copy; Crown copyright and database right 2021
 </span>
 
-const Tiles = () => {
+const Tiles = ({style}) => {
     const attribution = ReactDOMServer.renderToString(<Attribution/>);
-    return <TileLayer
-        attribution={attribution}
-        url="https://maps.top-of-the-poops.org/styles/v1/{z}/{x}/{y}.png"
-    />
+
+    if (!style) {
+        style = "v1"
+    }
+
+    const url= process.env.NODE_ENV == "production" ?
+        `https://maps.top-of-the-poops.org/styles/${style}/{z}/{x}/{y}.png`
+    :   `http://localhost:8080/styles/${style}/{z}/{x}/{y}.png`;
+
+    return <TileLayer attribution={attribution} url={url}/>
 }
 
 const Debug = () => {
@@ -62,12 +68,12 @@ const Scrolly = () => {
     return null;
 }
 
-const Map = ({children}) => {
+const Map = ({style, children}) => {
     return <MapContainer
         bounds={ewBounds}
         dragging={!L.Browser.mobile}
         scrollWheelZoom={false}>
-        <Tiles/>
+        <Tiles style={style}/>
         <Scrolly/>
         {children}
     </MapContainer>

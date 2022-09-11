@@ -6,6 +6,7 @@ with     reports_2020 as (
                   join grid_references on edm.effluent_grid_ref = grid_references.grid_reference
          where reporting_year = 2020
            and grid_references.ctyua21nm is not null
+           and bathing is not null
          group by reporting_year, ctyua21nm
      ),
      reports_2021 as (
@@ -16,6 +17,7 @@ with     reports_2020 as (
                   join grid_references on edm.effluent_grid_ref = grid_references.grid_reference
          where reporting_year = 2021
            and grid_references.ctyua21nm is not null
+            and bathing is not null
          group by reporting_year, ctyua21nm
      )
 select reports_2021.*,

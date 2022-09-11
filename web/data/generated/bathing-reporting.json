@@ -1,0 +1,57 @@
+[
+  {
+    "reporting_year": 2021,
+    "bin": 0.0,
+    "count": 42
+  },
+  {
+    "reporting_year": 2021,
+    "bin": 10.0,
+    "count": 5
+  },
+  {
+    "reporting_year": 2021,
+    "bin": 20.0,
+    "count": 4
+  },
+  {
+    "reporting_year": 2021,
+    "bin": 30.0,
+    "count": 5
+  },
+  {
+    "reporting_year": 2021,
+    "bin": 40.0,
+    "count": 11
+  },
+  {
+    "reporting_year": 2021,
+    "bin": 50.0,
+    "count": 8
+  },
+  {
+    "reporting_year": 2021,
+    "bin": 60.0,
+    "count": 5
+  },
+  {
+    "reporting_year": 2021,
+    "bin": 70.0,
+    "count": 15
+  },
+  {
+    "reporting_year": 2021,
+    "bin": 80.0,
+    "count": 25
+  },
+  {
+    "reporting_year": 2021,
+    "bin": 90.0,
+    "count": 472
+  },
+  {
+    "reporting_year": 2021,
+    "bin": 100.0,
+    "count": 648
+  }
+]

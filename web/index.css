@@ -178,16 +178,16 @@ blockquote {
     margin: auto;
 }
 
-.container-fluid {
-    max-width: 1200px;
-}
-
-
-
 .resp-sharing-button__link,
 .resp-sharing-button__icon {
     display: inline-block
 }
+
+/*.bathing {*/
+/*    background-image: url(assets/logos/sas.svg);*/
+/*    background-size: contain;*/
+/*    background-attachment: fixed;*/
+/*}*/
 
 .resp-sharing-button__link {
     text-decoration: none;
