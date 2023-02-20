@@ -1,0 +1,37 @@
+
+// Current Everything - Max 1000 items
+GET https://prod-tw-opendata-app.uk-e1.cloudhub.io/data/STE/v1/DischargeCurrentStatus
+client_id:{{client-id}}
+client_secret:{{client-secret}}
+
+###
+// Current not "Not Discharging"
+GET https://prod-tw-opendata-app.uk-e1.cloudhub.io/data/STE/v1/DischargeCurrentStatus?col_1=AlertStatus&operand_1=neq&value_1=Not discharging
+client_id:{{client-id}}
+client_secret:{{client-secret}}
+
+###
+// Current "Discharging"
+GET https://prod-tw-opendata-app.uk-e1.cloudhub.io/data/STE/v1/DischargeCurrentStatus?col_1=AlertStatus&operand_1=eq&value_1=Discharging
+client_id:{{client-id}}
+client_secret:{{client-secret}}
+
+###
+// Current not "Offline"
+GET https://prod-tw-opendata-app.uk-e1.cloudhub.io/data/STE/v1/DischargeCurrentStatus?col_1=AlertStatus&operand_1=eq&value_1=Offline
+client_id:{{client-id}}
+client_secret:{{client-secret}}
+
+###
+// All Discharge Alerts
+GET https://prod-tw-opendata-app.uk-e1.cloudhub.io/data/STE/v1/DischargeAlerts
+client_id:{{client-id}}
+client_secret:{{client-secret}}
+
+###
+// Discharge Alerts on date
+GET https://prod-tw-opendata-app.uk-e1.cloudhub.io/data/STE/v1/DischargeAlerts?col_1=DateTime&operand_1=gte&value_1=2023-02-16&col_2=DateTime&operand_2=lt&value_2=2023-02-17
+client_id:{{client-id}}
+client_secret:{{client-secret}}
+
+###
