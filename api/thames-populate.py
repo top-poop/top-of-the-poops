@@ -4,9 +4,13 @@ import os
 from time import sleep
 
 import psycopg2
+import requests as requests
 
-from api import thames
 from api.thames import TWApi, Credential
+
+class DateArgAction(argparse.Action):
+    def __call__(self, parser, namespace, values, option_string=None):
+        setattr(namespace, self.dest, datetime.date.fromisoformat(values))
 
 
 def select(connection, sql, params=None):
@@ -44,7 +48,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Populate events from Thames Water")
     parser.add_argument("--update", action="store_true", help="Run in update mode")
     parser.add_argument("--reset", action="store_true", help="Delete everything and redownload")
-    parser.add_argument("--date", help="load a single date yyyy-mm-dd")
+    parser.add_argument("--date", action=DateArgAction, help="load a single date yyyy-mm-dd")
+    parser.add_argument("--to", action=DateArgAction, help="to date yyyy-mm-dd (when using --date)")
 
     args = parser.parse_args()
 
@@ -61,25 +66,42 @@ if __name__ == "__main__":
 
     start_date = datetime.date(2023, 1, 1)
     end_date = datetime.date.today()
+    a_day = datetime.timedelta(days=1)
+
 
     with psycopg2.connect(host="localhost", database="gis", user="docker", password="docker") as conn:
 
         if args.update:
             d: datetime.datetime = select_one(conn, "select max(date_time) from events_thames")[0]
             if d is not None:
-                start_date = d.date()
+                start_date = d.date() + a_day
 
         if args.reset:
             pass
 
         if args.date:
-            start_date = datetime.date.isoformat(args.date)
-            end_date = start_date + datetime.timedelta(days=1)
+            start_date = args.date
+            end_date = start_date + a_day
+            if args.to:
+                end_date = args.to
+            if end_date < start_date:
+                raise ValueError("End Date must be before start date")
 
-        print(f"Start date is {start_date}")
+
+
+        print(f"Start date is {start_date}, end date is {end_date}")
+        if start_date == end_date:
+            print("Nothing to do")
+            exit(0)
+
         current_date = start_date
 
-        while current_date < end_date:
-            process_date(conn, current_date)
-            current_date = current_date + datetime.timedelta(days=1)
-            sleep(2)
+        try:
+            while current_date < end_date:
+                process_date(conn, current_date)
+                current_date = current_date + a_day
+                sleep(2)
+        except requests.exceptions.HTTPError as e:
+            print(f"API Failed: {e}" )
+            print(f"Request URL= {e.response.url}" )
+            print(f"Response: {e.response.text}")

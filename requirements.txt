@@ -8,5 +8,3 @@ xlsx2csv
 pytest
 
 requests
-
-python-dateutil

@@ -3,8 +3,8 @@ import datetime
 import os
 from typing import List
 
-import dateutil.tz
 import requests
+from requests.adapters import HTTPAdapter, Retry
 
 
 @dataclasses.dataclass(frozen=True)
@@ -29,6 +29,9 @@ class TWApi:
     def __init__(self, baseurl: str, credentials: Credential):
         self.baseurl = baseurl
         self.session = requests.Session()
+        self.session.mount('https://', HTTPAdapter(
+            max_retries=(Retry(total=3, backoff_factor=0.5, status_forcelist=[500, 502, 503, 504]))
+        ))
         self.session.headers.update({
             "client_id": credentials.client_id,
             "client_secret": credentials.client_secret

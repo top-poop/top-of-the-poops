@@ -30,7 +30,7 @@ client_secret:{{client-secret}}
 
 ###
 // Discharge Alerts on date
-GET https://prod-tw-opendata-app.uk-e1.cloudhub.io/data/STE/v1/DischargeAlerts?col_1=DateTime&operand_1=gte&value_1=2023-02-16&col_2=DateTime&operand_2=lt&value_2=2023-02-17
+GET https://prod-tw-opendata-app.uk-e1.cloudhub.io/data/STE/v1/DischargeAlerts?offset=0&col_1=DateTime&operand_1=gte&value_1=2023-01-02&col_2=DateTime&operand_2=lt&value_2=2023-01-03
 client_id:{{client-id}}
 client_secret:{{client-secret}}
 
