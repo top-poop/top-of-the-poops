@@ -39,6 +39,7 @@ class ThamesMonitorState(StateMachine):
         if self.last_event_time is not None:
             if event_time == self.last_event_time:
                 print("Synthetic stop removed")
+                self.last_event_time = None
                 return False
         return True
 
@@ -69,10 +70,6 @@ class ThamesEventStream:
         self.monitor = monitor(event)
         print(self.monitor)
         self.state = ThamesMonitorState(self)
-        self.state_start = None
-
-    def emit(self):
-        print(f"{self.state.current_state.id} from {self.state_start} -> None")
 
     def event(self, event: TWEvent):
 
@@ -80,7 +77,6 @@ class ThamesEventStream:
             self._next(event)
 
         if monitor(event) != self.monitor:
-            self.emit()
             self._next(event)
 
         if event.alert_type == OFFLINE_START:
@@ -93,10 +89,7 @@ class ThamesEventStream:
             self.state.do_stop(event_time=event.date_time)
 
     def on_enter_state(self, event, target, source, event_time):
-        self.state_start = event_time
-
-    def on_exit_state(self, event, target, source, event_time):
-        print(f"{source.id} from {self.state_start} -> {event_time}")
+        print(f"{target.id} {event_time}")
 
 
 def row_to_event(row: Any) -> TWEvent:
