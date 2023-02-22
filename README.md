@@ -11,9 +11,19 @@ perhaps publish some interesting findings.
 
 ## Data Reuse and Attribution
 
-Please re-use our data - We'd appreciate it, if you can,  raise an issue on our issue tracker and let us know about it.
+Please re-use our data.
+
+Press contact: press [at] top-of-the-poops.org
+
+If you publish data, content, or images from our site, please note it is [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), and as such we require suitable *attribution*
+
+- Derived Data / General Content - should be attributed, with name and hyperlink  [Top of the Poops](https://top-of-the-poops.org)
+- Images / Maps - should have caption '(c) top-of-the-poops.org', or similar, either as plain text or hyperlink.
+
+Please refer to: https://wiki.creativecommons.org/wiki/Recommended_practices_for_attribution
 
 Derived data is (C) Top-Of-The-Poops - [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), all original data is (C) the original data owner, and is used under appropriate licence 
+
 
 ## Maps
 
