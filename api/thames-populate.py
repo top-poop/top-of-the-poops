@@ -6,23 +6,12 @@ from time import sleep
 import psycopg2
 import requests as requests
 
+from api.psy import select_one
 from api.thames import TWApi, Credential
 
 class DateArgAction(argparse.Action):
     def __call__(self, parser, namespace, values, option_string=None):
         setattr(namespace, self.dest, datetime.date.fromisoformat(values))
-
-
-def select(connection, sql, params=None):
-    with connection.cursor() as cursor:
-        cursor.execute(sql, params)
-        return cursor.fetchall()
-
-
-def select_one(connection, sql, params=None):
-    with connection.cursor() as cursor:
-        cursor.execute(sql, params)
-        return cursor.fetchone()
 
 
 def process_date(connection, on_date):
@@ -57,14 +46,13 @@ if __name__ == "__main__":
         raise ValueError("Need one of --update --reset or --date <date>")
 
     api = TWApi(
-        "https://prod-tw-opendata-app.uk-e1.cloudhub.io",
         Credential(
             os.environ["TW_CLIENT_ID"],
             os.environ["TW_CLIENT_SECRET"]
         )
     )
 
-    start_date = datetime.date(2023, 1, 1)
+    start_date = datetime.date(2022, 12, 1)
     end_date = datetime.date.today()
     a_day = datetime.timedelta(days=1)
 
@@ -105,3 +93,5 @@ if __name__ == "__main__":
             print(f"API Failed: {e}" )
             print(f"Request URL= {e.response.url}" )
             print(f"Response: {e.response.text}")
+
+

@@ -1,7 +1,7 @@
 import dataclasses
 import datetime
 import os
-from typing import List
+from typing import List, Optional, Mapping
 
 import requests
 from requests.adapters import HTTPAdapter, Retry
@@ -13,6 +13,12 @@ class Credential:
     client_secret: str
 
 
+OFFLINE_START = "Offline start"
+OFFLINE_STOP = "Offline stop"
+START = "Start"
+STOP = "Stop"
+
+
 @dataclasses.dataclass(frozen=True)
 class TWEvent:
     location_name: str
@@ -20,13 +26,13 @@ class TWEvent:
     location_grid_ref: str
     x: str
     y: str
-    receiving_water_course: str
+    receiving_water_course: Optional[str]
     alert_type: str
     date_time: datetime.datetime
 
 
 class TWApi:
-    def __init__(self, baseurl: str, credentials: Credential):
+    def __init__(self, credentials: Credential, baseurl: str = "https://prod-tw-opendata-app.uk-e1.cloudhub.io"):
         self.baseurl = baseurl
         self.session = requests.Session()
         self.session.mount('https://', HTTPAdapter(
@@ -40,21 +46,12 @@ class TWApi:
     def _url(self, endpoint):
         return f"{self.baseurl}/data/STE/v1/{endpoint}"
 
-    def _events(self, on_date: datetime.date, offset: int):
-        url = self._url("DischargeAlerts")
+    def _do_chunk(self, url: str, params: Mapping[str, str], offset: int):
 
-        start_date = on_date
-        end_date = on_date + datetime.timedelta(days=1)
+        request_params = {k: v for k, v in params.items()}
+        request_params.update({"offset": offset})
 
-        response = self.session.get(url, params={
-            "offset": offset,
-            "col_1": "DateTime",
-            "operand_1": "gte",
-            "value_1": start_date.isoformat(),
-            "col_2": "DateTime",
-            "operand_2": "lt",
-            "value_2": end_date.isoformat()
-        })
+        response = self.session.get(url, params=request_params)
         response.raise_for_status()
 
         resp = response.json()
@@ -77,32 +74,62 @@ class TWApi:
         if "items" in resp:
             return limit, [map_item(item) for item in resp["items"]]
         else:
-            print(f"No items in response for DischargeAlerts date={on_date}, offset={offset}")
             return limit, []
 
-    def events(self, on_date: datetime.date) -> List[TWEvent]:
+    def _do_chunks(self, url, params):
         items = []
         offset = 0
 
         while True:
-            limit, chunk = self._events(on_date, offset)
+            limit, chunk = self._do_chunk(url, params, offset)
             items.extend(chunk)
             if len(chunk) < limit:
                 break
             offset += limit
-            print(f"Getting next chunk offset = {offset}")
         return items
+
+    def events(self, on_date: datetime.date) -> List[TWEvent]:
+        start_date = on_date
+        end_date = on_date + datetime.timedelta(days=1)
+
+        return self._do_chunks(
+            url=self._url("DischargeAlerts"),
+            params={
+                "col_1": "DateTime",
+                "operand_1": "gte",
+                "value_1": start_date.isoformat(),
+                "col_2": "DateTime",
+                "operand_2": "lt",
+                "value_2": end_date.isoformat()
+            }
+        )
+
+    def events_by_permit(self, permit_id: str, start_date: datetime.date = None):
+        if start_date is None:
+            start_date = datetime.date(2022, 12, 1)
+
+        return self._do_chunks(
+            url=self._url("DischargeAlerts"),
+            params={
+                "col_1": "PermitNumber",
+                "operand_1": "eq",
+                "value_1": permit_id,
+                "col_2": "DateTime",
+                "operand_2": "gte",
+                "value_2": start_date.isoformat()
+            }
+        )
 
 
 if __name__ == "__main__":
     api = TWApi(
-        "https://prod-tw-opendata-app.uk-e1.cloudhub.io",
         Credential(
             os.environ["TW_CLIENT_ID"],
             os.environ["TW_CLIENT_SECRET"]
         )
     )
 
-    events = api.events(datetime.date.fromisoformat("2023-01-01"))
+    # events = api.events(datetime.date.fromisoformat("2023-01-01"))
+    events = api.events_by_permit("TEMP.3036")
     print("\n".join([str(e) for e in events]))
     print(f"Len = {len(events)}")

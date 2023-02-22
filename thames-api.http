@@ -30,8 +30,13 @@ client_secret:{{client-secret}}
 
 ###
 // Discharge Alerts on date
-GET https://prod-tw-opendata-app.uk-e1.cloudhub.io/data/STE/v1/DischargeAlerts?offset=0&col_1=DateTime&operand_1=gte&value_1=2023-01-02&col_2=DateTime&operand_2=lt&value_2=2023-01-03
+GET https://prod-tw-opendata-app.uk-e1.cloudhub.io/data/STE/v1/DischargeAlerts?offset=0&col_1=DateTime&operand_1=gte&value_1=2022-12-07&col_2=DateTime&operand_2=lt&value_2=2022-12-08
 client_id:{{client-id}}
 client_secret:{{client-secret}}
 
 ###
+// Discharge Alert by consent/permit after 2022-12-01
+GET https://prod-tw-opendata-app.uk-e1.cloudhub.io/data/STE/v1/DischargeAlerts?offset=0&col_2=DateTime&operand_2=gte&value_2=2022-12-01&col_1=PermitNumber&operand_1=eq&value_1=CANM.0549
+client_id:{{client-id}}
+client_secret:{{client-secret}}
+
