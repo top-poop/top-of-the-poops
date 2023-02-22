@@ -18,7 +18,7 @@ Press contact: press [at] top-of-the-poops.org
 If you publish data, content, or images from our site, please note it is [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), and as such we require suitable *attribution*
 
 - Derived Data / General Content - should be attributed, with name and hyperlink  [Top of the Poops](https://top-of-the-poops.org)
-- Images / Maps - should have caption '(c) top-of-the-poops.org', or similar, either as plain text or hyperlink.
+- Images / Maps - should have caption '(c) top-of-the-poops.org', or similar, either as plain text or hyperlink, and ther should be a hyperlink as above in the main body of the text.
 
 Please refer to: https://wiki.creativecommons.org/wiki/Recommended_practices_for_attribution
 
