@@ -3,3 +3,5 @@ venv/
 .python_uptodate
 
 **/*.private.env.json
+**/.env-*
+
