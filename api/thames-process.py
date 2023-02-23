@@ -1,20 +1,19 @@
-import datetime
-import json
+import argparse
+import os
+import pathlib
+import re
 from collections import defaultdict
-from typing import Any, Mapping, Optional
+from typing import Mapping, Optional
 
 import psycopg2
 from statemachine import StateMachine, State
 from statemachine.contrib.diagram import DotGraphMachine
 
-from api.calendar_bucket import Calendar, at_midnight, Summariser
-from api.psy import select_many
-from api.thames import TWEvent, OFFLINE_START, OFFLINE_STOP, START, STOP
+from calendar_bucket import Calendar, at_midnight, Summariser
+from encoder import *
+from psy import select_many
+from thames import TWEvent, OFFLINE_START, OFFLINE_STOP, START, STOP
 
-
-# Known bugs
-# Processing of Unknown -> e.g. getting a "Stop" when in Unknown means that Unknown was actually "Start"
-# or getting an "online" in unknown means it was "offline".
 
 class ThamesMonitorState(StateMachine):
     unknown = State("Unknown", initial=True)
@@ -49,11 +48,9 @@ class ThamesMonitorState(StateMachine):
         self.last_event_time = event_time
 
     def offline_to_offline(self, event):
-        print(f"Note: offline to offline")
         return True
 
     def online_to_online(self, event):
-        print(f"Note: online to online")
         return True
 
 
@@ -140,60 +137,33 @@ class CalendaringListener(ThamesMonitorListener):
             v.add("now", dt)
             yield k, v
 
-class DateTimeEncoder(json.JSONEncoder):
-    def default(self, o):
-        if isinstance(o, datetime.datetime):
-            return o.isoformat()
-        elif isinstance(o, datetime.date):
-            return o.isoformat()
-
-        return super().default(o)
-
-
-class TimeDeltaMinutesEncoder(json.JSONEncoder):
-
-    def default(self, o: Any) -> Any:
-        if isinstance(o, datetime.timedelta):
-            return int(o.total_seconds() / 60)
-
-        return super().default(o)
-
-
-class MultipleJsonEncoders:
-    """
-    Combine multiple JSON encoders
-    """
-    def __init__(self, *encoders):
-        self.encoders = encoders
-        self.args = ()
-        self.kwargs = {}
-
-    def default(self, obj):
-        for encoder in self.encoders:
-            try:
-                return encoder(*self.args, **self.kwargs).default(obj)
-            except TypeError:
-                pass
-        raise TypeError(f'Object of type {obj.__class__.__name__} is not JSON serializable')
-
-    def __call__(self, *args, **kwargs):
-        self.args = args
-        self.kwargs = kwargs
-        enc = json.JSONEncoder(*args, **kwargs)
-        enc.default = self.default
-        return enc
-
 
 def thames_permit_constituencies(connection):
-    return {p: c for p, c in select_many(
+    return {p: [s, c] for p, s, c in select_many(
         connection=connection,
-        sql="select consent_id, pcon20nm from edm_consent_view edm join grid_references grid on edm.effluent_grid_ref = grid.grid_reference where reporting_year = 2021 and company_name = %s",
+        sql="select consent_id, site_name, pcon20nm from edm_consent_view edm join grid_references grid on edm.effluent_grid_ref = grid.grid_reference where reporting_year = 2021 and company_name = %s",
         params=('Thames Water',),
-        f=lambda row: (row[0], row[1])
+        f=lambda row: (row[0], row[1], row[2])
     )}
 
 
+def kebabcase(s):
+    return "-".join(re.findall(
+        r"[A-Z]{2,}(?=[A-Z][a-z]+[0-9]*|\b)|[A-Z]?[a-z]+[0-9]*|[A-Z]|[0-9]+",
+        s.lower()
+    ))
+
+
 if __name__ == "__main__":
+
+    parser = argparse.ArgumentParser(description="Take latest Thames API Results and turn into summary for web")
+    parser.add_argument("--output", type=pathlib.Path, default=pathlib.Path("web/data/generated/live/constituencies"),
+                        help="directory for output files")
+    parser.add_argument("--state", type=pathlib.Path, default=pathlib.Path("api/twstate.png"),
+                        help="Write state transitions to file")
+    args = parser.parse_args()
+
+    os.makedirs(args.output, exist_ok=True)
 
     start_date = datetime.date.fromisoformat("2022-12-01")
     end_date = datetime.date.today()
@@ -211,28 +181,54 @@ if __name__ == "__main__":
                 f=row_to_event):
             stream.event(event)
 
-        permit_to_constituency = thames_permit_constituencies(conn)
+        permit_to_site_cons = thames_permit_constituencies(conn)
 
-
-    j = []
+    by_constituency = defaultdict(lambda: {"things": [], "count": 0})
     dates = {}
 
     summariser = Summariser()
 
     for permit_id, calendar in listener.things_at(end_date):
+
+        site_cons = [permit_id, "Unknown"]
+        if permit_id in permit_to_site_cons:
+            site_cons = permit_to_site_cons[permit_id]
+        site = site_cons[0]
+
+        site = site.replace("WASTEWATER TREATMENT WORKS", "WWTW")
+
+        constituency = site_cons[1]
+        by_constituency[constituency]["count"] += 1
+
         for date, totals in calendar.allocations():
             if not date in dates:
                 dates[date] = None
 
-            j.append(
-                { "p": permit_id, "c": permit_to_constituency.get(permit_id, "Unknown"), "d": date, "a": summariser.summarise(totals) }
+            by_constituency[constituency]["things"].append(
+                {"p": site, "c": constituency, "d": date, "a": summariser.summarise(totals)}
             )
 
+    for constituency, stuff in by_constituency.items():
+        with open(args.output / f"{kebabcase(constituency)}.json", "w") as bob:
+            json.dump(
+                fp=bob,
+                indent=2,
+                cls=MultipleJsonEncoders(DateTimeEncoder, TimeDeltaMinutesEncoder),
+                obj={
+                    "data": stuff["things"],
+                    "count": stuff["count"],
+                    "dates": list(dates.keys())
+                },
+            )
 
-    with open("bob.json", "w") as bob:
-        json.dump(obj={"data": j, "dates": list(dates.keys())}, fp=bob, cls=MultipleJsonEncoders(DateTimeEncoder,TimeDeltaMinutesEncoder))
+    with open(args.output / "available.json", "w") as bob:
+        json.dump(
+            fp=bob,
+            indent=2,
+            obj=list(sorted(by_constituency.keys()))
+        )
 
 
     graph = DotGraphMachine(ThamesMonitorState)
     dot = graph()
-    dot.write_png("twstate.png")
+    dot.write_png(args.state)

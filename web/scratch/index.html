@@ -16,17 +16,18 @@
 
     let colours = {
         domain: [
-            "a-24",
-            "z-0", "z-4", "z-8", "z-12", "z-16", "z-20", "z-24",
-            "o-0", "o-4", "o-8", "o-12", "o-16", "o-20", "o-24",
-            "p-0", "p-4", "p-8", "p-12", "p-16", "p-20", "p-24",
-            "u-24"
+            "a-0", "a-4", "a-8", "a-12", "a-16", "a-20", "a-24", // a = available (online)
+            "z-0", "z-4", "z-8", "z-12", "z-16", "z-20", "z-24", // z = offline
+            "o-0", "o-4", "o-8", "o-12", "o-16", "o-20", "o-24", // o = overflowing
+            "p-0", "p-4", "p-8", "p-12", "p-16", "p-20", "p-24", // p = potentially overflowing
+            "u-0", "u-4", "u-8", "u-12", "u-16", "u-20", "u-24", // u = unknown
         ],
-        range: ["#28A64580",
+        range: [
+            "rgba(40,166,69,0.29)", "rgba(40,166,69,0.42)", "#28A64580", "#28A64580", "#28A64580", "#28A64580", "#28A64580",
             "#666666", "#666666", "#666666", "#666666", "#666666", "#666666", "#666666",
             "#f7a974", "#fda863", "#d44a04", "#d44a04", "#d44a04", "#842904", "#842904",
             "#d4d4e8", "#d4d4e8", "#b2b1d5", "#b2b1d5", "#7363ad", "#7363ad", "#460d83",
-            "#3b9acb80"
+            "rgba(59,154,203,0.24)", "rgba(59,154,203,0.28)", "rgba(59,154,203,0.36)", "#3b9acb80", "#3b9acb80", "#3b9acb80", "#3b9acb80",
         ],
     };
 
@@ -42,15 +43,16 @@
                 constituencies.map(constituency => {
 
                     const constituency_data = dumps.filter(it => it.c === constituency)
+                    const count = data.counts[constituency]
 
                     document.getElementById("graph").appendChild(
                         Plot.plot({
                             caption: htl.html`<i>${constituency}</i>`,
                             marginTop: 50,
-                            marginLeft: 80,
+                            marginLeft: 150,
                             marginBottom: 30,
                             width: Math.max(1150, vw - 50),
-                            height: 200,
+                            height: (20 * count) + 90,
                             color: colours,
                             x: {
                                 type: "band",

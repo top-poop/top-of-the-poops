@@ -6,8 +6,8 @@ from time import sleep
 import psycopg2
 import requests as requests
 
-from api.psy import select_one
-from api.thames import TWApi, Credential
+from psy import select_one
+from thames import TWApi, Credential
 
 class DateArgAction(argparse.Action):
     def __call__(self, parser, namespace, values, option_string=None):
@@ -93,5 +93,6 @@ if __name__ == "__main__":
             print(f"API Failed: {e}" )
             print(f"Request URL= {e.response.url}" )
             print(f"Response: {e.response.text}")
+            raise
 
 

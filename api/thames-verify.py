@@ -3,8 +3,8 @@ from time import sleep
 
 import psycopg2
 
-from api.psy import select_many
-from api.thames import TWApi, Credential
+from psy import select_many
+from thames import TWApi, Credential
 
 select = """select consent_id from edm_consent_view
 where company_name = 'Thames Water'
