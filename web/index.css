@@ -178,12 +178,6 @@ blockquote {
     margin: auto;
 }
 
-.container-fluid {
-    max-width: 1200px;
-}
-
-
-
 .resp-sharing-button__link,
 .resp-sharing-button__icon {
     display: inline-block
