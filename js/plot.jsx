@@ -2,7 +2,7 @@
 import React, {useEffect, useRef} from "react";
 import * as ohqPlot from "@observablehq/plot";
 
-const Plot = ({options}) => {
+const PrivatePlot = ({options}) => {
   const ref = useRef(null);
 
   useEffect(() => {
@@ -15,7 +15,7 @@ const Plot = ({options}) => {
     }
   }, [ref, options]);
 
-  return <div ref={ref}/>;
+  return <div className="observable-plot-container" ref={ref}/>;
 };
 
 class LoadingPlot extends React.Component {
@@ -24,6 +24,15 @@ class LoadingPlot extends React.Component {
     this.state = {
       loaded: false,
       data: null,
+    }
+  }
+
+  async componentDidUpdate(prevProps) {
+    if ( prevProps.url !== this.props.url) {
+      this.setState({loaded: false, data: null})
+      const r = await fetch(this.props.url);
+      const j = await r.json();
+      this.setState({loaded: true, data: j});
     }
   }
 
@@ -37,9 +46,16 @@ class LoadingPlot extends React.Component {
     if (! this.state.loaded) {
       return <div style={{height: 500}}></div>
     } else {
-      return <Plot options={this.props.options(ohqPlot, this.state.data)}/>
+      return <PrivatePlot options={this.props.options(ohqPlot, this.state.data)}/>
     }
   }
+}
+
+const Plot = ({options, data}) => {
+  if ( data != null ) {
+    return <PrivatePlot options={options(ohqPlot, data)}/>
+  }
+  return null;
 }
 
 

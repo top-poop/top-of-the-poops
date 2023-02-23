@@ -33,6 +33,8 @@ class Loading extends React.Component {
             return null
         }
 
+        console.log(`Rendering ${this.props.url} with ${this.state.data}`)
+
         return <React.Fragment>{this.props.render(this.state.data)}</React.Fragment>
     }
 }
