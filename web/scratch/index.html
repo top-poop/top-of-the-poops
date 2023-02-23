@@ -1,0 +1,74 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Top of the Poops</title>
+</head>
+
+<body>
+
+<div id="graph"></div>
+
+<script type="module">
+    import * as Plot from "https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6.3/+esm";
+    import * as htl from 'https://cdn.jsdelivr.net/npm/htl@0.3.1/+esm';
+
+    let colours = {
+        domain: ["o-24",
+            "z-4", "z-8", "z-12", "z-16", "z-20", "z-24",
+            "o-4", "o-8", "o-12", "o-16", "o-20", "o-24",
+            "p-4", "p-8", "p-12", "p-16", "p-20", "p-24",
+        ],
+        range: ["#ffffff",
+            "#666666", "#666666", "#666666", "#666666", "#666666", "#666666",
+            "#fda863", "#d44a04", "#d44a04", "#d44a04", "#842904", "#842904",
+            "#d4d4e8", "#b2b1d5", "#b2b1d5", "#7363ad", "#7363ad", "#460d83",
+        ],
+    };
+
+    fetch("bob.json")
+        .then(r => r.json())
+        .then(data => {
+
+                const constituencies = [... new Set( data.map( it => it.c ))].sort();
+
+                constituencies.map(constituency => {
+                    console.log(constituency);
+                    document.getElementById("graph").appendChild(
+                        Plot.plot({
+                            caption: htl.html`<i>${constituency}</i>`,
+                            marginTop: 50,
+                            marginLeft: 80,
+                            marginBottom: 30,
+                            width: 1200,
+                            height: 200,
+                            color: colours,
+                            x: {
+                                type: "band",
+                                // domain: [new Date("2022-12-01"), new Date("2023-02-23")],
+                                tickLabel: ""
+                            },
+                            y: {
+                                grid: true,
+                                label: "",
+                            },
+                            marks: [
+                                Plot.cell(
+                                    data.filter(it => it.c === constituency),
+                                    {
+                                        x: d => new Date(d.d),
+                                        y: "p",
+                                        fill: "a",
+                                        // stroke: "a",
+                                        // strokeWidth: 8
+                                    }
+                                ),
+                            ]
+                        })
+                    )
+                });
+            }
+        );
+
+</script>
+</body>
+</html>

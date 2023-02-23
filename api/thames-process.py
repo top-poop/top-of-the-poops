@@ -184,6 +184,15 @@ class MultipleJsonEncoders:
         return enc
 
 
+def thames_permit_constituencies(connection):
+    return {p: c for p, c in select_many(
+        connection=connection,
+        sql="select consent_id, pcon20nm from edm_consent_view edm join grid_references grid on edm.effluent_grid_ref = grid.grid_reference where reporting_year = 2021 and company_name = %s",
+        params=('Thames Water',),
+        f=lambda row: (row[0], row[1])
+    )}
+
+
 if __name__ == "__main__":
 
     start_date = datetime.date.fromisoformat("2022-12-01")
@@ -202,6 +211,9 @@ if __name__ == "__main__":
                 f=row_to_event):
             stream.event(event)
 
+        permit_to_constituency = thames_permit_constituencies(conn)
+
+
     j = []
 
     summariser = Summariser()
@@ -209,7 +221,7 @@ if __name__ == "__main__":
     for permit_id, calendar in listener.things_at(end_date):
         for date, totals in calendar.allocations():
             j.append(
-                { "p": permit_id, "d": date, "a": summariser.summarise(totals) }
+                { "p": permit_id, "c": permit_to_constituency.get(permit_id, "Unknown"), "d": date, "a": summariser.summarise(totals) }
             )
 
 
