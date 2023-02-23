@@ -12,16 +12,21 @@
     import * as Plot from "https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6.3/+esm";
     import * as htl from 'https://cdn.jsdelivr.net/npm/htl@0.3.1/+esm';
 
+    const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0)
+
     let colours = {
-        domain: ["o-24",
-            "z-4", "z-8", "z-12", "z-16", "z-20", "z-24",
-            "o-4", "o-8", "o-12", "o-16", "o-20", "o-24",
-            "p-4", "p-8", "p-12", "p-16", "p-20", "p-24",
+        domain: [
+            "a-24",
+            "z-0", "z-4", "z-8", "z-12", "z-16", "z-20", "z-24",
+            "o-0", "o-4", "o-8", "o-12", "o-16", "o-20", "o-24",
+            "p-0", "p-4", "p-8", "p-12", "p-16", "p-20", "p-24",
+            "u-24"
         ],
-        range: ["#ffffff",
-            "#666666", "#666666", "#666666", "#666666", "#666666", "#666666",
-            "#fda863", "#d44a04", "#d44a04", "#d44a04", "#842904", "#842904",
-            "#d4d4e8", "#b2b1d5", "#b2b1d5", "#7363ad", "#7363ad", "#460d83",
+        range: ["#28A64580",
+            "#666666", "#666666", "#666666", "#666666", "#666666", "#666666", "#666666",
+            "#f7a974", "#fda863", "#d44a04", "#d44a04", "#d44a04", "#842904", "#842904",
+            "#d4d4e8", "#d4d4e8", "#b2b1d5", "#b2b1d5", "#7363ad", "#7363ad", "#460d83",
+            "#3b9acb80"
         ],
     };
 
@@ -29,23 +34,28 @@
         .then(r => r.json())
         .then(data => {
 
-                const constituencies = [... new Set( data.map( it => it.c ))].sort();
+                const dates = data.dates.map( it => new Date(it))
+                const dumps = data.data.map(it => { return {...it, d: new Date(it.d)}});
+
+                const constituencies = [... new Set( dumps.map( it => it.c ))].sort();
 
                 constituencies.map(constituency => {
-                    console.log(constituency);
+
+                    const constituency_data = dumps.filter(it => it.c === constituency)
+
                     document.getElementById("graph").appendChild(
                         Plot.plot({
                             caption: htl.html`<i>${constituency}</i>`,
                             marginTop: 50,
                             marginLeft: 80,
                             marginBottom: 30,
-                            width: 1200,
+                            width: Math.max(1150, vw - 50),
                             height: 200,
                             color: colours,
                             x: {
                                 type: "band",
-                                // domain: [new Date("2022-12-01"), new Date("2023-02-23")],
-                                tickLabel: ""
+                                ticks: dates.filter((d, i) => i % 30 === 0),
+                                padding: 0.1,
                             },
                             y: {
                                 grid: true,
@@ -53,9 +63,9 @@
                             },
                             marks: [
                                 Plot.cell(
-                                    data.filter(it => it.c === constituency),
+                                    constituency_data,
                                     {
-                                        x: d => new Date(d.d),
+                                        x: d => d.d,
                                         y: "p",
                                         fill: "a",
                                         // stroke: "a",

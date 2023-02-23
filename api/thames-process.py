@@ -215,18 +215,22 @@ if __name__ == "__main__":
 
 
     j = []
+    dates = {}
 
     summariser = Summariser()
 
     for permit_id, calendar in listener.things_at(end_date):
         for date, totals in calendar.allocations():
+            if not date in dates:
+                dates[date] = None
+
             j.append(
                 { "p": permit_id, "c": permit_to_constituency.get(permit_id, "Unknown"), "d": date, "a": summariser.summarise(totals) }
             )
 
 
     with open("bob.json", "w") as bob:
-        json.dump(obj=j, fp=bob, cls=MultipleJsonEncoders(DateTimeEncoder,TimeDeltaMinutesEncoder))
+        json.dump(obj={"data": j, "dates": list(dates.keys())}, fp=bob, cls=MultipleJsonEncoders(DateTimeEncoder,TimeDeltaMinutesEncoder))
 
 
     graph = DotGraphMachine(ThamesMonitorState)
