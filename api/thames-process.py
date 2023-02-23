@@ -7,7 +7,7 @@ import psycopg2
 from statemachine import StateMachine, State
 from statemachine.contrib.diagram import DotGraphMachine
 
-from api.calendar_bucket import Calendar, at_midnight
+from api.calendar_bucket import Calendar, at_midnight, Summariser
 from api.psy import select_many
 from api.thames import TWEvent, OFFLINE_START, OFFLINE_STOP, START, STOP
 
@@ -159,7 +159,7 @@ class TimeDeltaMinutesEncoder(json.JSONEncoder):
         return super().default(o)
 
 
-class MultipleJsonEncoders(json.JSONEncoder):
+class MultipleJsonEncoders:
     """
     Combine multiple JSON encoders
     """
@@ -204,10 +204,12 @@ if __name__ == "__main__":
 
     j = []
 
+    summariser = Summariser()
+
     for permit_id, calendar in listener.things_at(end_date):
         for date, totals in calendar.allocations():
             j.append(
-                { "p": permit_id, "d": date, "a": totals }
+                { "p": permit_id, "d": date, "a": summariser.summarise(totals) }
             )
 
 

@@ -162,52 +162,66 @@ class Summariser:
         s = int(math.ceil(int(td.total_seconds() / 3600) / 4) * 4)
         return f"{c}-{s}"
 
-    def summarise(self, b: DayBucket):
-        totals= b.totals()
+    def summarise(self, b: dict):
+        totals= b
         if "overflowing" in totals:
             return self._key("o", totals["overflowing"])
-        if "offline" in totals:
+        elif "potentially_overflowing" in totals:
+            return self._key("p", totals["potentially_overflowing"])
+        elif "offline" in totals:
             return self._key("z", totals["offline"])
-        if "unknown" in totals:
+        elif "unknown" in totals:
             return self._key("u", totals["unknown"])
-        if "online" in totals:
+        elif "online" in totals:
             return self._key("a", totals["online"])
-
-
 
 def hours(n):
     return datetime.timedelta(hours=n)
 
 def test_summariser_simple():
     s = Summariser()
-    assert s.summarise(DayBucket().allocate("unknown", hours(24))) == "u-24"
-    assert s.summarise(DayBucket().allocate("overflowing", hours(24))) == "o-24"
-    assert s.summarise(DayBucket().allocate("offline", hours(24))) == "z-24"
-    assert s.summarise(DayBucket().allocate("online", hours(24))) == "a-24"
+    assert s.summarise(DayBucket().allocate("unknown", hours(24)).totals()) == "u-24"
+    assert s.summarise(DayBucket().allocate("overflowing", hours(24)).totals()) == "o-24"
+    assert s.summarise(DayBucket().allocate("offline", hours(24)).totals()) == "z-24"
+    assert s.summarise(DayBucket().allocate("online", hours(24)).totals()) == "a-24"
+    assert s.summarise(DayBucket().allocate("potentially_overflowing", hours(24)).totals()) == "p-24"
 
 def test_summariser_offline_over_online():
     s = Summariser()
     assert s.summarise(
-        DayBucket().allocate("online", hours(20)).allocate("offline", hours(4))
+        DayBucket().allocate("online", hours(20)).allocate("offline", hours(4)).totals()
     ) == "z-4"
+
+def test_summariser_potentially_over_offline():
+    s = Summariser()
+    assert s.summarise(
+        DayBucket().allocate("potentially_overflowing", hours(20)).allocate("offline", hours(4)).totals()
+    ) == "p-20"
 
 def test_summariser_unknown_over_online():
     s = Summariser()
     assert s.summarise(
-        DayBucket().allocate("online", hours(20)).allocate("unknown", hours(4))
+        DayBucket().allocate("online", hours(20)).allocate("unknown", hours(4)).totals()
     ) == "u-4"
     assert s.summarise(
-        DayBucket().allocate("online", hours(12)).allocate("unknown", hours(12))
+        DayBucket().allocate("online", hours(12)).allocate("unknown", hours(12)).totals()
     ) == "u-12"
     assert s.summarise(
-        DayBucket().allocate("online", hours(19)).allocate("unknown", hours(5))
+        DayBucket().allocate("online", hours(19)).allocate("unknown", hours(5)).totals()
     ) == "u-8"
 
-def test_summariser_overflowing_over_online():
+def test_summariser_overflowing_over_others():
     s = Summariser()
     assert s.summarise(
-        DayBucket().allocate("online", hours(20)).allocate("overflowing", hours(4))
+        DayBucket().allocate("online", hours(20)).allocate("overflowing", hours(4)).totals()
     ) == "o-4"
+    assert s.summarise(
+        DayBucket().allocate("offline", hours(20)).allocate("overflowing", hours(4)).totals()
+    ) == "o-4"
+    assert s.summarise(
+        DayBucket().allocate("unknown", hours(20)).allocate("overflowing", hours(4)).totals()
+    ) == "o-4"
+
 
 
 
