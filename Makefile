@@ -59,6 +59,13 @@ web/data/generated/chloropleth/chloro.json: generate/constituencies/cloropleth.p
 	mkdir -p $(dir $@)
 	$(PYTHON) $< $@
 
+
+.PHONY: live-data
+live-data:
+	$(PYTHON) api/thames-populate.py --update
+	$(PYTHON) api/thames-process.py
+
+
 .PHONY: prod
 prod:
 	$(MAKE) generated
