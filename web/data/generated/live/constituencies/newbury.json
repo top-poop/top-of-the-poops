@@ -322,7 +322,7 @@
       "p": "COMPTON SEWAGE TREATMENT WORKS",
       "c": "Newbury",
       "d": "2023-01-23",
-      "a": "o-0"
+      "a": "o-4"
     },
     {
       "p": "COMPTON SEWAGE TREATMENT WORKS",
@@ -676,7 +676,7 @@
       "p": "HAMSTEAD MARSHALL WWTW",
       "c": "Newbury",
       "d": "2022-12-29",
-      "a": "o-0"
+      "a": "o-4"
     },
     {
       "p": "HAMSTEAD MARSHALL WWTW",
@@ -1810,7 +1810,7 @@
       "p": "East Garston",
       "c": "Newbury",
       "d": "2023-01-19",
-      "a": "o-4"
+      "a": "o-8"
     },
     {
       "p": "East Garston",
@@ -1930,7 +1930,7 @@
       "p": "East Garston",
       "c": "Newbury",
       "d": "2023-02-08",
-      "a": "o-0"
+      "a": "o-4"
     },
     {
       "p": "East Garston",
@@ -1948,7 +1948,7 @@
       "p": "East Garston",
       "c": "Newbury",
       "d": "2023-02-11",
-      "a": "o-0"
+      "a": "o-4"
     },
     {
       "p": "East Garston",
@@ -2218,7 +2218,7 @@
       "p": "ALDERMASTON WWTW",
       "c": "Newbury",
       "d": "2023-01-03",
-      "a": "o-4"
+      "a": "o-8"
     },
     {
       "p": "ALDERMASTON WWTW",
@@ -2236,7 +2236,7 @@
       "p": "ALDERMASTON WWTW",
       "c": "Newbury",
       "d": "2023-01-06",
-      "a": "o-0"
+      "a": "o-4"
     },
     {
       "p": "ALDERMASTON WWTW",
@@ -2248,7 +2248,7 @@
       "p": "ALDERMASTON WWTW",
       "c": "Newbury",
       "d": "2023-01-08",
-      "a": "o-16"
+      "a": "o-20"
     },
     {
       "p": "ALDERMASTON WWTW",
@@ -2692,7 +2692,7 @@
       "p": "Bucklebury",
       "c": "Newbury",
       "d": "2022-12-29",
-      "a": "o-0"
+      "a": "o-4"
     },
     {
       "p": "Bucklebury",
@@ -2734,7 +2734,7 @@
       "p": "Bucklebury",
       "c": "Newbury",
       "d": "2023-01-05",
-      "a": "o-4"
+      "a": "o-8"
     },
     {
       "p": "Bucklebury",
@@ -2770,7 +2770,7 @@
       "p": "Bucklebury",
       "c": "Newbury",
       "d": "2023-01-11",
-      "a": "o-12"
+      "a": "o-16"
     },
     {
       "p": "Bucklebury",
@@ -3766,7 +3766,7 @@
       "p": "Kintbury",
       "c": "Newbury",
       "d": "2023-01-09",
-      "a": "o-12"
+      "a": "o-16"
     },
     {
       "p": "Kintbury",
@@ -3850,7 +3850,7 @@
       "p": "Kintbury",
       "c": "Newbury",
       "d": "2023-01-23",
-      "a": "o-0"
+      "a": "o-4"
     },
     {
       "p": "Kintbury",
@@ -4078,7 +4078,7 @@
       "p": "MIDGHAM WWTW",
       "c": "Newbury",
       "d": "2022-12-08",
-      "a": "o-0"
+      "a": "o-4"
     },
     {
       "p": "MIDGHAM WWTW",
@@ -4708,7 +4708,7 @@
       "p": "Newbury (New)",
       "c": "Newbury",
       "d": "2022-12-29",
-      "a": "o-0"
+      "a": "o-4"
     },
     {
       "p": "Newbury (New)",
@@ -4744,83 +4744,83 @@
       "p": "Newbury (New)",
       "c": "Newbury",
       "d": "2023-01-04",
-      "a": "o-16"
-    },
-    {
-      "p": "Newbury (New)",
-      "c": "Newbury",
-      "d": "2023-01-05",
-      "a": "o-4"
-    },
-    {
-      "p": "Newbury (New)",
-      "c": "Newbury",
-      "d": "2023-01-06",
-      "a": "o-0"
-    },
-    {
-      "p": "Newbury (New)",
-      "c": "Newbury",
-      "d": "2023-01-07",
-      "a": "o-16"
-    },
-    {
-      "p": "Newbury (New)",
-      "c": "Newbury",
-      "d": "2023-01-08",
-      "a": "o-16"
-    },
-    {
-      "p": "Newbury (New)",
-      "c": "Newbury",
-      "d": "2023-01-09",
-      "a": "o-12"
-    },
-    {
-      "p": "Newbury (New)",
-      "c": "Newbury",
-      "d": "2023-01-10",
-      "a": "o-8"
-    },
-    {
-      "p": "Newbury (New)",
-      "c": "Newbury",
-      "d": "2023-01-11",
-      "a": "o-12"
-    },
-    {
-      "p": "Newbury (New)",
-      "c": "Newbury",
-      "d": "2023-01-12",
-      "a": "o-24"
-    },
-    {
-      "p": "Newbury (New)",
-      "c": "Newbury",
-      "d": "2023-01-13",
-      "a": "o-8"
-    },
-    {
-      "p": "Newbury (New)",
-      "c": "Newbury",
-      "d": "2023-01-14",
-      "a": "o-24"
-    },
-    {
-      "p": "Newbury (New)",
-      "c": "Newbury",
-      "d": "2023-01-15",
-      "a": "o-24"
-    },
-    {
-      "p": "Newbury (New)",
-      "c": "Newbury",
-      "d": "2023-01-16",
       "a": "o-20"
     },
     {
       "p": "Newbury (New)",
       "c": "Newbury",
+      "d": "2023-01-05",
+      "a": "o-4"
+    },
+    {
+      "p": "Newbury (New)",
+      "c": "Newbury",
+      "d": "2023-01-06",
+      "a": "o-4"
+    },
+    {
+      "p": "Newbury (New)",
+      "c": "Newbury",
+      "d": "2023-01-07",
+      "a": "o-16"
+    },
+    {
+      "p": "Newbury (New)",
+      "c": "Newbury",
+      "d": "2023-01-08",
+      "a": "o-16"
+    },
+    {
+      "p": "Newbury (New)",
+      "c": "Newbury",
+      "d": "2023-01-09",
+      "a": "o-12"
+    },
+    {
+      "p": "Newbury (New)",
+      "c": "Newbury",
+      "d": "2023-01-10",
+      "a": "o-12"
+    },
+    {
+      "p": "Newbury (New)",
+      "c": "Newbury",
+      "d": "2023-01-11",
+      "a": "o-12"
+    },
+    {
+      "p": "Newbury (New)",
+      "c": "Newbury",
+      "d": "2023-01-12",
+      "a": "o-24"
+    },
+    {
+      "p": "Newbury (New)",
+      "c": "Newbury",
+      "d": "2023-01-13",
+      "a": "o-8"
+    },
+    {
+      "p": "Newbury (New)",
+      "c": "Newbury",
+      "d": "2023-01-14",
+      "a": "o-24"
+    },
+    {
+      "p": "Newbury (New)",
+      "c": "Newbury",
+      "d": "2023-01-15",
+      "a": "o-24"
+    },
+    {
+      "p": "Newbury (New)",
+      "c": "Newbury",
+      "d": "2023-01-16",
+      "a": "o-24"
+    },
+    {
+      "p": "Newbury (New)",
+      "c": "Newbury",
       "d": "2023-01-17",
       "a": "o-24"
     },
@@ -4834,7 +4834,7 @@
       "p": "Newbury (New)",
       "c": "Newbury",
       "d": "2023-01-19",
-      "a": "o-12"
+      "a": "o-16"
     },
     {
       "p": "Newbury (New)",

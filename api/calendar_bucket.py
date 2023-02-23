@@ -159,7 +159,7 @@ def test_realistic_example():
 class Summariser:
 
     def _key(self, c, td: datetime.timedelta):
-        s = int(math.ceil(int(td.total_seconds() / 3600) / 4) * 4)
+        s = int(math.ceil((td.total_seconds() / 3600) / 4) * 4)
         return f"{c}-{s}"
 
     def summarise(self, b: dict):
@@ -222,8 +222,11 @@ def test_summariser_overflowing_over_others():
         DayBucket().allocate("unknown", hours(20)).allocate("overflowing", hours(4)).totals()
     ) == "o-4"
 
-
-
+def test_summariser_strange_results():
+    s = Summariser()
+    assert s.summarise(
+        DayBucket().allocate('online', datetime.timedelta(seconds=86160)).allocate('overflowing', datetime.timedelta(seconds=240)).totals()
+    ) == "o-4"
 
 
 

@@ -274,7 +274,7 @@
       "p": "GUILDFORD STW",
       "c": "Guildford",
       "d": "2023-01-15",
-      "a": "o-8"
+      "a": "o-12"
     },
     {
       "p": "GUILDFORD STW",
@@ -772,13 +772,13 @@
       "p": "CRANLEIGH STW, CRANLEIGH, SURREY",
       "c": "Guildford",
       "d": "2023-01-14",
-      "a": "o-12"
+      "a": "o-16"
     },
     {
       "p": "CRANLEIGH STW, CRANLEIGH, SURREY",
       "c": "Guildford",
       "d": "2023-01-15",
-      "a": "o-0"
+      "a": "o-4"
     },
     {
       "p": "CRANLEIGH STW, CRANLEIGH, SURREY",
@@ -1180,7 +1180,7 @@
       "p": "LITTLEMEAD INDUSTRIAL ESTATE CSO",
       "c": "Guildford",
       "d": "2022-12-29",
-      "a": "o-0"
+      "a": "o-4"
     },
     {
       "p": "LITTLEMEAD INDUSTRIAL ESTATE CSO",
@@ -1192,7 +1192,7 @@
       "p": "LITTLEMEAD INDUSTRIAL ESTATE CSO",
       "c": "Guildford",
       "d": "2022-12-31",
-      "a": "o-12"
+      "a": "o-16"
     },
     {
       "p": "LITTLEMEAD INDUSTRIAL ESTATE CSO",
@@ -1210,7 +1210,7 @@
       "p": "LITTLEMEAD INDUSTRIAL ESTATE CSO",
       "c": "Guildford",
       "d": "2023-01-03",
-      "a": "o-4"
+      "a": "o-8"
     },
     {
       "p": "LITTLEMEAD INDUSTRIAL ESTATE CSO",
@@ -2080,7 +2080,7 @@
       "p": "Ockley Road",
       "c": "Guildford",
       "d": "2022-12-11",
-      "a": "z-16"
+      "a": "z-20"
     },
     {
       "p": "Ockley Road",
@@ -2656,7 +2656,7 @@
       "p": "GODALMING WASTEWATER TREATMENT WORK",
       "c": "Guildford",
       "d": "2022-12-23",
-      "a": "o-4"
+      "a": "o-8"
     },
     {
       "p": "GODALMING WASTEWATER TREATMENT WORK",
@@ -2794,7 +2794,7 @@
       "p": "GODALMING WASTEWATER TREATMENT WORK",
       "c": "Guildford",
       "d": "2023-01-15",
-      "a": "o-0"
+      "a": "o-4"
     },
     {
       "p": "GODALMING WASTEWATER TREATMENT WORK",
@@ -2806,7 +2806,7 @@
       "p": "GODALMING WASTEWATER TREATMENT WORK",
       "c": "Guildford",
       "d": "2023-01-17",
-      "a": "o-0"
+      "a": "o-4"
     },
     {
       "p": "GODALMING WASTEWATER TREATMENT WORK",
@@ -3208,7 +3208,7 @@
       "p": "CSO AT KNOWLE LANE",
       "c": "Guildford",
       "d": "2022-12-31",
-      "a": "o-4"
+      "a": "o-8"
     },
     {
       "p": "CSO AT KNOWLE LANE",
