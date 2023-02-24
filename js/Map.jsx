@@ -179,6 +179,15 @@ const ActionCard = ({constituency, sites, companies, spills, hours}) => {
     </Card>
 }
 
+const NavCard = () => {
+    return <Card>
+        <Card.Header>Explore </Card.Header>
+        <Card.Body>
+            <Card.Link href="/">Homepage</Card.Link>
+        </Card.Body>
+    </Card>
+}
+
 const Totals = ({constituency, rows}) => {
     if (constituency == null) {
         return null;
@@ -193,6 +202,7 @@ const Totals = ({constituency, rows}) => {
     return <React.Fragment>
         <TotalsCard constituency={constituency} companies={companies} sites={sites} spills={spills} hours={hours}/>
         <ActionCard constituency={constituency} companies={companies} sites={sites} spills={spills} hours={hours}/>
+        <NavCard/>
     </React.Fragment>
 }
 
