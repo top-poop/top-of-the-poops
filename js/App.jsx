@@ -364,7 +364,7 @@ class App extends React.Component {
                 </Row>
 
                 <Row className="justify-content-md-center">
-                    <Col md={10}>
+                    <Col md={8}>
                         <Card>
                             <Card.Header className="font-weight-bold">Hours of Sewage By Constituency 2021</Card.Header>
                             <Card.Body className="m-0 p-0">
@@ -436,7 +436,7 @@ class App extends React.Component {
                 <Row><Col><h2 id="beaches">Seasides</h2></Col></Row>
 
                 <Row className="justify-content-md-center">
-                    <Col md={10}>
+                    <Col md={8}>
                         <Card>
                             <Card.Header className="font-weight-bold">Hours of Sewage By Bathing Area 2021</Card.Header>
                             <Card.Body className="m-0 p-0">
@@ -468,7 +468,7 @@ class App extends React.Component {
                 <Row><Col><h2 id="shellfish">Shellfisheries</h2></Col></Row>
 
                 <Row className="justify-content-md-center">
-                    <Col md={10}>
+                    <Col md={8}>
                         <Card>
                             <Card.Header className="font-weight-bold">Hours of Sewage By Shellfish Area 2021</Card.Header>
                             <Card.Body className="m-0 p-0">
@@ -511,7 +511,7 @@ class App extends React.Component {
                 </Row>
 
                 <Row className="justify-content-md-center">
-                    <Col md={10}>
+                    <Col md={8}>
                         <Card>
                             <Card.Header className="font-weight-bold">Rivers Reporting Percentages 2021  - Under 50%</Card.Header>
                             <Card.Body className="m-0 p-0">
@@ -532,7 +532,7 @@ class App extends React.Component {
 
 
                 <Row className="justify-content-md-center">
-                    <Col md={10}>
+                    <Col md={8}>
                         <Card>
                             <Card.Header className="font-weight-bold">Bathing Area Reporting Percentages 2021 - Under 90%</Card.Header>
                             <Card.Body className="m-0 p-0">
@@ -552,7 +552,7 @@ class App extends React.Component {
                 </Row>
 
                 <Row className="justify-content-md-center">
-                    <Col md={10}>
+                    <Col md={8}>
                         <Card>
                             <Card.Header className="font-weight-bold">Shellfish Area Reporting Percentages 2021  - Under 90%</Card.Header>
                             <Card.Body className="m-0 p-0">

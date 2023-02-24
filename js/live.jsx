@@ -116,11 +116,10 @@ const LiveDataVerticalPlot = ({data}) => {
     return <Plot className="vertical" options={optionsFn} data={data}/>
 }
 
+const height = window.innerHeight
+const width = window.innerWidth
 
 const LiveDataPlot = ({data}) => {
-    const height = window.innerHeight
-    const width = window.innerWidth
-
     if (height > (width * 1.4)) {
         return <LiveDataVerticalPlot data={data}/>
     }
