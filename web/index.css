@@ -12,6 +12,10 @@ blockquote {
     font-weight: 700;
 }
 
+.container-fluid {
+    max-width: 2000px;
+}
+
 .hero {
     display: flex;
     align-items: center;
