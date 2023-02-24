@@ -633,7 +633,7 @@ class App extends React.Component {
                     <Col>
                         <p>This content is CC-BY-SA 4.0, which requires proper attribution.</p>
                         <p>Please check out our policy on data re-use and attribution at <a
-                            href="https://github.com/top-poop/top-of-the-poops">our GitHub page</a></p>
+                            href="https://github.com/top-poop/top-of-the-poops">our GitHub page</a> - For media queries please contact "press at top-of-the-poops.org"</p>
                         <p>We've been featured in:</p>
                             <ul>
                                 <FeaturedItem
