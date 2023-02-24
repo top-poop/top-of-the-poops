@@ -637,6 +637,10 @@ class App extends React.Component {
                         <p>We've been featured in:</p>
                             <ul>
                                 <FeaturedItem
+                                    href="https://sas.org.uk/waterquality2022/sewage-pollution/sas-x-top-of-the-poops/"
+                                    where="Surfers Against Sewage"
+                                    title="Water Quality Report 2022"/>
+                                <FeaturedItem
                                     href="https://www.birminghammail.co.uk/black-country/top-poops-beloved-midlands-river-26284830"
                                     where="Birmingham Live"
                                     title="Top of the poops - Beloved Midlands river pumped with more sewage than any other"/>
@@ -652,6 +656,10 @@ class App extends React.Component {
                                     href="https://www.mirror.co.uk/news/uk-news/your-river-top-poops-20-29222405"
                                     where="The Mirror"
                                     title="UK's 20 most polluted rivers revealed in Top of the Poops league table"/>
+                                <FeaturedItem
+                                    href="https://centralbylines.co.uk/sewage-central-how-our-region-is-being-affected-by-the-water-scandal/"
+                                    where="Central Bylines"
+                                    title="Sewage central: how our region is being affected by the water scandal"/>
                                 <FeaturedItem
                                     href="https://sotn.newstatesman.com/2022/04/mapped-sewage-dumps-and-spills-in-england-and-wales/"
                                     where="The New Statesman"
