@@ -360,6 +360,11 @@ const TwitterShare = () => {
 
 }
 
+
+const FeaturedItem = ({where, title, href}) => {
+    return <li><a href={href}>{where}</a> "{title}"</li>
+}
+
 class App extends React.Component {
     render() {
         return <div>
@@ -672,14 +677,39 @@ class App extends React.Component {
 
                 <Row>
                     <Col>
+                        <p>This content is CC-BY-SA 4.0, which requires proper attribution.</p>
                         <p>Please check out our policy on data re-use and attribution at <a
                             href="https://github.com/top-poop/top-of-the-poops">our GitHub page</a></p>
                         <p>We've been featured in:</p>
                             <ul>
-                                <li><a href="https://sotn.newstatesman.com/2022/04/mapped-sewage-dumps-and-spills-in-england-and-wales/">The New Statesman</a> "Mapped: Sewage dumps and spills in England and Wales" </li>
-                                <li><a href="https://www.theguardian.com/environment/2022/may/02/untreated-sewage-discharge-england-coastal-bathing-waters-2021">The Guardian</a> "Raw sewage ‘pumped into English bathing waters 25,000 times in 2021’"</li>
-                                <li><a href="https://www.bbc.co.uk/news/uk-england-61194173">BBC News</a> "Protests over water firms dumping sewage in rivers"</li>
-                                <li><a href="https://www.independent.co.uk/news/uk/home-news/sewage-shellfish-pollution-england-uk-b1963688.html">The Independent</a> "Shellfish areas polluted by sewage tens of thousands of times last year"</li>
+                                <FeaturedItem
+                                    href="https://www.bbc.co.uk/news/uk-england-leeds-64745380"
+                                    where="BBC News"
+                                    title="Yorkshire rivers among worst for sewage discharge, figures show"/>
+                                <FeaturedItem
+                                    href="https://www.itv.com/news/wales/2023-02-20/two-welsh-tourist-hotspots-named-in-worst-sewage-polluted-list"
+                                    where="ITV News"
+                                    title="Rhyl and Morfa Nefyn among the worst areas for sewage pollution"/>
+                                <FeaturedItem
+                                    href="https://www.mirror.co.uk/news/uk-news/your-river-top-poops-20-29222405"
+                                    where="The Mirror"
+                                    title="UK's 20 most polluted rivers revealed in Top of the Poops league table"/>
+                                <FeaturedItem
+                                    href="https://sotn.newstatesman.com/2022/04/mapped-sewage-dumps-and-spills-in-england-and-wales/"
+                                    where="The New Statesman"
+                                    title="Mapped: Sewage dumps and spills in England and Wales"/>
+                                <FeaturedItem
+                                    href="https://www.theguardian.com/environment/2022/may/02/untreated-sewage-discharge-england-coastal-bathing-waters-2021"
+                                    where="The Guardian"
+                                    title="Raw sewage ‘pumped into English bathing waters 25,000 times in 2021’"/>
+                                <FeaturedItem
+                                    href="https://www.bbc.co.uk/news/uk-england-61194173"
+                                    where="BBC News"
+                                    title="Protests over water firms dumping sewage in rivers"/>
+                                <FeaturedItem
+                                    href="https://www.independent.co.uk/news/uk/home-news/sewage-shellfish-pollution-england-uk-b1963688.html"
+                                    where="The Independent"
+                                    title="Shellfish areas polluted by sewage tens of thousands of times last year"/>
                             </ul>
                     </Col>
                 </Row>
