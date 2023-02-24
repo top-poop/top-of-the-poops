@@ -5,7 +5,7 @@ import {Loading} from "./loading";
 import { Card } from "react-bootstrap";
 
 const tt_map = {
-    "a": "Available", "z": "Offline", "o": "Overflowing", "p": "Potentially Overflowing", "u": "Unknown"
+    "a": "Monitoring Online", "z": "Monitoring Offline", "o": "Sewage Overflowing", "p": "Potentially Overflowing", "u": "Unknown"
 }
 
 const tt_text = (date, domain) => {
@@ -70,7 +70,7 @@ const LiveDataPlot = ({data}) => {
     }
 
     return <Card>
-        <Card.Header>Live Data</Card.Header>
+        <Card.Header>Live Data for 2023</Card.Header>
         <Card.Body>
             <Plot options={optionsFn} data={data}/>
         </Card.Body>
