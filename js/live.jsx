@@ -32,7 +32,7 @@ const colours = {
     ],
 };
 
-const LiveDataPlot = ({constituency, data}) => {
+const LiveDataPlot = ({data}) => {
 
     const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0)
 
@@ -81,7 +81,7 @@ const LiveData = ({constituency}) => {
     return <Loading
         nullBeforeLoad
         url={`data/generated/live/constituencies/${toKebabCase(constituency)}.json`}
-        render={(data) => <LiveDataPlot constituency={constituency} data={data}/>}
+        render={(data) => <LiveDataPlot data={data}/>}
     />
 }
 
