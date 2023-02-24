@@ -641,6 +641,10 @@ class App extends React.Component {
                                     where="Surfers Against Sewage"
                                     title="Water Quality Report 2022"/>
                                 <FeaturedItem
+                                    href="https://www.greenmatters.com/p/sewage-discharge-map-uk"
+                                    where="GreenMatters"
+                                    title="U.K. Water Companies Discharged Scary Amounts of Raw Sewage Into Water in 2021"/>
+                                <FeaturedItem
                                     href="https://inews.co.uk/news/save-our-rivers-uk-firms-pump-raw-sewage-2143269"
                                     where="inews"
                                     title="Only 6% of Britain’s rivers on course to be healthy by 2027 as UK’s firms pump more raw sewage"/>
@@ -664,6 +668,14 @@ class App extends React.Component {
                                     href="https://centralbylines.co.uk/sewage-central-how-our-region-is-being-affected-by-the-water-scandal/"
                                     where="Central Bylines"
                                     title="Sewage central: how our region is being affected by the water scandal"/>
+                                <FeaturedItem
+                                    href="https://www.lynnnews.co.uk/news/sewage-dumped-into-west-norfolk-rivers-more-than-1-000-times-9270935/"
+                                    where="Lynn News"
+                                    title="Sewage dumped into West Norfolk rivers by Anglian Water more than 1,000 times in 2021"/>
+                                <FeaturedItem
+                                    href="https://www.chroniclelive.co.uk/news/north-east-news/chi-onwurah-government-newcastle-sewage-24855226"
+                                    where="Chronicle Live"
+                                    title="Chi Onwurah slams Government after data reveals hundreds of sewage dumps have polluted Newcastle's waterways"/>
                                 <FeaturedItem
                                     href="https://sotn.newstatesman.com/2022/04/mapped-sewage-dumps-and-spills-in-england-and-wales/"
                                     where="The New Statesman"
