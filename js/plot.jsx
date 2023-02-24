@@ -2,7 +2,7 @@
 import React, {useEffect, useRef} from "react";
 import * as ohqPlot from "@observablehq/plot";
 
-const PrivatePlot = ({options}) => {
+const PrivatePlot = ({options, ...props}) => {
   const ref = useRef(null);
 
   useEffect(() => {
@@ -15,7 +15,9 @@ const PrivatePlot = ({options}) => {
     }
   }, [ref, options]);
 
-  return <div className="observable-plot-container" ref={ref}/>;
+  const clazz = classNames("observable-plot-container", props.className)
+
+  return <div className={clazz} ref={ref}/>;
 };
 
 class LoadingPlot extends React.Component {
@@ -51,9 +53,9 @@ class LoadingPlot extends React.Component {
   }
 }
 
-const Plot = ({options, data}) => {
+const Plot = ({options, data, ...props}) => {
   if ( data != null ) {
-    return <PrivatePlot options={options(ohqPlot, data)}/>
+    return <PrivatePlot options={options(ohqPlot, data)} {...props} />
   }
   return null;
 }

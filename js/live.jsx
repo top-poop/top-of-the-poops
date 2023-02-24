@@ -2,10 +2,14 @@ import {Plot} from "./plot";
 import {toKebabCase} from "./text";
 import * as React from "react";
 import {Loading} from "./loading";
-import { Card } from "react-bootstrap";
+import {Card, Col, Row} from "react-bootstrap";
 
 const tt_map = {
-    "a": "Monitoring Online", "z": "Monitoring Offline", "o": "Sewage Overflowing", "p": "Potentially Overflowing", "u": "Unknown"
+    "a": "Monitoring Online",
+    "z": "Monitoring Offline",
+    "o": "Sewage Overflowing",
+    "p": "Potentially Overflowing",
+    "u": "Unknown"
 }
 
 const tt_text = (date, domain) => {
@@ -32,9 +36,9 @@ const colours = {
     ],
 };
 
-const LiveDataPlot = ({data}) => {
+const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0)
 
-    const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0)
+const LiveDataHorizontalPlot = ({data}) => {
 
     const optionsFn = (Plot, data) => {
         const dates = data.dates.map(it => new Date(it))
@@ -68,20 +72,91 @@ const LiveDataPlot = ({data}) => {
             ]
         }
     }
+    return <Plot className="horizontal" options={optionsFn} data={data}/>
+}
 
+const LiveDataVerticalPlot = ({data}) => {
+    const optionsFn = (Plot, data) => {
+        const dates = data.dates.map(it => new Date(it))
+
+        return {
+            marginTop: 200,
+            marginLeft: 100,
+            marginBottom: 30,
+            width: Math.max(1150, vw - 50),
+            height: (20 * dates.length) + 90,
+            color: colours,
+            y: {
+                type: "band",
+                ticks: dates.filter((d, i) => i % 30 === 0),
+                grid: false,
+                reverse: true,
+            },
+            x: {
+                axis: "top",
+                grid: false,
+                label: "",
+                tickRotate: 45,
+                padding: 0.3,
+            },
+            marks: [
+                Plot.cell(
+                    data.data,
+                    {
+                        y: d => new Date(d.d),
+                        x: "p",
+                        fill: "a",
+                        title: d => tt_text(d.d, d.a)
+                    }
+                ),
+            ]
+        }
+    }
+    return <Plot className="vertical" options={optionsFn} data={data}/>
+}
+
+
+const LiveDataPlot = ({data}) => {
+    const height = window.innerHeight
+    const width = window.innerWidth
+
+    if (height > (width * 1.4)) {
+        return <LiveDataVerticalPlot data={data}/>
+    }
+    return <LiveDataHorizontalPlot data={data}/>
+}
+
+const LiveDataCard = ({data}) => {
     return <Card>
-        <Card.Header>Live Data for 2023</Card.Header>
-        <Card.Body>
-            <Plot options={optionsFn} data={data}/>
+        <Card.Header>Daily Data for 2023</Card.Header>
+        <Card.Body style={ {padding: 5} }>
+            <LiveDataPlot data={data}/>
+            <span style={ { "background-color": "#28A64580" } }>&nbsp;&nbsp;&nbsp;&nbsp;</span><span> Monitoring Online </span>
+            <span style={ { "background-color": "#333333" } }>&nbsp;&nbsp;&nbsp;&nbsp;</span><span> Monitoring Offline </span>
+            <span style={ { "background-color": "#842904" } }>&nbsp;&nbsp;&nbsp;&nbsp;</span><span> Polluting </span>
+            <span style={ { "background-color": "#460d83" } }>&nbsp;&nbsp;&nbsp;&nbsp;</span><span> Potentially Polluting </span>
+            <span style={ { "background-color": "#3b9acb80" } }>&nbsp;&nbsp;&nbsp;&nbsp;</span><span> Unknown </span>
         </Card.Body>
     </Card>
+}
+
+const LiveDataStuff = ({data}) => {
+    return <Row>
+        <Col>
+            <Row>
+                <Col>
+                    <LiveDataCard data={data}/>
+                </Col>
+            </Row>
+        </Col>
+    </Row>
 }
 
 const LiveData = ({constituency}) => {
     return <Loading
         nullBeforeLoad
         url={`data/generated/live/constituencies/${toKebabCase(constituency)}.json`}
-        render={(data) => <LiveDataPlot data={data}/>}
+        render={(data) => <LiveDataStuff data={data}/>}
     />
 }
 

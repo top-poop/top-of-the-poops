@@ -52,12 +52,19 @@ blockquote {
 
 .center {
     display: flex;
-    /*align-items: center;*/
     justify-content: center;
 }
 
 #graph-reporting figure {
     display: inline-block;
+}
+
+.observable-plot-container.vertical text {
+    font-size: 6vw;
+}
+
+.observable-plot-container.horizontal text {
+    font-size: 12pt;
 }
 
 .company-contact .logo img {

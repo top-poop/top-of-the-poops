@@ -11,6 +11,8 @@ import {useSortBy, useTable} from "react-table";
 import {formatNumber, renderNumericCell, renderPercentCell, toKebabCase} from "./text";
 import {Map, MapMove, Mobile} from "./maps";
 import {LiveData} from "./live";
+import {FacebookShare, TwitterShare} from "./share";
+import {companiesMap} from "./companies";
 
 
 class ErrorBoundary extends React.Component {
@@ -146,7 +148,37 @@ const DumpTable = ({dumps}) => {
     </div>
 }
 
-const TotalsCard = ({constituency, rows}) => {
+const TotalsCard = ({constituency, sites, companies, spills, hours}) => {
+    return <Card>
+        <Card.Header>Totals for {constituency} in 2021</Card.Header>
+        <Card.Body>
+            <Card.Title>{sites} Sites polluted by {companies.join(",")}</Card.Title>
+            <Card.Text>
+                {spills} sewage dumps<br/>
+                {hours} hours duration<br/>
+            </Card.Text>
+        </Card.Body>
+    </Card>
+}
+
+const ActionCard = ({constituency, sites, companies, spills, hours}) => {
+
+    const company_twitters = companies.map(it => companiesMap.get(it).twitter).join(" ");
+
+    const text = `${constituency} polluted by ${company_twitters} for ${hours} hours in 2021. Take action.`
+
+    return <Card>
+        <Card.Header>Take Action </Card.Header>
+        <Card.Body>
+            <Card.Text>
+                <FacebookShare/>
+                <TwitterShare text={text}/>
+            </Card.Text>
+        </Card.Body>
+    </Card>
+}
+
+const Totals = ({constituency, rows}) => {
     if (constituency == null) {
         return null;
     }
@@ -155,16 +187,12 @@ const TotalsCard = ({constituency, rows}) => {
     const spills = formatNumber(rows.reduce((acc, it) => acc + it.spill_count, 0))
     const hours = formatNumber(rows.reduce((acc, it) => acc + it.total_spill_hours, 0))
 
-    return <Card>
-        <Card.Header>Totals for {constituency}</Card.Header>
-        <Card.Body>
-            <Card.Title>{sites} Sites</Card.Title>
-            <Card.Text>
-                {spills} sewage dumps<br/>
-                {hours} hours duration
-            </Card.Text>
-        </Card.Body>
-    </Card>
+    const companies = [...new Set(rows.map( it => it.company_name))]
+
+    return <React.Fragment>
+        <TotalsCard constituency={constituency} companies={companies} sites={sites} spills={spills} hours={hours}/>
+        <ActionCard constituency={constituency} companies={companies} sites={sites} spills={spills} hours={hours}/>
+    </React.Fragment>
 }
 
 const ConstituencyDropDown = ({constituency, constituencies, ...props}) => {
@@ -234,7 +262,7 @@ const What = ({initial, data}) => {
 
                 <Row>
                     <Col>
-                        <TotalsCard constituency={constituency} rows={relevant}/>
+                        <Totals constituency={constituency} rows={relevant} />
                     </Col>
                 </Row>
             </Col>
