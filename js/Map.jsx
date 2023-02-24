@@ -13,6 +13,7 @@ import {Map, MapMove, Mobile} from "./maps";
 import {LiveData} from "./live";
 import {FacebookShare, TwitterShare} from "./share";
 import {companiesMap} from "./companies";
+import live_available from '../web/data/generated/live/constituencies/available.json' assert {type: 'json'};
 
 
 class ErrorBoundary extends React.Component {
@@ -187,7 +188,7 @@ const Totals = ({constituency, rows}) => {
     const spills = formatNumber(rows.reduce((acc, it) => acc + it.spill_count, 0))
     const hours = formatNumber(rows.reduce((acc, it) => acc + it.total_spill_hours, 0))
 
-    const companies = [...new Set(rows.map( it => it.company_name))]
+    const companies = [...new Set(rows.map(it => it.company_name))]
 
     return <React.Fragment>
         <TotalsCard constituency={constituency} companies={companies} sites={sites} spills={spills} hours={hours}/>
@@ -195,9 +196,18 @@ const Totals = ({constituency, rows}) => {
     </React.Fragment>
 }
 
+const live_map = new Set(live_available)
+
+const dropdownLabelFor = (constituency) => {
+    if (live_map.has(constituency)) {
+        return `✔ ${constituency}`
+    } else {
+        return `- ${constituency}`
+    }
+}
 const ConstituencyDropDown = ({constituency, constituencies, ...props}) => {
 
-    const constituencyChoices = constituencies.map(it => ({value: it, label: it}))
+    const constituencyChoices = constituencies.map(it => ({value: it, label: dropdownLabelFor(it)}))
 
     return <Select
         defaultValue={{value: constituency, label: constituency}}
@@ -254,6 +264,7 @@ const What = ({initial, data}) => {
                                     constituencies={constituencies}
                                     onChange={constituencySelected}
                                 />
+                                <Form.Text>✔ means we have experimental daily data for 2023</Form.Text>
                             </FormGroup>
                             {constituency == null ? <Alert variant="primary">Select a constituency</Alert> : null}
                         </Form>
@@ -262,7 +273,7 @@ const What = ({initial, data}) => {
 
                 <Row>
                     <Col>
-                        <Totals constituency={constituency} rows={relevant} />
+                        <Totals constituency={constituency} rows={relevant}/>
                     </Col>
                 </Row>
             </Col>

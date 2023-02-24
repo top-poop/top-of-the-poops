@@ -15,9 +15,14 @@ class Loading extends React.Component {
 
     async loadUrl() {
         const r = await fetch(this.props.url);
-        const j = await r.json();
-        console.log(`loaded ${this.props.url}`)
-        this.setState({loaded: true, data: j});
+        if ( r.ok ) {
+            const j = await r.json();
+            console.log(`loaded ${this.props.url}`)
+            this.setState({loaded: true, data: j});
+        }
+        else {
+            console.log(`Couldn't log ${this.props.url} - hope thats ok `)
+        }
     }
 
     async componentDidUpdate(prevProps) {

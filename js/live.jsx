@@ -4,6 +4,7 @@ import * as React from "react";
 import {Loading} from "./loading";
 import {Card, Col, Row} from "react-bootstrap";
 
+
 const tt_map = {
     "a": "Monitoring Online",
     "z": "Monitoring Offline",
@@ -131,11 +132,11 @@ const LiveDataCard = ({data}) => {
         <Card.Header>Daily Data for 2023</Card.Header>
         <Card.Body style={ {padding: 5} }>
             <LiveDataPlot data={data}/>
-            <span style={ { "background-color": "#28A64580" } }>&nbsp;&nbsp;&nbsp;&nbsp;</span><span> Monitoring Online </span>
-            <span style={ { "background-color": "#333333" } }>&nbsp;&nbsp;&nbsp;&nbsp;</span><span> Monitoring Offline </span>
-            <span style={ { "background-color": "#842904" } }>&nbsp;&nbsp;&nbsp;&nbsp;</span><span> Polluting </span>
-            <span style={ { "background-color": "#460d83" } }>&nbsp;&nbsp;&nbsp;&nbsp;</span><span> Potentially Polluting </span>
-            <span style={ { "background-color": "#3b9acb80" } }>&nbsp;&nbsp;&nbsp;&nbsp;</span><span> Unknown </span>
+            <span style={ { "backgroundColor": "#28A64580" } }>&nbsp;&nbsp;&nbsp;&nbsp;</span><span> Monitoring Online </span>
+            <span style={ { "backgroundColor": "#333333" } }>&nbsp;&nbsp;&nbsp;&nbsp;</span><span> Monitoring Offline </span>
+            <span style={ { "backgroundColor": "#842904" } }>&nbsp;&nbsp;&nbsp;&nbsp;</span><span> Polluting </span>
+            <span style={ { "backgroundColor": "#460d83" } }>&nbsp;&nbsp;&nbsp;&nbsp;</span><span> Potentially Polluting </span>
+            <span style={ { "backgroundColor": "#3b9acb80" } }>&nbsp;&nbsp;&nbsp;&nbsp;</span><span> Unknown </span>
         </Card.Body>
     </Card>
 }
