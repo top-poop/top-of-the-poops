@@ -138,6 +138,9 @@ const LiveDataCard = ({data}) => {
             <span style={ { "backgroundColor": "#460d83" } }>&nbsp;&nbsp;&nbsp;&nbsp;</span><span> Potentially Polluting </span>
             <span style={ { "backgroundColor": "#3b9acb80" } }>&nbsp;&nbsp;&nbsp;&nbsp;</span><span> Unknown </span>
         </Card.Body>
+        <Card.Footer>
+            Experimental derived data from <a href="https://data.thameswater.co.uk/s/">Thames Water</a> API, Some data may be missing or inaccurate.
+        </Card.Footer>
     </Card>
 }
 

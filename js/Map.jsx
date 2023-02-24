@@ -210,7 +210,7 @@ const ConstituencyDropDown = ({constituency, constituencies, ...props}) => {
     const constituencyChoices = constituencies.map(it => ({value: it, label: dropdownLabelFor(it)}))
 
     return <Select
-        defaultValue={{value: constituency, label: constituency}}
+        defaultValue={{value: constituency, label: dropdownLabelFor(constituency)}}
         options={constituencyChoices}
         {...props}
     />
