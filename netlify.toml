@@ -3,4 +3,4 @@
 
     command= "make ci"
 
-    environment = { PYTHON_VERSION = "3.10" }
+    environment = { PYTHON_VERSION = "3.8" }
