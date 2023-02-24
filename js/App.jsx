@@ -641,6 +641,10 @@ class App extends React.Component {
                                     where="Surfers Against Sewage"
                                     title="Water Quality Report 2022"/>
                                 <FeaturedItem
+                                    href="https://inews.co.uk/news/save-our-rivers-uk-firms-pump-raw-sewage-2143269"
+                                    where="inews"
+                                    title="Only 6% of Britain’s rivers on course to be healthy by 2027 as UK’s firms pump more raw sewage"/>
+                                <FeaturedItem
                                     href="https://www.birminghammail.co.uk/black-country/top-poops-beloved-midlands-river-26284830"
                                     where="Birmingham Live"
                                     title="Top of the poops - Beloved Midlands river pumped with more sewage than any other"/>
