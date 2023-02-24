@@ -683,6 +683,10 @@ class App extends React.Component {
                         <p>We've been featured in:</p>
                             <ul>
                                 <FeaturedItem
+                                    href="https://www.birminghammail.co.uk/black-country/top-poops-beloved-midlands-river-26284830"
+                                    where="Birmingham Live"
+                                    title="Top of the poops - Beloved Midlands river pumped with more sewage than any other"/>
+                                <FeaturedItem
                                     href="https://www.bbc.co.uk/news/uk-england-leeds-64745380"
                                     where="BBC News"
                                     title="Yorkshire rivers among worst for sewage discharge, figures show"/>
