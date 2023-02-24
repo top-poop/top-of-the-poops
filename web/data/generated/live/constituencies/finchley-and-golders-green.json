@@ -505,6 +505,12 @@
       "a": "a-24"
     },
     {
+      "p": "OUTSIDE 135 LEESIDE CRESCENT",
+      "c": "Finchley and Golders Green",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "Brent Park Lodge, Ealing",
       "c": "Finchley and Golders Green",
       "d": "2022-12-01",
@@ -1007,6 +1013,12 @@
       "c": "Finchley and Golders Green",
       "d": "2023-02-22",
       "a": "a-24"
+    },
+    {
+      "p": "Brent Park Lodge, Ealing",
+      "c": "Finchley and Golders Green",
+      "d": "2023-02-23",
+      "a": "a-24"
     }
   ],
   "count": 2,
@@ -1094,6 +1106,7 @@
     "2023-02-19",
     "2023-02-20",
     "2023-02-21",
-    "2023-02-22"
+    "2023-02-22",
+    "2023-02-23"
   ]
 }

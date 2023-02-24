@@ -505,6 +505,12 @@
       "a": "a-24"
     },
     {
+      "p": "SWINDON WWTW",
+      "c": "North Swindon",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "HIGHWORTH WWTW",
       "c": "North Swindon",
       "d": "2022-12-01",
@@ -1006,6 +1012,12 @@
       "p": "HIGHWORTH WWTW",
       "c": "North Swindon",
       "d": "2023-02-22",
+      "a": "a-24"
+    },
+    {
+      "p": "HIGHWORTH WWTW",
+      "c": "North Swindon",
+      "d": "2023-02-23",
       "a": "a-24"
     },
     {
@@ -1513,6 +1525,12 @@
       "a": "a-24"
     },
     {
+      "p": "SEVENHAMPTON VILLAGE WWTW",
+      "c": "North Swindon",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "Kilda Road",
       "c": "North Swindon",
       "d": "2022-12-01",
@@ -2017,6 +2035,12 @@
       "a": "z-24"
     },
     {
+      "p": "Kilda Road",
+      "c": "North Swindon",
+      "d": "2023-02-23",
+      "a": "z-24"
+    },
+    {
       "p": "BLUNSDON WWTW",
       "c": "North Swindon",
       "d": "2022-12-01",
@@ -2521,6 +2545,12 @@
       "a": "a-24"
     },
     {
+      "p": "BLUNSDON WWTW",
+      "c": "North Swindon",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "CSO AT HANNINGTON",
       "c": "North Swindon",
       "d": "2022-12-01",
@@ -3022,6 +3052,12 @@
       "p": "CSO AT HANNINGTON",
       "c": "North Swindon",
       "d": "2023-02-22",
+      "a": "a-24"
+    },
+    {
+      "p": "CSO AT HANNINGTON",
+      "c": "North Swindon",
+      "d": "2023-02-23",
       "a": "a-24"
     }
   ],
@@ -3110,6 +3146,7 @@
     "2023-02-19",
     "2023-02-20",
     "2023-02-21",
-    "2023-02-22"
+    "2023-02-22",
+    "2023-02-23"
   ]
 }

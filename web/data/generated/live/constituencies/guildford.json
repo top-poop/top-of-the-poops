@@ -505,6 +505,12 @@
       "a": "a-24"
     },
     {
+      "p": "GUILDFORD STW",
+      "c": "Guildford",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "CRANLEIGH STW, CRANLEIGH, SURREY",
       "c": "Guildford",
       "d": "2022-12-01",
@@ -1006,6 +1012,12 @@
       "p": "CRANLEIGH STW, CRANLEIGH, SURREY",
       "c": "Guildford",
       "d": "2023-02-22",
+      "a": "a-24"
+    },
+    {
+      "p": "CRANLEIGH STW, CRANLEIGH, SURREY",
+      "c": "Guildford",
+      "d": "2023-02-23",
       "a": "a-24"
     },
     {
@@ -1513,6 +1525,12 @@
       "a": "a-24"
     },
     {
+      "p": "LITTLEMEAD INDUSTRIAL ESTATE CSO",
+      "c": "Guildford",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "Canfold Wood",
       "c": "Guildford",
       "d": "2022-12-01",
@@ -2014,6 +2032,12 @@
       "p": "Canfold Wood",
       "c": "Guildford",
       "d": "2023-02-22",
+      "a": "a-24"
+    },
+    {
+      "p": "Canfold Wood",
+      "c": "Guildford",
+      "d": "2023-02-23",
       "a": "a-24"
     },
     {
@@ -2521,6 +2545,12 @@
       "a": "a-24"
     },
     {
+      "p": "Ockley Road",
+      "c": "Guildford",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "GODALMING WASTEWATER TREATMENT WORK",
       "c": "Guildford",
       "d": "2022-12-01",
@@ -3025,6 +3055,12 @@
       "a": "a-24"
     },
     {
+      "p": "GODALMING WASTEWATER TREATMENT WORK",
+      "c": "Guildford",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "CSO AT KNOWLE LANE",
       "c": "Guildford",
       "d": "2022-12-01",
@@ -3529,6 +3565,12 @@
       "a": "a-24"
     },
     {
+      "p": "CSO AT KNOWLE LANE",
+      "c": "Guildford",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "Taylors Crescent, Cranleigh",
       "c": "Guildford",
       "d": "2022-12-01",
@@ -4030,6 +4072,12 @@
       "p": "Taylors Crescent, Cranleigh",
       "c": "Guildford",
       "d": "2023-02-22",
+      "a": "a-24"
+    },
+    {
+      "p": "Taylors Crescent, Cranleigh",
+      "c": "Guildford",
+      "d": "2023-02-23",
       "a": "a-24"
     }
   ],
@@ -4118,6 +4166,7 @@
     "2023-02-19",
     "2023-02-20",
     "2023-02-21",
-    "2023-02-22"
+    "2023-02-22",
+    "2023-02-23"
   ]
 }

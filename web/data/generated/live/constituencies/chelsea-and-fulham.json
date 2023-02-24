@@ -505,6 +505,12 @@
       "a": "a-24"
     },
     {
+      "p": "COUNTERS CREEK, LOTS ROAD PS, LONDO",
+      "c": "Chelsea and Fulham",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "QUEEN STREET, LONDON",
       "c": "Chelsea and Fulham",
       "d": "2022-12-01",
@@ -1006,6 +1012,12 @@
       "p": "QUEEN STREET, LONDON",
       "c": "Chelsea and Fulham",
       "d": "2023-02-22",
+      "a": "z-24"
+    },
+    {
+      "p": "QUEEN STREET, LONDON",
+      "c": "Chelsea and Fulham",
+      "d": "2023-02-23",
       "a": "z-24"
     },
     {
@@ -1510,6 +1522,12 @@
       "p": "SLOANE STREET, RANELAGH GDNS, LONDO",
       "c": "Chelsea and Fulham",
       "d": "2023-02-22",
+      "a": "z-24"
+    },
+    {
+      "p": "SLOANE STREET, RANELAGH GDNS, LONDO",
+      "c": "Chelsea and Fulham",
+      "d": "2023-02-23",
       "a": "z-24"
     },
     {
@@ -2014,6 +2032,12 @@
       "p": "SMITH STREET, LONDON",
       "c": "Chelsea and Fulham",
       "d": "2023-02-22",
+      "a": "z-24"
+    },
+    {
+      "p": "SMITH STREET, LONDON",
+      "c": "Chelsea and Fulham",
+      "d": "2023-02-23",
       "a": "z-24"
     },
     {
@@ -2519,6 +2543,12 @@
       "c": "Chelsea and Fulham",
       "d": "2023-02-22",
       "a": "a-24"
+    },
+    {
+      "p": "CHELSEA, LONDON SW10",
+      "c": "Chelsea and Fulham",
+      "d": "2023-02-23",
+      "a": "a-24"
     }
   ],
   "count": 5,
@@ -2606,6 +2636,7 @@
     "2023-02-19",
     "2023-02-20",
     "2023-02-21",
-    "2023-02-22"
+    "2023-02-22",
+    "2023-02-23"
   ]
 }

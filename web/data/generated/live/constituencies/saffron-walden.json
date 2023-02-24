@@ -505,6 +505,12 @@
       "a": "a-24"
     },
     {
+      "p": "HATFIELD HEATH WWTW",
+      "c": "Saffron Walden",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "LITTLE HALLINGBURY WWTW",
       "c": "Saffron Walden",
       "d": "2022-12-01",
@@ -1009,6 +1015,12 @@
       "a": "a-24"
     },
     {
+      "p": "LITTLE HALLINGBURY WWTW",
+      "c": "Saffron Walden",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "LEADEN RODING WWTW",
       "c": "Saffron Walden",
       "d": "2022-12-01",
@@ -1513,6 +1525,12 @@
       "a": "a-24"
     },
     {
+      "p": "LEADEN RODING WWTW",
+      "c": "Saffron Walden",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "White Roding",
       "c": "Saffron Walden",
       "d": "2022-12-01",
@@ -2017,6 +2035,12 @@
       "a": "a-24"
     },
     {
+      "p": "White Roding",
+      "c": "Saffron Walden",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "Canfield End, Little Canfield",
       "c": "Saffron Walden",
       "d": "2022-12-01",
@@ -2521,6 +2545,12 @@
       "a": "a-24"
     },
     {
+      "p": "Canfield End, Little Canfield",
+      "c": "Saffron Walden",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "STANSTED MOUNTFITCHET WWTW",
       "c": "Saffron Walden",
       "d": "2022-12-01",
@@ -3025,6 +3055,12 @@
       "a": "a-24"
     },
     {
+      "p": "STANSTED MOUNTFITCHET WWTW",
+      "c": "Saffron Walden",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "Takeley",
       "c": "Saffron Walden",
       "d": "2022-12-01",
@@ -3526,6 +3562,12 @@
       "p": "Takeley",
       "c": "Saffron Walden",
       "d": "2023-02-22",
+      "a": "a-24"
+    },
+    {
+      "p": "Takeley",
+      "c": "Saffron Walden",
+      "d": "2023-02-23",
       "a": "a-24"
     }
   ],
@@ -3614,6 +3656,7 @@
     "2023-02-19",
     "2023-02-20",
     "2023-02-21",
-    "2023-02-22"
+    "2023-02-22",
+    "2023-02-23"
   ]
 }

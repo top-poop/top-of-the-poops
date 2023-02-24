@@ -505,6 +505,12 @@
       "a": "a-24"
     },
     {
+      "p": "EPPING WWTW",
+      "c": "Brentwood and Ongar",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "BRENTWOOD (NAGS HEAD LANE) WWTW",
       "c": "Brentwood and Ongar",
       "d": "2022-12-01",
@@ -1009,6 +1015,12 @@
       "a": "a-24"
     },
     {
+      "p": "BRENTWOOD (NAGS HEAD LANE) WWTW",
+      "c": "Brentwood and Ongar",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "WILLINGALE WWTW",
       "c": "Brentwood and Ongar",
       "d": "2022-12-01",
@@ -1510,6 +1522,12 @@
       "p": "WILLINGALE WWTW",
       "c": "Brentwood and Ongar",
       "d": "2023-02-22",
+      "a": "a-24"
+    },
+    {
+      "p": "WILLINGALE WWTW",
+      "c": "Brentwood and Ongar",
+      "d": "2023-02-23",
       "a": "a-24"
     },
     {
@@ -2017,6 +2035,12 @@
       "a": "a-24"
     },
     {
+      "p": "ABBESS RODING WWTW",
+      "c": "Brentwood and Ongar",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "NORTH WEALD WWTW",
       "c": "Brentwood and Ongar",
       "d": "2022-12-01",
@@ -2521,6 +2545,12 @@
       "a": "a-24"
     },
     {
+      "p": "NORTH WEALD WWTW",
+      "c": "Brentwood and Ongar",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "Theydon Bois",
       "c": "Brentwood and Ongar",
       "d": "2022-12-01",
@@ -3022,6 +3052,12 @@
       "p": "Theydon Bois",
       "c": "Brentwood and Ongar",
       "d": "2023-02-22",
+      "a": "a-24"
+    },
+    {
+      "p": "Theydon Bois",
+      "c": "Brentwood and Ongar",
+      "d": "2023-02-23",
       "a": "a-24"
     }
   ],
@@ -3110,6 +3146,7 @@
     "2023-02-19",
     "2023-02-20",
     "2023-02-21",
-    "2023-02-22"
+    "2023-02-22",
+    "2023-02-23"
   ]
 }

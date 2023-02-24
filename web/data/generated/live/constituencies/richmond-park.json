@@ -505,6 +505,12 @@
       "a": "z-24"
     },
     {
+      "p": "PETERSHAM ROAD, LONDON",
+      "c": "Richmond Park",
+      "d": "2023-02-23",
+      "a": "z-24"
+    },
+    {
       "p": "CSO AT UPPER RICHMOND ROAD",
       "c": "Richmond Park",
       "d": "2022-12-01",
@@ -1007,6 +1013,12 @@
       "c": "Richmond Park",
       "d": "2023-02-22",
       "a": "o-12"
+    },
+    {
+      "p": "CSO AT UPPER RICHMOND ROAD",
+      "c": "Richmond Park",
+      "d": "2023-02-23",
+      "a": "o-16"
     }
   ],
   "count": 2,
@@ -1094,6 +1106,7 @@
     "2023-02-19",
     "2023-02-20",
     "2023-02-21",
-    "2023-02-22"
+    "2023-02-22",
+    "2023-02-23"
   ]
 }

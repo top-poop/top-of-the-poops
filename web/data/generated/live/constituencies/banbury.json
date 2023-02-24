@@ -505,6 +505,12 @@
       "a": "a-24"
     },
     {
+      "p": "SHUTFORD WWTW",
+      "c": "Banbury",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "c": "Banbury",
       "d": "2022-12-01",
@@ -1009,6 +1015,12 @@
       "a": "a-24"
     },
     {
+      "p": "HOOK NORTON STW, HOOK NORTON, OXON",
+      "c": "Banbury",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "WARDINGTON PUMPING STATION, WARDING",
       "c": "Banbury",
       "d": "2022-12-01",
@@ -1510,6 +1522,12 @@
       "p": "WARDINGTON PUMPING STATION, WARDING",
       "c": "Banbury",
       "d": "2023-02-22",
+      "a": "a-24"
+    },
+    {
+      "p": "WARDINGTON PUMPING STATION, WARDING",
+      "c": "Banbury",
+      "d": "2023-02-23",
       "a": "a-24"
     },
     {
@@ -2017,6 +2035,12 @@
       "a": "a-24"
     },
     {
+      "p": "BANBURY WWTW",
+      "c": "Banbury",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "CLIFTON WWTW",
       "c": "Banbury",
       "d": "2022-12-01",
@@ -2521,6 +2545,12 @@
       "a": "a-24"
     },
     {
+      "p": "CLIFTON WWTW",
+      "c": "Banbury",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "CROPREDY WWTW",
       "c": "Banbury",
       "d": "2022-12-01",
@@ -3022,6 +3052,12 @@
       "p": "CROPREDY WWTW",
       "c": "Banbury",
       "d": "2023-02-22",
+      "a": "a-24"
+    },
+    {
+      "p": "CROPREDY WWTW",
+      "c": "Banbury",
+      "d": "2023-02-23",
       "a": "a-24"
     },
     {
@@ -3529,6 +3565,12 @@
       "a": "a-24"
     },
     {
+      "p": "Fergusson Road, Banbury",
+      "c": "Banbury",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "HANWELL WWTW",
       "c": "Banbury",
       "d": "2022-12-01",
@@ -4033,6 +4075,12 @@
       "a": "a-24"
     },
     {
+      "p": "HANWELL WWTW",
+      "c": "Banbury",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "HEYFORD WWTW",
       "c": "Banbury",
       "d": "2022-12-01",
@@ -4537,6 +4585,12 @@
       "a": "a-24"
     },
     {
+      "p": "HEYFORD WWTW",
+      "c": "Banbury",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "HORLEY (OXON) WWTW",
       "c": "Banbury",
       "d": "2022-12-01",
@@ -5038,6 +5092,12 @@
       "p": "HORLEY (OXON) WWTW",
       "c": "Banbury",
       "d": "2023-02-22",
+      "a": "a-24"
+    },
+    {
+      "p": "HORLEY (OXON) WWTW",
+      "c": "Banbury",
+      "d": "2023-02-23",
       "a": "a-24"
     },
     {
@@ -5543,6 +5603,12 @@
       "c": "Banbury",
       "d": "2023-02-22",
       "a": "a-24"
+    },
+    {
+      "p": "MIDDLETON STONEY WWTW",
+      "c": "Banbury",
+      "d": "2023-02-23",
+      "a": "a-24"
     }
   ],
   "count": 11,
@@ -5630,6 +5696,7 @@
     "2023-02-19",
     "2023-02-20",
     "2023-02-21",
-    "2023-02-22"
+    "2023-02-22",
+    "2023-02-23"
   ]
 }

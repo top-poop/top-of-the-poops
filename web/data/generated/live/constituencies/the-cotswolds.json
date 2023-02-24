@@ -505,6 +505,12 @@
       "a": "a-24"
     },
     {
+      "p": "FAIRFORD STW, FAIRFORD, GLOS",
+      "c": "The Cotswolds",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "KEMPSFORD STW, KEMPSFORD, FAIRFORD,",
       "c": "The Cotswolds",
       "d": "2022-12-01",
@@ -1006,6 +1012,12 @@
       "p": "KEMPSFORD STW, KEMPSFORD, FAIRFORD,",
       "c": "The Cotswolds",
       "d": "2023-02-22",
+      "a": "a-24"
+    },
+    {
+      "p": "KEMPSFORD STW, KEMPSFORD, FAIRFORD,",
+      "c": "The Cotswolds",
+      "d": "2023-02-23",
       "a": "a-24"
     },
     {
@@ -1513,6 +1525,12 @@
       "a": "a-24"
     },
     {
+      "p": "ANDOVERSFORD STW",
+      "c": "The Cotswolds",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "AMPNEY ST PETER WWTW",
       "c": "The Cotswolds",
       "d": "2022-12-01",
@@ -2014,6 +2032,12 @@
       "p": "AMPNEY ST PETER WWTW",
       "c": "The Cotswolds",
       "d": "2023-02-22",
+      "a": "a-24"
+    },
+    {
+      "p": "AMPNEY ST PETER WWTW",
+      "c": "The Cotswolds",
+      "d": "2023-02-23",
       "a": "a-24"
     },
     {
@@ -2521,6 +2545,12 @@
       "a": "a-24"
     },
     {
+      "p": "CIRENCESTER WWTW",
+      "c": "The Cotswolds",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "LECHLADE STW",
       "c": "The Cotswolds",
       "d": "2022-12-01",
@@ -3022,6 +3052,12 @@
       "p": "LECHLADE STW",
       "c": "The Cotswolds",
       "d": "2023-02-22",
+      "a": "a-24"
+    },
+    {
+      "p": "LECHLADE STW",
+      "c": "The Cotswolds",
+      "d": "2023-02-23",
       "a": "a-24"
     },
     {
@@ -3529,6 +3565,12 @@
       "a": "z-24"
     },
     {
+      "p": "BOURTON-ON-THE-WATER STW",
+      "c": "The Cotswolds",
+      "d": "2023-02-23",
+      "a": "z-12"
+    },
+    {
       "p": "STORM SEWAGE IRRIGATION AREA, MORETON-IN-MARSH",
       "c": "The Cotswolds",
       "d": "2022-12-01",
@@ -4030,6 +4072,12 @@
       "p": "STORM SEWAGE IRRIGATION AREA, MORETON-IN-MARSH",
       "c": "The Cotswolds",
       "d": "2023-02-22",
+      "a": "a-24"
+    },
+    {
+      "p": "STORM SEWAGE IRRIGATION AREA, MORETON-IN-MARSH",
+      "c": "The Cotswolds",
+      "d": "2023-02-23",
       "a": "a-24"
     },
     {
@@ -4537,6 +4585,12 @@
       "a": "a-24"
     },
     {
+      "p": "BLEDINGTON WWTW",
+      "c": "The Cotswolds",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "Broadwell",
       "c": "The Cotswolds",
       "d": "2022-12-01",
@@ -5038,6 +5092,12 @@
       "p": "Broadwell",
       "c": "The Cotswolds",
       "d": "2023-02-22",
+      "a": "a-24"
+    },
+    {
+      "p": "Broadwell",
+      "c": "The Cotswolds",
+      "d": "2023-02-23",
       "a": "a-24"
     }
   ],
@@ -5126,6 +5186,7 @@
     "2023-02-19",
     "2023-02-20",
     "2023-02-21",
-    "2023-02-22"
+    "2023-02-22",
+    "2023-02-23"
   ]
 }

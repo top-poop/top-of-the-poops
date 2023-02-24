@@ -505,6 +505,12 @@
       "a": "a-24"
     },
     {
+      "p": "MIDDLETON CHENEY WTW",
+      "c": "South Northamptonshire",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "MORETON PINKNEY WWTW",
       "c": "South Northamptonshire",
       "d": "2022-12-01",
@@ -1009,6 +1015,12 @@
       "a": "a-24"
     },
     {
+      "p": "MORETON PINKNEY WWTW",
+      "c": "South Northamptonshire",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "ASTON LE WALLS WWTW",
       "c": "South Northamptonshire",
       "d": "2022-12-01",
@@ -1510,6 +1522,12 @@
       "p": "ASTON LE WALLS WWTW",
       "c": "South Northamptonshire",
       "d": "2023-02-22",
+      "a": "a-24"
+    },
+    {
+      "p": "ASTON LE WALLS WWTW",
+      "c": "South Northamptonshire",
+      "d": "2023-02-23",
       "a": "a-24"
     },
     {
@@ -2017,6 +2035,12 @@
       "a": "a-24"
     },
     {
+      "p": "BODDINGTON WWTW",
+      "c": "South Northamptonshire",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "EYDON WWTW",
       "c": "South Northamptonshire",
       "d": "2022-12-01",
@@ -2518,6 +2542,12 @@
       "p": "EYDON WWTW",
       "c": "South Northamptonshire",
       "d": "2023-02-22",
+      "a": "a-24"
+    },
+    {
+      "p": "EYDON WWTW",
+      "c": "South Northamptonshire",
+      "d": "2023-02-23",
       "a": "a-24"
     },
     {
@@ -3025,6 +3055,12 @@
       "a": "a-24"
     },
     {
+      "p": "CHIPPING WARDEN WWTW",
+      "c": "South Northamptonshire",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "CHACOMBE WWTW",
       "c": "South Northamptonshire",
       "d": "2022-12-01",
@@ -3529,6 +3565,12 @@
       "a": "a-24"
     },
     {
+      "p": "CHACOMBE WWTW",
+      "c": "South Northamptonshire",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "Culworth",
       "c": "South Northamptonshire",
       "d": "2022-12-01",
@@ -4033,6 +4075,12 @@
       "a": "a-24"
     },
     {
+      "p": "Culworth",
+      "c": "South Northamptonshire",
+      "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
       "p": "KINGS SUTTON WWTW",
       "c": "South Northamptonshire",
       "d": "2022-12-01",
@@ -4534,6 +4582,12 @@
       "p": "KINGS SUTTON WWTW",
       "c": "South Northamptonshire",
       "d": "2023-02-22",
+      "a": "a-24"
+    },
+    {
+      "p": "KINGS SUTTON WWTW",
+      "c": "South Northamptonshire",
+      "d": "2023-02-23",
       "a": "a-24"
     }
   ],
@@ -4622,6 +4676,7 @@
     "2023-02-19",
     "2023-02-20",
     "2023-02-21",
-    "2023-02-22"
+    "2023-02-22",
+    "2023-02-23"
   ]
 }
