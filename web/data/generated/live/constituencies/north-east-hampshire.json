@@ -511,6 +511,18 @@
       "a": "a-24"
     },
     {
+      "p": "CROOKED BILLET SPS",
+      "c": "North East Hampshire",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "CROOKED BILLET SPS",
+      "c": "North East Hampshire",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "EVERSLEY (LOWER COMMON) WWTW",
       "c": "North East Hampshire",
       "d": "2022-12-01",
@@ -1021,6 +1033,18 @@
       "a": "a-24"
     },
     {
+      "p": "EVERSLEY (LOWER COMMON) WWTW",
+      "c": "North East Hampshire",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "EVERSLEY (LOWER COMMON) WWTW",
+      "c": "North East Hampshire",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "CRONDALL WWTW",
       "c": "North East Hampshire",
       "d": "2022-12-01",
@@ -1531,6 +1555,18 @@
       "a": "a-24"
     },
     {
+      "p": "CRONDALL WWTW",
+      "c": "North East Hampshire",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "CRONDALL WWTW",
+      "c": "North East Hampshire",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "FLEET STW, FLEET, HANTS",
       "c": "North East Hampshire",
       "d": "2022-12-01",
@@ -2038,6 +2074,18 @@
       "p": "FLEET STW, FLEET, HANTS",
       "c": "North East Hampshire",
       "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
+      "p": "FLEET STW, FLEET, HANTS",
+      "c": "North East Hampshire",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "FLEET STW, FLEET, HANTS",
+      "c": "North East Hampshire",
+      "d": "2023-02-25",
       "a": "a-24"
     },
     {
@@ -2551,6 +2599,18 @@
       "a": "a-24"
     },
     {
+      "p": "HARTLEY WINTNEY STW, HARTLEY WINTNE",
+      "c": "North East Hampshire",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "HARTLEY WINTNEY STW, HARTLEY WINTNE",
+      "c": "North East Hampshire",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "WEST HEATH RAMSDELL PUMPING STATION",
       "c": "North East Hampshire",
       "d": "2022-12-01",
@@ -3061,6 +3121,18 @@
       "a": "a-24"
     },
     {
+      "p": "WEST HEATH RAMSDELL PUMPING STATION",
+      "c": "North East Hampshire",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "WEST HEATH RAMSDELL PUMPING STATION",
+      "c": "North East Hampshire",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "Elvetham Close",
       "c": "North East Hampshire",
       "d": "2022-12-01",
@@ -3568,6 +3640,18 @@
       "p": "Elvetham Close",
       "c": "North East Hampshire",
       "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
+      "p": "Elvetham Close",
+      "c": "North East Hampshire",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "Elvetham Close",
+      "c": "North East Hampshire",
+      "d": "2023-02-25",
       "a": "a-24"
     },
     {
@@ -4081,6 +4165,18 @@
       "a": "a-24"
     },
     {
+      "p": "Opposite St Stephen's Hall",
+      "c": "North East Hampshire",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "Opposite St Stephen's Hall",
+      "c": "North East Hampshire",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "Rotherwick",
       "c": "North East Hampshire",
       "d": "2022-12-01",
@@ -4591,6 +4687,18 @@
       "a": "a-24"
     },
     {
+      "p": "Rotherwick",
+      "c": "North East Hampshire",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "Rotherwick",
+      "c": "North East Hampshire",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "SHERFIELD-ON-LODDON WWTW",
       "c": "North East Hampshire",
       "d": "2022-12-01",
@@ -5099,6 +5207,18 @@
       "c": "North East Hampshire",
       "d": "2023-02-23",
       "a": "a-24"
+    },
+    {
+      "p": "SHERFIELD-ON-LODDON WWTW",
+      "c": "North East Hampshire",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "SHERFIELD-ON-LODDON WWTW",
+      "c": "North East Hampshire",
+      "d": "2023-02-25",
+      "a": "a-24"
     }
   ],
   "count": 10,
@@ -5187,6 +5307,8 @@
     "2023-02-20",
     "2023-02-21",
     "2023-02-22",
-    "2023-02-23"
+    "2023-02-23",
+    "2023-02-24",
+    "2023-02-25"
   ]
 }

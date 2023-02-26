@@ -511,6 +511,18 @@
       "a": "a-24"
     },
     {
+      "p": "ARBORFIELD WWTW",
+      "c": "Wokingham",
+      "d": "2023-02-24",
+      "a": "o-4"
+    },
+    {
+      "p": "ARBORFIELD WWTW",
+      "c": "Wokingham",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "BEENHAM (KEALES COPSE) WWTW",
       "c": "Wokingham",
       "d": "2022-12-01",
@@ -1021,6 +1033,18 @@
       "a": "z-24"
     },
     {
+      "p": "BEENHAM (KEALES COPSE) WWTW",
+      "c": "Wokingham",
+      "d": "2023-02-24",
+      "a": "z-24"
+    },
+    {
+      "p": "BEENHAM (KEALES COPSE) WWTW",
+      "c": "Wokingham",
+      "d": "2023-02-25",
+      "a": "z-24"
+    },
+    {
       "p": "BURGHFIELD WWTW",
       "c": "Wokingham",
       "d": "2022-12-01",
@@ -1531,6 +1555,18 @@
       "a": "p-24"
     },
     {
+      "p": "BURGHFIELD WWTW",
+      "c": "Wokingham",
+      "d": "2023-02-24",
+      "a": "p-24"
+    },
+    {
+      "p": "BURGHFIELD WWTW",
+      "c": "Wokingham",
+      "d": "2023-02-25",
+      "a": "p-24"
+    },
+    {
       "p": "MORTIMER (STRATFIELD MORTIMER) WWTW",
       "c": "Wokingham",
       "d": "2022-12-01",
@@ -2038,6 +2074,18 @@
       "p": "MORTIMER (STRATFIELD MORTIMER) WWTW",
       "c": "Wokingham",
       "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
+      "p": "MORTIMER (STRATFIELD MORTIMER) WWTW",
+      "c": "Wokingham",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "MORTIMER (STRATFIELD MORTIMER) WWTW",
+      "c": "Wokingham",
+      "d": "2023-02-25",
       "a": "a-24"
     },
     {
@@ -2548,6 +2596,18 @@
       "p": "Wokingham (Ash Ridge)",
       "c": "Wokingham",
       "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
+      "p": "Wokingham (Ash Ridge)",
+      "c": "Wokingham",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "Wokingham (Ash Ridge)",
+      "c": "Wokingham",
+      "d": "2023-02-25",
       "a": "a-24"
     }
   ],
@@ -2637,6 +2697,8 @@
     "2023-02-20",
     "2023-02-21",
     "2023-02-22",
-    "2023-02-23"
+    "2023-02-23",
+    "2023-02-24",
+    "2023-02-25"
   ]
 }

@@ -511,6 +511,18 @@
       "a": "a-24"
     },
     {
+      "p": "Blind Mans Gate, Highclere",
+      "c": "North West Hampshire",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "Blind Mans Gate, Highclere",
+      "c": "North West Hampshire",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "Knights Lane",
       "c": "North West Hampshire",
       "d": "2022-12-01",
@@ -1018,6 +1030,18 @@
       "p": "Knights Lane",
       "c": "North West Hampshire",
       "d": "2023-02-23",
+      "a": "p-24"
+    },
+    {
+      "p": "Knights Lane",
+      "c": "North West Hampshire",
+      "d": "2023-02-24",
+      "a": "p-24"
+    },
+    {
+      "p": "Knights Lane",
+      "c": "North West Hampshire",
+      "d": "2023-02-25",
       "a": "p-24"
     },
     {
@@ -1531,6 +1555,18 @@
       "a": "a-24"
     },
     {
+      "p": "KINGSCLERE WWTW",
+      "c": "North West Hampshire",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "KINGSCLERE WWTW",
+      "c": "North West Hampshire",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "WASHWATER WWTW",
       "c": "North West Hampshire",
       "d": "2022-12-01",
@@ -2039,6 +2075,18 @@
       "c": "North West Hampshire",
       "d": "2023-02-23",
       "a": "a-24"
+    },
+    {
+      "p": "WASHWATER WWTW",
+      "c": "North West Hampshire",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "WASHWATER WWTW",
+      "c": "North West Hampshire",
+      "d": "2023-02-25",
+      "a": "a-24"
     }
   ],
   "count": 4,
@@ -2127,6 +2175,8 @@
     "2023-02-20",
     "2023-02-21",
     "2023-02-22",
-    "2023-02-23"
+    "2023-02-23",
+    "2023-02-24",
+    "2023-02-25"
   ]
 }

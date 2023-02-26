@@ -511,6 +511,18 @@
       "a": "a-24"
     },
     {
+      "p": "BUNTINGFORD WWTW",
+      "c": "North East Hertfordshire",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "BUNTINGFORD WWTW",
+      "c": "North East Hertfordshire",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "BARKWAY WWTW",
       "c": "North East Hertfordshire",
       "d": "2022-12-01",
@@ -1021,6 +1033,18 @@
       "a": "a-24"
     },
     {
+      "p": "BARKWAY WWTW",
+      "c": "North East Hertfordshire",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "BARKWAY WWTW",
+      "c": "North East Hertfordshire",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "THERFIELD WTW",
       "c": "North East Hertfordshire",
       "d": "2022-12-01",
@@ -1528,6 +1552,18 @@
       "p": "THERFIELD WTW",
       "c": "North East Hertfordshire",
       "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
+      "p": "THERFIELD WTW",
+      "c": "North East Hertfordshire",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "THERFIELD WTW",
+      "c": "North East Hertfordshire",
+      "d": "2023-02-25",
       "a": "a-24"
     },
     {
@@ -2038,6 +2074,18 @@
       "p": "COTTERED WWTW",
       "c": "North East Hertfordshire",
       "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
+      "p": "COTTERED WWTW",
+      "c": "North East Hertfordshire",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "COTTERED WWTW",
+      "c": "North East Hertfordshire",
+      "d": "2023-02-25",
       "a": "a-24"
     },
     {
@@ -2551,6 +2599,18 @@
       "a": "a-24"
     },
     {
+      "p": "Chapmore End",
+      "c": "North East Hertfordshire",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "Chapmore End",
+      "c": "North East Hertfordshire",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "STANDON WWTW",
       "c": "North East Hertfordshire",
       "d": "2022-12-01",
@@ -3058,6 +3118,18 @@
       "p": "STANDON WWTW",
       "c": "North East Hertfordshire",
       "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
+      "p": "STANDON WWTW",
+      "c": "North East Hertfordshire",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "STANDON WWTW",
+      "c": "North East Hertfordshire",
+      "d": "2023-02-25",
       "a": "a-24"
     },
     {
@@ -3569,6 +3641,18 @@
       "c": "North East Hertfordshire",
       "d": "2023-02-23",
       "a": "a-24"
+    },
+    {
+      "p": "WESTON (HERTS) WWTW",
+      "c": "North East Hertfordshire",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "WESTON (HERTS) WWTW",
+      "c": "North East Hertfordshire",
+      "d": "2023-02-25",
+      "a": "a-24"
     }
   ],
   "count": 7,
@@ -3657,6 +3741,8 @@
     "2023-02-20",
     "2023-02-21",
     "2023-02-22",
-    "2023-02-23"
+    "2023-02-23",
+    "2023-02-24",
+    "2023-02-25"
   ]
 }

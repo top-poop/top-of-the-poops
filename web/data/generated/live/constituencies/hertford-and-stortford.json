@@ -511,6 +511,18 @@
       "a": "a-24"
     },
     {
+      "p": "BRICKENDON WWTW",
+      "c": "Hertford and Stortford",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "BRICKENDON WWTW",
+      "c": "Hertford and Stortford",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "RYE MEADS WWTW",
       "c": "Hertford and Stortford",
       "d": "2022-12-01",
@@ -1018,6 +1030,18 @@
       "p": "RYE MEADS WWTW",
       "c": "Hertford and Stortford",
       "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
+      "p": "RYE MEADS WWTW",
+      "c": "Hertford and Stortford",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "RYE MEADS WWTW",
+      "c": "Hertford and Stortford",
+      "d": "2023-02-25",
       "a": "a-24"
     },
     {
@@ -1531,6 +1555,18 @@
       "a": "a-24"
     },
     {
+      "p": "WIDFORD AND WARESIDE WWTW",
+      "c": "Hertford and Stortford",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "WIDFORD AND WARESIDE WWTW",
+      "c": "Hertford and Stortford",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "Hadham Mill",
       "c": "Hertford and Stortford",
       "d": "2022-12-01",
@@ -2038,6 +2074,18 @@
       "p": "Hadham Mill",
       "c": "Hertford and Stortford",
       "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
+      "p": "Hadham Mill",
+      "c": "Hertford and Stortford",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "Hadham Mill",
+      "c": "Hertford and Stortford",
+      "d": "2023-02-25",
       "a": "a-24"
     }
   ],
@@ -2127,6 +2175,8 @@
     "2023-02-20",
     "2023-02-21",
     "2023-02-22",
-    "2023-02-23"
+    "2023-02-23",
+    "2023-02-24",
+    "2023-02-25"
   ]
 }

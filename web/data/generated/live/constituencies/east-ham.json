@@ -511,6 +511,18 @@
       "a": "a-24"
     },
     {
+      "p": "CSO AT OAKENTROUGH",
+      "c": "East Ham",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "CSO AT OAKENTROUGH",
+      "c": "East Ham",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "FOLKESTONE ROAD PUMPING STATION STO",
       "c": "East Ham",
       "d": "2022-12-01",
@@ -1021,6 +1033,18 @@
       "a": "a-24"
     },
     {
+      "p": "FOLKESTONE ROAD PUMPING STATION STO",
+      "c": "East Ham",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "FOLKESTONE ROAD PUMPING STATION STO",
+      "c": "East Ham",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "HENLEY ROAD CSO",
       "c": "East Ham",
       "d": "2022-12-01",
@@ -1528,6 +1552,18 @@
       "p": "HENLEY ROAD CSO",
       "c": "East Ham",
       "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
+      "p": "HENLEY ROAD CSO",
+      "c": "East Ham",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "HENLEY ROAD CSO",
+      "c": "East Ham",
+      "d": "2023-02-25",
       "a": "a-24"
     }
   ],
@@ -1617,6 +1653,8 @@
     "2023-02-20",
     "2023-02-21",
     "2023-02-22",
-    "2023-02-23"
+    "2023-02-23",
+    "2023-02-24",
+    "2023-02-25"
   ]
 }

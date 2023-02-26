@@ -511,6 +511,18 @@
       "a": "z-24"
     },
     {
+      "p": "DIDCOT WWTW",
+      "c": "Wantage",
+      "d": "2023-02-24",
+      "a": "z-24"
+    },
+    {
+      "p": "DIDCOT WWTW",
+      "c": "Wantage",
+      "d": "2023-02-25",
+      "a": "z-24"
+    },
+    {
       "p": "DRAYTON STW, DRAYTON, OXON",
       "c": "Wantage",
       "d": "2022-12-01",
@@ -1021,6 +1033,18 @@
       "a": "a-24"
     },
     {
+      "p": "DRAYTON STW, DRAYTON, OXON",
+      "c": "Wantage",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "DRAYTON STW, DRAYTON, OXON",
+      "c": "Wantage",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "Shrivenham",
       "c": "Wantage",
       "d": "2022-12-01",
@@ -1531,6 +1555,18 @@
       "a": "a-24"
     },
     {
+      "p": "Shrivenham",
+      "c": "Wantage",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "Shrivenham",
+      "c": "Wantage",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "South Moreton",
       "c": "Wantage",
       "d": "2022-12-01",
@@ -2041,6 +2077,18 @@
       "a": "a-24"
     },
     {
+      "p": "South Moreton",
+      "c": "Wantage",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "South Moreton",
+      "c": "Wantage",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "Uffington",
       "c": "Wantage",
       "d": "2022-12-01",
@@ -2551,6 +2599,18 @@
       "a": "a-24"
     },
     {
+      "p": "Uffington",
+      "c": "Wantage",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "Uffington",
+      "c": "Wantage",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "Wantage (storm)",
       "c": "Wantage",
       "d": "2022-12-01",
@@ -3058,6 +3118,18 @@
       "p": "Wantage (storm)",
       "c": "Wantage",
       "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
+      "p": "Wantage (storm)",
+      "c": "Wantage",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "Wantage (storm)",
+      "c": "Wantage",
+      "d": "2023-02-25",
       "a": "a-24"
     }
   ],
@@ -3147,6 +3219,8 @@
     "2023-02-20",
     "2023-02-21",
     "2023-02-22",
-    "2023-02-23"
+    "2023-02-23",
+    "2023-02-24",
+    "2023-02-25"
   ]
 }

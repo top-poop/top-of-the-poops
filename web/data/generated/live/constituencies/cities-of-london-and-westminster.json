@@ -511,6 +511,18 @@
       "a": "a-24"
     },
     {
+      "p": "NORTHUMBERLAND STREET, LONDON",
+      "c": "Cities of London and Westminster",
+      "d": "2023-02-24",
+      "a": "o-4"
+    },
+    {
+      "p": "NORTHUMBERLAND STREET, LONDON",
+      "c": "Cities of London and Westminster",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "WESTERN PS LOW LEVEL SEWER, LONDON",
       "c": "Cities of London and Westminster",
       "d": "2022-12-01",
@@ -1021,6 +1033,18 @@
       "a": "a-24"
     },
     {
+      "p": "WESTERN PS LOW LEVEL SEWER, LONDON",
+      "c": "Cities of London and Westminster",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "WESTERN PS LOW LEVEL SEWER, LONDON",
+      "c": "Cities of London and Westminster",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "NORFOLK STREET, LONDON",
       "c": "Cities of London and Westminster",
       "d": "2022-12-01",
@@ -1528,6 +1552,18 @@
       "p": "NORFOLK STREET, LONDON",
       "c": "Cities of London and Westminster",
       "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
+      "p": "NORFOLK STREET, LONDON",
+      "c": "Cities of London and Westminster",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "NORFOLK STREET, LONDON",
+      "c": "Cities of London and Westminster",
+      "d": "2023-02-25",
       "a": "a-24"
     },
     {
@@ -2041,6 +2077,18 @@
       "a": "z-24"
     },
     {
+      "p": "FLEET MAIN LINE SEWER, LONDON",
+      "c": "Cities of London and Westminster",
+      "d": "2023-02-24",
+      "a": "z-24"
+    },
+    {
+      "p": "FLEET MAIN LINE SEWER, LONDON",
+      "c": "Cities of London and Westminster",
+      "d": "2023-02-25",
+      "a": "z-24"
+    },
+    {
       "p": "LOWER THAMES STREET, BEER LANE, LON",
       "c": "Cities of London and Westminster",
       "d": "2022-12-01",
@@ -2551,6 +2599,18 @@
       "a": "a-24"
     },
     {
+      "p": "LOWER THAMES STREET, BEER LANE, LON",
+      "c": "Cities of London and Westminster",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "LOWER THAMES STREET, BEER LANE, LON",
+      "c": "Cities of London and Westminster",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "HORSEFERRY ROAD SEWER, LONDON",
       "c": "Cities of London and Westminster",
       "d": "2022-12-01",
@@ -3061,6 +3121,18 @@
       "a": "o-4"
     },
     {
+      "p": "HORSEFERRY ROAD SEWER, LONDON",
+      "c": "Cities of London and Westminster",
+      "d": "2023-02-24",
+      "a": "o-4"
+    },
+    {
+      "p": "HORSEFERRY ROAD SEWER, LONDON",
+      "c": "Cities of London and Westminster",
+      "d": "2023-02-25",
+      "a": "o-4"
+    },
+    {
       "p": "WOOD STREET, LONDON",
       "c": "Cities of London and Westminster",
       "d": "2022-12-01",
@@ -3571,6 +3643,18 @@
       "a": "a-24"
     },
     {
+      "p": "WOOD STREET, LONDON",
+      "c": "Cities of London and Westminster",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "WOOD STREET, LONDON",
+      "c": "Cities of London and Westminster",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "REGENT STREET, LONDON",
       "c": "Cities of London and Westminster",
       "d": "2022-12-01",
@@ -4081,6 +4165,18 @@
       "a": "a-24"
     },
     {
+      "p": "REGENT STREET, LONDON",
+      "c": "Cities of London and Westminster",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "REGENT STREET, LONDON",
+      "c": "Cities of London and Westminster",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "Temple Place, Essex Street",
       "c": "Cities of London and Westminster",
       "d": "2022-12-01",
@@ -4591,6 +4687,18 @@
       "a": "a-24"
     },
     {
+      "p": "Temple Place, Essex Street",
+      "c": "Cities of London and Westminster",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "Temple Place, Essex Street",
+      "c": "Cities of London and Westminster",
+      "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
       "p": "PAULS PIER COMBINED SEWER OVERFLOW",
       "c": "Cities of London and Westminster",
       "d": "2022-12-01",
@@ -5098,6 +5206,18 @@
       "p": "PAULS PIER COMBINED SEWER OVERFLOW",
       "c": "Cities of London and Westminster",
       "d": "2023-02-23",
+      "a": "a-24"
+    },
+    {
+      "p": "PAULS PIER COMBINED SEWER OVERFLOW",
+      "c": "Cities of London and Westminster",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "PAULS PIER COMBINED SEWER OVERFLOW",
+      "c": "Cities of London and Westminster",
+      "d": "2023-02-25",
       "a": "a-24"
     }
   ],
@@ -5187,6 +5307,8 @@
     "2023-02-20",
     "2023-02-21",
     "2023-02-22",
-    "2023-02-23"
+    "2023-02-23",
+    "2023-02-24",
+    "2023-02-25"
   ]
 }

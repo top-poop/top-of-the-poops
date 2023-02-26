@@ -511,6 +511,18 @@
       "a": "a-24"
     },
     {
+      "p": "BRIXTON STORM RELIEF SEWER, LONDON",
+      "c": "Vauxhall",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "BRIXTON STORM RELIEF SEWER, LONDON",
+      "c": "Vauxhall",
+      "d": "2023-02-25",
+      "a": "o-4"
+    },
+    {
       "p": "CLAPHAM STORM RELIEF SEWER, LONDON",
       "c": "Vauxhall",
       "d": "2022-12-01",
@@ -1019,6 +1031,18 @@
       "c": "Vauxhall",
       "d": "2023-02-23",
       "a": "a-24"
+    },
+    {
+      "p": "CLAPHAM STORM RELIEF SEWER, LONDON",
+      "c": "Vauxhall",
+      "d": "2023-02-24",
+      "a": "a-24"
+    },
+    {
+      "p": "CLAPHAM STORM RELIEF SEWER, LONDON",
+      "c": "Vauxhall",
+      "d": "2023-02-25",
+      "a": "a-24"
     }
   ],
   "count": 2,
@@ -1107,6 +1131,8 @@
     "2023-02-20",
     "2023-02-21",
     "2023-02-22",
-    "2023-02-23"
+    "2023-02-23",
+    "2023-02-24",
+    "2023-02-25"
   ]
 }
