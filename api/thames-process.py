@@ -141,8 +141,11 @@ class CalendaringListener(ThamesMonitorListener):
 def thames_permit_constituencies(connection):
     return {p: [s, c] for p, s, c in select_many(
         connection=connection,
-        sql="select consent_id, site_name, pcon20nm from edm_consent_view edm join grid_references grid on edm.effluent_grid_ref = grid.grid_reference where reporting_year = 2021 and company_name = %s",
-        params=('Thames Water',),
+        sql="""select permit_number, discharge_site_name, pcon20nm
+    from consents_unique_view
+        join grid_references grid on effluent_grid_ref = grid.grid_reference
+    where company_name ilike %s""",
+        params=('THAMES WATER%',),
         f=lambda row: (row[0], row[1], row[2])
     )}
 
@@ -193,9 +196,17 @@ if __name__ == "__main__":
         site_cons = [permit_id, "Unknown"]
         if permit_id in permit_to_site_cons:
             site_cons = permit_to_site_cons[permit_id]
+        # bit horrible
+        if permit_id.replace("EPR/", "EPR") in permit_to_site_cons:
+            site_cons = permit_to_site_cons[permit_id.replace("EPR/", "EPR")]
+
         site = site_cons[0]
 
         site = site.replace("WASTEWATER TREATMENT WORKS", "WWTW")
+        site = site.replace("STORM SEWAGE OVERFLOW", "CSO")
+        site = site.replace("STORM OVERFLOW, ", "CSO, ")
+        site = site.replace("SEWAGE PUMPING STATION", "SPS")
+
 
         constituency = site_cons[1]
         by_constituency[constituency]["count"] += 1
@@ -205,7 +216,7 @@ if __name__ == "__main__":
                 dates[date] = None
 
             by_constituency[constituency]["things"].append(
-                {"p": site, "c": constituency, "d": date, "a": summariser.summarise(totals)}
+                {"p": site, "cid": permit_id, "c": constituency, "d": date, "a": summariser.summarise(totals)}
             )
 
     for constituency, stuff in by_constituency.items():
