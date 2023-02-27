@@ -105,3 +105,7 @@ if __name__ == "__main__":
             print(f"Request URL= {e.response.url}")
             print(f"Response: {e.response.text}")
             raise
+        finally:
+            print("Updating views...")
+            with conn.cursor() as cursor:
+                cursor.execute("refresh materialized view rainfall_daily_consitituency")

@@ -11,7 +11,8 @@ create or replace view rainfall_constituency as
         join rainfall_stations rs on rainfall_daily.station_id = rs.station_id
         join pcon_dec_2020_uk_bfc on st_covers(wkb_geometry, point);
 
-create or replace view rainfall_daily_consitituency as
+drop view if exists rainfall_daily_consitituency;
+create materialized view rainfall_daily_consitituency as
     select pcon20nm, date, min(rainfall_mm), avg(rainfall_mm), max(rainfall_mm), percentile_disc(0.75) within group ( order by rainfall_mm ) as pct_75, count(*)
     from rainfall_constituency
     group by pcon20nm, date
