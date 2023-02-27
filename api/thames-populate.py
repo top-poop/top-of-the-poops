@@ -6,12 +6,9 @@ from time import sleep
 import psycopg2
 import requests as requests
 
+from args import DateArgAction
 from psy import select_one
 from thames import TWApi, Credential
-
-class DateArgAction(argparse.Action):
-    def __call__(self, parser, namespace, values, option_string=None):
-        setattr(namespace, self.dest, datetime.date.fromisoformat(values))
 
 
 def process_date(connection, on_date):
@@ -42,7 +39,7 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    if args.update is None and args.reset is None and args.date is None:
+    if (not args.update) and (not args.reset) and  args.date is None:
         raise ValueError("Need one of --update --reset or --date <date>")
 
     api = TWApi(

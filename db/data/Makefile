@@ -220,6 +220,13 @@ $(EDM_WALES_2021)/edm-consolidated.csv: process_edms_2021_wales.py $(EDM_WALES_2
 $(DOWNLOAD)/grid-references.csv: $(DOWNLOAD)/consents-consolidated.csv convert-grid-references.py
 	$(PYTHON) convert-grid-references.py $< $@
 
+
+## Rainfall
+
+.PHONY: rainfall
+rainfall:  rainfall.sql
+	$(PSQL) -f $<
+
 # must run after load-constituencies and load-edm-consent-view
 # but can't be bothered to make the dependencies work right now, just run it after.
 .PHONY: load-grid-references
