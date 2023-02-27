@@ -63,6 +63,7 @@ web/data/generated/chloropleth/chloro.json: generate/constituencies/cloropleth.p
 .PHONY: live-data
 live-data:
 	$(PYTHON) api/thames-populate.py --update
+	$(PYTHON) api/rainfall-populate.py --update
 	$(PYTHON) api/thames-process.py
 
 

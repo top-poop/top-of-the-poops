@@ -7,7 +7,7 @@ from time import sleep
 import psycopg2
 import requests as requests
 
-from api.ea import EnvironmentAgencyAPI
+from ea import EnvironmentAgencyAPI
 from args import DateArgAction
 from psy import select_one
 
