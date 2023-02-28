@@ -52,8 +52,8 @@ if __name__ == "__main__":
     api = EnvironmentAgencyAPI(cache_dir)
 
     start_date = datetime.date(2022, 12, 1)
-    end_date = datetime.date.today()
     a_day = datetime.timedelta(days=1)
+    end_date = datetime.date.today() - a_day
 
     with psycopg2.connect(host="localhost", database="gis", user="docker", password="docker") as conn:
 

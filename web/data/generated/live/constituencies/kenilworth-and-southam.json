@@ -610,6 +610,20 @@
       "a": "a-24"
     },
     {
+      "p": "FARNBOROUGH (WARKS) WWTW",
+      "cid": "CSSC.1369",
+      "c": "Kenilworth and Southam",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "FARNBOROUGH (WARKS) WWTW",
+      "cid": "CSSC.1369",
+      "c": "Kenilworth and Southam",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "AVON DASSETT WWTW",
       "cid": "TEMP.2362",
       "c": "Kenilworth and Southam",
@@ -1216,6 +1230,20 @@
       "cid": "TEMP.2362",
       "c": "Kenilworth and Southam",
       "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
+      "p": "AVON DASSETT WWTW",
+      "cid": "TEMP.2362",
+      "c": "Kenilworth and Southam",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "AVON DASSETT WWTW",
+      "cid": "TEMP.2362",
+      "c": "Kenilworth and Southam",
+      "d": "2023-02-27",
       "a": "a-24"
     },
     {
@@ -1825,6 +1853,20 @@
       "cid": "TEMP.2892",
       "c": "Kenilworth and Southam",
       "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
+      "p": "SHOTTESWELL WWTW",
+      "cid": "TEMP.2892",
+      "c": "Kenilworth and Southam",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "SHOTTESWELL WWTW",
+      "cid": "TEMP.2892",
+      "c": "Kenilworth and Southam",
+      "d": "2023-02-27",
       "a": "a-24"
     },
     {
@@ -2435,6 +2477,20 @@
       "c": "Kenilworth and Southam",
       "d": "2023-02-25",
       "a": "a-24"
+    },
+    {
+      "p": "WARMINGTON WWTW",
+      "cid": "TEMP.2991",
+      "c": "Kenilworth and Southam",
+      "d": "2023-02-26",
+      "a": "o-4"
+    },
+    {
+      "p": "WARMINGTON WWTW",
+      "cid": "TEMP.2991",
+      "c": "Kenilworth and Southam",
+      "d": "2023-02-27",
+      "a": "o-4"
     }
   ],
   "count": 4,
@@ -2525,6 +2581,8 @@
     "2023-02-22",
     "2023-02-23",
     "2023-02-24",
-    "2023-02-25"
+    "2023-02-25",
+    "2023-02-26",
+    "2023-02-27"
   ]
 }

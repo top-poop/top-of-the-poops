@@ -610,6 +610,20 @@
       "a": "a-24"
     },
     {
+      "p": "EPPING WWTW",
+      "cid": "CSSC.0295",
+      "c": "Brentwood and Ongar",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "EPPING WWTW",
+      "cid": "CSSC.0295",
+      "c": "Brentwood and Ongar",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "BRENTWOOD (NAGS HEAD LANE) WWTW",
       "cid": "CSSC.0328",
       "c": "Brentwood and Ongar",
@@ -1219,6 +1233,20 @@
       "a": "a-24"
     },
     {
+      "p": "BRENTWOOD (NAGS HEAD LANE) WWTW",
+      "cid": "CSSC.0328",
+      "c": "Brentwood and Ongar",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "BRENTWOOD (NAGS HEAD LANE) WWTW",
+      "cid": "CSSC.0328",
+      "c": "Brentwood and Ongar",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "WILLINGALE WWTW",
       "cid": "CSSC.1456",
       "c": "Brentwood and Ongar",
@@ -1825,6 +1853,20 @@
       "cid": "CSSC.1456",
       "c": "Brentwood and Ongar",
       "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
+      "p": "WILLINGALE WWTW",
+      "cid": "CSSC.1456",
+      "c": "Brentwood and Ongar",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "WILLINGALE WWTW",
+      "cid": "CSSC.1456",
+      "c": "Brentwood and Ongar",
+      "d": "2023-02-27",
       "a": "a-24"
     },
     {
@@ -2437,6 +2479,20 @@
       "a": "a-24"
     },
     {
+      "p": "ABBESS RODING WWTW",
+      "cid": "CTCR.2034",
+      "c": "Brentwood and Ongar",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "ABBESS RODING WWTW",
+      "cid": "CTCR.2034",
+      "c": "Brentwood and Ongar",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "NORTH WEALD WWTW",
       "cid": "TEMP.2809",
       "c": "Brentwood and Ongar",
@@ -3046,6 +3102,20 @@
       "a": "a-24"
     },
     {
+      "p": "NORTH WEALD WWTW",
+      "cid": "TEMP.2809",
+      "c": "Brentwood and Ongar",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "NORTH WEALD WWTW",
+      "cid": "TEMP.2809",
+      "c": "Brentwood and Ongar",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "Theydon Bois",
       "cid": "TEMP.2954",
       "c": "Brentwood and Ongar",
@@ -3652,6 +3722,20 @@
       "cid": "TEMP.2954",
       "c": "Brentwood and Ongar",
       "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
+      "p": "Theydon Bois",
+      "cid": "TEMP.2954",
+      "c": "Brentwood and Ongar",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "Theydon Bois",
+      "cid": "TEMP.2954",
+      "c": "Brentwood and Ongar",
+      "d": "2023-02-27",
       "a": "a-24"
     }
   ],
@@ -3743,6 +3827,8 @@
     "2023-02-22",
     "2023-02-23",
     "2023-02-24",
-    "2023-02-25"
+    "2023-02-25",
+    "2023-02-26",
+    "2023-02-27"
   ]
 }

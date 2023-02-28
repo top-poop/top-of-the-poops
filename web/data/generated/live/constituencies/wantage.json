@@ -610,6 +610,20 @@
       "a": "z-24"
     },
     {
+      "p": "DIDCOT WWTW",
+      "cid": "CATM.3651",
+      "c": "Wantage",
+      "d": "2023-02-26",
+      "a": "z-24"
+    },
+    {
+      "p": "DIDCOT WWTW",
+      "cid": "CATM.3651",
+      "c": "Wantage",
+      "d": "2023-02-27",
+      "a": "z-24"
+    },
+    {
       "p": "DRAYTON STW, DRAYTON, OXON",
       "cid": "CNTD.0030",
       "c": "Wantage",
@@ -1219,6 +1233,20 @@
       "a": "a-24"
     },
     {
+      "p": "DRAYTON STW, DRAYTON, OXON",
+      "cid": "CNTD.0030",
+      "c": "Wantage",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "DRAYTON STW, DRAYTON, OXON",
+      "cid": "CNTD.0030",
+      "c": "Wantage",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "FARINGDON WWTW",
       "cid": "CSSC.2343",
       "c": "Wantage",
@@ -1825,6 +1853,20 @@
       "cid": "CSSC.2343",
       "c": "Wantage",
       "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
+      "p": "FARINGDON WWTW",
+      "cid": "CSSC.2343",
+      "c": "Wantage",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "FARINGDON WWTW",
+      "cid": "CSSC.2343",
+      "c": "Wantage",
+      "d": "2023-02-27",
       "a": "a-24"
     },
     {
@@ -2437,6 +2479,20 @@
       "a": "a-24"
     },
     {
+      "p": "ABINGDON SEWAGE TREATMENT WORKS",
+      "cid": "CTCR.1804",
+      "c": "Wantage",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "ABINGDON SEWAGE TREATMENT WORKS",
+      "cid": "CTCR.1804",
+      "c": "Wantage",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "Shrivenham",
       "cid": "TEMP.2893",
       "c": "Wantage",
@@ -3046,6 +3102,20 @@
       "a": "a-24"
     },
     {
+      "p": "Shrivenham",
+      "cid": "TEMP.2893",
+      "c": "Wantage",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "Shrivenham",
+      "cid": "TEMP.2893",
+      "c": "Wantage",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "South Moreton",
       "cid": "TEMP.2900",
       "c": "Wantage",
@@ -3655,6 +3725,20 @@
       "a": "a-24"
     },
     {
+      "p": "South Moreton",
+      "cid": "TEMP.2900",
+      "c": "Wantage",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "South Moreton",
+      "cid": "TEMP.2900",
+      "c": "Wantage",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "Uffington",
       "cid": "TEMP.2979",
       "c": "Wantage",
@@ -4264,6 +4348,20 @@
       "a": "a-24"
     },
     {
+      "p": "Uffington",
+      "cid": "TEMP.2979",
+      "c": "Wantage",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "Uffington",
+      "cid": "TEMP.2979",
+      "c": "Wantage",
+      "d": "2023-02-27",
+      "a": "o-4"
+    },
+    {
       "p": "Wantage (storm)",
       "cid": "TEMP.2989",
       "c": "Wantage",
@@ -4870,6 +4968,20 @@
       "cid": "TEMP.2989",
       "c": "Wantage",
       "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
+      "p": "Wantage (storm)",
+      "cid": "TEMP.2989",
+      "c": "Wantage",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "Wantage (storm)",
+      "cid": "TEMP.2989",
+      "c": "Wantage",
+      "d": "2023-02-27",
       "a": "a-24"
     }
   ],
@@ -4961,6 +5073,8 @@
     "2023-02-22",
     "2023-02-23",
     "2023-02-24",
-    "2023-02-25"
+    "2023-02-25",
+    "2023-02-26",
+    "2023-02-27"
   ]
 }

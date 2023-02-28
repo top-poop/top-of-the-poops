@@ -610,6 +610,20 @@
       "a": "a-24"
     },
     {
+      "p": "LONG REACH WWTW",
+      "cid": "CNTD.0067",
+      "c": "Dartford",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "LONG REACH WWTW",
+      "cid": "CNTD.0067",
+      "c": "Dartford",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "Priory Road, Dartford (Foul)",
       "cid": "TEMP.1739",
       "c": "Dartford",
@@ -1216,6 +1230,20 @@
       "cid": "TEMP.1739",
       "c": "Dartford",
       "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
+      "p": "Priory Road, Dartford (Foul)",
+      "cid": "TEMP.1739",
+      "c": "Dartford",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "Priory Road, Dartford (Foul)",
+      "cid": "TEMP.1739",
+      "c": "Dartford",
+      "d": "2023-02-27",
       "a": "a-24"
     },
     {
@@ -1826,6 +1854,20 @@
       "c": "Dartford",
       "d": "2023-02-25",
       "a": "z-24"
+    },
+    {
+      "p": "Dartford Creek Storm",
+      "cid": "TEMP.2537",
+      "c": "Dartford",
+      "d": "2023-02-26",
+      "a": "z-24"
+    },
+    {
+      "p": "Dartford Creek Storm",
+      "cid": "TEMP.2537",
+      "c": "Dartford",
+      "d": "2023-02-27",
+      "a": "z-24"
     }
   ],
   "count": 3,
@@ -1916,6 +1958,8 @@
     "2023-02-22",
     "2023-02-23",
     "2023-02-24",
-    "2023-02-25"
+    "2023-02-25",
+    "2023-02-26",
+    "2023-02-27"
   ]
 }

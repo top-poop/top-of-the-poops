@@ -610,6 +610,20 @@
       "a": "a-24"
     },
     {
+      "p": "CRICKLADE WWTW",
+      "cid": "CSSC.2470",
+      "c": "North Wiltshire",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "CRICKLADE WWTW",
+      "cid": "CSSC.2470",
+      "c": "North Wiltshire",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "PURTON WWTW",
       "cid": "TEMP.2839",
       "c": "North Wiltshire",
@@ -1217,6 +1231,20 @@
       "c": "North Wiltshire",
       "d": "2023-02-25",
       "a": "p-24"
+    },
+    {
+      "p": "PURTON WWTW",
+      "cid": "TEMP.2839",
+      "c": "North Wiltshire",
+      "d": "2023-02-26",
+      "a": "p-24"
+    },
+    {
+      "p": "PURTON WWTW",
+      "cid": "TEMP.2839",
+      "c": "North Wiltshire",
+      "d": "2023-02-27",
+      "a": "p-24"
     }
   ],
   "count": 2,
@@ -1307,6 +1335,8 @@
     "2023-02-22",
     "2023-02-23",
     "2023-02-24",
-    "2023-02-25"
+    "2023-02-25",
+    "2023-02-26",
+    "2023-02-27"
   ]
 }

@@ -610,6 +610,20 @@
       "a": "a-24"
     },
     {
+      "p": "APPLETON (NEW) WWTW",
+      "cid": "TEMP.2351",
+      "c": "Oxford West and Abingdon",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "APPLETON (NEW) WWTW",
+      "cid": "TEMP.2351",
+      "c": "Oxford West and Abingdon",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "The Willows, North Hinksey Lane",
       "cid": "TEMP.2973",
       "c": "Oxford West and Abingdon",
@@ -1216,6 +1230,20 @@
       "cid": "TEMP.2973",
       "c": "Oxford West and Abingdon",
       "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
+      "p": "The Willows, North Hinksey Lane",
+      "cid": "TEMP.2973",
+      "c": "Oxford West and Abingdon",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "The Willows, North Hinksey Lane",
+      "cid": "TEMP.2973",
+      "c": "Oxford West and Abingdon",
+      "d": "2023-02-27",
       "a": "a-24"
     },
     {
@@ -1826,6 +1854,20 @@
       "c": "Oxford West and Abingdon",
       "d": "2023-02-25",
       "a": "a-24"
+    },
+    {
+      "p": "West Way, Botley (Syphon)",
+      "cid": "TEMP.3035",
+      "c": "Oxford West and Abingdon",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "West Way, Botley (Syphon)",
+      "cid": "TEMP.3035",
+      "c": "Oxford West and Abingdon",
+      "d": "2023-02-27",
+      "a": "a-24"
     }
   ],
   "count": 3,
@@ -1916,6 +1958,8 @@
     "2023-02-22",
     "2023-02-23",
     "2023-02-24",
-    "2023-02-25"
+    "2023-02-25",
+    "2023-02-26",
+    "2023-02-27"
   ]
 }

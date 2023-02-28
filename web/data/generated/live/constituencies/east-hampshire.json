@@ -610,6 +610,20 @@
       "a": "a-24"
     },
     {
+      "p": "HOLYBOURNE SPS",
+      "cid": "CASM.0710",
+      "c": "East Hampshire",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "HOLYBOURNE SPS",
+      "cid": "CASM.0710",
+      "c": "East Hampshire",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "BENTLEY WWTW",
       "cid": "CSSC.2455",
       "c": "East Hampshire",
@@ -1216,6 +1230,20 @@
       "cid": "CSSC.2455",
       "c": "East Hampshire",
       "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
+      "p": "BENTLEY WWTW",
+      "cid": "CSSC.2455",
+      "c": "East Hampshire",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "BENTLEY WWTW",
+      "cid": "CSSC.2455",
+      "c": "East Hampshire",
+      "d": "2023-02-27",
       "a": "a-24"
     },
     {
@@ -1828,6 +1856,20 @@
       "a": "a-24"
     },
     {
+      "p": "SELBORNE WWTW",
+      "cid": "CTCR.0742",
+      "c": "East Hampshire",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "SELBORNE WWTW",
+      "cid": "CTCR.0742",
+      "c": "East Hampshire",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "BORDON WWTW",
       "cid": "CTCR.1645",
       "c": "East Hampshire",
@@ -2437,6 +2479,20 @@
       "a": "a-24"
     },
     {
+      "p": "BORDON WWTW",
+      "cid": "CTCR.1645",
+      "c": "East Hampshire",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "BORDON WWTW",
+      "cid": "CTCR.1645",
+      "c": "East Hampshire",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "Newmans Lane",
       "cid": "TEMP.1580",
       "c": "East Hampshire",
@@ -3044,6 +3100,20 @@
       "c": "East Hampshire",
       "d": "2023-02-25",
       "a": "a-24"
+    },
+    {
+      "p": "Newmans Lane",
+      "cid": "TEMP.1580",
+      "c": "East Hampshire",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "Newmans Lane",
+      "cid": "TEMP.1580",
+      "c": "East Hampshire",
+      "d": "2023-02-27",
+      "a": "a-24"
     }
   ],
   "count": 5,
@@ -3134,6 +3204,8 @@
     "2023-02-22",
     "2023-02-23",
     "2023-02-24",
-    "2023-02-25"
+    "2023-02-25",
+    "2023-02-26",
+    "2023-02-27"
   ]
 }

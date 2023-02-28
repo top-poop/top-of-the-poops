@@ -610,6 +610,20 @@
       "a": "a-24"
     },
     {
+      "p": "GUILDFORD STW",
+      "cid": "CTCR.1107",
+      "c": "Guildford",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "GUILDFORD STW",
+      "cid": "CTCR.1107",
+      "c": "Guildford",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "CRANLEIGH STW, CRANLEIGH, SURREY",
       "cid": "CTCR.1838",
       "c": "Guildford",
@@ -1216,6 +1230,20 @@
       "cid": "CTCR.1838",
       "c": "Guildford",
       "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
+      "p": "CRANLEIGH STW, CRANLEIGH, SURREY",
+      "cid": "CTCR.1838",
+      "c": "Guildford",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "CRANLEIGH STW, CRANLEIGH, SURREY",
+      "cid": "CTCR.1838",
+      "c": "Guildford",
+      "d": "2023-02-27",
       "a": "a-24"
     },
     {
@@ -1828,6 +1856,20 @@
       "a": "a-24"
     },
     {
+      "p": "LITTLEMEAD INDUSTRIAL ESTATE CSO",
+      "cid": "CTCR.1941",
+      "c": "Guildford",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "LITTLEMEAD INDUSTRIAL ESTATE CSO",
+      "cid": "CTCR.1941",
+      "c": "Guildford",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "Canfold Wood",
       "cid": "TEMP.0597",
       "c": "Guildford",
@@ -2434,6 +2476,20 @@
       "cid": "TEMP.0597",
       "c": "Guildford",
       "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
+      "p": "Canfold Wood",
+      "cid": "TEMP.0597",
+      "c": "Guildford",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "Canfold Wood",
+      "cid": "TEMP.0597",
+      "c": "Guildford",
+      "d": "2023-02-27",
       "a": "a-24"
     },
     {
@@ -3046,6 +3102,20 @@
       "a": "a-24"
     },
     {
+      "p": "Ockley Road",
+      "cid": "TEMP.1627",
+      "c": "Guildford",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "Ockley Road",
+      "cid": "TEMP.1627",
+      "c": "Guildford",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "GODALMING WASTEWATER TREATMENT WORK",
       "cid": "TEMP.2614",
       "c": "Guildford",
@@ -3655,6 +3725,20 @@
       "a": "a-24"
     },
     {
+      "p": "GODALMING WASTEWATER TREATMENT WORK",
+      "cid": "TEMP.2614",
+      "c": "Guildford",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "GODALMING WASTEWATER TREATMENT WORK",
+      "cid": "TEMP.2614",
+      "c": "Guildford",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "CSO AT KNOWLE LANE",
       "cid": "TEMP.2711",
       "c": "Guildford",
@@ -4264,6 +4348,20 @@
       "a": "a-24"
     },
     {
+      "p": "CSO AT KNOWLE LANE",
+      "cid": "TEMP.2711",
+      "c": "Guildford",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "CSO AT KNOWLE LANE",
+      "cid": "TEMP.2711",
+      "c": "Guildford",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "Taylors Crescent, Cranleigh",
       "cid": "TEMP.2966",
       "c": "Guildford",
@@ -4870,6 +4968,20 @@
       "cid": "TEMP.2966",
       "c": "Guildford",
       "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
+      "p": "Taylors Crescent, Cranleigh",
+      "cid": "TEMP.2966",
+      "c": "Guildford",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "Taylors Crescent, Cranleigh",
+      "cid": "TEMP.2966",
+      "c": "Guildford",
+      "d": "2023-02-27",
       "a": "a-24"
     }
   ],
@@ -4961,6 +5073,8 @@
     "2023-02-22",
     "2023-02-23",
     "2023-02-24",
-    "2023-02-25"
+    "2023-02-25",
+    "2023-02-26",
+    "2023-02-27"
   ]
 }

@@ -610,6 +610,20 @@
       "a": "z-24"
     },
     {
+      "p": "PETERSHAM ROAD CSO",
+      "cid": "CSAB.0525",
+      "c": "Richmond Park",
+      "d": "2023-02-26",
+      "a": "z-24"
+    },
+    {
+      "p": "PETERSHAM ROAD CSO",
+      "cid": "CSAB.0525",
+      "c": "Richmond Park",
+      "d": "2023-02-27",
+      "a": "z-24"
+    },
+    {
       "p": "CSO AT UPPER RICHMOND ROAD",
       "cid": "TEMP.2982",
       "c": "Richmond Park",
@@ -1217,6 +1231,20 @@
       "c": "Richmond Park",
       "d": "2023-02-25",
       "a": "a-24"
+    },
+    {
+      "p": "CSO AT UPPER RICHMOND ROAD",
+      "cid": "TEMP.2982",
+      "c": "Richmond Park",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "CSO AT UPPER RICHMOND ROAD",
+      "cid": "TEMP.2982",
+      "c": "Richmond Park",
+      "d": "2023-02-27",
+      "a": "a-24"
     }
   ],
   "count": 2,
@@ -1307,6 +1335,8 @@
     "2023-02-22",
     "2023-02-23",
     "2023-02-24",
-    "2023-02-25"
+    "2023-02-25",
+    "2023-02-26",
+    "2023-02-27"
   ]
 }

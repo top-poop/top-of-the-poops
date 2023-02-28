@@ -610,6 +610,20 @@
       "a": "a-24"
     },
     {
+      "p": "EAST GRAFTON STW, EAST GRAFTON, WIL",
+      "cid": "CNTD.0031",
+      "c": "Devizes",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "EAST GRAFTON STW, EAST GRAFTON, WIL",
+      "cid": "CNTD.0031",
+      "c": "Devizes",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "CHILTON FOLIAT WWTW",
       "cid": "TEMP.2478",
       "c": "Devizes",
@@ -1216,6 +1230,20 @@
       "cid": "TEMP.2478",
       "c": "Devizes",
       "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
+      "p": "CHILTON FOLIAT WWTW",
+      "cid": "TEMP.2478",
+      "c": "Devizes",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "CHILTON FOLIAT WWTW",
+      "cid": "TEMP.2478",
+      "c": "Devizes",
+      "d": "2023-02-27",
       "a": "a-24"
     },
     {
@@ -1825,6 +1853,20 @@
       "cid": "TEMP.2619",
       "c": "Devizes",
       "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
+      "p": "GREAT BEDWYN WWTW",
+      "cid": "TEMP.2619",
+      "c": "Devizes",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "GREAT BEDWYN WWTW",
+      "cid": "TEMP.2619",
+      "c": "Devizes",
+      "d": "2023-02-27",
       "a": "a-24"
     },
     {
@@ -2434,6 +2476,20 @@
       "cid": "TEMP.2763",
       "c": "Devizes",
       "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
+      "p": "MARLBOROUGH WWTW",
+      "cid": "TEMP.2763",
+      "c": "Devizes",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "MARLBOROUGH WWTW",
+      "cid": "TEMP.2763",
+      "c": "Devizes",
+      "d": "2023-02-27",
       "a": "a-24"
     }
   ],
@@ -2525,6 +2581,8 @@
     "2023-02-22",
     "2023-02-23",
     "2023-02-24",
-    "2023-02-25"
+    "2023-02-25",
+    "2023-02-26",
+    "2023-02-27"
   ]
 }

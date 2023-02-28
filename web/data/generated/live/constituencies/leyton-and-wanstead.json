@@ -610,6 +610,20 @@
       "a": "a-24"
     },
     {
+      "p": "NUTTER LANE / PRESTON DRIVE CSO",
+      "cid": "CEVR.0138",
+      "c": "Leyton and Wanstead",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "NUTTER LANE / PRESTON DRIVE CSO",
+      "cid": "CEVR.0138",
+      "c": "Leyton and Wanstead",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "AUCKLAND ROAD PUMPING STATION TANKS",
       "cid": "CSBC.0085",
       "c": "Leyton and Wanstead",
@@ -1219,6 +1233,20 @@
       "a": "a-24"
     },
     {
+      "p": "AUCKLAND ROAD PUMPING STATION TANKS",
+      "cid": "CSBC.0085",
+      "c": "Leyton and Wanstead",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "AUCKLAND ROAD PUMPING STATION TANKS",
+      "cid": "CSBC.0085",
+      "c": "Leyton and Wanstead",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "Mulberry Court, Hall Road",
       "cid": "TEMP.2801",
       "c": "Leyton and Wanstead",
@@ -1825,6 +1853,20 @@
       "cid": "TEMP.2801",
       "c": "Leyton and Wanstead",
       "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
+      "p": "Mulberry Court, Hall Road",
+      "cid": "TEMP.2801",
+      "c": "Leyton and Wanstead",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "Mulberry Court, Hall Road",
+      "cid": "TEMP.2801",
+      "c": "Leyton and Wanstead",
+      "d": "2023-02-27",
       "a": "a-24"
     }
   ],
@@ -1916,6 +1958,8 @@
     "2023-02-22",
     "2023-02-23",
     "2023-02-24",
-    "2023-02-25"
+    "2023-02-25",
+    "2023-02-26",
+    "2023-02-27"
   ]
 }

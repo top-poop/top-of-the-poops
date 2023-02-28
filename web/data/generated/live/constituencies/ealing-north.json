@@ -608,6 +608,20 @@
       "c": "Ealing North",
       "d": "2023-02-25",
       "a": "z-24"
+    },
+    {
+      "p": "Sudbury Heights Ave, Allendale Road",
+      "cid": "TEMP.2944",
+      "c": "Ealing North",
+      "d": "2023-02-26",
+      "a": "z-24"
+    },
+    {
+      "p": "Sudbury Heights Ave, Allendale Road",
+      "cid": "TEMP.2944",
+      "c": "Ealing North",
+      "d": "2023-02-27",
+      "a": "z-24"
     }
   ],
   "count": 1,
@@ -698,6 +712,8 @@
     "2023-02-22",
     "2023-02-23",
     "2023-02-24",
-    "2023-02-25"
+    "2023-02-25",
+    "2023-02-26",
+    "2023-02-27"
   ]
 }

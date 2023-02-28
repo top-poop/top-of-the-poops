@@ -610,6 +610,20 @@
       "a": "a-24"
     },
     {
+      "p": "DORKING STW (STORM)",
+      "cid": "CASM.1027",
+      "c": "Mole Valley",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "DORKING STW (STORM)",
+      "cid": "CASM.1027",
+      "c": "Mole Valley",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "CASTLE GARDENS SPS",
       "cid": "CTCR.0392",
       "c": "Mole Valley",
@@ -1219,6 +1233,20 @@
       "a": "z-24"
     },
     {
+      "p": "CASTLE GARDENS SPS",
+      "cid": "CTCR.0392",
+      "c": "Mole Valley",
+      "d": "2023-02-26",
+      "a": "z-24"
+    },
+    {
+      "p": "CASTLE GARDENS SPS",
+      "cid": "CTCR.0392",
+      "c": "Mole Valley",
+      "d": "2023-02-27",
+      "a": "z-24"
+    },
+    {
       "p": "HOLMWOOD SEWAGE TREATMENT WORKS",
       "cid": "CTCR.1189",
       "c": "Mole Valley",
@@ -1825,6 +1853,20 @@
       "cid": "CTCR.1189",
       "c": "Mole Valley",
       "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
+      "p": "HOLMWOOD SEWAGE TREATMENT WORKS",
+      "cid": "CTCR.1189",
+      "c": "Mole Valley",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "HOLMWOOD SEWAGE TREATMENT WORKS",
+      "cid": "CTCR.1189",
+      "c": "Mole Valley",
+      "d": "2023-02-27",
       "a": "a-24"
     },
     {
@@ -2437,6 +2479,20 @@
       "a": "a-24"
     },
     {
+      "p": "LEATHERHEAD WWTW",
+      "cid": "CTCR.1780",
+      "c": "Mole Valley",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "LEATHERHEAD WWTW",
+      "cid": "CTCR.1780",
+      "c": "Mole Valley",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "SPOOKS HILL, NORTH HOLMWOOD, SURREY",
       "cid": "CTCR.1922",
       "c": "Mole Valley",
@@ -3046,6 +3102,20 @@
       "a": "a-24"
     },
     {
+      "p": "SPOOKS HILL, NORTH HOLMWOOD, SURREY",
+      "cid": "CTCR.1922",
+      "c": "Mole Valley",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "SPOOKS HILL, NORTH HOLMWOOD, SURREY",
+      "cid": "CTCR.1922",
+      "c": "Mole Valley",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "CHARLWOOD, SURREY",
       "cid": "CTCR.1926",
       "c": "Mole Valley",
@@ -3652,6 +3722,20 @@
       "cid": "CTCR.1926",
       "c": "Mole Valley",
       "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
+      "p": "CHARLWOOD, SURREY",
+      "cid": "CTCR.1926",
+      "c": "Mole Valley",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "CHARLWOOD, SURREY",
+      "cid": "CTCR.1926",
+      "c": "Mole Valley",
+      "d": "2023-02-27",
       "a": "a-24"
     },
     {
@@ -4261,6 +4345,20 @@
       "cid": "CTCR.2150",
       "c": "Mole Valley",
       "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
+      "p": "RIPLEY WWTW",
+      "cid": "CTCR.2150",
+      "c": "Mole Valley",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "RIPLEY WWTW",
+      "cid": "CTCR.2150",
+      "c": "Mole Valley",
+      "d": "2023-02-27",
       "a": "a-24"
     },
     {
@@ -4873,6 +4971,20 @@
       "a": "z-24"
     },
     {
+      "p": "Box Hill",
+      "cid": "TEMP.0505",
+      "c": "Mole Valley",
+      "d": "2023-02-26",
+      "a": "z-24"
+    },
+    {
+      "p": "Box Hill",
+      "cid": "TEMP.0505",
+      "c": "Mole Valley",
+      "d": "2023-02-27",
+      "a": "z-24"
+    },
+    {
       "p": "Brockham Bridge",
       "cid": "TEMP.0545",
       "c": "Mole Valley",
@@ -5479,6 +5591,20 @@
       "cid": "TEMP.0545",
       "c": "Mole Valley",
       "d": "2023-02-25",
+      "a": "z-24"
+    },
+    {
+      "p": "Brockham Bridge",
+      "cid": "TEMP.0545",
+      "c": "Mole Valley",
+      "d": "2023-02-26",
+      "a": "z-24"
+    },
+    {
+      "p": "Brockham Bridge",
+      "cid": "TEMP.0545",
+      "c": "Mole Valley",
+      "d": "2023-02-27",
       "a": "z-24"
     },
     {
@@ -6091,6 +6217,20 @@
       "a": "a-24"
     },
     {
+      "p": "Commonside",
+      "cid": "TEMP.0730",
+      "c": "Mole Valley",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "Commonside",
+      "cid": "TEMP.0730",
+      "c": "Mole Valley",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "Dean Oak Lane",
       "cid": "TEMP.0822",
       "c": "Mole Valley",
@@ -6700,6 +6840,20 @@
       "a": "a-24"
     },
     {
+      "p": "Dean Oak Lane",
+      "cid": "TEMP.0822",
+      "c": "Mole Valley",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "Dean Oak Lane",
+      "cid": "TEMP.0822",
+      "c": "Mole Valley",
+      "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
       "p": "Wisley",
       "cid": "TEMP.3017",
       "c": "Mole Valley",
@@ -7306,6 +7460,20 @@
       "cid": "TEMP.3017",
       "c": "Mole Valley",
       "d": "2023-02-25",
+      "a": "a-24"
+    },
+    {
+      "p": "Wisley",
+      "cid": "TEMP.3017",
+      "c": "Mole Valley",
+      "d": "2023-02-26",
+      "a": "a-24"
+    },
+    {
+      "p": "Wisley",
+      "cid": "TEMP.3017",
+      "c": "Mole Valley",
+      "d": "2023-02-27",
       "a": "a-24"
     }
   ],
@@ -7397,6 +7565,8 @@
     "2023-02-22",
     "2023-02-23",
     "2023-02-24",
-    "2023-02-25"
+    "2023-02-25",
+    "2023-02-26",
+    "2023-02-27"
   ]
 }
