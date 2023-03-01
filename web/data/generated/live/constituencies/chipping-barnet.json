@@ -624,6 +624,13 @@
       "a": "a-24"
     },
     {
+      "p": "PINKHAM WAY CSO",
+      "cid": "CSAC.1088",
+      "c": "Chipping Barnet",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "Lytton Road SSO",
       "cid": "TEMP.2755",
       "c": "Chipping Barnet",
@@ -1244,6 +1251,13 @@
       "cid": "TEMP.2755",
       "c": "Chipping Barnet",
       "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
+      "p": "Lytton Road SSO",
+      "cid": "TEMP.2755",
+      "c": "Chipping Barnet",
+      "d": "2023-02-28",
       "a": "a-24"
     },
     {
@@ -1868,6 +1882,13 @@
       "c": "Chipping Barnet",
       "d": "2023-02-27",
       "a": "a-24"
+    },
+    {
+      "p": "CSO AT WESTERN WAY",
+      "cid": "TEMP.3036",
+      "c": "Chipping Barnet",
+      "d": "2023-02-28",
+      "a": "a-24"
     }
   ],
   "count": 3,
@@ -1960,6 +1981,7 @@
     "2023-02-24",
     "2023-02-25",
     "2023-02-26",
-    "2023-02-27"
+    "2023-02-27",
+    "2023-02-28"
   ]
 }

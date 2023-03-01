@@ -624,6 +624,13 @@
       "a": "a-24"
     },
     {
+      "p": "REIGATE (EARLSWOOD) WWTW",
+      "cid": "CASM.0827",
+      "c": "Reigate",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "SALFORDS SPS",
       "cid": "CNTW.0279",
       "c": "Reigate",
@@ -1244,6 +1251,13 @@
       "cid": "CNTW.0279",
       "c": "Reigate",
       "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
+      "p": "SALFORDS SPS",
+      "cid": "CNTW.0279",
+      "c": "Reigate",
+      "d": "2023-02-28",
       "a": "a-24"
     },
     {
@@ -1870,6 +1884,13 @@
       "a": "a-24"
     },
     {
+      "p": "MERSTHAM STW, ALBURY ROAD, SOUTH ME",
+      "cid": "CTCR.1782",
+      "c": "Reigate",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "Earlswood Common, S of Pendleton Ro",
       "cid": "TEMP.2575",
       "c": "Reigate",
@@ -2491,6 +2512,13 @@
       "c": "Reigate",
       "d": "2023-02-27",
       "a": "a-24"
+    },
+    {
+      "p": "Earlswood Common, S of Pendleton Ro",
+      "cid": "TEMP.2575",
+      "c": "Reigate",
+      "d": "2023-02-28",
+      "a": "a-24"
     }
   ],
   "count": 4,
@@ -2583,6 +2611,7 @@
     "2023-02-24",
     "2023-02-25",
     "2023-02-26",
-    "2023-02-27"
+    "2023-02-27",
+    "2023-02-28"
   ]
 }

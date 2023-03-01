@@ -624,6 +624,13 @@
       "a": "a-24"
     },
     {
+      "p": "HATFIELD HEATH WWTW",
+      "cid": "CSSC.0261",
+      "c": "Saffron Walden",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "LITTLE HALLINGBURY WWTW",
       "cid": "CSSC.0263",
       "c": "Saffron Walden",
@@ -1247,6 +1254,13 @@
       "a": "a-24"
     },
     {
+      "p": "LITTLE HALLINGBURY WWTW",
+      "cid": "CSSC.0263",
+      "c": "Saffron Walden",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "LEADEN RODING WWTW",
       "cid": "CSSC.1400",
       "c": "Saffron Walden",
@@ -1870,6 +1884,13 @@
       "a": "a-24"
     },
     {
+      "p": "LEADEN RODING WWTW",
+      "cid": "CSSC.1400",
+      "c": "Saffron Walden",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "WHITE RODING WWTW",
       "cid": "CSSC.1455",
       "c": "Saffron Walden",
@@ -2493,6 +2514,13 @@
       "a": "a-24"
     },
     {
+      "p": "WHITE RODING WWTW",
+      "cid": "CSSC.1455",
+      "c": "Saffron Walden",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "Canfield End, Little Canfield",
       "cid": "TEMP.0596",
       "c": "Saffron Walden",
@@ -3116,6 +3144,13 @@
       "a": "a-24"
     },
     {
+      "p": "Canfield End, Little Canfield",
+      "cid": "TEMP.0596",
+      "c": "Saffron Walden",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "STANSTED MOUNTFITCHET WWTW",
       "cid": "TEMP.2910",
       "c": "Saffron Walden",
@@ -3739,6 +3774,13 @@
       "a": "a-24"
     },
     {
+      "p": "STANSTED MOUNTFITCHET WWTW",
+      "cid": "TEMP.2910",
+      "c": "Saffron Walden",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "Takeley",
       "cid": "TEMP.2948",
       "c": "Saffron Walden",
@@ -4359,6 +4401,13 @@
       "cid": "TEMP.2948",
       "c": "Saffron Walden",
       "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
+      "p": "Takeley",
+      "cid": "TEMP.2948",
+      "c": "Saffron Walden",
+      "d": "2023-02-28",
       "a": "a-24"
     }
   ],
@@ -4452,6 +4501,7 @@
     "2023-02-24",
     "2023-02-25",
     "2023-02-26",
-    "2023-02-27"
+    "2023-02-27",
+    "2023-02-28"
   ]
 }

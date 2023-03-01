@@ -624,6 +624,13 @@
       "a": "a-24"
     },
     {
+      "p": "BUNTINGFORD WWTW",
+      "cid": "CATM.3092",
+      "c": "North East Hertfordshire",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "BARKWAY WWTW",
       "cid": "CATM.3093",
       "c": "North East Hertfordshire",
@@ -1247,6 +1254,13 @@
       "a": "a-24"
     },
     {
+      "p": "BARKWAY WWTW",
+      "cid": "CATM.3093",
+      "c": "North East Hertfordshire",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "THERFIELD WTW",
       "cid": "CATM.3095",
       "c": "North East Hertfordshire",
@@ -1867,6 +1881,13 @@
       "cid": "CATM.3095",
       "c": "North East Hertfordshire",
       "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
+      "p": "THERFIELD WTW",
+      "cid": "CATM.3095",
+      "c": "North East Hertfordshire",
+      "d": "2023-02-28",
       "a": "a-24"
     },
     {
@@ -2490,6 +2511,13 @@
       "cid": "CSSC.1038",
       "c": "North East Hertfordshire",
       "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
+      "p": "COTTERED WWTW",
+      "cid": "CSSC.1038",
+      "c": "North East Hertfordshire",
+      "d": "2023-02-28",
       "a": "a-24"
     },
     {
@@ -3116,6 +3144,13 @@
       "a": "a-24"
     },
     {
+      "p": "Chapmore End",
+      "cid": "TEMP.2465",
+      "c": "North East Hertfordshire",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "STANDON WWTW",
       "cid": "TEMP.2907",
       "c": "North East Hertfordshire",
@@ -3736,6 +3771,13 @@
       "cid": "TEMP.2907",
       "c": "North East Hertfordshire",
       "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
+      "p": "STANDON WWTW",
+      "cid": "TEMP.2907",
+      "c": "North East Hertfordshire",
+      "d": "2023-02-28",
       "a": "a-24"
     },
     {
@@ -4360,6 +4402,13 @@
       "c": "North East Hertfordshire",
       "d": "2023-02-27",
       "a": "a-24"
+    },
+    {
+      "p": "WESTON (HERTS) WWTW",
+      "cid": "TEMP.3001",
+      "c": "North East Hertfordshire",
+      "d": "2023-02-28",
+      "a": "a-24"
     }
   ],
   "count": 7,
@@ -4452,6 +4501,7 @@
     "2023-02-24",
     "2023-02-25",
     "2023-02-26",
-    "2023-02-27"
+    "2023-02-27",
+    "2023-02-28"
   ]
 }

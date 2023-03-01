@@ -624,6 +624,13 @@
       "a": "a-24"
     },
     {
+      "p": "MIDDLETON CHENEY WTW",
+      "cid": "CAWM.0083",
+      "c": "South Northamptonshire",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "MORETON PINKNEY WWTW",
       "cid": "CNTD.0010",
       "c": "South Northamptonshire",
@@ -1247,6 +1254,13 @@
       "a": "a-24"
     },
     {
+      "p": "MORETON PINKNEY WWTW",
+      "cid": "CNTD.0010",
+      "c": "South Northamptonshire",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "ASTON LE WALLS WWTW",
       "cid": "CNTD.0040",
       "c": "South Northamptonshire",
@@ -1867,6 +1881,13 @@
       "cid": "CNTD.0040",
       "c": "South Northamptonshire",
       "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
+      "p": "ASTON LE WALLS WWTW",
+      "cid": "CNTD.0040",
+      "c": "South Northamptonshire",
+      "d": "2023-02-28",
       "a": "a-24"
     },
     {
@@ -2493,6 +2514,13 @@
       "a": "a-24"
     },
     {
+      "p": "BODDINGTON WWTW",
+      "cid": "CNTW.0359",
+      "c": "South Northamptonshire",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "EYDON WWTW",
       "cid": "CSSC.1370",
       "c": "South Northamptonshire",
@@ -3113,6 +3141,13 @@
       "cid": "CSSC.1370",
       "c": "South Northamptonshire",
       "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
+      "p": "EYDON WWTW",
+      "cid": "CSSC.1370",
+      "c": "South Northamptonshire",
+      "d": "2023-02-28",
       "a": "a-24"
     },
     {
@@ -3739,6 +3774,13 @@
       "a": "a-24"
     },
     {
+      "p": "CHIPPING WARDEN WWTW",
+      "cid": "CTCR.1793",
+      "c": "South Northamptonshire",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "CHACOMBE WWTW",
       "cid": "TEMP.2460",
       "c": "South Northamptonshire",
@@ -4362,6 +4404,13 @@
       "a": "a-24"
     },
     {
+      "p": "CHACOMBE WWTW",
+      "cid": "TEMP.2460",
+      "c": "South Northamptonshire",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "Culworth",
       "cid": "TEMP.2512",
       "c": "South Northamptonshire",
@@ -4985,6 +5034,13 @@
       "a": "a-24"
     },
     {
+      "p": "Culworth",
+      "cid": "TEMP.2512",
+      "c": "South Northamptonshire",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "KINGS SUTTON WWTW",
       "cid": "TEMP.2702",
       "c": "South Northamptonshire",
@@ -5605,6 +5661,13 @@
       "cid": "TEMP.2702",
       "c": "South Northamptonshire",
       "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
+      "p": "KINGS SUTTON WWTW",
+      "cid": "TEMP.2702",
+      "c": "South Northamptonshire",
+      "d": "2023-02-28",
       "a": "a-24"
     }
   ],
@@ -5698,6 +5761,7 @@
     "2023-02-24",
     "2023-02-25",
     "2023-02-26",
-    "2023-02-27"
+    "2023-02-27",
+    "2023-02-28"
   ]
 }

@@ -624,6 +624,13 @@
       "a": "a-24"
     },
     {
+      "p": "EARL PS STORM OUTLET, LONDON",
+      "cid": "CSAB.0533",
+      "c": "Bermondsey and Old Southwark",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "SHAD, THAMES PS, LONDON",
       "cid": "CSAB.0555",
       "c": "Bermondsey and Old Southwark",
@@ -1245,6 +1252,13 @@
       "c": "Bermondsey and Old Southwark",
       "d": "2023-02-27",
       "a": "a-24"
+    },
+    {
+      "p": "SHAD, THAMES PS, LONDON",
+      "cid": "CSAB.0555",
+      "c": "Bermondsey and Old Southwark",
+      "d": "2023-02-28",
+      "a": "a-24"
     }
   ],
   "count": 2,
@@ -1337,6 +1351,7 @@
     "2023-02-24",
     "2023-02-25",
     "2023-02-26",
-    "2023-02-27"
+    "2023-02-27",
+    "2023-02-28"
   ]
 }

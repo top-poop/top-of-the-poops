@@ -624,6 +624,13 @@
       "a": "a-24"
     },
     {
+      "p": "BELL WHARF OUTLET, LONDON",
+      "cid": "CSAB.0526",
+      "c": "Poplar and Limehouse",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "HOLLOWAY STORM SEWER, LONDON",
       "cid": "CSAB.0527",
       "c": "Poplar and Limehouse",
@@ -1247,6 +1254,13 @@
       "a": "a-24"
     },
     {
+      "p": "HOLLOWAY STORM SEWER, LONDON",
+      "cid": "CSAB.0527",
+      "c": "Poplar and Limehouse",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "IRONGATE SEWER, LONDON",
       "cid": "CSAB.0580",
       "c": "Poplar and Limehouse",
@@ -1870,6 +1884,13 @@
       "a": "p-24"
     },
     {
+      "p": "IRONGATE SEWER, LONDON",
+      "cid": "CSAB.0580",
+      "c": "Poplar and Limehouse",
+      "d": "2023-02-28",
+      "a": "p-24"
+    },
+    {
       "p": "N E Sr Shadwell, King Edward Mem Pa",
       "cid": "TEMP.2804",
       "c": "Poplar and Limehouse",
@@ -2493,6 +2514,13 @@
       "a": "a-24"
     },
     {
+      "p": "N E Sr Shadwell, King Edward Mem Pa",
+      "cid": "TEMP.2804",
+      "c": "Poplar and Limehouse",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "RATCLIFFE HIGHWAY LIMEKILN CSO",
       "cid": "TEMP.2864",
       "c": "Poplar and Limehouse",
@@ -3113,6 +3141,13 @@
       "cid": "TEMP.2864",
       "c": "Poplar and Limehouse",
       "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
+      "p": "RATCLIFFE HIGHWAY LIMEKILN CSO",
+      "cid": "TEMP.2864",
+      "c": "Poplar and Limehouse",
+      "d": "2023-02-28",
       "a": "a-24"
     }
   ],
@@ -3206,6 +3241,7 @@
     "2023-02-24",
     "2023-02-25",
     "2023-02-26",
-    "2023-02-27"
+    "2023-02-27",
+    "2023-02-28"
   ]
 }

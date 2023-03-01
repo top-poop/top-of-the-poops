@@ -624,6 +624,13 @@
       "a": "a-24"
     },
     {
+      "p": "CSO AT OAKENTROUGH",
+      "cid": "CANM.0029",
+      "c": "East Ham",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "FOLKESTONE ROAD PUMPING STATION STO",
       "cid": "CSBC.0127",
       "c": "East Ham",
@@ -1247,6 +1254,13 @@
       "a": "a-24"
     },
     {
+      "p": "FOLKESTONE ROAD PUMPING STATION STO",
+      "cid": "CSBC.0127",
+      "c": "East Ham",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "HENLEY ROAD CSO",
       "cid": "TEMP.2679",
       "c": "East Ham",
@@ -1867,6 +1881,13 @@
       "cid": "TEMP.2679",
       "c": "East Ham",
       "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
+      "p": "HENLEY ROAD CSO",
+      "cid": "TEMP.2679",
+      "c": "East Ham",
+      "d": "2023-02-28",
       "a": "a-24"
     }
   ],
@@ -1960,6 +1981,7 @@
     "2023-02-24",
     "2023-02-25",
     "2023-02-26",
-    "2023-02-27"
+    "2023-02-27",
+    "2023-02-28"
   ]
 }

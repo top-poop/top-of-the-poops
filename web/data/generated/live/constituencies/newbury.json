@@ -624,6 +624,13 @@
       "a": "a-24"
     },
     {
+      "p": "COMPTON SEWAGE TREATMENT WORKS",
+      "cid": "CAWM.0012",
+      "c": "Newbury",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "HAMSTEAD MARSHALL WWTW",
       "cid": "CSSC.1381",
       "c": "Newbury",
@@ -1247,6 +1254,13 @@
       "a": "a-24"
     },
     {
+      "p": "HAMSTEAD MARSHALL WWTW",
+      "cid": "CSSC.1381",
+      "c": "Newbury",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "CHAPEL ROW (BERKS) WWTW",
       "cid": "CSSC.2466",
       "c": "Newbury",
@@ -1870,6 +1884,13 @@
       "a": "a-24"
     },
     {
+      "p": "CHAPEL ROW (BERKS) WWTW",
+      "cid": "CSSC.2466",
+      "c": "Newbury",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "East Garston",
       "cid": "TEMP.0882",
       "c": "Newbury",
@@ -2493,6 +2514,13 @@
       "a": "a-24"
     },
     {
+      "p": "East Garston",
+      "cid": "TEMP.0882",
+      "c": "Newbury",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "ALDERMASTON WWTW",
       "cid": "TEMP.2345",
       "c": "Newbury",
@@ -2707,40 +2735,40 @@
       "cid": "TEMP.2345",
       "c": "Newbury",
       "d": "2022-12-31",
+      "a": "o-12"
+    },
+    {
+      "p": "ALDERMASTON WWTW",
+      "cid": "TEMP.2345",
+      "c": "Newbury",
+      "d": "2023-01-01",
+      "a": "o-24"
+    },
+    {
+      "p": "ALDERMASTON WWTW",
+      "cid": "TEMP.2345",
+      "c": "Newbury",
+      "d": "2023-01-02",
+      "a": "o-20"
+    },
+    {
+      "p": "ALDERMASTON WWTW",
+      "cid": "TEMP.2345",
+      "c": "Newbury",
+      "d": "2023-01-03",
+      "a": "o-8"
+    },
+    {
+      "p": "ALDERMASTON WWTW",
+      "cid": "TEMP.2345",
+      "c": "Newbury",
+      "d": "2023-01-04",
       "a": "o-12"
     },
     {
       "p": "ALDERMASTON WWTW",
       "cid": "TEMP.2345",
       "c": "Newbury",
-      "d": "2023-01-01",
-      "a": "o-24"
-    },
-    {
-      "p": "ALDERMASTON WWTW",
-      "cid": "TEMP.2345",
-      "c": "Newbury",
-      "d": "2023-01-02",
-      "a": "o-20"
-    },
-    {
-      "p": "ALDERMASTON WWTW",
-      "cid": "TEMP.2345",
-      "c": "Newbury",
-      "d": "2023-01-03",
-      "a": "o-8"
-    },
-    {
-      "p": "ALDERMASTON WWTW",
-      "cid": "TEMP.2345",
-      "c": "Newbury",
-      "d": "2023-01-04",
-      "a": "o-12"
-    },
-    {
-      "p": "ALDERMASTON WWTW",
-      "cid": "TEMP.2345",
-      "c": "Newbury",
       "d": "2023-01-05",
       "a": "a-24"
     },
@@ -3113,6 +3141,13 @@
       "cid": "TEMP.2345",
       "c": "Newbury",
       "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
+      "p": "ALDERMASTON WWTW",
+      "cid": "TEMP.2345",
+      "c": "Newbury",
+      "d": "2023-02-28",
       "a": "a-24"
     },
     {
@@ -3739,6 +3774,13 @@
       "a": "a-24"
     },
     {
+      "p": "Bucklebury",
+      "cid": "TEMP.2421",
+      "c": "Newbury",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "Chieveley",
       "cid": "TEMP.2475",
       "c": "Newbury",
@@ -4359,6 +4401,13 @@
       "cid": "TEMP.2475",
       "c": "Newbury",
       "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
+      "p": "Chieveley",
+      "cid": "TEMP.2475",
+      "c": "Newbury",
+      "d": "2023-02-28",
       "a": "a-24"
     },
     {
@@ -4985,6 +5034,13 @@
       "a": "a-24"
     },
     {
+      "p": "Kintbury",
+      "cid": "TEMP.2706",
+      "c": "Newbury",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "MIDGHAM WWTW",
       "cid": "TEMP.2774",
       "c": "Newbury",
@@ -5605,6 +5661,13 @@
       "cid": "TEMP.2774",
       "c": "Newbury",
       "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
+      "p": "MIDGHAM WWTW",
+      "cid": "TEMP.2774",
+      "c": "Newbury",
+      "d": "2023-02-28",
       "a": "a-24"
     },
     {
@@ -6231,6 +6294,13 @@
       "a": "a-24"
     },
     {
+      "p": "Newbury (New)",
+      "cid": "TEMP.2805",
+      "c": "Newbury",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "WINTERBOURNE WWTW",
       "cid": "TEMP.3016",
       "c": "Newbury",
@@ -6852,6 +6922,13 @@
       "c": "Newbury",
       "d": "2023-02-27",
       "a": "a-24"
+    },
+    {
+      "p": "WINTERBOURNE WWTW",
+      "cid": "TEMP.3016",
+      "c": "Newbury",
+      "d": "2023-02-28",
+      "a": "a-24"
     }
   ],
   "count": 11,
@@ -6944,6 +7021,7 @@
     "2023-02-24",
     "2023-02-25",
     "2023-02-26",
-    "2023-02-27"
+    "2023-02-27",
+    "2023-02-28"
   ]
 }

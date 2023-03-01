@@ -624,6 +624,13 @@
       "a": "a-24"
     },
     {
+      "p": "SWINDON WWTW",
+      "cid": "CNTD.0017",
+      "c": "North Swindon",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "HIGHWORTH WWTW",
       "cid": "CNTD.0075",
       "c": "North Swindon",
@@ -1244,6 +1251,13 @@
       "cid": "CNTD.0075",
       "c": "North Swindon",
       "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
+      "p": "HIGHWORTH WWTW",
+      "cid": "CNTD.0075",
+      "c": "North Swindon",
+      "d": "2023-02-28",
       "a": "a-24"
     },
     {
@@ -1870,6 +1884,13 @@
       "a": "z-24"
     },
     {
+      "p": "SEVENHAMPTON VILLAGE WWTW",
+      "cid": "CSSC.1425",
+      "c": "North Swindon",
+      "d": "2023-02-28",
+      "a": "z-24"
+    },
+    {
       "p": "Kilda Road",
       "cid": "TEMP.1250",
       "c": "North Swindon",
@@ -2493,6 +2514,13 @@
       "a": "z-24"
     },
     {
+      "p": "Kilda Road",
+      "cid": "TEMP.1250",
+      "c": "North Swindon",
+      "d": "2023-02-28",
+      "a": "z-24"
+    },
+    {
       "p": "BLUNSDON WWTW",
       "cid": "TEMP.2400",
       "c": "North Swindon",
@@ -3116,6 +3144,13 @@
       "a": "a-24"
     },
     {
+      "p": "BLUNSDON WWTW",
+      "cid": "TEMP.2400",
+      "c": "North Swindon",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "CSO AT HANNINGTON",
       "cid": "TEMP.2675",
       "c": "North Swindon",
@@ -3737,6 +3772,13 @@
       "c": "North Swindon",
       "d": "2023-02-27",
       "a": "a-24"
+    },
+    {
+      "p": "CSO AT HANNINGTON",
+      "cid": "TEMP.2675",
+      "c": "North Swindon",
+      "d": "2023-02-28",
+      "a": "o-8"
     }
   ],
   "count": 6,
@@ -3829,6 +3871,7 @@
     "2023-02-24",
     "2023-02-25",
     "2023-02-26",
-    "2023-02-27"
+    "2023-02-27",
+    "2023-02-28"
   ]
 }

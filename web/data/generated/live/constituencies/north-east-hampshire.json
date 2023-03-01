@@ -624,6 +624,13 @@
       "a": "a-24"
     },
     {
+      "p": "CROOKED BILLET SPS",
+      "cid": "CATM.3173",
+      "c": "North East Hampshire",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "EVERSLEY (LOWER COMMON) WWTW",
       "cid": "CNTD.0078",
       "c": "North East Hampshire",
@@ -1247,6 +1254,13 @@
       "a": "a-24"
     },
     {
+      "p": "EVERSLEY (LOWER COMMON) WWTW",
+      "cid": "CNTD.0078",
+      "c": "North East Hampshire",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "SILCHESTER WWTW",
       "cid": "CNTW.0737",
       "c": "North East Hampshire",
@@ -1870,6 +1884,13 @@
       "a": "a-24"
     },
     {
+      "p": "SILCHESTER WWTW",
+      "cid": "CNTW.0737",
+      "c": "North East Hampshire",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "CRONDALL WWTW",
       "cid": "CSSC.2450",
       "c": "North East Hampshire",
@@ -2493,6 +2514,13 @@
       "a": "a-24"
     },
     {
+      "p": "CRONDALL WWTW",
+      "cid": "CSSC.2450",
+      "c": "North East Hampshire",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "FLEET STW, FLEET, HANTS",
       "cid": "CTCR.1836",
       "c": "North East Hampshire",
@@ -3113,6 +3141,13 @@
       "cid": "CTCR.1836",
       "c": "North East Hampshire",
       "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
+      "p": "FLEET STW, FLEET, HANTS",
+      "cid": "CTCR.1836",
+      "c": "North East Hampshire",
+      "d": "2023-02-28",
       "a": "a-24"
     },
     {
@@ -3739,6 +3774,13 @@
       "a": "a-24"
     },
     {
+      "p": "HARTLEY WINTNEY STW, HARTLEY WINTNE",
+      "cid": "CTCR.1865",
+      "c": "North East Hampshire",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "WEST HEATH RAMSDELL PUMPING STATION",
       "cid": "NPSWQD001561",
       "c": "North East Hampshire",
@@ -4362,6 +4404,13 @@
       "a": "a-24"
     },
     {
+      "p": "WEST HEATH RAMSDELL PUMPING STATION",
+      "cid": "NPSWQD001561",
+      "c": "North East Hampshire",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "Elvetham Close",
       "cid": "TEMP.0917",
       "c": "North East Hampshire",
@@ -4982,6 +5031,13 @@
       "cid": "TEMP.0917",
       "c": "North East Hampshire",
       "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
+      "p": "Elvetham Close",
+      "cid": "TEMP.0917",
+      "c": "North East Hampshire",
+      "d": "2023-02-28",
       "a": "a-24"
     },
     {
@@ -5608,6 +5664,13 @@
       "a": "a-24"
     },
     {
+      "p": "Opposite St Stephen's Hall",
+      "cid": "TEMP.1644",
+      "c": "North East Hampshire",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "Rotherwick",
       "cid": "TEMP.1825",
       "c": "North East Hampshire",
@@ -6231,6 +6294,13 @@
       "a": "a-24"
     },
     {
+      "p": "Rotherwick",
+      "cid": "TEMP.1825",
+      "c": "North East Hampshire",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "SHERFIELD-ON-LODDON WWTW",
       "cid": "TEMP.2891",
       "c": "North East Hampshire",
@@ -6852,6 +6922,13 @@
       "c": "North East Hampshire",
       "d": "2023-02-27",
       "a": "a-24"
+    },
+    {
+      "p": "SHERFIELD-ON-LODDON WWTW",
+      "cid": "TEMP.2891",
+      "c": "North East Hampshire",
+      "d": "2023-02-28",
+      "a": "a-24"
     }
   ],
   "count": 11,
@@ -6944,6 +7021,7 @@
     "2023-02-24",
     "2023-02-25",
     "2023-02-26",
-    "2023-02-27"
+    "2023-02-27",
+    "2023-02-28"
   ]
 }

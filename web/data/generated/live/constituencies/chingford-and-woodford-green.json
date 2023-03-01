@@ -624,6 +624,13 @@
       "a": "a-24"
     },
     {
+      "p": "BEECH HALL CRESCENT CSO",
+      "cid": "CLCR.0032",
+      "c": "Chingford and Woodford Green",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "CSO AT HIGH ROAD",
       "cid": "TEMP.2681",
       "c": "Chingford and Woodford Green",
@@ -1245,6 +1252,13 @@
       "c": "Chingford and Woodford Green",
       "d": "2023-02-27",
       "a": "a-24"
+    },
+    {
+      "p": "CSO AT HIGH ROAD",
+      "cid": "TEMP.2681",
+      "c": "Chingford and Woodford Green",
+      "d": "2023-02-28",
+      "a": "a-24"
     }
   ],
   "count": 2,
@@ -1337,6 +1351,7 @@
     "2023-02-24",
     "2023-02-25",
     "2023-02-26",
-    "2023-02-27"
+    "2023-02-27",
+    "2023-02-28"
   ]
 }

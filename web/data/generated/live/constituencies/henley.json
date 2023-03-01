@@ -624,6 +624,13 @@
       "a": "a-24"
     },
     {
+      "p": "BENSON STW, HENLEY ROAD, BENSON, OX",
+      "cid": "CATM.3525",
+      "c": "Henley",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "CONSTABLE'S PIECE WWTW",
       "cid": "CAWM.1403",
       "c": "Henley",
@@ -1247,6 +1254,13 @@
       "a": "a-24"
     },
     {
+      "p": "CONSTABLE'S PIECE WWTW",
+      "cid": "CAWM.1403",
+      "c": "Henley",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "HORTON-CUM-STUDLEY WWTW",
       "cid": "CNTD.0008",
       "c": "Henley",
@@ -1870,6 +1884,13 @@
       "a": "a-24"
     },
     {
+      "p": "HORTON-CUM-STUDLEY WWTW",
+      "cid": "CNTD.0008",
+      "c": "Henley",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "WHEATLEY STW, WHEATLEY, OXON",
       "cid": "CSSC.2332",
       "c": "Henley",
@@ -2493,6 +2514,13 @@
       "a": "a-24"
     },
     {
+      "p": "WHEATLEY STW, WHEATLEY, OXON",
+      "cid": "CSSC.2332",
+      "c": "Henley",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "THAME WWTW",
       "cid": "CTCR.1158",
       "c": "Henley",
@@ -3116,6 +3144,13 @@
       "a": "a-24"
     },
     {
+      "p": "THAME WWTW",
+      "cid": "CTCR.1158",
+      "c": "Henley",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "BLETCHINGDON WWTW",
       "cid": "NPSWQD002610",
       "c": "Henley",
@@ -3739,6 +3774,13 @@
       "a": "a-24"
     },
     {
+      "p": "BLETCHINGDON WWTW",
+      "cid": "NPSWQD002610",
+      "c": "Henley",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "Littlemore Low Level",
       "cid": "TEMP.1358",
       "c": "Henley",
@@ -4359,6 +4401,13 @@
       "cid": "TEMP.1358",
       "c": "Henley",
       "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
+      "p": "Littlemore Low Level",
+      "cid": "TEMP.1358",
+      "c": "Henley",
+      "d": "2023-02-28",
       "a": "a-24"
     },
     {
@@ -4985,6 +5034,13 @@
       "a": "a-24"
     },
     {
+      "p": "Weston-on-the-green STW Pumping Sta",
+      "cid": "TEMP.2220",
+      "c": "Henley",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "CHALGROVE WWTW",
       "cid": "TEMP.2462",
       "c": "Henley",
@@ -5605,6 +5661,13 @@
       "cid": "TEMP.2462",
       "c": "Henley",
       "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
+      "p": "CHALGROVE WWTW",
+      "cid": "TEMP.2462",
+      "c": "Henley",
+      "d": "2023-02-28",
       "a": "a-24"
     },
     {
@@ -6231,6 +6294,13 @@
       "a": "a-24"
     },
     {
+      "p": "CHARLTON-ON-OTMOOR WWTW",
+      "cid": "TEMP.2467",
+      "c": "Henley",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "CHINNOR WWTW",
       "cid": "TEMP.2480",
       "c": "Henley",
@@ -6851,6 +6921,13 @@
       "cid": "TEMP.2480",
       "c": "Henley",
       "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
+      "p": "CHINNOR WWTW",
+      "cid": "TEMP.2480",
+      "c": "Henley",
+      "d": "2023-02-28",
       "a": "a-24"
     },
     {
@@ -7477,6 +7554,13 @@
       "a": "a-24"
     },
     {
+      "p": "ISLIP (NEW) WWTW",
+      "cid": "TEMP.2692",
+      "c": "Henley",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "LITTLE MILTON WWTW",
       "cid": "TEMP.2725",
       "c": "Henley",
@@ -8097,6 +8181,13 @@
       "cid": "TEMP.2725",
       "c": "Henley",
       "d": "2023-02-27",
+      "a": "a-24"
+    },
+    {
+      "p": "LITTLE MILTON WWTW",
+      "cid": "TEMP.2725",
+      "c": "Henley",
+      "d": "2023-02-28",
       "a": "a-24"
     },
     {
@@ -8723,6 +8814,13 @@
       "a": "a-24"
     },
     {
+      "p": "TETSWORTH WWTW",
+      "cid": "TEMP.2949",
+      "c": "Henley",
+      "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
       "p": "WESTON-ON-THE-GREEN WWTW",
       "cid": "TEMP.3002",
       "c": "Henley",
@@ -9344,6 +9442,13 @@
       "c": "Henley",
       "d": "2023-02-27",
       "a": "a-24"
+    },
+    {
+      "p": "WESTON-ON-THE-GREEN WWTW",
+      "cid": "TEMP.3002",
+      "c": "Henley",
+      "d": "2023-02-28",
+      "a": "a-24"
     }
   ],
   "count": 15,
@@ -9436,6 +9541,7 @@
     "2023-02-24",
     "2023-02-25",
     "2023-02-26",
-    "2023-02-27"
+    "2023-02-27",
+    "2023-02-28"
   ]
 }
