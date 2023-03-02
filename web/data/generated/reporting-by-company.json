@@ -2139,13 +2139,13 @@
     "reporting_year": 2021,
     "bin": 90.0,
     "company_name": "Wessex Water",
-    "count": 62
+    "count": 63
   },
   {
     "reporting_year": 2021,
     "bin": 95.0,
     "company_name": "Wessex Water",
-    "count": 794
+    "count": 793
   },
   {
     "reporting_year": 2021,
@@ -2169,13 +2169,13 @@
     "reporting_year": 2021,
     "bin": 10.0,
     "company_name": "Yorkshire Water",
-    "count": 2
+    "count": 3
   },
   {
     "reporting_year": 2021,
     "bin": 15.0,
     "company_name": "Yorkshire Water",
-    "count": 3
+    "count": 2
   },
   {
     "reporting_year": 2021,
@@ -2187,25 +2187,25 @@
     "reporting_year": 2021,
     "bin": 25.0,
     "company_name": "Yorkshire Water",
-    "count": 4
+    "count": 6
   },
   {
     "reporting_year": 2021,
     "bin": 30.0,
     "company_name": "Yorkshire Water",
-    "count": 8
+    "count": 6
   },
   {
     "reporting_year": 2021,
     "bin": 35.0,
     "company_name": "Yorkshire Water",
-    "count": 8
+    "count": 9
   },
   {
     "reporting_year": 2021,
     "bin": 40.0,
     "company_name": "Yorkshire Water",
-    "count": 12
+    "count": 11
   },
   {
     "reporting_year": 2021,
@@ -2217,7 +2217,7 @@
     "reporting_year": 2021,
     "bin": 50.0,
     "company_name": "Yorkshire Water",
-    "count": 11
+    "count": 12
   },
   {
     "reporting_year": 2021,
@@ -2247,7 +2247,7 @@
     "reporting_year": 2021,
     "bin": 75.0,
     "company_name": "Yorkshire Water",
-    "count": 52
+    "count": 51
   },
   {
     "reporting_year": 2021,
@@ -2259,7 +2259,7 @@
     "reporting_year": 2021,
     "bin": 85.0,
     "company_name": "Yorkshire Water",
-    "count": 76
+    "count": 77
   },
   {
     "reporting_year": 2021,
@@ -2271,12 +2271,12 @@
     "reporting_year": 2021,
     "bin": 95.0,
     "company_name": "Yorkshire Water",
-    "count": 1253
+    "count": 1446
   },
   {
     "reporting_year": 2021,
     "bin": 100.0,
     "company_name": "Yorkshire Water",
-    "count": 342
+    "count": 148
   }
 ]

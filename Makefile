@@ -17,10 +17,11 @@ all: generated
 .PHONY: python
 python: $(PYTHON)
 
-.python_uptodate: requirements-dev.txt
+.python_uptodate: requirements.txt
 	python3 -m venv venv
 	$(PYTHON) -m pip install --upgrade pip
 	$(PIP) install -r $<
+	patch --forward -p0 -i python-patch.patch || true  #bit yuk
 	touch $@
 
 $(PYTHON): .python_uptodate
