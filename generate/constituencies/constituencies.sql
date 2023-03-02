@@ -1,4 +1,4 @@
-with settings as (select 0.005 as tolerance)
+with settings as (select 0.0005 as tolerance)
 select pcon20nm                                                           as name,
        mps.first_name, mps.last_name,
        mps_twitter.screen_name,
