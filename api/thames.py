@@ -5,6 +5,7 @@ from typing import List, Optional, Mapping
 
 import requests
 from requests.adapters import HTTPAdapter, Retry
+from statemachine import StateMachine, State
 
 
 @dataclasses.dataclass(frozen=True)
@@ -119,6 +120,45 @@ class TWApi:
                 "value_2": start_date.isoformat()
             }
         )
+
+
+class ThamesMonitorState(StateMachine):
+    unknown = State("Unknown", initial=True)
+    online = State("Online")
+    offline = State("Offline")
+    overflowing = State("Overflowing")
+    potentially_overflowing = State("Potentially Overflowing")
+
+    do_online = unknown.to(online) | offline.to(online) | potentially_overflowing.to(online) | online.to(online,
+                                                                                                         cond="online_to_online")
+    do_offline = unknown.to(offline) | online.to(offline) | overflowing.to(potentially_overflowing) | offline.to(
+        offline, cond="offline_to_offline") | potentially_overflowing.to(potentially_overflowing,
+                                                                         cond="offline_to_offline")
+    do_start = unknown.to(overflowing) | online.to(overflowing) | potentially_overflowing.to(overflowing)
+    do_stop = unknown.to(online) | online.to(online) | potentially_overflowing.to(online,
+                                                                                  cond="synthetic_stop") | potentially_overflowing.to(
+        potentially_overflowing) | overflowing.to(online) | offline.to(offline)
+
+    def __init__(self, cb):
+        self.last_event_time = None
+        super(ThamesMonitorState, self).__init__()
+        self.add_observer(cb)
+
+    def synthetic_stop(self, event_time):
+        if self.last_event_time is not None:
+            if event_time == self.last_event_time:
+                self.last_event_time = None
+                return False
+        return True
+
+    def on_enter_potentially_overflowing(self, event_time):
+        self.last_event_time = event_time
+
+    def offline_to_offline(self, event):
+        return True
+
+    def online_to_online(self, event):
+        return True
 
 
 if __name__ == "__main__":

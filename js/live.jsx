@@ -22,6 +22,7 @@ const tt_text = (date, domain) => {
 
 const colours = {
     domain: [
+        "r-0", "r-1", "r-2", "r-3", "r-4", "r-5", "r-6", "r-7", "r-8", "r-9", "r-10", // r = rainfall
         "a-0", "a-4", "a-8", "a-12", "a-16", "a-20", "a-24", // a = available (online)
         "z-0", "z-4", "z-8", "z-12", "z-16", "z-20", "z-24", // z = offline
         "o-0", "o-4", "o-8", "o-12", "o-16", "o-20", "o-24", // o = overflowing
@@ -29,6 +30,10 @@ const colours = {
         "u-0", "u-4", "u-8", "u-12", "u-16", "u-20", "u-24", // u = unknown
     ],
     range: [
+        '#ffffff', 'rgb(247,251,255)', 'rgb(225,237,248)','rgb(202,222,240)',
+        'rgb(171,207, 230)', 'rgb(130,186,219)', 'rgb(89,161,207)', 'rgb(55,135,192)',
+        'rgb(28,106,175)', 'rgb(11,77,148)', 'rgb(8,48,107)',
+
         "rgba(40,166,69,0.29)", "rgba(40,166,69,0.42)", "#28A64580", "#28A64580", "#28A64580", "#28A64580", "#28A64580",
         "rgba(102,102,102,0.6)", "rgba(102,102,102,0.7)", "rgba(110,110,110,0.9)", "#545454", "#444444", "#444444", "#333333",
         "#f7a974", "#fda863", "#d44a04", "#d44a04", "#d44a04", "#842904", "#842904",
@@ -43,7 +48,9 @@ const LiveDataHorizontalPlot = ({data}) => {
 
     const optionsFn = (Plot, data) => {
         const dates = data.dates.map(it => new Date(it))
-        const count = data.count
+
+        // count is number of CSOs + 1 for rainfall
+        const count = data.count + 1
 
         return {
             marginLeft: 150,
@@ -62,7 +69,17 @@ const LiveDataHorizontalPlot = ({data}) => {
             },
             marks: [
                 Plot.cell(
-                    data.data,
+                    data.rainfall,
+                    {
+                        x: d=> new Date(d.d),
+                        y: d => " Rainfall (mm)", //space -> will come first
+                        fill: "r",
+                        title: d => `${d.c} mm (75th percentile from ${d.n} nearby stations)`
+                    }
+                ),
+
+                Plot.cell(
+                    data.cso,
                     {
                         x: d => new Date(d.d),
                         y: "p",
@@ -102,7 +119,16 @@ const LiveDataVerticalPlot = ({data}) => {
             },
             marks: [
                 Plot.cell(
-                    data.data,
+                    data.rainfall,
+                    {
+                        y: d=> new Date(d.d),
+                        x: d => " Rainfall (mm)", //space -> will come first
+                        fill: "r",
+                        title: d => `${d.c} mm (75th percentile from ${d.n} nearby stations)`
+                    }
+                ),
+                Plot.cell(
+                    data.cso,
                     {
                         y: d => new Date(d.d),
                         x: "p",
@@ -138,7 +164,7 @@ const LiveDataCard = ({data}) => {
             <span style={ { "backgroundColor": "#3b9acb80" } }>&nbsp;&nbsp;&nbsp;&nbsp;</span><span> Unknown </span>
         </Card.Body>
         <Card.Footer>
-            Experimental derived data from <a href="https://data.thameswater.co.uk/s/">Thames Water</a> API, Some data may be missing or inaccurate.
+            Daily data is experimental and data is not guaranteed to be accurate. Please inform us of any issue, we will fix.
         </Card.Footer>
     </Card>
 }

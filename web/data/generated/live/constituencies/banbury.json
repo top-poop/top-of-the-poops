@@ -1,8194 +1,7632 @@
 {
-  "data": [
+  "cso": [
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-01",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-02",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-03",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-04",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-05",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-06",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-07",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-08",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-09",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-10",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-11",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-12",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-13",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-14",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-15",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-16",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-17",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-18",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-19",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-20",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-21",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-22",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-23",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-24",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-25",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-26",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-27",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-28",
       "a": "u-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-29",
       "a": "o-4"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-30",
       "a": "o-12"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2022-12-31",
       "a": "o-16"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-01",
       "a": "o-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-02",
       "a": "o-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-03",
       "a": "o-20"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-04",
       "a": "o-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-05",
       "a": "o-20"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-06",
       "a": "o-16"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-07",
       "a": "o-16"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-08",
       "a": "o-20"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-09",
       "a": "o-4"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-10",
       "a": "o-16"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-11",
       "a": "o-8"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-12",
       "a": "o-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-13",
       "a": "o-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-14",
       "a": "o-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-15",
       "a": "o-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-16",
       "a": "o-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-17",
       "a": "o-4"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-18",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-19",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-20",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-21",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-22",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-23",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-24",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-25",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-26",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-27",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-28",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-29",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-30",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-01-31",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-01",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-02",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-03",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-04",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-05",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-06",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-07",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-08",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-09",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-10",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-11",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-12",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-13",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-14",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-15",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-16",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-17",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-18",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-19",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-20",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-21",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-22",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-23",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-24",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-25",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-26",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-27",
       "a": "a-24"
     },
     {
       "p": "BICESTER WWTW",
       "cid": "CNTD.0023",
-      "c": "Banbury",
       "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
+      "p": "BICESTER WWTW",
+      "cid": "CNTD.0023",
+      "d": "2023-03-01",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-01",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-02",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-03",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-04",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-05",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-06",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-07",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-08",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-09",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-10",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-11",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-12",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-13",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-14",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-15",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-16",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-17",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-18",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-19",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-20",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-21",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-22",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-23",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-24",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-25",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-26",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-27",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-28",
       "a": "u-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-29",
       "a": "o-16"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-30",
       "a": "o-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2022-12-31",
       "a": "o-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-01",
       "a": "o-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-02",
       "a": "o-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-03",
       "a": "o-16"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-04",
       "a": "o-4"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-05",
       "a": "o-4"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-06",
       "a": "o-4"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-07",
       "a": "o-12"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-08",
       "a": "o-16"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-09",
       "a": "o-16"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-10",
       "a": "o-20"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-11",
       "a": "o-16"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-12",
       "a": "o-16"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-13",
       "a": "o-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-14",
       "a": "o-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-15",
       "a": "o-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-16",
       "a": "o-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-17",
       "a": "o-16"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-18",
       "a": "o-20"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-19",
       "a": "o-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-20",
       "a": "o-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-21",
       "a": "o-20"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-22",
       "a": "o-16"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-23",
       "a": "o-4"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-24",
       "a": "o-12"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-25",
       "a": "o-4"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-26",
       "a": "o-4"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-27",
       "a": "o-8"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-28",
       "a": "o-16"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-29",
       "a": "o-4"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-30",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-01-31",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-01",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-02",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-03",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-04",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-05",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-06",
       "a": "o-4"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-07",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-08",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-09",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-10",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-11",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-12",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-13",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-14",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-15",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-16",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-17",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-18",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-19",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-20",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-21",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-22",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-23",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-24",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-25",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-26",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-27",
       "a": "a-24"
     },
     {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
-      "c": "Banbury",
       "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
+      "p": "SHUTFORD WWTW",
+      "cid": "CSSC.1434",
+      "d": "2023-03-01",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-01",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-02",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-03",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-04",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-05",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-06",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-07",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-08",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-09",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-10",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-11",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-12",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-13",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-14",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-15",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-16",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-17",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-18",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-19",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-20",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-21",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-22",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-23",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-24",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-25",
       "a": "u-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-26",
       "a": "o-20"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-27",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-28",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-29",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-30",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2022-12-31",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-01",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-02",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-03",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-04",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-05",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-06",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-07",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-08",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-09",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-10",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-11",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-12",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-13",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-14",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-15",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-16",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-17",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-18",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-19",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-20",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-21",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-22",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-23",
       "a": "o-16"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-24",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-25",
       "a": "o-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-26",
       "a": "o-16"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-27",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-28",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-29",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-30",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-01-31",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-01",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-02",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-03",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-04",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-05",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-06",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-07",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-08",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-09",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-10",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-11",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-12",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-13",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-14",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-15",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-16",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-17",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-18",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-19",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-20",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-21",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-22",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-23",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-24",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-25",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-26",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-27",
       "a": "a-24"
     },
     {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
-      "c": "Banbury",
       "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
+      "p": "BLOXHAM STW, BLOXHAM, OXON",
+      "cid": "CSSC.2458",
+      "d": "2023-03-01",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-01",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-02",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-03",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-04",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-05",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-06",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-07",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-08",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-09",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-10",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-11",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-12",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-13",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-14",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-15",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-16",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-17",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-18",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-19",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-20",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-21",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-22",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-23",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-24",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-25",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-26",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-27",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-28",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-29",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-30",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2022-12-31",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-01",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-02",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-03",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-04",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-05",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-06",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-07",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-08",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-09",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-10",
       "a": "u-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-11",
       "a": "o-4"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-12",
       "a": "o-12"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-13",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-14",
       "a": "o-12"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-15",
       "a": "o-4"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-16",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-17",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-18",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-19",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-20",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-21",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-22",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-23",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-24",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-25",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-26",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-27",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-28",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-29",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-30",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-01-31",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-01",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-02",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-03",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-04",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-05",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-06",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-07",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-08",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-09",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-10",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-11",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-12",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-13",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-14",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-15",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-16",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-17",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-18",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-19",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-20",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-21",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-22",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-23",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-24",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-25",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-26",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-27",
       "a": "a-24"
     },
     {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
-      "c": "Banbury",
       "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
+      "p": "HOOK NORTON STW, HOOK NORTON, OXON",
+      "cid": "CTCR.1796",
+      "d": "2023-03-01",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-01",
       "a": "u-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-02",
       "a": "u-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-03",
       "a": "u-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-04",
       "a": "u-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-05",
       "a": "u-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-06",
       "a": "u-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-07",
       "a": "u-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-08",
       "a": "u-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-09",
       "a": "u-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-10",
       "a": "u-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-11",
       "a": "u-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-12",
       "a": "u-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-13",
       "a": "u-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-14",
       "a": "u-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-15",
       "a": "u-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-16",
       "a": "u-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-17",
       "a": "u-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-18",
       "a": "u-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-19",
       "a": "u-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-20",
       "a": "o-4"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-21",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-22",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-23",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-24",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-25",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-26",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-27",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-28",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-29",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-30",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2022-12-31",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-01",
       "a": "o-4"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-02",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-03",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-04",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-05",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-06",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-07",
       "a": "o-4"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-08",
       "a": "o-4"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-09",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-10",
       "a": "o-4"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-11",
       "a": "o-4"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-12",
       "a": "o-8"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-13",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-14",
       "a": "o-8"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-15",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-16",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-17",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-18",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-19",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-20",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-21",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-22",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-23",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-24",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-25",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-26",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-27",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-28",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-29",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-30",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-01-31",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-01",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-02",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-03",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-04",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-05",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-06",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-07",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-08",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-09",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-10",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-11",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-12",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-13",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-14",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-15",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-16",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-17",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-18",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-19",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-20",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-21",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-22",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-23",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-24",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-25",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-26",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-27",
       "a": "a-24"
     },
     {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
-      "c": "Banbury",
       "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
+      "p": "WARDINGTON SPS",
+      "cid": "CTCR.1833",
+      "d": "2023-03-01",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-01",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-02",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-03",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-04",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-05",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-06",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-07",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-08",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-09",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-10",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-11",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-12",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-13",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-14",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-15",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-16",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-17",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-18",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-19",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-20",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-21",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-22",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-23",
       "a": "u-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-24",
       "a": "o-4"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-25",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-26",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-27",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-28",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-29",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-30",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2022-12-31",
       "a": "o-12"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-01",
       "a": "o-16"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-02",
       "a": "o-16"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-03",
       "a": "o-16"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-04",
       "a": "o-16"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-05",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-06",
       "a": "o-4"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-07",
       "a": "o-16"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-08",
       "a": "o-20"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-09",
       "a": "o-8"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-10",
       "a": "o-16"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-11",
       "a": "o-16"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-12",
       "a": "o-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-13",
       "a": "o-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-14",
       "a": "o-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-15",
       "a": "o-20"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-16",
       "a": "o-16"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-17",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-18",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-19",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-20",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-21",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-22",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-23",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-24",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-25",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-26",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-27",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-28",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-29",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-30",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-01-31",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-01",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-02",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-03",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-04",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-05",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-06",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-07",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-08",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-09",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-10",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-11",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-12",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-13",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-14",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-15",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-16",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-17",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-18",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-19",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-20",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-21",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-22",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-23",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-24",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-25",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-26",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-27",
       "a": "a-24"
     },
     {
       "p": "BANBURY WWTW",
       "cid": "CTCR.1867",
-      "c": "Banbury",
       "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
+      "p": "BANBURY WWTW",
+      "cid": "CTCR.1867",
+      "d": "2023-03-01",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-01",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-02",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-03",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-04",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-05",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-06",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-07",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-08",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-09",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-10",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-11",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-12",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-13",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-14",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-15",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-16",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-17",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-18",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-19",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-20",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-21",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-22",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-23",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-24",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-25",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-26",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-27",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-28",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-29",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-30",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2022-12-31",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-01",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-02",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-03",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-04",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-05",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-06",
       "a": "u-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-07",
       "a": "o-4"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-08",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-09",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-10",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-11",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-12",
       "a": "o-4"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-13",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-14",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-15",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-16",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-17",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-18",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-19",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-20",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-21",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-22",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-23",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-24",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-25",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-26",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-27",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-28",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-29",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-30",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-01-31",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-01",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-02",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-03",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-04",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-05",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-06",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-07",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-08",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-09",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-10",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-11",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-12",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-13",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-14",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-15",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-16",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-17",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-18",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-19",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-20",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-21",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-22",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-23",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-24",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-25",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-26",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-27",
       "a": "a-24"
     },
     {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
-      "c": "Banbury",
       "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
+      "p": "CLIFTON WWTW",
+      "cid": "TEMP.0707",
+      "d": "2023-03-01",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-01",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-02",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-03",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-04",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-05",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-06",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-07",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-08",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-09",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-10",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-11",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-12",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-13",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-14",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-15",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-16",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-17",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-18",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-19",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-20",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-21",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-22",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-23",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-24",
       "a": "u-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-25",
       "a": "o-8"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-26",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-27",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-28",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-29",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-30",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2022-12-31",
       "a": "o-8"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-01",
       "a": "o-16"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-02",
       "a": "o-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-03",
       "a": "o-20"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-04",
       "a": "o-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-05",
       "a": "o-8"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-06",
       "a": "o-16"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-07",
       "a": "o-20"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-08",
       "a": "o-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-09",
       "a": "o-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-10",
       "a": "o-16"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-11",
       "a": "o-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-12",
       "a": "o-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-13",
       "a": "o-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-14",
       "a": "o-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-15",
       "a": "o-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-16",
       "a": "o-16"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-17",
       "a": "o-4"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-18",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-19",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-20",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-21",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-22",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-23",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-24",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-25",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-26",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-27",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-28",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-29",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-30",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-01-31",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-01",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-02",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-03",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-04",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-05",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-06",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-07",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-08",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-09",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-10",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-11",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-12",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-13",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-14",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-15",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-16",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-17",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-18",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-19",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-20",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-21",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-22",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-23",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-24",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-25",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-26",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-27",
       "a": "a-24"
     },
     {
       "p": "CROPREDY WWTW",
       "cid": "TEMP.2506",
-      "c": "Banbury",
       "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
+      "p": "CROPREDY WWTW",
+      "cid": "TEMP.2506",
+      "d": "2023-03-01",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-01",
       "a": "u-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-02",
       "a": "u-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-03",
       "a": "u-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-04",
       "a": "u-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-05",
       "a": "u-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-06",
       "a": "u-20"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-07",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-08",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-09",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-10",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-11",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-12",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-13",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-14",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-15",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-16",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-17",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-18",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-19",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-20",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-21",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-22",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-23",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-24",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-25",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-26",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-27",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-28",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-29",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-30",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2022-12-31",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-01",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-02",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-03",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-04",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-05",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-06",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-07",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-08",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-09",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-10",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-11",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-12",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-13",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-14",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-15",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-16",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-17",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-18",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-19",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-20",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-21",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-22",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-23",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-24",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-25",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-26",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-27",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-28",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-29",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-30",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-01-31",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-01",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-02",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-03",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-04",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-05",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-06",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-07",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-08",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-09",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-10",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-11",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-12",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-13",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-14",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-15",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-16",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-17",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-18",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-19",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-20",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-21",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-22",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-23",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-24",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-25",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-26",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-27",
       "a": "a-24"
     },
     {
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
-      "c": "Banbury",
       "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
+      "p": "Fergusson Road, Banbury",
+      "cid": "TEMP.2606",
+      "d": "2023-03-01",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-01",
       "a": "u-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-02",
       "a": "u-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-03",
       "a": "u-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-04",
       "a": "u-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-05",
       "a": "u-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-06",
       "a": "u-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-07",
       "a": "u-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-08",
       "a": "u-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-09",
       "a": "u-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-10",
       "a": "u-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-11",
       "a": "u-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-12",
       "a": "u-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-13",
       "a": "u-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-14",
       "a": "u-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-15",
       "a": "u-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-16",
       "a": "u-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-17",
       "a": "u-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-18",
       "a": "u-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-19",
       "a": "u-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-20",
       "a": "u-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-21",
       "a": "u-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-22",
       "a": "u-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-23",
       "a": "o-4"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-24",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-25",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-26",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-27",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-28",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-29",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-30",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2022-12-31",
       "a": "o-4"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-01",
       "a": "o-8"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-02",
       "a": "o-8"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-03",
       "a": "o-4"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-04",
       "a": "o-4"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-05",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-06",
       "a": "o-4"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-07",
       "a": "o-16"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-08",
       "a": "o-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-09",
       "a": "o-16"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-10",
       "a": "o-20"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-11",
       "a": "o-20"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-12",
       "a": "o-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-13",
       "a": "o-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-14",
       "a": "o-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-15",
       "a": "o-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-16",
       "a": "o-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-17",
       "a": "o-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-18",
       "a": "o-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-19",
       "a": "o-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-20",
       "a": "o-20"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-21",
       "a": "o-12"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-22",
       "a": "o-8"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-23",
       "a": "o-4"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-24",
       "a": "o-20"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-25",
       "a": "o-12"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-26",
       "a": "o-4"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-27",
       "a": "o-4"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-28",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-29",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-30",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-01-31",
       "a": "z-12"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-01",
       "a": "z-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-02",
       "a": "z-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-03",
       "a": "z-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-04",
       "a": "z-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-05",
       "a": "z-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-06",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-07",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-08",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-09",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-10",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-11",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-12",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-13",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-14",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-15",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-16",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-17",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-18",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-19",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-20",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-21",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-22",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-23",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-24",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-25",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-26",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-27",
       "a": "a-24"
     },
     {
       "p": "HANWELL WWTW",
       "cid": "TEMP.2648",
-      "c": "Banbury",
       "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
+      "p": "HANWELL WWTW",
+      "cid": "TEMP.2648",
+      "d": "2023-03-01",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-01",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-02",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-03",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-04",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-05",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-06",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-07",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-08",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-09",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-10",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-11",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-12",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-13",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-14",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-15",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-16",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-17",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-18",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-19",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-20",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-21",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-22",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-23",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-24",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-25",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-26",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-27",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-28",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-29",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-30",
       "a": "u-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2022-12-31",
       "a": "o-12"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-01",
       "a": "o-8"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-02",
       "a": "o-4"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-03",
       "a": "o-4"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-04",
       "a": "o-4"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-05",
       "a": "o-4"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-06",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-07",
       "a": "o-12"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-08",
       "a": "o-8"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-09",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-10",
       "a": "o-4"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-11",
       "a": "o-4"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-12",
       "a": "o-16"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-13",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-14",
       "a": "o-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-15",
       "a": "o-16"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-16",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-17",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-18",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-19",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-20",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-21",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-22",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-23",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-24",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-25",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-26",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-27",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-28",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-29",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-30",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-01-31",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-01",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-02",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-03",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-04",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-05",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-06",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-07",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-08",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-09",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-10",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-11",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-12",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-13",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-14",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-15",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-16",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-17",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-18",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-19",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-20",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-21",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-22",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-23",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-24",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-25",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-26",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-27",
       "a": "a-24"
     },
     {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
-      "c": "Banbury",
       "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
+      "p": "HEYFORD WWTW",
+      "cid": "TEMP.2658",
+      "d": "2023-03-01",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-01",
       "a": "u-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-02",
       "a": "u-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-03",
       "a": "u-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-04",
       "a": "u-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-05",
       "a": "u-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-06",
       "a": "u-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-07",
       "a": "u-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-08",
       "a": "u-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-09",
       "a": "u-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-10",
       "a": "u-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-11",
       "a": "u-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-12",
       "a": "u-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-13",
       "a": "u-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-14",
       "a": "u-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-15",
       "a": "u-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-16",
       "a": "u-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-17",
       "a": "u-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-18",
       "a": "u-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-19",
       "a": "u-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-20",
       "a": "u-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-21",
       "a": "u-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-22",
       "a": "u-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-23",
       "a": "o-4"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-24",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-25",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-26",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-27",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-28",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-29",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-30",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2022-12-31",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-01",
       "a": "o-8"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-02",
       "a": "o-4"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-03",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-04",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-05",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-06",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-07",
       "a": "o-12"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-08",
       "a": "o-4"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-09",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-10",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-11",
       "a": "o-4"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-12",
       "a": "o-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-13",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-14",
       "a": "o-8"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-15",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-16",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-17",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-18",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-19",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-20",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-21",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-22",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-23",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-24",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-25",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-26",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-27",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-28",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-29",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-30",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-01-31",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-01",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-02",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-03",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-04",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-05",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-06",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-07",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-08",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-09",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-10",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-11",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-12",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-13",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-14",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-15",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-16",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-17",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-18",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-19",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-20",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-21",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-22",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-23",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-24",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-25",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-26",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-27",
       "a": "a-24"
     },
     {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
-      "c": "Banbury",
       "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
+      "p": "HORLEY (OXON) WWTW",
+      "cid": "TEMP.2667",
+      "d": "2023-03-01",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-01",
       "a": "u-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-02",
       "a": "u-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-03",
       "a": "u-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-04",
       "a": "u-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-05",
       "a": "u-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-06",
       "a": "u-16"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-07",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-08",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-09",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-10",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-11",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-12",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-13",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-14",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-15",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-16",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-17",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-18",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-19",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-20",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-21",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-22",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-23",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-24",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-25",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-26",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-27",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-28",
       "a": "o-4"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-29",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-30",
       "a": "o-4"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2022-12-31",
       "a": "o-12"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-01",
       "a": "o-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-02",
       "a": "o-8"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-03",
       "a": "o-16"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-04",
       "a": "o-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-05",
       "a": "o-4"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-06",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-07",
       "a": "o-4"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-08",
       "a": "o-4"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-09",
       "a": "o-4"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-10",
       "a": "o-4"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-11",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-12",
       "a": "o-12"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-13",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-14",
       "a": "o-20"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-15",
       "a": "o-12"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-16",
       "a": "o-20"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-17",
       "a": "o-16"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-18",
       "a": "o-20"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-19",
       "a": "o-8"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-20",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-21",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-22",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-23",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-24",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-25",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-26",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-27",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-28",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-29",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-30",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-01-31",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-01",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-02",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-03",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-04",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-05",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-06",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-07",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-08",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-09",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-10",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-11",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-12",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-13",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-14",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-15",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-16",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-17",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-18",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-19",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-20",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-21",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-22",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-23",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-24",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-25",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-26",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-27",
       "a": "a-24"
     },
     {
       "p": "MIDDLETON STONEY WWTW",
       "cid": "TEMP.2773",
-      "c": "Banbury",
       "d": "2023-02-28",
       "a": "a-24"
+    },
+    {
+      "p": "MIDDLETON STONEY WWTW",
+      "cid": "TEMP.2773",
+      "d": "2023-03-01",
+      "a": "a-24"
+    }
+  ],
+  "rainfall": [
+    {
+      "d": "2022-12-02",
+      "c": 0.2,
+      "r": "r-1",
+      "n": 2
+    },
+    {
+      "d": "2022-12-03",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 2
+    },
+    {
+      "d": "2022-12-04",
+      "c": 0.27,
+      "r": "r-1",
+      "n": 2
+    },
+    {
+      "d": "2022-12-05",
+      "c": 1.3,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2022-12-06",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2022-12-07",
+      "c": 0.2,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2022-12-08",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2022-12-09",
+      "c": 0.01,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2022-12-10",
+      "c": 0.03,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2022-12-11",
+      "c": 0.8,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2022-12-12",
+      "c": 0.77,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2022-12-13",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 3
+    },
+    {
+      "d": "2022-12-14",
+      "c": 0.02,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2022-12-15",
+      "c": 0.36,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2022-12-16",
+      "c": 0.06,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2022-12-17",
+      "c": 0.08,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2022-12-18",
+      "c": 8.98,
+      "r": "r-5",
+      "n": 3
+    },
+    {
+      "d": "2022-12-19",
+      "c": 9.7,
+      "r": "r-5",
+      "n": 3
+    },
+    {
+      "d": "2022-12-20",
+      "c": 9.5,
+      "r": "r-5",
+      "n": 3
+    },
+    {
+      "d": "2022-12-21",
+      "c": 3.33,
+      "r": "r-2",
+      "n": 3
+    },
+    {
+      "d": "2022-12-22",
+      "c": 3.9,
+      "r": "r-2",
+      "n": 3
+    },
+    {
+      "d": "2022-12-23",
+      "c": 6.85,
+      "r": "r-4",
+      "n": 3
+    },
+    {
+      "d": "2022-12-24",
+      "c": 1.5,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2022-12-25",
+      "c": 6.99,
+      "r": "r-4",
+      "n": 3
+    },
+    {
+      "d": "2022-12-26",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2022-12-27",
+      "c": 2.9,
+      "r": "r-2",
+      "n": 3
+    },
+    {
+      "d": "2022-12-28",
+      "c": 6.46,
+      "r": "r-4",
+      "n": 3
+    },
+    {
+      "d": "2022-12-29",
+      "c": 0.4,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2022-12-30",
+      "c": 5.09,
+      "r": "r-3",
+      "n": 3
+    },
+    {
+      "d": "2022-12-31",
+      "c": 15.63,
+      "r": "r-8",
+      "n": 3
+    },
+    {
+      "d": "2023-01-01",
+      "c": 9.0,
+      "r": "r-5",
+      "n": 3
+    },
+    {
+      "d": "2023-01-02",
+      "c": 0.3,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-01-03",
+      "c": 5.5,
+      "r": "r-3",
+      "n": 3
+    },
+    {
+      "d": "2023-01-04",
+      "c": 2.0,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-01-05",
+      "c": 1.91,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-01-06",
+      "c": 2.8,
+      "r": "r-2",
+      "n": 3
+    },
+    {
+      "d": "2023-01-07",
+      "c": 12.0,
+      "r": "r-6",
+      "n": 3
+    },
+    {
+      "d": "2023-01-08",
+      "c": 1.9,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-01-09",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-01-10",
+      "c": 7.0,
+      "r": "r-4",
+      "n": 3
+    },
+    {
+      "d": "2023-01-11",
+      "c": 7.2,
+      "r": "r-4",
+      "n": 3
+    },
+    {
+      "d": "2023-01-12",
+      "c": 11.2,
+      "r": "r-6",
+      "n": 3
+    },
+    {
+      "d": "2023-01-13",
+      "c": 0.2,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-01-14",
+      "c": 11.1,
+      "r": "r-6",
+      "n": 3
+    },
+    {
+      "d": "2023-01-15",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 3
+    },
+    {
+      "d": "2023-01-16",
+      "c": 0.58,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-01-17",
+      "c": 0.2,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-01-18",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-01-19",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-01-20",
+      "c": 0.2,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-01-21",
+      "c": 0.05,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-01-22",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-01-23",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-01-24",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-01-25",
+      "c": 0.77,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-01-26",
+      "c": 0.2,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-01-27",
+      "c": 0.3,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-01-28",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 3
+    },
+    {
+      "d": "2023-01-29",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 3
+    },
+    {
+      "d": "2023-01-30",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 3
+    },
+    {
+      "d": "2023-01-31",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-02-01",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 3
+    },
+    {
+      "d": "2023-02-02",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 3
+    },
+    {
+      "d": "2023-02-03",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 3
+    },
+    {
+      "d": "2023-02-04",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 3
+    },
+    {
+      "d": "2023-02-05",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-02-06",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-02-07",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 3
+    },
+    {
+      "d": "2023-02-08",
+      "c": 0.01,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-02-09",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-02-10",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-02-11",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 2
+    },
+    {
+      "d": "2023-02-12",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 3
+    },
+    {
+      "d": "2023-02-13",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 3
+    },
+    {
+      "d": "2023-02-14",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-02-15",
+      "c": 0.36,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-02-16",
+      "c": 0.31,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-02-17",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 3
+    },
+    {
+      "d": "2023-02-18",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 3
+    },
+    {
+      "d": "2023-02-19",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 3
+    },
+    {
+      "d": "2023-02-20",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 3
+    },
+    {
+      "d": "2023-02-21",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 3
+    },
+    {
+      "d": "2023-02-22",
+      "c": 4.6,
+      "r": "r-3",
+      "n": 3
+    },
+    {
+      "d": "2023-02-23",
+      "c": 0.18,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-02-24",
+      "c": 0.2,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-02-25",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 3
+    },
+    {
+      "d": "2023-02-26",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 3
+    },
+    {
+      "d": "2023-02-27",
+      "c": 1.16,
+      "r": "r-1",
+      "n": 3
     }
   ],
   "count": 13,
@@ -8282,6 +7720,7 @@
     "2023-02-25",
     "2023-02-26",
     "2023-02-27",
-    "2023-02-28"
+    "2023-02-28",
+    "2023-03-01"
   ]
 }

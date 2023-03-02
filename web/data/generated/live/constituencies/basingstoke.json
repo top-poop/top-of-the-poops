@@ -1,1264 +1,1626 @@
 {
-  "data": [
+  "cso": [
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-01",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-02",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-03",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-04",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-05",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-06",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-07",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-08",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-09",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-10",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-11",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-12",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-13",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-14",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-15",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-16",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-17",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-18",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-19",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-20",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-21",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-22",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-23",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-24",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-25",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-26",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-27",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-28",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-29",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-30",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2022-12-31",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-01",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-02",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-03",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-04",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-05",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-06",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-07",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-08",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-09",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-10",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-11",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-12",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-13",
       "a": "u-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-14",
       "a": "o-12"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-15",
       "a": "o-4"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-16",
       "a": "o-20"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-17",
       "a": "o-4"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-18",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-19",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-20",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-21",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-22",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-23",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-24",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-25",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-26",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-27",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-28",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-29",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-30",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-01-31",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-01",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-02",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-03",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-04",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-05",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-06",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-07",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-08",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-09",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-10",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-11",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-12",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-13",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-14",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-15",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-16",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-17",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-18",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-19",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-20",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-21",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-22",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-23",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-24",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-25",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-26",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-27",
       "a": "a-24"
     },
     {
       "p": "BASINGSTOKE WWTW",
       "cid": "CTCR.0875",
-      "c": "Basingstoke",
       "d": "2023-02-28",
+      "a": "a-24"
+    },
+    {
+      "p": "BASINGSTOKE WWTW",
+      "cid": "CTCR.0875",
+      "d": "2023-03-01",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-01",
       "a": "u-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-02",
       "a": "u-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-03",
       "a": "u-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-04",
       "a": "u-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-05",
       "a": "u-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-06",
       "a": "u-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-07",
       "a": "u-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-08",
       "a": "u-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-09",
       "a": "u-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-10",
       "a": "u-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-11",
       "a": "o-4"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-12",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-13",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-14",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-15",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-16",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-17",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-18",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-19",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-20",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-21",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-22",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-23",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-24",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-25",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-26",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-27",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-28",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-29",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-30",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2022-12-31",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-01",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-02",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-03",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-04",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-05",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-06",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-07",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-08",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-09",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-10",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-11",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-12",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-13",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-14",
       "a": "o-12"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-15",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-16",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-17",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-18",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-19",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-20",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-21",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-22",
       "a": "o-4"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-23",
       "a": "o-4"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-24",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-25",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-26",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-27",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-28",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-29",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-30",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-01-31",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-01",
       "a": "o-8"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-02",
       "a": "o-8"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-03",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-04",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-05",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-06",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-07",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-08",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-09",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-10",
       "a": "o-4"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-11",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-12",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-13",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-14",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-15",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-16",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-17",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-18",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-19",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-20",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-21",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-22",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-23",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-24",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-25",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-26",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-27",
       "a": "a-24"
     },
     {
       "p": "Water End",
       "cid": "TEMP.2184",
-      "c": "Basingstoke",
       "d": "2023-02-28",
       "a": "a-24"
+    },
+    {
+      "p": "Water End",
+      "cid": "TEMP.2184",
+      "d": "2023-03-01",
+      "a": "a-24"
+    }
+  ],
+  "rainfall": [
+    {
+      "d": "2022-12-02",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2022-12-03",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2022-12-04",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2022-12-05",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2022-12-06",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2022-12-07",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2022-12-08",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2022-12-09",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2022-12-10",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2022-12-11",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2022-12-12",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2022-12-13",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2022-12-14",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2022-12-15",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2022-12-16",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2022-12-17",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2022-12-18",
+      "c": 14.8,
+      "r": "r-8",
+      "n": 1
+    },
+    {
+      "d": "2022-12-19",
+      "c": 14.1,
+      "r": "r-8",
+      "n": 1
+    },
+    {
+      "d": "2022-12-20",
+      "c": 3.7,
+      "r": "r-2",
+      "n": 1
+    },
+    {
+      "d": "2022-12-21",
+      "c": 0.4,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2022-12-22",
+      "c": 0.3,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2022-12-23",
+      "c": 18.4,
+      "r": "r-10",
+      "n": 1
+    },
+    {
+      "d": "2022-12-24",
+      "c": 1.1,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2022-12-25",
+      "c": 3.5,
+      "r": "r-2",
+      "n": 1
+    },
+    {
+      "d": "2022-12-26",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2022-12-27",
+      "c": 7.3,
+      "r": "r-4",
+      "n": 1
+    },
+    {
+      "d": "2022-12-28",
+      "c": 7.5,
+      "r": "r-4",
+      "n": 1
+    },
+    {
+      "d": "2022-12-29",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2022-12-30",
+      "c": 5.0,
+      "r": "r-3",
+      "n": 1
+    },
+    {
+      "d": "2022-12-31",
+      "c": 12.9,
+      "r": "r-7",
+      "n": 1
+    },
+    {
+      "d": "2023-01-01",
+      "c": 5.5,
+      "r": "r-3",
+      "n": 1
+    },
+    {
+      "d": "2023-01-02",
+      "c": 0.4,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2023-01-03",
+      "c": 9.6,
+      "r": "r-5",
+      "n": 1
+    },
+    {
+      "d": "2023-01-04",
+      "c": 0.4,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2023-01-05",
+      "c": 0.8,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2023-01-06",
+      "c": 1.6,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2023-01-07",
+      "c": 8.2,
+      "r": "r-5",
+      "n": 1
+    },
+    {
+      "d": "2023-01-08",
+      "c": 17.4,
+      "r": "r-9",
+      "n": 1
+    },
+    {
+      "d": "2023-01-09",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2023-01-10",
+      "c": 6.6,
+      "r": "r-4",
+      "n": 1
+    },
+    {
+      "d": "2023-01-11",
+      "c": 6.2,
+      "r": "r-4",
+      "n": 1
+    },
+    {
+      "d": "2023-01-12",
+      "c": 9.9,
+      "r": "r-5",
+      "n": 1
+    },
+    {
+      "d": "2023-01-13",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-01-14",
+      "c": 20.3,
+      "r": "r-10",
+      "n": 1
+    },
+    {
+      "d": "2023-01-15",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-01-16",
+      "c": 14.2,
+      "r": "r-8",
+      "n": 1
+    },
+    {
+      "d": "2023-01-17",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-01-18",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2023-01-19",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2023-01-20",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-01-21",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-01-22",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2023-01-23",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-01-24",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-01-25",
+      "c": 0.8,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2023-01-26",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2023-01-27",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2023-01-28",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-01-29",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-01-30",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-01-31",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-02-01",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-02-02",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-02-03",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-02-04",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-02-05",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-02-06",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-02-07",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-02-08",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2023-02-09",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-02-10",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-02-11",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-02-12",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-02-13",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-02-14",
+      "c": 0.2,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2023-02-15",
+      "c": 0.4,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2023-02-16",
+      "c": 0.5,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2023-02-17",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-02-18",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2023-02-19",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-02-20",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-02-21",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-02-22",
+      "c": 2.7,
+      "r": "r-2",
+      "n": 1
+    },
+    {
+      "d": "2023-02-23",
+      "c": 0.3,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2023-02-24",
+      "c": 0.5,
+      "r": "r-1",
+      "n": 1
+    },
+    {
+      "d": "2023-02-25",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-02-26",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
+    },
+    {
+      "d": "2023-02-27",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
     }
   ],
   "count": 2,
@@ -1352,6 +1714,7 @@
     "2023-02-25",
     "2023-02-26",
     "2023-02-27",
-    "2023-02-28"
+    "2023-02-28",
+    "2023-03-01"
   ]
 }

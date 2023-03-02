@@ -9,7 +9,7 @@
 <div id="graph"></div>
 
 <script type="module">
-    import * as Plot from "https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6.3/+esm";
+    import * as Plot from "https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6.4/+esm";
     import * as htl from 'https://cdn.jsdelivr.net/npm/htl@0.3.1/+esm';
 
     const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0)
@@ -25,8 +25,15 @@
         return `${date}: ${t} up to ${v} hours`
     }
 
+
+    let rain_text = {
+        "r-0": "#000000", "r-1": "#000000", "r-2": "#000000", "r-3": "#000000", "r-4": "#000000",
+        "r-5": "#ffffff", "r-6": "#ffffff", "r-7": "#ffffff", "r-8": "#ffffff", "r-9": "#ffffff", "r-10": "#ffffff",
+    }
+
     let colours = {
         domain: [
+            "r-0", "r-1", "r-2", "r-3", "r-4", "r-5", "r-6", "r-7", "r-8", "r-9", "r-10",
             "a-0", "a-4", "a-8", "a-12", "a-16", "a-20", "a-24", // a = available (online)
             "z-0", "z-4", "z-8", "z-12", "z-16", "z-20", "z-24", // z = offline
             "o-0", "o-4", "o-8", "o-12", "o-16", "o-20", "o-24", // o = overflowing
@@ -34,6 +41,10 @@
             "u-0", "u-4", "u-8", "u-12", "u-16", "u-20", "u-24", // u = unknown
         ],
         range: [
+            '#ffffff', 'rgb(247,251,255)', 'rgb(225,237,248)','rgb(202,222,240)',
+            'rgb(171,207, 230)', 'rgb(130,186,219)', 'rgb(89,161,207)', 'rgb(55,135,192)',
+            'rgb(28,106,175)', 'rgb(11,77,148)', 'rgb(8,48,107)',
+
             "rgba(40,166,69,0.29)", "rgba(40,166,69,0.42)", "#28A64580", "#28A64580", "#28A64580", "#28A64580", "#28A64580",
             "rgba(102,102,102,0.6)", "rgba(102,102,102,0.7)", "rgba(110,110,110,0.9)", "#545454", "#444444", "#444444", "#333333",
             "#f7a974", "#fda863", "#d44a04", "#d44a04", "#d44a04", "#842904", "#842904",
@@ -51,7 +62,9 @@
                 const plot_data = data.data.reverse();
                 const count = data.count
 
-                document.getElementById("graph").appendChild(
+            console.log(rainfall_data)
+
+            document.getElementById("graph").appendChild(
                     Plot.plot({
                         caption: htl.html`<i>${constituency}</i>`,
                         marginTop: 150,
@@ -75,6 +88,23 @@
                             padding: 0.1,
                         },
                         marks: [
+                            Plot.cell(
+                                rainfall_data,
+                                {
+                                    y: "d",
+                                    x: "t",
+                                    fill: "c"
+                                }
+                            ),
+                            Plot.text(
+                                rainfall_data,
+                                {
+                                    y: "d",
+                                    x: "t",
+                                    text: "c",
+                                    fill: d => rain_text[d.c]
+                                }
+                            ),
                             Plot.cell(
                                 plot_data,
                                 {

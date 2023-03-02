@@ -293,11 +293,48 @@ const What = ({initial, data}) => {
                 <LiveData constituency={constituency}/>
             </Col>
         </Row>
+
+        <Row><Col>&nbsp;</Col></Row>
+        <Row><Col><h3 id="table">Pollution Summary 2021</h3></Col></Row>
+
         <Row className="mt-3">
             <Col>
                 <DumpTable dumps={relevant}/>
             </Col>
         </Row>
+
+        <Row><Col><h3 id="data">Data Sources & Accuracy</h3></Col></Row>
+
+        <Row>
+            <Col>
+                <p>
+                    Experimental derived data from <a href="https://data.thameswater.co.uk/s/">Thames Water</a> API, Some data may be missing or inaccurate.
+                    This uses Environment Agency rainfall data from the real-time data API (Beta) - Rainfall data is delayed by up to two days.
+                </p>
+                <p>
+                    This website is intended to provide an accurate representation of the Environment Agency
+                    data. The data is hard to use, and thus some errors may have been made. If you find something that is incorrect,
+                    please raise an issue at <a href="https://github.com/top-poop/top-of-the-poops/issues">the GitHub issues
+                    page</a> and we'll endeavour to fix it quickly.
+                </p>
+            </Col>
+        </Row>
+
+        <Row>
+            <Col>
+                <h3>Copyright</h3>
+            </Col>
+        </Row>
+
+        <Row>
+            <Col>
+                <p>(C) 2020, 2021 Top-Of-The-Poops CC-BY-SA 4.0, (C) Openstreetmap contributors, Contains OS
+                    data © Crown copyright and database right 2021</p>
+                <p>Full Copyright information available at: <a
+                    href="https://github.com/top-poop/top-of-the-poops/">our GitHub page</a></p>
+            </Col>
+        </Row>
+
     </Container>
 }
 
