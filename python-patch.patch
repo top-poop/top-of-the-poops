@@ -1,0 +1,32 @@
+--- venv2/lib/python3.10/site-packages/xlsx2csv.py	2023-03-02 14:19:14.118680690 +0000
++++ venv/lib/python3.10/site-packages/xlsx2csv.py	2023-03-02 14:13:15.216780680 +0000
+@@ -829,7 +829,9 @@
+             elif self.colType == "n":
+                 format_type = "float"
+ 
+-            if format_type and not format_type in self.ignore_formats:
++            if data == '#N/A':
++                self.data = data
++            elif format_type and not format_type in self.ignore_formats:
+                 try:
+                     if format_type == 'date':  # date/time
+                         if self.workbook.date1904:
+@@ -871,7 +873,7 @@
+                         self.data = ("%f" % (float(self.data))).rstrip('0').rstrip('.')
+ 
+                 except (ValueError, OverflowError):  # this catch must be removed, it's hiding potential problems
+-                    raise XlsxValueError("Error: potential invalid date format.")
++                    raise XlsxValueError(f"Error: potential invalid {format_type} format. - {format_str}")
+ 
+     def handleStartElement(self, name, attrs):
+         has_namespace = name.find(":") > 0
+@@ -890,7 +892,8 @@
+                     (name == 'v' or name == 'is') or (has_namespace and (name.endswith(':v') or name.endswith(':is')))):
+             self.in_cell_value = True
+             self.collected_string = ""
+-        elif self.in_sheet and (name == 'row' or (has_namespace and name.endswith(':row'))) and ('r' in attrs) and not ('hidden' in attrs and attrs['hidden'] == '1'):
++        elif self.in_sheet and (name == 'row' or (has_namespace and name.endswith(':row'))) and ('r' in attrs):
++#        elif self.in_sheet and (name == 'row' or (has_namespace and name.endswith(':row'))) and ('r' in attrs) and not ('hidden' in attrs and attrs['hidden'] == '1'):
+             self.rowNum = attrs['r']
+             self.in_row = True
+             self.colIndex = 0
