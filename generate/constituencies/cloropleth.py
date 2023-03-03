@@ -22,7 +22,7 @@ def iter_row(cursor, size=10):
         if not rows:
             break
         for row in rows:
-            yield { k:row[v] for k,v in columns.items()}
+            yield dict(zip(columns, row))
 
 
 MYDIR = os.path.dirname(__file__)
