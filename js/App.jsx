@@ -202,7 +202,7 @@ const DataMatch = () => {
 const ConstituencyInfo = ({feature}) => {
     return <React.Fragment>
         <b>{feature.properties.name}</b>
-        <br/>{formatNumber(feature.properties.total_hours, 2)} hours of sewage
+        <br/>{formatNumber(feature.properties.total_hours, 2)} hours of sewage, from {feature.properties.cso_count} outlets
     </React.Fragment>
 }
 

@@ -15,12 +15,14 @@ class DecimalEncoder(json.JSONEncoder):
         return json.JSONEncoder.default(self, obj)
 
 def iter_row(cursor, size=10):
+    columns = { desc[0]:i for i, desc in enumerate(cursor.description)}
+
     while True:
         rows = cursor.fetchmany(size)
         if not rows:
             break
         for row in rows:
-            yield row
+            yield { k:row[v] for k,v in columns.items()}
 
 
 MYDIR = os.path.dirname(__file__)
@@ -41,27 +43,21 @@ if __name__ == "__main__":
         with conn.cursor() as cursor:
             cursor.execute(sql)
 
-            columns = [desc[0] for desc in cursor.description]
-
             features = []
 
             for row in iter_row(cursor, 20):
-                (constituency, total_spills, total_hours,
-                 spills_increase, hours_increase, mp_name, mp_party, uri, screen_name, geom) = row
 
-                geometry = json.loads(geom)
+                geometry = json.loads(row["geometry"])
+                constituency = row["constituency"]
 
                 features.append({
                     "type": "Feature",
                     "id": kebabcase(constituency),
                     "properties": {
                         "name": constituency,
-                        "total_spills": total_spills,
-                        "total_hours": total_hours,
-                        "spills_increase": spills_increase,
-                        "hours_increase": hours_increase,
-                        "mp_name": mp_name,
-                        "mp_party": mp_party,
+                        "total_spills": row["total_spills"],
+                        "total_hours":  row["total_hours"],
+                        "cso_count":    row["cso_count"],
                     },
                     "geometry": geometry
                 })
