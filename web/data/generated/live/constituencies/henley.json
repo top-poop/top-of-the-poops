@@ -547,6 +547,12 @@
       "a": "a-24"
     },
     {
+      "p": "BENSON STW, HENLEY ROAD, BENSON, OX",
+      "cid": "CATM.3525",
+      "d": "2023-03-02",
+      "a": "a-24"
+    },
+    {
       "p": "CONSTABLE'S PIECE WWTW",
       "cid": "CAWM.1403",
       "d": "2022-12-01",
@@ -1093,6 +1099,12 @@
       "a": "a-24"
     },
     {
+      "p": "CONSTABLE'S PIECE WWTW",
+      "cid": "CAWM.1403",
+      "d": "2023-03-02",
+      "a": "a-24"
+    },
+    {
       "p": "HORTON-CUM-STUDLEY WWTW",
       "cid": "CNTD.0008",
       "d": "2022-12-01",
@@ -1639,6 +1651,12 @@
       "a": "a-24"
     },
     {
+      "p": "HORTON-CUM-STUDLEY WWTW",
+      "cid": "CNTD.0008",
+      "d": "2023-03-02",
+      "a": "a-24"
+    },
+    {
       "p": "WHEATLEY STW, WHEATLEY, OXON",
       "cid": "CSSC.2332",
       "d": "2022-12-01",
@@ -2185,6 +2203,12 @@
       "a": "a-24"
     },
     {
+      "p": "WHEATLEY STW, WHEATLEY, OXON",
+      "cid": "CSSC.2332",
+      "d": "2023-03-02",
+      "a": "a-24"
+    },
+    {
       "p": "THAME WWTW",
       "cid": "CTCR.1158",
       "d": "2022-12-01",
@@ -2731,6 +2755,12 @@
       "a": "a-24"
     },
     {
+      "p": "THAME WWTW",
+      "cid": "CTCR.1158",
+      "d": "2023-03-02",
+      "a": "a-24"
+    },
+    {
       "p": "BLETCHINGDON WWTW",
       "cid": "NPSWQD002610",
       "d": "2022-12-01",
@@ -3277,6 +3307,12 @@
       "a": "a-24"
     },
     {
+      "p": "BLETCHINGDON WWTW",
+      "cid": "NPSWQD002610",
+      "d": "2023-03-02",
+      "a": "a-24"
+    },
+    {
       "p": "Littlemore Low Level",
       "cid": "TEMP.1358",
       "d": "2022-12-01",
@@ -3820,6 +3856,12 @@
       "p": "Littlemore Low Level",
       "cid": "TEMP.1358",
       "d": "2023-03-01",
+      "a": "a-24"
+    },
+    {
+      "p": "Littlemore Low Level",
+      "cid": "TEMP.1358",
+      "d": "2023-03-02",
       "a": "a-24"
     },
     {
@@ -4369,6 +4411,12 @@
       "a": "a-24"
     },
     {
+      "p": "Weston-on-the-green STW Pumping Sta",
+      "cid": "TEMP.2220",
+      "d": "2023-03-02",
+      "a": "a-24"
+    },
+    {
       "p": "CHALGROVE WWTW",
       "cid": "TEMP.2462",
       "d": "2022-12-01",
@@ -4912,6 +4960,12 @@
       "p": "CHALGROVE WWTW",
       "cid": "TEMP.2462",
       "d": "2023-03-01",
+      "a": "a-24"
+    },
+    {
+      "p": "CHALGROVE WWTW",
+      "cid": "TEMP.2462",
+      "d": "2023-03-02",
       "a": "a-24"
     },
     {
@@ -5461,6 +5515,12 @@
       "a": "a-24"
     },
     {
+      "p": "CHARLTON-ON-OTMOOR WWTW",
+      "cid": "TEMP.2467",
+      "d": "2023-03-02",
+      "a": "a-24"
+    },
+    {
       "p": "CHINNOR WWTW",
       "cid": "TEMP.2480",
       "d": "2022-12-01",
@@ -6004,6 +6064,12 @@
       "p": "CHINNOR WWTW",
       "cid": "TEMP.2480",
       "d": "2023-03-01",
+      "a": "a-24"
+    },
+    {
+      "p": "CHINNOR WWTW",
+      "cid": "TEMP.2480",
+      "d": "2023-03-02",
       "a": "a-24"
     },
     {
@@ -6553,6 +6619,12 @@
       "a": "a-24"
     },
     {
+      "p": "ISLIP (NEW) WWTW",
+      "cid": "TEMP.2692",
+      "d": "2023-03-02",
+      "a": "a-24"
+    },
+    {
       "p": "LITTLE MILTON WWTW",
       "cid": "TEMP.2725",
       "d": "2022-12-01",
@@ -7096,6 +7168,12 @@
       "p": "LITTLE MILTON WWTW",
       "cid": "TEMP.2725",
       "d": "2023-03-01",
+      "a": "a-24"
+    },
+    {
+      "p": "LITTLE MILTON WWTW",
+      "cid": "TEMP.2725",
+      "d": "2023-03-02",
       "a": "a-24"
     },
     {
@@ -7645,6 +7723,12 @@
       "a": "a-24"
     },
     {
+      "p": "TETSWORTH WWTW",
+      "cid": "TEMP.2949",
+      "d": "2023-03-02",
+      "a": "a-24"
+    },
+    {
       "p": "WESTON-ON-THE-GREEN WWTW",
       "cid": "TEMP.3002",
       "d": "2022-12-01",
@@ -8189,6 +8273,12 @@
       "cid": "TEMP.3002",
       "d": "2023-03-01",
       "a": "a-24"
+    },
+    {
+      "p": "WESTON-ON-THE-GREEN WWTW",
+      "cid": "TEMP.3002",
+      "d": "2023-03-02",
+      "a": "a-24"
     }
   ],
   "rainfall": [
@@ -8725,6 +8815,12 @@
       "c": 0.1,
       "r": "r-1",
       "n": 7
+    },
+    {
+      "d": "2023-03-01",
+      "c": 1.2,
+      "r": "r-1",
+      "n": 7
     }
   ],
   "count": 15,
@@ -8819,6 +8915,7 @@
     "2023-02-26",
     "2023-02-27",
     "2023-02-28",
-    "2023-03-01"
+    "2023-03-01",
+    "2023-03-02"
   ]
 }

@@ -547,6 +547,12 @@
       "a": "a-24"
     },
     {
+      "p": "FAIRFORD STW, FAIRFORD, GLOS",
+      "cid": "CATM.3518",
+      "d": "2023-03-02",
+      "a": "a-24"
+    },
+    {
       "p": "KEMPSFORD STW, KEMPSFORD, FAIRFORD,",
       "cid": "CATM.3520",
       "d": "2022-12-01",
@@ -1090,6 +1096,12 @@
       "p": "KEMPSFORD STW, KEMPSFORD, FAIRFORD,",
       "cid": "CATM.3520",
       "d": "2023-03-01",
+      "a": "a-24"
+    },
+    {
+      "p": "KEMPSFORD STW, KEMPSFORD, FAIRFORD,",
+      "cid": "CATM.3520",
+      "d": "2023-03-02",
       "a": "a-24"
     },
     {
@@ -1639,6 +1651,12 @@
       "a": "a-24"
     },
     {
+      "p": "ANDOVERSFORD WWTW",
+      "cid": "CNTD.0001",
+      "d": "2023-03-02",
+      "a": "a-24"
+    },
+    {
       "p": "AMPNEY ST PETER WWTW",
       "cid": "CSSC.2452",
       "d": "2022-12-01",
@@ -2182,6 +2200,12 @@
       "p": "AMPNEY ST PETER WWTW",
       "cid": "CSSC.2452",
       "d": "2023-03-01",
+      "a": "a-24"
+    },
+    {
+      "p": "AMPNEY ST PETER WWTW",
+      "cid": "CSSC.2452",
+      "d": "2023-03-02",
       "a": "a-24"
     },
     {
@@ -2731,6 +2755,12 @@
       "a": "a-24"
     },
     {
+      "p": "CIRENCESTER WWTW",
+      "cid": "CTCR.1750",
+      "d": "2023-03-02",
+      "a": "a-24"
+    },
+    {
       "p": "LECHLADE STW",
       "cid": "CTCR.1797",
       "d": "2022-12-01",
@@ -3274,6 +3304,12 @@
       "p": "LECHLADE STW",
       "cid": "CTCR.1797",
       "d": "2023-03-01",
+      "a": "a-24"
+    },
+    {
+      "p": "LECHLADE STW",
+      "cid": "CTCR.1797",
+      "d": "2023-03-02",
       "a": "a-24"
     },
     {
@@ -3823,6 +3859,12 @@
       "a": "a-24"
     },
     {
+      "p": "BOURTON-ON-THE-WATER STW",
+      "cid": "CTCR.2036",
+      "d": "2023-03-02",
+      "a": "a-24"
+    },
+    {
       "p": "STORM SEWAGE IRRIGATION AREA, MORET",
       "cid": "CTCR.2093",
       "d": "2022-12-01",
@@ -4366,6 +4408,12 @@
       "p": "STORM SEWAGE IRRIGATION AREA, MORET",
       "cid": "CTCR.2093",
       "d": "2023-03-01",
+      "a": "a-24"
+    },
+    {
+      "p": "STORM SEWAGE IRRIGATION AREA, MORET",
+      "cid": "CTCR.2093",
+      "d": "2023-03-02",
       "a": "a-24"
     },
     {
@@ -4915,6 +4963,12 @@
       "a": "a-24"
     },
     {
+      "p": "BLEDINGTON WWTW",
+      "cid": "TEMP.2395",
+      "d": "2023-03-02",
+      "a": "a-24"
+    },
+    {
       "p": "Broadwell",
       "cid": "TEMP.2418",
       "d": "2022-12-01",
@@ -5458,6 +5512,12 @@
       "p": "Broadwell",
       "cid": "TEMP.2418",
       "d": "2023-03-01",
+      "a": "a-24"
+    },
+    {
+      "p": "Broadwell",
+      "cid": "TEMP.2418",
+      "d": "2023-03-02",
       "a": "a-24"
     }
   ],
@@ -5995,6 +6055,12 @@
       "c": 0.2,
       "r": "r-1",
       "n": 16
+    },
+    {
+      "d": "2023-03-01",
+      "c": 1.2,
+      "r": "r-1",
+      "n": 16
     }
   ],
   "count": 10,
@@ -6089,6 +6155,7 @@
     "2023-02-26",
     "2023-02-27",
     "2023-02-28",
-    "2023-03-01"
+    "2023-03-01",
+    "2023-03-02"
   ]
 }
