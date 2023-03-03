@@ -24,7 +24,10 @@ const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth
 const vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0)
 
 const spillMax = 80000;
-const spillColours = ['#fff7ec', '#fee8c8', '#fdd49e', '#fdbb84', '#fc8d59', '#ef6548', '#d7301f', '#990000']
+const spillColours = [
+    '#fff7ec', '#fee8c8', '#fdd49e', '#fdbb84',
+    '#fc8d59', '#ef6548', '#d7301f', '#990000'
+]
 const beachMax = 5500;
 const beachColours = ['#e66101', '#fdb863', '#b2abd2', '#5e3c99']
 
