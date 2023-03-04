@@ -553,6 +553,12 @@
       "a": "a-24"
     },
     {
+      "p": "ARBORFIELD WWTW",
+      "cid": "CNTD.0020",
+      "d": "2023-03-03",
+      "a": "a-24"
+    },
+    {
       "p": "BEENHAM (KEALES COPSE) WWTW",
       "cid": "TEMP.2382",
       "d": "2022-12-01",
@@ -1105,6 +1111,12 @@
       "a": "z-24"
     },
     {
+      "p": "BEENHAM (KEALES COPSE) WWTW",
+      "cid": "TEMP.2382",
+      "d": "2023-03-03",
+      "a": "z-24"
+    },
+    {
       "p": "BURGHFIELD WWTW",
       "cid": "TEMP.2425",
       "d": "2022-12-01",
@@ -1657,6 +1669,12 @@
       "a": "p-24"
     },
     {
+      "p": "BURGHFIELD WWTW",
+      "cid": "TEMP.2425",
+      "d": "2023-03-03",
+      "a": "p-24"
+    },
+    {
       "p": "MORTIMER (STRATFIELD MORTIMER) WWTW",
       "cid": "TEMP.2783",
       "d": "2022-12-01",
@@ -2206,6 +2224,12 @@
       "p": "MORTIMER (STRATFIELD MORTIMER) WWTW",
       "cid": "TEMP.2783",
       "d": "2023-03-02",
+      "a": "a-24"
+    },
+    {
+      "p": "MORTIMER (STRATFIELD MORTIMER) WWTW",
+      "cid": "TEMP.2783",
+      "d": "2023-03-03",
       "a": "a-24"
     },
     {
@@ -2758,6 +2782,12 @@
       "p": "Wokingham (Ash Ridge)",
       "cid": "TEMP.3020",
       "d": "2023-03-02",
+      "a": "a-24"
+    },
+    {
+      "p": "Wokingham (Ash Ridge)",
+      "cid": "TEMP.3020",
+      "d": "2023-03-03",
       "a": "a-24"
     }
   ],
@@ -3301,6 +3331,12 @@
       "c": 292.5,
       "r": "r-10",
       "n": 1
+    },
+    {
+      "d": "2023-03-02",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
     }
   ],
   "count": 5,
@@ -3396,6 +3432,7 @@
     "2023-02-27",
     "2023-02-28",
     "2023-03-01",
-    "2023-03-02"
+    "2023-03-02",
+    "2023-03-03"
   ]
 }
