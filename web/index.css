@@ -12,6 +12,11 @@ blockquote {
     font-weight: 700;
 }
 
+h2 {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
 .container-fluid {
     max-width: 2000px;
 }
@@ -53,6 +58,23 @@ blockquote {
     text-decoration: none;
 }
 
+@media screen and (max-width: 600px) {
+    .sewage-map {
+        height: 450px;
+    }
+    .plot-chart {
+        height: 200px;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .sewage-map {
+        height: 800px
+    }
+    .plot-chart {
+        height: 600px;
+    }
+}
 
 .center {
     display: flex;

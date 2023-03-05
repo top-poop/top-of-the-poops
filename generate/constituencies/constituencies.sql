@@ -4,7 +4,7 @@ select pcon20nm                                                           as nam
        mps_twitter.screen_name,
        st_npoints(wkb_geometry)                                           as points_original,
        st_npoints(st_simplifypreservetopology(wkb_geometry, tolerance))   as points_reduced,
-       st_asgeojson(st_simplifypreservetopology(wkb_geometry, tolerance)) as geometry
+       st_asgeojson(st_forcepolygoncw(st_simplifypreservetopology(wkb_geometry, tolerance))) as geometry
 from pcon_dec_2020_uk_bfc con
     full join settings on 1=1
     left join mps on con.pcon20nm = mps.constituency

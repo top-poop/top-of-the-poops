@@ -2,30 +2,30 @@
   {
     "water_type": "Freshwater river",
     "total_count": 396045.0,
-    "total_hours": 2969609.0099885003,
+    "total_hours": 2969604.0370894447,
     "spills_increase": -26662.0,
-    "hours_increase": -421805.9800114998
+    "hours_increase": -421810.9529105555
   },
   {
     "water_type": "Estuary/Tidal River",
     "total_count": 40429.41,
-    "total_hours": 245389.0036072815,
+    "total_hours": 245388.97748866654,
     "spills_increase": 1228.41,
-    "hours_increase": 3879.653607281505
+    "hours_increase": 3879.6274886665346
   },
   {
     "water_type": "Sea",
     "total_count": 16205.0,
-    "total_hours": 119690.50115028075,
+    "total_hours": 119690.51305533333,
     "spills_increase": 709.0,
-    "hours_increase": -1427.5188497192576
+    "hours_increase": -1427.5069446666666
   },
   {
     "water_type": "Canal",
     "total_count": 3039.0,
-    "total_hours": 23467.843329608768,
+    "total_hours": 23467.715553,
     "spills_increase": 139.0,
-    "hours_increase": 6207.893329608766
+    "hours_increase": 6207.765553
   },
   {
     "water_type": "Not Permitted",
@@ -37,37 +37,37 @@
   {
     "water_type": "Into land then to watercourse",
     "total_count": 473.0,
-    "total_hours": 8951.935555555741,
+    "total_hours": 8951.94,
     "spills_increase": 351.0,
-    "hours_increase": 7469.375555555741
+    "hours_increase": 7469.38
   },
   {
     "water_type": "Pond/Lake/Reservoir",
     "total_count": 1054.0,
-    "total_hours": 6762.538054009166,
+    "total_hours": 6762.507221,
     "spills_increase": 109.0,
-    "hours_increase": 2199.2780540091667
+    "hours_increase": 2199.247221
   },
   {
     "water_type": "Into land / infiltration system",
     "total_count": 693.0,
-    "total_hours": 6123.199441442066,
+    "total_hours": 6123.111667,
     "spills_increase": 90.0,
-    "hours_increase": 443.16944144206616
+    "hours_increase": 443.081667
   },
   {
     "water_type": "Grass plots / irrigation area",
     "total_count": 151.0,
-    "total_hours": 898.8047189861109,
+    "total_hours": 898.8,
     "spills_increase": -79.0,
-    "hours_increase": -828.0952810138891
+    "hours_increase": -828.1
   },
   {
     "water_type": "Into groundwater via borehole",
     "total_count": 8.0,
-    "total_hours": 73.7002777331,
+    "total_hours": 73.7,
     "spills_increase": 0.0,
-    "hours_increase": 3.680277733099995
+    "hours_increase": 3.68
   },
   {
     "water_type": "Permit does not specify",

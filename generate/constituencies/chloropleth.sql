@@ -31,7 +31,7 @@ select
     mps.party                                                          as mp_party,
     mps.uri                                                            as mp_uri,
     mps_twitter.screen_name                                            as twitter_handle,
-    st_asgeojson(st_simplifypreservetopology(wkb_geometry, 0.0025)) as geometry
+    st_asgeojson(st_forcepolygoncw(st_simplifypreservetopology(wkb_geometry, 0.0025))) as geometry
 from pcon_dec_2020_uk_bfc con
          left join reports_2021 on reports_2021.constituency = con.pcon20nm
          left join reports_2020 on reports_2021.constituency = reports_2020.constituency

@@ -37,6 +37,9 @@ class Loading extends React.Component {
         if (!this.state.loaded && this.props.nullBeforeLoad) {
             return null
         }
+        if ((!this.state.loaded) && this.props.before) {
+            return <React.Fragment>{this.props.before()}</React.Fragment>
+        }
         return <React.Fragment>{this.props.render(this.state.data)}</React.Fragment>
     }
 }

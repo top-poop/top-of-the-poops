@@ -8,14 +8,6 @@
     "pcon20nm": "Central Devon"
   },
   {
-    "id": 518,
-    "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
-    "total_spill_hours": 0.01,
-    "lat": 50.729406,
-    "lon": -2.024596,
-    "pcon20nm": "Poole"
-  },
-  {
     "id": 443,
     "shellfishery": "Yealm",
     "total_spill_hours": 0.03,
@@ -24,7 +16,7 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 709,
+    "id": 708,
     "shellfishery": "West Wash",
     "total_spill_hours": 0.033333,
     "lat": 52.982163,
@@ -56,14 +48,6 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 46,
-    "shellfishery": "NORTH WIRRAL (EAST)",
-    "total_spill_hours": 0.13,
-    "lat": 53.424369,
-    "lon": -3.065701,
-    "pcon20nm": "Wallasey"
-  },
-  {
     "id": 303,
     "shellfishery": "Exe",
     "total_spill_hours": 0.13,
@@ -72,11 +56,19 @@
     "pcon20nm": "Exeter"
   },
   {
-    "id": 979,
+    "id": 46,
+    "shellfishery": "NORTH WIRRAL (EAST)",
+    "total_spill_hours": 0.13,
+    "lat": 53.424369,
+    "lon": -3.065701,
+    "pcon20nm": "Wallasey"
+  },
+  {
+    "id": 304,
     "shellfishery": "Exe",
     "total_spill_hours": 0.14,
-    "lat": 50.726439,
-    "lon": -3.518625,
+    "lat": 50.726802,
+    "lon": -3.518354,
     "pcon20nm": "Exeter"
   },
   {
@@ -88,11 +80,11 @@
     "pcon20nm": "North Devon"
   },
   {
-    "id": 304,
+    "id": 978,
     "shellfishery": "Exe",
     "total_spill_hours": 0.14,
-    "lat": 50.726802,
-    "lon": -3.518354,
+    "lat": 50.726439,
+    "lon": -3.518625,
     "pcon20nm": "Exeter"
   },
   {
@@ -104,14 +96,6 @@
     "pcon20nm": "Lancaster and Fleetwood"
   },
   {
-    "id": 199,
-    "shellfishery": "Duddon and Walney",
-    "total_spill_hours": 0.17,
-    "lat": 54.19155,
-    "lon": -3.20566,
-    "pcon20nm": "Barrow and Furness"
-  },
-  {
     "id": 16,
     "shellfishery": "NORTH WIRRAL (WEST)",
     "total_spill_hours": 0.17,
@@ -120,12 +104,20 @@
     "pcon20nm": "Wallasey"
   },
   {
-    "id": 732,
+    "id": 731,
     "shellfishery": "Colne",
     "total_spill_hours": 0.17,
     "lat": 51.858863,
     "lon": 0.946007,
     "pcon20nm": "Harwich and North Essex"
+  },
+  {
+    "id": 199,
+    "shellfishery": "Duddon and Walney",
+    "total_spill_hours": 0.17,
+    "lat": 54.19155,
+    "lon": -3.20566,
+    "pcon20nm": "Barrow and Furness"
   },
   {
     "id": 363,
@@ -136,12 +128,20 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 718,
+    "id": 717,
     "shellfishery": "Colne",
     "total_spill_hours": 0.2,
     "lat": 51.814366,
     "lon": 1.023057,
     "pcon20nm": "Harwich and North Essex"
+  },
+  {
+    "id": 976,
+    "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
+    "total_spill_hours": 0.2,
+    "lat": 50.597823,
+    "lon": -2.460196,
+    "pcon20nm": "South Dorset"
   },
   {
     "id": 469,
@@ -160,7 +160,7 @@
     "pcon20nm": "Exeter"
   },
   {
-    "id": 722,
+    "id": 721,
     "shellfishery": "Osea Island/Blackwater",
     "total_spill_hours": 0.23,
     "lat": 51.719096,
@@ -184,15 +184,7 @@
     "pcon20nm": "Truro and Falmouth"
   },
   {
-    "id": 864,
-    "shellfishery": "Llanddulas",
-    "total_spill_hours": 0.25,
-    "lat": 53.291961,
-    "lon": -3.656226,
-    "pcon20nm": "Clwyd West"
-  },
-  {
-    "id": 847,
+    "id": 846,
     "shellfishery": "Menai W",
     "total_spill_hours": 0.25,
     "lat": 53.165457,
@@ -200,39 +192,7 @@
     "pcon20nm": "Arfon"
   },
   {
-    "id": 854,
-    "shellfishery": "Conwy",
-    "total_spill_hours": 0.25,
-    "lat": 53.289984,
-    "lon": -3.80483,
-    "pcon20nm": "Aberconwy"
-  },
-  {
-    "id": 863,
-    "shellfishery": "Conwy",
-    "total_spill_hours": 0.25,
-    "lat": 53.264005,
-    "lon": -3.801696,
-    "pcon20nm": "Aberconwy"
-  },
-  {
-    "id": 874,
-    "shellfishery": "Menai W",
-    "total_spill_hours": 0.25,
-    "lat": 53.152562,
-    "lon": -4.265024,
-    "pcon20nm": "Arfon"
-  },
-  {
-    "id": 768,
-    "shellfishery": "Swans W",
-    "total_spill_hours": 0.25,
-    "lat": 51.616745,
-    "lon": -3.960273,
-    "pcon20nm": "Swansea West"
-  },
-  {
-    "id": 743,
+    "id": 742,
     "shellfishery": "Burry S",
     "total_spill_hours": 0.25,
     "lat": 51.617579,
@@ -240,7 +200,55 @@
     "pcon20nm": "Gower"
   },
   {
-    "id": 964,
+    "id": 691,
+    "shellfishery": "SWALE CENTRAL, SWALE EAST",
+    "total_spill_hours": 0.25,
+    "lat": 51.315876,
+    "lon": 0.874043,
+    "pcon20nm": "Faversham and Mid Kent"
+  },
+  {
+    "id": 873,
+    "shellfishery": "Menai W",
+    "total_spill_hours": 0.25,
+    "lat": 53.152562,
+    "lon": -4.265024,
+    "pcon20nm": "Arfon"
+  },
+  {
+    "id": 767,
+    "shellfishery": "Swans W",
+    "total_spill_hours": 0.25,
+    "lat": 51.616745,
+    "lon": -3.960273,
+    "pcon20nm": "Swansea West"
+  },
+  {
+    "id": 863,
+    "shellfishery": "Llanddulas",
+    "total_spill_hours": 0.25,
+    "lat": 53.291961,
+    "lon": -3.656226,
+    "pcon20nm": "Clwyd West"
+  },
+  {
+    "id": 862,
+    "shellfishery": "Conwy",
+    "total_spill_hours": 0.25,
+    "lat": 53.264005,
+    "lon": -3.801696,
+    "pcon20nm": "Aberconwy"
+  },
+  {
+    "id": 853,
+    "shellfishery": "Conwy",
+    "total_spill_hours": 0.25,
+    "lat": 53.289984,
+    "lon": -3.80483,
+    "pcon20nm": "Aberconwy"
+  },
+  {
+    "id": 963,
     "shellfishery": "Dee W",
     "total_spill_hours": 0.25,
     "lat": 53.261209,
@@ -248,20 +256,12 @@
     "pcon20nm": "Delyn"
   },
   {
-    "id": 977,
-    "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
-    "total_spill_hours": 0.25,
-    "lat": 50.597823,
-    "lon": -2.460196,
-    "pcon20nm": "South Dorset"
-  },
-  {
-    "id": 692,
-    "shellfishery": "SWALE CENTRAL, SWALE EAST",
-    "total_spill_hours": 0.2516666666488163,
-    "lat": 51.315876,
-    "lon": 0.874043,
-    "pcon20nm": "Faversham and Mid Kent"
+    "id": 540,
+    "shellfishery": "STOUR ESTUARY (KENT)",
+    "total_spill_hours": 0.27,
+    "lat": 51.325409,
+    "lon": 1.366761,
+    "pcon20nm": "South Thanet"
   },
   {
     "id": 17,
@@ -272,22 +272,6 @@
     "pcon20nm": "Wallasey"
   },
   {
-    "id": 541,
-    "shellfishery": "STOUR ESTUARY (KENT)",
-    "total_spill_hours": 0.2733333333162591,
-    "lat": 51.325409,
-    "lon": 1.366761,
-    "pcon20nm": "South Thanet"
-  },
-  {
-    "id": 521,
-    "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
-    "total_spill_hours": 0.3,
-    "lat": 50.606547,
-    "lon": -2.462331,
-    "pcon20nm": "South Dorset"
-  },
-  {
     "id": 281,
     "shellfishery": "Teign",
     "total_spill_hours": 0.3,
@@ -296,20 +280,20 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 557,
+    "id": 520,
+    "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
+    "total_spill_hours": 0.3,
+    "lat": 50.606547,
+    "lon": -2.462331,
+    "pcon20nm": "South Dorset"
+  },
+  {
+    "id": 556,
     "shellfishery": "LYMINGTON AND SOWLEY_M, PENNINGTON",
-    "total_spill_hours": 0.37694444437511265,
+    "total_spill_hours": 0.38,
     "lat": 50.789023,
     "lon": -1.540012,
     "pcon20nm": "New Forest East"
-  },
-  {
-    "id": 616,
-    "shellfishery": "MARGATE",
-    "total_spill_hours": 0.39750000002095476,
-    "lat": 51.388467,
-    "lon": 1.366646,
-    "pcon20nm": "North Thanet"
   },
   {
     "id": 439,
@@ -320,12 +304,12 @@
     "pcon20nm": "Truro and Falmouth"
   },
   {
-    "id": 242,
-    "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
-    "total_spill_hours": 0.466666666666667,
-    "lat": 50.721849,
-    "lon": -1.81908,
-    "pcon20nm": "Bournemouth East"
+    "id": 615,
+    "shellfishery": "MARGATE",
+    "total_spill_hours": 0.4,
+    "lat": 51.388467,
+    "lon": 1.366646,
+    "pcon20nm": "North Thanet"
   },
   {
     "id": 265,
@@ -336,15 +320,7 @@
     "pcon20nm": "Exeter"
   },
   {
-    "id": 822,
-    "shellfishery": "Swans S",
-    "total_spill_hours": 0.5,
-    "lat": 51.56658,
-    "lon": -3.985126,
-    "pcon20nm": "Gower"
-  },
-  {
-    "id": 936,
+    "id": 935,
     "shellfishery": "Conwy",
     "total_spill_hours": 0.5,
     "lat": 53.27939,
@@ -352,15 +328,7 @@
     "pcon20nm": "Aberconwy"
   },
   {
-    "id": 934,
-    "shellfishery": "Conwy",
-    "total_spill_hours": 0.5,
-    "lat": 53.27939,
-    "lon": -3.791934,
-    "pcon20nm": "Aberconwy"
-  },
-  {
-    "id": 802,
+    "id": 801,
     "shellfishery": "Burry N",
     "total_spill_hours": 0.5,
     "lat": 51.685106,
@@ -368,12 +336,36 @@
     "pcon20nm": "Llanelli"
   },
   {
-    "id": 807,
+    "id": 821,
+    "shellfishery": "Swans S",
+    "total_spill_hours": 0.5,
+    "lat": 51.56658,
+    "lon": -3.985126,
+    "pcon20nm": "Gower"
+  },
+  {
+    "id": 806,
     "shellfishery": "Swans E",
     "total_spill_hours": 0.5,
     "lat": 51.568976,
     "lon": -3.792707,
     "pcon20nm": "Aberavon"
+  },
+  {
+    "id": 242,
+    "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
+    "total_spill_hours": 0.5,
+    "lat": 50.721849,
+    "lon": -1.81908,
+    "pcon20nm": "Bournemouth East"
+  },
+  {
+    "id": 933,
+    "shellfishery": "Conwy",
+    "total_spill_hours": 0.5,
+    "lat": 53.27939,
+    "lon": -3.791934,
+    "pcon20nm": "Aberconwy"
   },
   {
     "id": 399,
@@ -432,33 +424,33 @@
     "pcon20nm": "Southport"
   },
   {
-    "id": 562,
+    "id": 561,
     "shellfishery": "SOUTHAMPTON WATER",
-    "total_spill_hours": 0.6333333333022892,
+    "total_spill_hours": 0.63,
     "lat": 50.915184,
     "lon": -1.400076,
     "pcon20nm": "Southampton, Test"
   },
   {
-    "id": 685,
+    "id": 684,
     "shellfishery": "CENTRAL SOLENT, COWES, PORTSMOUTH HARBOUR, RYDE, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 0.6500000000232831,
+    "total_spill_hours": 0.65,
     "lat": 50.792108,
     "lon": -1.145702,
     "pcon20nm": "Gosport"
   },
   {
-    "id": 654,
+    "id": 653,
     "shellfishery": "LANGSTONE HARBOUR",
-    "total_spill_hours": 0.6672222222550772,
+    "total_spill_hours": 0.67,
     "lat": 50.885526,
     "lon": -1.00709,
     "pcon20nm": "Meon Valley"
   },
   {
-    "id": 560,
+    "id": 559,
     "shellfishery": "SOUTHAMPTON WATER",
-    "total_spill_hours": 0.686388889036607,
+    "total_spill_hours": 0.69,
     "lat": 50.895506,
     "lon": -1.403172,
     "pcon20nm": "Southampton, Itchen"
@@ -472,7 +464,7 @@
     "pcon20nm": "North Devon"
   },
   {
-    "id": 711,
+    "id": 710,
     "shellfishery": "West Wash",
     "total_spill_hours": 0.7,
     "lat": 52.980671,
@@ -489,22 +481,6 @@
   },
   {
     "id": 917,
-    "shellfishery": "Llanddulas",
-    "total_spill_hours": 0.75,
-    "lat": 53.289339,
-    "lon": -3.637821,
-    "pcon20nm": "Clwyd West"
-  },
-  {
-    "id": 953,
-    "shellfishery": "Glaslyn",
-    "total_spill_hours": 0.75,
-    "lat": 52.91398,
-    "lon": -4.175236,
-    "pcon20nm": "Dwyfor Meirionnydd"
-  },
-  {
-    "id": 918,
     "shellfishery": "Dee W",
     "total_spill_hours": 0.75,
     "lat": 53.266264,
@@ -512,20 +488,36 @@
     "pcon20nm": "Delyn"
   },
   {
-    "id": 799,
+    "id": 952,
+    "shellfishery": "Glaslyn",
+    "total_spill_hours": 0.75,
+    "lat": 52.91398,
+    "lon": -4.175236,
+    "pcon20nm": "Dwyfor Meirionnydd"
+  },
+  {
+    "id": 1030,
+    "shellfishery": "PENNINGTON, YARMOUTH",
+    "total_spill_hours": 0.75,
+    "lat": 50.684011,
+    "lon": -1.523203,
+    "pcon20nm": "Isle of Wight"
+  },
+  {
+    "id": 916,
+    "shellfishery": "Llanddulas",
+    "total_spill_hours": 0.75,
+    "lat": 53.289339,
+    "lon": -3.637821,
+    "pcon20nm": "Clwyd West"
+  },
+  {
+    "id": 798,
     "shellfishery": "Swans E",
     "total_spill_hours": 0.75,
     "lat": 51.623733,
     "lon": -3.833872,
     "pcon20nm": "Aberavon"
-  },
-  {
-    "id": 1031,
-    "shellfishery": "PENNINGTON, YARMOUTH",
-    "total_spill_hours": 0.7511111110216007,
-    "lat": 50.684011,
-    "lon": -1.523203,
-    "pcon20nm": "Isle of Wight"
   },
   {
     "id": 296,
@@ -544,20 +536,20 @@
     "pcon20nm": "St Austell and Newquay"
   },
   {
-    "id": 206,
-    "shellfishery": "MORECAMBE BAY EAST",
-    "total_spill_hours": 0.83,
-    "lat": 54.19265,
-    "lon": -2.908336,
-    "pcon20nm": "Westmorland and Lonsdale"
-  },
-  {
     "id": 108,
     "shellfishery": "LUNE (WYRE ESTUARY)",
     "total_spill_hours": 0.83,
     "lat": 53.843425,
     "lon": -3.002295,
     "pcon20nm": "Wyre and Preston North"
+  },
+  {
+    "id": 206,
+    "shellfishery": "MORECAMBE BAY EAST",
+    "total_spill_hours": 0.83,
+    "lat": 54.19265,
+    "lon": -2.908336,
+    "pcon20nm": "Westmorland and Lonsdale"
   },
   {
     "id": 323,
@@ -568,7 +560,7 @@
     "pcon20nm": "Exeter"
   },
   {
-    "id": 726,
+    "id": 725,
     "shellfishery": "Deben",
     "total_spill_hours": 0.87,
     "lat": 52.078736,
@@ -584,20 +576,12 @@
     "pcon20nm": "Wyre and Preston North"
   },
   {
-    "id": 647,
+    "id": 646,
     "shellfishery": "MARGATE",
-    "total_spill_hours": 0.9499999999534339,
+    "total_spill_hours": 0.95,
     "lat": 51.376271,
     "lon": 1.448824,
     "pcon20nm": "South Thanet"
-  },
-  {
-    "id": 370,
-    "shellfishery": "Taw/Torridge",
-    "total_spill_hours": 0.97,
-    "lat": 51.055694,
-    "lon": -4.191772,
-    "pcon20nm": "Torridge and West Devon"
   },
   {
     "id": 104,
@@ -608,9 +592,17 @@
     "pcon20nm": "Lancaster and Fleetwood"
   },
   {
-    "id": 655,
+    "id": 370,
+    "shellfishery": "Taw/Torridge",
+    "total_spill_hours": 0.97,
+    "lat": 51.055694,
+    "lon": -4.191772,
+    "pcon20nm": "Torridge and West Devon"
+  },
+  {
+    "id": 654,
     "shellfishery": "LANGSTONE HARBOUR",
-    "total_spill_hours": 0.9752777775283903,
+    "total_spill_hours": 0.98,
     "lat": 50.847031,
     "lon": -1.027795,
     "pcon20nm": "Portsmouth North"
@@ -624,15 +616,7 @@
     "pcon20nm": "Copeland"
   },
   {
-    "id": 748,
-    "shellfishery": "Gwendrae",
-    "total_spill_hours": 1.0,
-    "lat": 51.735728,
-    "lon": -4.310852,
-    "pcon20nm": "Llanelli"
-  },
-  {
-    "id": 801,
+    "id": 800,
     "shellfishery": "Burry N",
     "total_spill_hours": 1.0,
     "lat": 51.688108,
@@ -640,7 +624,7 @@
     "pcon20nm": "Llanelli"
   },
   {
-    "id": 931,
+    "id": 930,
     "shellfishery": "Conwy",
     "total_spill_hours": 1.0,
     "lat": 53.298795,
@@ -648,7 +632,15 @@
     "pcon20nm": "Aberconwy"
   },
   {
-    "id": 789,
+    "id": 811,
+    "shellfishery": "Gwendrae",
+    "total_spill_hours": 1.0,
+    "lat": 51.736886,
+    "lon": -4.310984,
+    "pcon20nm": "Llanelli"
+  },
+  {
+    "id": 788,
     "shellfishery": "Swans W",
     "total_spill_hours": 1.0,
     "lat": 51.615899,
@@ -656,11 +648,11 @@
     "pcon20nm": "Swansea West"
   },
   {
-    "id": 812,
+    "id": 747,
     "shellfishery": "Gwendrae",
     "total_spill_hours": 1.0,
-    "lat": 51.736886,
-    "lon": -4.310984,
+    "lat": 51.735728,
+    "lon": -4.310852,
     "pcon20nm": "Llanelli"
   },
   {
@@ -688,15 +680,7 @@
     "pcon20nm": "Exeter"
   },
   {
-    "id": 522,
-    "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
-    "total_spill_hours": 1.0666666668257676,
-    "lat": 50.612451,
-    "lon": -2.470162,
-    "pcon20nm": "South Dorset"
-  },
-  {
-    "id": 710,
+    "id": 709,
     "shellfishery": "West Wash",
     "total_spill_hours": 1.07,
     "lat": 52.98366,
@@ -720,36 +704,28 @@
     "pcon20nm": "Torridge and West Devon"
   },
   {
-    "id": 1052,
+    "id": 521,
+    "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
+    "total_spill_hours": 1.1,
+    "lat": 50.612451,
+    "lon": -2.470162,
+    "pcon20nm": "South Dorset"
+  },
+  {
+    "id": 1051,
     "shellfishery": "CHICHESTER HARBOUR (CHICHESTER, CHICHESTER HARBOUR (EMSWORTH C, CHICHESTER HARBOUR (THORNHAM C, LANGSTONE HARBOUR",
-    "total_spill_hours": 1.1666666666278616,
+    "total_spill_hours": 1.17,
     "lat": 50.84029,
     "lon": -0.925676,
     "pcon20nm": "Chichester"
   },
   {
-    "id": 525,
-    "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
-    "total_spill_hours": 1.16666666666667,
-    "lat": 50.591875,
-    "lon": -2.465718,
-    "pcon20nm": "South Dorset"
-  },
-  {
-    "id": 733,
+    "id": 732,
     "shellfishery": "Foulness",
     "total_spill_hours": 1.2,
     "lat": 51.54775,
     "lon": 0.818243,
     "pcon20nm": "Rochford and Southend East"
-  },
-  {
-    "id": 211,
-    "shellfishery": "Ribble",
-    "total_spill_hours": 1.2,
-    "lat": 53.755288,
-    "lon": -2.68867,
-    "pcon20nm": "Preston"
   },
   {
     "id": 285,
@@ -760,6 +736,22 @@
     "pcon20nm": "Central Devon"
   },
   {
+    "id": 524,
+    "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
+    "total_spill_hours": 1.2,
+    "lat": 50.591875,
+    "lon": -2.465718,
+    "pcon20nm": "South Dorset"
+  },
+  {
+    "id": 211,
+    "shellfishery": "Ribble",
+    "total_spill_hours": 1.2,
+    "lat": 53.755288,
+    "lon": -2.68867,
+    "pcon20nm": "Preston"
+  },
+  {
     "id": 26,
     "shellfishery": "NORTH WIRRAL (EAST)",
     "total_spill_hours": 1.23,
@@ -768,20 +760,20 @@
     "pcon20nm": "Liverpool, Riverside"
   },
   {
-    "id": 1023,
-    "shellfishery": "Swans W",
-    "total_spill_hours": 1.25,
-    "lat": 51.616206,
-    "lon": -3.971474,
-    "pcon20nm": "Swansea West"
-  },
-  {
-    "id": 809,
+    "id": 808,
     "shellfishery": "Burry N",
     "total_spill_hours": 1.25,
     "lat": 51.684491,
     "lon": -4.196264,
     "pcon20nm": "Llanelli"
+  },
+  {
+    "id": 1022,
+    "shellfishery": "Swans W",
+    "total_spill_hours": 1.25,
+    "lat": 51.616206,
+    "lon": -3.971474,
+    "pcon20nm": "Swansea West"
   },
   {
     "id": 33,
@@ -792,7 +784,7 @@
     "pcon20nm": "Bootle"
   },
   {
-    "id": 728,
+    "id": 727,
     "shellfishery": "Colne",
     "total_spill_hours": 1.3,
     "lat": 51.855727,
@@ -808,12 +800,20 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 664,
+    "id": 663,
     "shellfishery": "SOUTHAMPTON WATER",
-    "total_spill_hours": 1.4027777777519077,
+    "total_spill_hours": 1.4,
     "lat": 50.93195,
     "lon": -1.390468,
     "pcon20nm": "Southampton, Test"
+  },
+  {
+    "id": 594,
+    "shellfishery": "CHICHESTER HARBOUR (EMSWORTH C, LANGSTONE HARBOUR, PORTSMOUTH HARBOUR",
+    "total_spill_hours": 1.43,
+    "lat": 50.845872,
+    "lon": -0.997136,
+    "pcon20nm": "Havant"
   },
   {
     "id": 9,
@@ -832,14 +832,6 @@
     "pcon20nm": "Exeter"
   },
   {
-    "id": 595,
-    "shellfishery": "CHICHESTER HARBOUR (EMSWORTH C, LANGSTONE HARBOUR, PORTSMOUTH HARBOUR",
-    "total_spill_hours": 1.4333333332906477,
-    "lat": 50.845872,
-    "lon": -0.997136,
-    "pcon20nm": "Havant"
-  },
-  {
     "id": 15,
     "shellfishery": "NORTH WIRRAL (WEST)",
     "total_spill_hours": 1.47,
@@ -848,7 +840,7 @@
     "pcon20nm": "Wallasey"
   },
   {
-    "id": 968,
+    "id": 967,
     "shellfishery": "Dee W",
     "total_spill_hours": 1.5,
     "lat": 53.289993,
@@ -872,7 +864,7 @@
     "pcon20nm": "Truro and Falmouth"
   },
   {
-    "id": 782,
+    "id": 781,
     "shellfishery": "Swans W",
     "total_spill_hours": 1.5,
     "lat": 51.590606,
@@ -920,7 +912,15 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 987,
+    "id": 238,
+    "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
+    "total_spill_hours": 1.6,
+    "lat": 50.563792,
+    "lon": -2.449205,
+    "pcon20nm": "South Dorset"
+  },
+  {
+    "id": 986,
     "shellfishery": "St.Austell Bay",
     "total_spill_hours": 1.62,
     "lat": 50.351298,
@@ -934,14 +934,6 @@
     "lat": 50.544184,
     "lon": -4.921611,
     "pcon20nm": "North Cornwall"
-  },
-  {
-    "id": 238,
-    "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
-    "total_spill_hours": 1.63,
-    "lat": 50.563792,
-    "lon": -2.449205,
-    "pcon20nm": "South Dorset"
   },
   {
     "id": 119,
@@ -968,15 +960,15 @@
     "pcon20nm": "North Cornwall"
   },
   {
-    "id": 539,
+    "id": 538,
     "shellfishery": "MEDINA",
-    "total_spill_hours": 1.7416666667559184,
+    "total_spill_hours": 1.74,
     "lat": 50.691802,
     "lon": -1.287828,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 890,
+    "id": 889,
     "shellfishery": "Menai W",
     "total_spill_hours": 1.75,
     "lat": 53.164763,
@@ -984,20 +976,20 @@
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
-    "id": 1046,
-    "shellfishery": "PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 1.7666666668374091,
-    "lat": 50.819039,
-    "lon": -1.091833,
-    "pcon20nm": "Portsmouth North"
-  },
-  {
-    "id": 572,
+    "id": 571,
     "shellfishery": "CENTRAL SOLENT, COWES, LEPE MIDDLE BANK, MEDINA, STANSWOOD BAY",
-    "total_spill_hours": 1.7674999998416752,
+    "total_spill_hours": 1.77,
     "lat": 50.766152,
     "lon": -1.299179,
     "pcon20nm": "Isle of Wight"
+  },
+  {
+    "id": 1045,
+    "shellfishery": "PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
+    "total_spill_hours": 1.77,
+    "lat": 50.819039,
+    "lon": -1.091833,
+    "pcon20nm": "Portsmouth North"
   },
   {
     "id": 287,
@@ -1008,6 +1000,14 @@
     "pcon20nm": "Central Devon"
   },
   {
+    "id": 566,
+    "shellfishery": "SWALE CENTRAL",
+    "total_spill_hours": 1.84,
+    "lat": 51.343491,
+    "lon": 0.742646,
+    "pcon20nm": "Sittingbourne and Sheppey"
+  },
+  {
     "id": 312,
     "shellfishery": "Exe",
     "total_spill_hours": 1.84,
@@ -1016,25 +1016,17 @@
     "pcon20nm": "Exeter"
   },
   {
-    "id": 567,
-    "shellfishery": "SWALE CENTRAL",
-    "total_spill_hours": 1.8413888890645467,
-    "lat": 51.343491,
-    "lon": 0.742646,
-    "pcon20nm": "Sittingbourne and Sheppey"
-  },
-  {
-    "id": 579,
+    "id": 578,
     "shellfishery": "STOUR ESTUARY (KENT)",
-    "total_spill_hours": 1.866666666814126,
+    "total_spill_hours": 1.87,
     "lat": 51.240844,
     "lon": 1.410591,
     "pcon20nm": "Dover"
   },
   {
-    "id": 619,
+    "id": 618,
     "shellfishery": "SWALE CENTRAL, SWALE EAST",
-    "total_spill_hours": 1.873333333292976,
+    "total_spill_hours": 1.87,
     "lat": 51.317513,
     "lon": 0.898832,
     "pcon20nm": "Faversham and Mid Kent"
@@ -1056,9 +1048,9 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 1044,
+    "id": 1043,
     "shellfishery": "PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 1.966666666441597,
+    "total_spill_hours": 1.97,
     "lat": 50.819039,
     "lon": -1.091833,
     "pcon20nm": "Portsmouth North"
@@ -1072,7 +1064,7 @@
     "pcon20nm": "Lancaster and Fleetwood"
   },
   {
-    "id": 738,
+    "id": 737,
     "shellfishery": "Deben",
     "total_spill_hours": 2.0,
     "lat": 52.09172,
@@ -1080,7 +1072,7 @@
     "pcon20nm": "Suffolk Coastal"
   },
   {
-    "id": 800,
+    "id": 799,
     "shellfishery": "Swans S",
     "total_spill_hours": 2.0,
     "lat": 51.56574,
@@ -1088,9 +1080,9 @@
     "pcon20nm": "Gower"
   },
   {
-    "id": 687,
+    "id": 686,
     "shellfishery": "LANGSTONE HARBOUR, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 2.016111111093778,
+    "total_spill_hours": 2.02,
     "lat": 50.816366,
     "lon": -1.060939,
     "pcon20nm": "Portsmouth North"
@@ -1112,12 +1104,12 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 677,
-    "shellfishery": "CENTRAL SOLENT, PORTSMOUTH HARBOUR, RYDE, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 2.059999999939464,
-    "lat": 50.797059,
-    "lon": -1.122199,
-    "pcon20nm": "Gosport"
+    "id": 335,
+    "shellfishery": "Exe",
+    "total_spill_hours": 2.06,
+    "lat": 50.616858,
+    "lon": -3.449856,
+    "pcon20nm": "Newton Abbot"
   },
   {
     "id": 28,
@@ -1128,17 +1120,17 @@
     "pcon20nm": "Liverpool, Riverside"
   },
   {
-    "id": 335,
-    "shellfishery": "Exe",
+    "id": 676,
+    "shellfishery": "CENTRAL SOLENT, PORTSMOUTH HARBOUR, RYDE, SPITHEAD AND STOKES BAY",
     "total_spill_hours": 2.06,
-    "lat": 50.616858,
-    "lon": -3.449856,
-    "pcon20nm": "Newton Abbot"
+    "lat": 50.797059,
+    "lon": -1.122199,
+    "pcon20nm": "Gosport"
   },
   {
-    "id": 520,
+    "id": 519,
     "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
-    "total_spill_hours": 2.06666666666667,
+    "total_spill_hours": 2.1,
     "lat": 50.606348,
     "lon": -2.467134,
     "pcon20nm": "South Dorset"
@@ -1176,15 +1168,15 @@
     "pcon20nm": "Camborne and Redruth"
   },
   {
-    "id": 1032,
+    "id": 1031,
     "shellfishery": "LYMINGTON AND SOWLEY_M, NEWTOWN_M, PENNINGTON, TOTLAND, YARMOUTH",
-    "total_spill_hours": 2.296388888906222,
+    "total_spill_hours": 2.3,
     "lat": 50.705574,
     "lon": -1.49721,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 730,
+    "id": 729,
     "shellfishery": "Colne, Pyfleet",
     "total_spill_hours": 2.3,
     "lat": 51.887483,
@@ -1208,9 +1200,9 @@
     "pcon20nm": "St Austell and Newquay"
   },
   {
-    "id": 561,
+    "id": 560,
     "shellfishery": "SOUTHAMPTON WATER",
-    "total_spill_hours": 2.3333333330811,
+    "total_spill_hours": 2.33,
     "lat": 50.920622,
     "lon": -1.391043,
     "pcon20nm": "Southampton, Test"
@@ -1232,20 +1224,20 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 951,
-    "shellfishery": "Dee West",
-    "total_spill_hours": 2.5,
-    "lat": 53.185585,
-    "lon": -4.397781,
-    "pcon20nm": "Ynys M\u00f4n"
-  },
-  {
-    "id": 815,
+    "id": 814,
     "shellfishery": "Burry N",
     "total_spill_hours": 2.5,
     "lat": 51.684844,
     "lon": -4.268966,
     "pcon20nm": "Llanelli"
+  },
+  {
+    "id": 950,
+    "shellfishery": "Dee West",
+    "total_spill_hours": 2.5,
+    "lat": 53.185585,
+    "lon": -4.397781,
+    "pcon20nm": "Ynys M\u00f4n"
   },
   {
     "id": 218,
@@ -1264,17 +1256,17 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 565,
+    "id": 564,
     "shellfishery": "SWALE CENTRAL, SWALE EAST",
-    "total_spill_hours": 2.642222222406417,
+    "total_spill_hours": 2.64,
     "lat": 51.31652,
     "lon": 0.891737,
     "pcon20nm": "Faversham and Mid Kent"
   },
   {
-    "id": 590,
+    "id": 589,
     "shellfishery": "LYMINGTON AND SOWLEY_M, PENNINGTON, YARMOUTH",
-    "total_spill_hours": 2.6574999999138527,
+    "total_spill_hours": 2.66,
     "lat": 50.70277,
     "lon": -1.514516,
     "pcon20nm": "Isle of Wight"
@@ -1296,7 +1288,7 @@
     "pcon20nm": "Truro and Falmouth"
   },
   {
-    "id": 981,
+    "id": 980,
     "shellfishery": "Dart",
     "total_spill_hours": 2.73,
     "lat": 50.433178,
@@ -1304,7 +1296,7 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 916,
+    "id": 915,
     "shellfishery": "Menai E",
     "total_spill_hours": 2.75,
     "lat": 53.232166,
@@ -1320,7 +1312,7 @@
     "pcon20nm": "South Ribble"
   },
   {
-    "id": 720,
+    "id": 719,
     "shellfishery": "Colne",
     "total_spill_hours": 2.9,
     "lat": 51.810321,
@@ -1328,7 +1320,7 @@
     "pcon20nm": "Harwich and North Essex"
   },
   {
-    "id": 736,
+    "id": 735,
     "shellfishery": "West Wash",
     "total_spill_hours": 2.93,
     "lat": 52.97264,
@@ -1336,9 +1328,9 @@
     "pcon20nm": "Boston and Skegness"
   },
   {
-    "id": 1036,
+    "id": 1035,
     "shellfishery": "BEAULIEU RIVER, LYMINGTON AND SOWLEY_M, LEPE MIDDLE BANK",
-    "total_spill_hours": 2.9499999998370185,
+    "total_spill_hours": 2.95,
     "lat": 50.81885,
     "lon": -1.450286,
     "pcon20nm": "New Forest East"
@@ -1352,7 +1344,15 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 770,
+    "id": 526,
+    "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
+    "total_spill_hours": 3.0,
+    "lat": 50.691028,
+    "lon": -2.120022,
+    "pcon20nm": "Mid Dorset and North Poole"
+  },
+  {
+    "id": 769,
     "shellfishery": "Cleddau",
     "total_spill_hours": 3.0,
     "lat": 51.704359,
@@ -1360,28 +1360,20 @@
     "pcon20nm": "Preseli Pembrokeshire"
   },
   {
-    "id": 1006,
+    "id": 1005,
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, SOUTHAMPTON WATER",
-    "total_spill_hours": 3.0122222219360992,
+    "total_spill_hours": 3.01,
     "lat": 50.866904,
     "lon": -1.401974,
     "pcon20nm": "New Forest East"
   },
   {
-    "id": 698,
+    "id": 697,
     "shellfishery": "PORTSMOUTH HARBOUR",
-    "total_spill_hours": 3.016666666720994,
+    "total_spill_hours": 3.02,
     "lat": 50.857886,
     "lon": -1.176326,
     "pcon20nm": "Fareham"
-  },
-  {
-    "id": 527,
-    "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
-    "total_spill_hours": 3.05,
-    "lat": 50.691028,
-    "lon": -2.120022,
-    "pcon20nm": "Mid Dorset and North Poole"
   },
   {
     "id": 357,
@@ -1392,9 +1384,9 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 696,
+    "id": 695,
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, SOUTHAMPTON WATER",
-    "total_spill_hours": 3.1333333334187046,
+    "total_spill_hours": 3.13,
     "lat": 50.875028,
     "lon": -1.357241,
     "pcon20nm": "Eastleigh"
@@ -1408,7 +1400,15 @@
     "pcon20nm": "South East Cornwall"
   },
   {
-    "id": 882,
+    "id": 685,
+    "shellfishery": "CENTRAL SOLENT, COWES, RYDE, SPITHEAD AND STOKES BAY",
+    "total_spill_hours": 3.25,
+    "lat": 50.794523,
+    "lon": -1.194468,
+    "pcon20nm": "Gosport"
+  },
+  {
+    "id": 881,
     "shellfishery": "Conwy",
     "total_spill_hours": 3.25,
     "lat": 53.275347,
@@ -1416,15 +1416,7 @@
     "pcon20nm": "Aberconwy"
   },
   {
-    "id": 806,
-    "shellfishery": "Burry N",
-    "total_spill_hours": 3.25,
-    "lat": 51.682901,
-    "lon": -4.257338,
-    "pcon20nm": "Llanelli"
-  },
-  {
-    "id": 852,
+    "id": 851,
     "shellfishery": "Conwy",
     "total_spill_hours": 3.25,
     "lat": 53.276113,
@@ -1432,7 +1424,15 @@
     "pcon20nm": "Aberconwy"
   },
   {
-    "id": 817,
+    "id": 805,
+    "shellfishery": "Burry N",
+    "total_spill_hours": 3.25,
+    "lat": 51.682901,
+    "lon": -4.257338,
+    "pcon20nm": "Llanelli"
+  },
+  {
+    "id": 816,
     "shellfishery": "Burry N",
     "total_spill_hours": 3.25,
     "lat": 51.672767,
@@ -1440,23 +1440,15 @@
     "pcon20nm": "Llanelli"
   },
   {
-    "id": 686,
-    "shellfishery": "CENTRAL SOLENT, COWES, RYDE, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 3.252777778019663,
-    "lat": 50.794523,
-    "lon": -1.194468,
-    "pcon20nm": "Gosport"
-  },
-  {
     "id": 515,
     "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
-    "total_spill_hours": 3.26666666666667,
+    "total_spill_hours": 3.3,
     "lat": 50.712952,
     "lon": -1.992435,
     "pcon20nm": "Poole"
   },
   {
-    "id": 1001,
+    "id": 1000,
     "shellfishery": "RIBBLE",
     "total_spill_hours": 3.37,
     "lat": 53.763706,
@@ -1472,25 +1464,25 @@
     "pcon20nm": "North Devon"
   },
   {
-    "id": 566,
+    "id": 565,
     "shellfishery": "SWALE CENTRAL, SWALE EAST",
-    "total_spill_hours": 3.4061111108749174,
+    "total_spill_hours": 3.41,
     "lat": 51.322277,
     "lon": 0.902577,
     "pcon20nm": "Faversham and Mid Kent"
   },
   {
-    "id": 679,
+    "id": 678,
     "shellfishery": "CENTRAL SOLENT, COWES, PORTSMOUTH HARBOUR, RYDE, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 3.4647222220664844,
+    "total_spill_hours": 3.46,
     "lat": 50.794172,
     "lon": -1.195751,
     "pcon20nm": "Gosport"
   },
   {
-    "id": 576,
+    "id": 575,
     "shellfishery": "STOUR ESTUARY (KENT)",
-    "total_spill_hours": 3.483333333511837,
+    "total_spill_hours": 3.48,
     "lat": 51.336584,
     "lon": 1.429831,
     "pcon20nm": "South Thanet"
@@ -1512,9 +1504,9 @@
     "pcon20nm": "Sefton Central"
   },
   {
-    "id": 665,
+    "id": 664,
     "shellfishery": "CENTRAL SOLENT, COWES, MEDINA, SPITHEAD AND STOKES BAY, STANSWOOD BAY",
-    "total_spill_hours": 3.6769444444798864,
+    "total_spill_hours": 3.68,
     "lat": 50.760331,
     "lon": -1.288348,
     "pcon20nm": "Isle of Wight"
@@ -1528,15 +1520,15 @@
     "pcon20nm": "Preston"
   },
   {
-    "id": 1037,
+    "id": 1036,
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, SOUTHAMPTON WATER",
-    "total_spill_hours": 3.7455555553897284,
+    "total_spill_hours": 3.75,
     "lat": 50.861967,
     "lon": -1.386549,
     "pcon20nm": "New Forest East"
   },
   {
-    "id": 779,
+    "id": 778,
     "shellfishery": "Swans E",
     "total_spill_hours": 3.75,
     "lat": 51.616438,
@@ -1568,7 +1560,7 @@
     "pcon20nm": "Morecambe and Lunesdale"
   },
   {
-    "id": 819,
+    "id": 818,
     "shellfishery": "Porthcawl",
     "total_spill_hours": 4.0,
     "lat": 51.479343,
@@ -1576,7 +1568,7 @@
     "pcon20nm": "Bridgend"
   },
   {
-    "id": 893,
+    "id": 892,
     "shellfishery": "Conwy",
     "total_spill_hours": 4.0,
     "lat": 53.301175,
@@ -1592,15 +1584,15 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 546,
+    "id": 545,
     "shellfishery": "PORTSMOUTH HARBOUR",
-    "total_spill_hours": 4.220555555541068,
+    "total_spill_hours": 4.22,
     "lat": 50.851441,
     "lon": -1.167774,
     "pcon20nm": "Fareham"
   },
   {
-    "id": 909,
+    "id": 908,
     "shellfishery": "Menai E",
     "total_spill_hours": 4.25,
     "lat": 53.2787,
@@ -1608,7 +1600,7 @@
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
-    "id": 899,
+    "id": 898,
     "shellfishery": "Menai E",
     "total_spill_hours": 4.25,
     "lat": 53.214658,
@@ -1624,7 +1616,7 @@
     "pcon20nm": "Central Devon"
   },
   {
-    "id": 947,
+    "id": 946,
     "shellfishery": "Dee West",
     "total_spill_hours": 4.5,
     "lat": 53.309401,
@@ -1632,33 +1624,33 @@
     "pcon20nm": "Delyn"
   },
   {
-    "id": 1049,
+    "id": 1048,
     "shellfishery": "SOUTHAMPTON WATER",
-    "total_spill_hours": 4.506388888985384,
+    "total_spill_hours": 4.51,
     "lat": 50.93779,
     "lon": -1.355949,
     "pcon20nm": "Eastleigh"
   },
   {
-    "id": 553,
+    "id": 552,
     "shellfishery": "PORTSMOUTH HARBOUR",
-    "total_spill_hours": 4.600555556011386,
+    "total_spill_hours": 4.6,
     "lat": 50.852511,
     "lon": -1.166476,
     "pcon20nm": "Fareham"
   },
   {
-    "id": 642,
+    "id": 641,
     "shellfishery": "PORTSMOUTH HARBOUR",
-    "total_spill_hours": 4.608333333511837,
+    "total_spill_hours": 4.61,
     "lat": 50.820779,
     "lon": -1.16832,
     "pcon20nm": "Gosport"
   },
   {
-    "id": 606,
+    "id": 605,
     "shellfishery": "COWES, RYDE",
-    "total_spill_hours": 4.631944444554392,
+    "total_spill_hours": 4.63,
     "lat": 50.714557,
     "lon": -1.166236,
     "pcon20nm": "Isle of Wight"
@@ -1672,7 +1664,7 @@
     "pcon20nm": "Bootle"
   },
   {
-    "id": 717,
+    "id": 716,
     "shellfishery": "Colne",
     "total_spill_hours": 4.67,
     "lat": 51.816682,
@@ -1688,15 +1680,15 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 552,
+    "id": 551,
     "shellfishery": "OUTER THAMES, SHEPPEY",
-    "total_spill_hours": 4.740555555734318,
+    "total_spill_hours": 4.74,
     "lat": 51.427633,
     "lon": 0.812712,
     "pcon20nm": "Sittingbourne and Sheppey"
   },
   {
-    "id": 831,
+    "id": 830,
     "shellfishery": "Glaslyn",
     "total_spill_hours": 4.75,
     "lat": 52.92852,
@@ -1712,9 +1704,9 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 615,
+    "id": 614,
     "shellfishery": "SWALE EAST, SWALECLIFFE",
-    "total_spill_hours": 4.8638888887362555,
+    "total_spill_hours": 4.86,
     "lat": 51.367669,
     "lon": 1.066092,
     "pcon20nm": "Canterbury"
@@ -1728,17 +1720,17 @@
     "pcon20nm": "Liverpool, Riverside"
   },
   {
-    "id": 600,
+    "id": 599,
     "shellfishery": "COWES, RYDE",
-    "total_spill_hours": 4.882777777849697,
+    "total_spill_hours": 4.88,
     "lat": 50.733015,
     "lon": -1.169309,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 652,
+    "id": 651,
     "shellfishery": "CHICHESTER HARBOUR (CHICHESTER, CHICHESTER HARBOUR (EMSWORTH C, CHICHESTER HARBOUR (THORNHAM C",
-    "total_spill_hours": 4.905277777696028,
+    "total_spill_hours": 4.91,
     "lat": 50.835318,
     "lon": -0.87509,
     "pcon20nm": "Chichester"
@@ -1752,7 +1744,7 @@
     "pcon20nm": "North Cornwall"
   },
   {
-    "id": 824,
+    "id": 823,
     "shellfishery": "Swans W",
     "total_spill_hours": 5.0,
     "lat": 51.587796,
@@ -1776,7 +1768,7 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 794,
+    "id": 793,
     "shellfishery": "Swans E",
     "total_spill_hours": 5.25,
     "lat": 51.632684,
@@ -1784,23 +1776,23 @@
     "pcon20nm": "Aberavon"
   },
   {
-    "id": 523,
+    "id": 522,
     "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
-    "total_spill_hours": 5.33333333333333,
+    "total_spill_hours": 5.3,
     "lat": 50.608651,
     "lon": -2.475777,
     "pcon20nm": "South Dorset"
   },
   {
-    "id": 678,
+    "id": 677,
     "shellfishery": "CENTRAL SOLENT, COWES, PORTSMOUTH HARBOUR, RYDE, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 5.3577777776517905,
+    "total_spill_hours": 5.36,
     "lat": 50.810883,
     "lon": -1.130882,
     "pcon20nm": "Gosport"
   },
   {
-    "id": 526,
+    "id": 525,
     "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
     "total_spill_hours": 5.4,
     "lat": 50.69322,
@@ -1808,23 +1800,15 @@
     "pcon20nm": "Mid Dorset and North Poole"
   },
   {
-    "id": 671,
+    "id": 670,
     "shellfishery": "SWALE CENTRAL",
-    "total_spill_hours": 5.466666666849051,
+    "total_spill_hours": 5.47,
     "lat": 51.343706,
     "lon": 0.725713,
     "pcon20nm": "Sittingbourne and Sheppey"
   },
   {
-    "id": 524,
-    "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
-    "total_spill_hours": 5.5,
-    "lat": 50.609706,
-    "lon": -2.459535,
-    "pcon20nm": "South Dorset"
-  },
-  {
-    "id": 860,
+    "id": 859,
     "shellfishery": "Conwy",
     "total_spill_hours": 5.5,
     "lat": 53.300332,
@@ -1832,7 +1816,15 @@
     "pcon20nm": "Aberconwy"
   },
   {
-    "id": 531,
+    "id": 523,
+    "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
+    "total_spill_hours": 5.5,
+    "lat": 50.609706,
+    "lon": -2.459535,
+    "pcon20nm": "South Dorset"
+  },
+  {
+    "id": 530,
     "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
     "total_spill_hours": 5.6,
     "lat": 50.741998,
@@ -1840,41 +1832,41 @@
     "pcon20nm": "Poole"
   },
   {
-    "id": 691,
+    "id": 690,
     "shellfishery": "PORTSMOUTH HARBOUR",
-    "total_spill_hours": 5.768888888997026,
+    "total_spill_hours": 5.77,
     "lat": 50.841454,
     "lon": -1.179882,
     "pcon20nm": "Fareham"
   },
   {
-    "id": 559,
+    "id": 558,
     "shellfishery": "LYMINGTON AND SOWLEY_M, PENNINGTON",
-    "total_spill_hours": 5.775833333318587,
+    "total_spill_hours": 5.78,
     "lat": 50.760778,
     "lon": -1.537878,
     "pcon20nm": "New Forest West"
   },
   {
-    "id": 656,
+    "id": 655,
     "shellfishery": "LANGSTONE HARBOUR, PORTSMOUTH HARBOUR",
-    "total_spill_hours": 5.809722222271375,
+    "total_spill_hours": 5.81,
     "lat": 50.867085,
     "lon": -1.038745,
     "pcon20nm": "Havant"
   },
   {
-    "id": 675,
+    "id": 674,
     "shellfishery": "PORTSMOUTH HARBOUR",
-    "total_spill_hours": 5.843888888892252,
+    "total_spill_hours": 5.84,
     "lat": 50.823181,
     "lon": -1.164727,
     "pcon20nm": "Gosport"
   },
   {
-    "id": 684,
+    "id": 683,
     "shellfishery": "PORTSMOUTH HARBOUR",
-    "total_spill_hours": 5.947777778143063,
+    "total_spill_hours": 5.95,
     "lat": 50.842895,
     "lon": -1.180141,
     "pcon20nm": "Fareham"
@@ -1888,7 +1880,7 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 519,
+    "id": 518,
     "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
     "total_spill_hours": 6.0,
     "lat": 50.606453,
@@ -1912,7 +1904,7 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 892,
+    "id": 891,
     "shellfishery": "Conwy",
     "total_spill_hours": 6.25,
     "lat": 53.304022,
@@ -1936,27 +1928,27 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 547,
+    "id": 546,
     "shellfishery": "SOUTHAMPTON WATER",
-    "total_spill_hours": 6.433333333348855,
+    "total_spill_hours": 6.43,
     "lat": 50.916962,
     "lon": -1.379141,
     "pcon20nm": "Southampton, Itchen"
   },
   {
-    "id": 834,
-    "shellfishery": "Glaslyn",
-    "total_spill_hours": 6.5,
-    "lat": 52.937673,
-    "lon": -4.143,
-    "pcon20nm": "Dwyfor Meirionnydd"
-  },
-  {
-    "id": 832,
+    "id": 831,
     "shellfishery": "Glaslyn",
     "total_spill_hours": 6.5,
     "lat": 52.925568,
     "lon": -4.132166,
+    "pcon20nm": "Dwyfor Meirionnydd"
+  },
+  {
+    "id": 833,
+    "shellfishery": "Glaslyn",
+    "total_spill_hours": 6.5,
+    "lat": 52.937673,
+    "lon": -4.143,
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
@@ -1976,9 +1968,9 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 628,
+    "id": 627,
     "shellfishery": "SWALE CENTRAL, SWALE EAST",
-    "total_spill_hours": 7.051666666986421,
+    "total_spill_hours": 7.05,
     "lat": 51.322554,
     "lon": 0.902308,
     "pcon20nm": "Faversham and Mid Kent"
@@ -1986,25 +1978,25 @@
   {
     "id": 514,
     "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
-    "total_spill_hours": 7.17444444444444,
+    "total_spill_hours": 7.2,
     "lat": 50.721974,
     "lon": -1.962414,
     "pcon20nm": "Poole"
   },
   {
-    "id": 923,
+    "id": 921,
     "shellfishery": "Menai E",
     "total_spill_hours": 7.25,
-    "lat": 53.223287,
-    "lon": -4.160804,
+    "lat": 53.223823,
+    "lon": -4.16197,
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
     "id": 922,
     "shellfishery": "Menai E",
     "total_spill_hours": 7.25,
-    "lat": 53.223823,
-    "lon": -4.16197,
+    "lat": 53.223287,
+    "lon": -4.160804,
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
@@ -2016,15 +2008,15 @@
     "pcon20nm": "Torridge and West Devon"
   },
   {
-    "id": 978,
+    "id": 977,
     "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
-    "total_spill_hours": 7.416666666395031,
+    "total_spill_hours": 7.4,
     "lat": 50.622838,
     "lon": -2.500377,
     "pcon20nm": "West Dorset"
   },
   {
-    "id": 783,
+    "id": 782,
     "shellfishery": "Burry S",
     "total_spill_hours": 7.5,
     "lat": 51.639598,
@@ -2056,7 +2048,7 @@
     "pcon20nm": "Wallasey"
   },
   {
-    "id": 827,
+    "id": 826,
     "shellfishery": "Foulness",
     "total_spill_hours": 7.63,
     "lat": 51.531836,
@@ -2064,7 +2056,7 @@
     "pcon20nm": "Rochford and Southend East"
   },
   {
-    "id": 980,
+    "id": 979,
     "shellfishery": "Dart",
     "total_spill_hours": 7.67,
     "lat": 50.429593,
@@ -2072,20 +2064,20 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 796,
-    "shellfishery": "Swans E",
-    "total_spill_hours": 7.75,
-    "lat": 51.637088,
-    "lon": -3.830942,
-    "pcon20nm": "Aberavon"
-  },
-  {
-    "id": 897,
+    "id": 896,
     "shellfishery": "Menai E",
     "total_spill_hours": 7.75,
     "lat": 53.258965,
     "lon": -4.14671,
     "pcon20nm": "Ynys M\u00f4n"
+  },
+  {
+    "id": 795,
+    "shellfishery": "Swans E",
+    "total_spill_hours": 7.75,
+    "lat": 51.637088,
+    "lon": -3.830942,
+    "pcon20nm": "Aberavon"
   },
   {
     "id": 338,
@@ -2096,9 +2088,9 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 644,
+    "id": 643,
     "shellfishery": "MARGATE",
-    "total_spill_hours": 7.876666666707024,
+    "total_spill_hours": 7.88,
     "lat": 51.393407,
     "lon": 1.425815,
     "pcon20nm": "South Thanet"
@@ -2112,7 +2104,7 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 742,
+    "id": 741,
     "shellfishery": "Burry S",
     "total_spill_hours": 8.0,
     "lat": 51.643431,
@@ -2136,7 +2128,7 @@
     "pcon20nm": "St Austell and Newquay"
   },
   {
-    "id": 998,
+    "id": 997,
     "shellfishery": "Lune (Wyre)",
     "total_spill_hours": 8.22,
     "lat": 53.840272,
@@ -2152,7 +2144,7 @@
     "pcon20nm": "Liverpool, Riverside"
   },
   {
-    "id": 735,
+    "id": 734,
     "shellfishery": "Colne, Pyfleet",
     "total_spill_hours": 8.23,
     "lat": 51.88721,
@@ -2160,9 +2152,9 @@
     "pcon20nm": "Colchester"
   },
   {
-    "id": 639,
+    "id": 638,
     "shellfishery": "SOUTHAMPTON WATER",
-    "total_spill_hours": 8.266666666720994,
+    "total_spill_hours": 8.27,
     "lat": 50.900822,
     "lon": -1.387888,
     "pcon20nm": "Southampton, Itchen"
@@ -2176,9 +2168,9 @@
     "pcon20nm": "Bootle"
   },
   {
-    "id": 570,
+    "id": 569,
     "shellfishery": "CENTRAL SOLENT, COWES, LEPE MIDDLE BANK, MEDINA, STANSWOOD BAY",
-    "total_spill_hours": 8.5544444443658,
+    "total_spill_hours": 8.55,
     "lat": 50.767107,
     "lon": -1.308523,
     "pcon20nm": "Isle of Wight"
@@ -2200,7 +2192,7 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 795,
+    "id": 794,
     "shellfishery": "Swans E",
     "total_spill_hours": 8.75,
     "lat": 51.62908,
@@ -2208,15 +2200,7 @@
     "pcon20nm": "Aberavon"
   },
   {
-    "id": 774,
-    "shellfishery": "Swans W",
-    "total_spill_hours": 9.0,
-    "lat": 51.580148,
-    "lon": -4.005318,
-    "pcon20nm": "Gower"
-  },
-  {
-    "id": 747,
+    "id": 746,
     "shellfishery": "Burry N",
     "total_spill_hours": 9.0,
     "lat": 51.675602,
@@ -2224,17 +2208,25 @@
     "pcon20nm": "Llanelli"
   },
   {
-    "id": 1047,
+    "id": 773,
+    "shellfishery": "Swans W",
+    "total_spill_hours": 9.0,
+    "lat": 51.580148,
+    "lon": -4.005318,
+    "pcon20nm": "Gower"
+  },
+  {
+    "id": 1046,
     "shellfishery": "SOUTHAMPTON WATER",
-    "total_spill_hours": 9.014722222345881,
+    "total_spill_hours": 9.01,
     "lat": 50.911297,
     "lon": -1.490305,
     "pcon20nm": "New Forest East"
   },
   {
-    "id": 646,
+    "id": 645,
     "shellfishery": "MARGATE",
-    "total_spill_hours": 9.113055555440951,
+    "total_spill_hours": 9.11,
     "lat": 51.376271,
     "lon": 1.448824,
     "pcon20nm": "South Thanet"
@@ -2248,7 +2240,7 @@
     "pcon20nm": "South East Cornwall"
   },
   {
-    "id": 708,
+    "id": 707,
     "shellfishery": "West Wash",
     "total_spill_hours": 9.17,
     "lat": 52.975263,
@@ -2272,7 +2264,7 @@
     "pcon20nm": "Wallasey"
   },
   {
-    "id": 901,
+    "id": 900,
     "shellfishery": "Rhos on S",
     "total_spill_hours": 9.25,
     "lat": 53.312319,
@@ -2280,7 +2272,7 @@
     "pcon20nm": "Aberconwy"
   },
   {
-    "id": 875,
+    "id": 874,
     "shellfishery": "Menai E",
     "total_spill_hours": 9.25,
     "lat": 53.294751,
@@ -2312,7 +2304,7 @@
     "pcon20nm": "Lancaster and Fleetwood"
   },
   {
-    "id": 746,
+    "id": 745,
     "shellfishery": "Swans S",
     "total_spill_hours": 9.5,
     "lat": 51.570684,
@@ -2328,15 +2320,15 @@
     "pcon20nm": "Truro and Falmouth"
   },
   {
-    "id": 534,
+    "id": 533,
     "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
-    "total_spill_hours": 9.66666666666667,
+    "total_spill_hours": 9.7,
     "lat": 50.725199,
     "lon": -2.012962,
     "pcon20nm": "Poole"
   },
   {
-    "id": 776,
+    "id": 775,
     "shellfishery": "Swansea Bay (S),(W),(E)",
     "total_spill_hours": 9.75,
     "lat": 51.611429,
@@ -2344,7 +2336,7 @@
     "pcon20nm": "Swansea West"
   },
   {
-    "id": 761,
+    "id": 760,
     "shellfishery": "Porthcawl",
     "total_spill_hours": 9.75,
     "lat": 51.472753,
@@ -2368,7 +2360,7 @@
     "pcon20nm": "Exeter"
   },
   {
-    "id": 932,
+    "id": 931,
     "shellfishery": "Glaslyn",
     "total_spill_hours": 10.25,
     "lat": 52.92852,
@@ -2384,9 +2376,9 @@
     "pcon20nm": "North Devon"
   },
   {
-    "id": 603,
+    "id": 602,
     "shellfishery": "RYDE, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 10.347499999799766,
+    "total_spill_hours": 10.35,
     "lat": 50.721243,
     "lon": -1.109593,
     "pcon20nm": "Isle of Wight"
@@ -2408,7 +2400,7 @@
     "pcon20nm": "Torridge and West Devon"
   },
   {
-    "id": 937,
+    "id": 936,
     "shellfishery": "Conwy",
     "total_spill_hours": 10.5,
     "lat": 53.281227,
@@ -2416,7 +2408,7 @@
     "pcon20nm": "Aberconwy"
   },
   {
-    "id": 954,
+    "id": 953,
     "shellfishery": "Dee W",
     "total_spill_hours": 10.75,
     "lat": 53.341519,
@@ -2424,9 +2416,9 @@
     "pcon20nm": "Delyn"
   },
   {
-    "id": 1045,
+    "id": 1044,
     "shellfishery": "PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 11.08333333331393,
+    "total_spill_hours": 11.08,
     "lat": 50.819039,
     "lon": -1.091833,
     "pcon20nm": "Portsmouth North"
@@ -2440,7 +2432,7 @@
     "pcon20nm": "Sefton Central"
   },
   {
-    "id": 773,
+    "id": 772,
     "shellfishery": "Swans W",
     "total_spill_hours": 11.25,
     "lat": 51.574845,
@@ -2464,39 +2456,39 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 634,
+    "id": 633,
     "shellfishery": "COWES, MEDINA, RYDE, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 11.333055555413011,
+    "total_spill_hours": 11.33,
     "lat": 50.732502,
     "lon": -1.21197,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 689,
+    "id": 688,
     "shellfishery": "SOUTHAMPTON WATER",
-    "total_spill_hours": 11.358611111005303,
+    "total_spill_hours": 11.36,
     "lat": 50.914966,
     "lon": -1.392823,
     "pcon20nm": "Southampton, Test"
   },
   {
-    "id": 690,
+    "id": 689,
     "shellfishery": "PORTSMOUTH HARBOUR",
-    "total_spill_hours": 11.402500000025611,
+    "total_spill_hours": 11.4,
     "lat": 50.847648,
     "lon": -1.191137,
     "pcon20nm": "Fareham"
   },
   {
-    "id": 992,
+    "id": 991,
     "shellfishery": "CHICHESTER HARBOUR (EMSWORTH C, CHICHESTER HARBOUR (THORNHAM C, LANGSTONE HARBOUR",
-    "total_spill_hours": 11.582222222175915,
+    "total_spill_hours": 11.58,
     "lat": 50.842889,
     "lon": -0.946438,
     "pcon20nm": "Havant"
   },
   {
-    "id": 883,
+    "id": 882,
     "shellfishery": "Menai W",
     "total_spill_hours": 11.75,
     "lat": 53.139544,
@@ -2504,9 +2496,9 @@
     "pcon20nm": "Arfon"
   },
   {
-    "id": 668,
+    "id": 667,
     "shellfishery": "PORTSMOUTH HARBOUR",
-    "total_spill_hours": 11.894166666897945,
+    "total_spill_hours": 11.89,
     "lat": 50.874557,
     "lon": -1.119322,
     "pcon20nm": "Meon Valley"
@@ -2520,7 +2512,7 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 715,
+    "id": 714,
     "shellfishery": "Colne",
     "total_spill_hours": 12.0,
     "lat": 51.809569,
@@ -2528,9 +2520,9 @@
     "pcon20nm": "Harwich and North Essex"
   },
   {
-    "id": 688,
+    "id": 687,
     "shellfishery": "CHICHESTER HARBOUR (EMSWORTH C, LANGSTONE HARBOUR, PORTSMOUTH HARBOUR",
-    "total_spill_hours": 12.049999999988358,
+    "total_spill_hours": 12.05,
     "lat": 50.838203,
     "lon": -1.04772,
     "pcon20nm": "Portsmouth North"
@@ -2544,7 +2536,7 @@
     "pcon20nm": "Wyre and Preston North"
   },
   {
-    "id": 719,
+    "id": 718,
     "shellfishery": "Colne",
     "total_spill_hours": 12.27,
     "lat": 51.809558,
@@ -2560,7 +2552,7 @@
     "pcon20nm": "Lancaster and Fleetwood"
   },
   {
-    "id": 902,
+    "id": 901,
     "shellfishery": "Conwy",
     "total_spill_hours": 12.5,
     "lat": 53.282981,
@@ -2576,23 +2568,23 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 613,
+    "id": 612,
     "shellfishery": "SWALE EAST, SWALECLIFFE",
-    "total_spill_hours": 12.558333333756309,
+    "total_spill_hours": 12.56,
     "lat": 51.366157,
     "lon": 1.037828,
     "pcon20nm": "Canterbury"
   },
   {
-    "id": 662,
+    "id": 661,
     "shellfishery": "SOUTHAMPTON WATER",
-    "total_spill_hours": 12.689166666939855,
+    "total_spill_hours": 12.69,
     "lat": 50.907972,
     "lon": -1.414249,
     "pcon20nm": "Southampton, Itchen"
   },
   {
-    "id": 818,
+    "id": 817,
     "shellfishery": "Burry N",
     "total_spill_hours": 12.75,
     "lat": 51.685823,
@@ -2608,20 +2600,20 @@
     "pcon20nm": "Exeter"
   },
   {
-    "id": 716,
-    "shellfishery": "Colne",
-    "total_spill_hours": 13.0,
-    "lat": 51.813441,
-    "lon": 1.020529,
-    "pcon20nm": "Harwich and North Essex"
-  },
-  {
     "id": 372,
     "shellfishery": "Taw/Torridge",
     "total_spill_hours": 13.0,
     "lat": 51.068652,
     "lon": -4.176968,
     "pcon20nm": "North Devon"
+  },
+  {
+    "id": 715,
+    "shellfishery": "Colne",
+    "total_spill_hours": 13.0,
+    "lat": 51.813441,
+    "lon": 1.020529,
+    "pcon20nm": "Harwich and North Essex"
   },
   {
     "id": 428,
@@ -2656,9 +2648,9 @@
     "pcon20nm": "South East Cornwall"
   },
   {
-    "id": 563,
+    "id": 562,
     "shellfishery": "SOUTHAMPTON WATER",
-    "total_spill_hours": 13.413888889015652,
+    "total_spill_hours": 13.41,
     "lat": 50.907926,
     "lon": -1.4417,
     "pcon20nm": "Southampton, Test"
@@ -2720,9 +2712,9 @@
     "pcon20nm": "Southport"
   },
   {
-    "id": 598,
+    "id": 597,
     "shellfishery": "COWES, RYDE, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 14.529166666790843,
+    "total_spill_hours": 14.53,
     "lat": 50.72597,
     "lon": -1.152573,
     "pcon20nm": "Isle of Wight"
@@ -2736,20 +2728,20 @@
     "pcon20nm": "Exeter"
   },
   {
+    "id": 984,
+    "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
+    "total_spill_hours": 14.8,
+    "lat": 50.738248,
+    "lon": -1.994542,
+    "pcon20nm": "Poole"
+  },
+  {
     "id": 314,
     "shellfishery": "Exe",
     "total_spill_hours": 14.8,
     "lat": 50.701954,
     "lon": -3.53412,
     "pcon20nm": "Exeter"
-  },
-  {
-    "id": 985,
-    "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
-    "total_spill_hours": 14.83333333209157,
-    "lat": 50.738248,
-    "lon": -1.994542,
-    "pcon20nm": "Poole"
   },
   {
     "id": 477,
@@ -2768,15 +2760,15 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 592,
+    "id": 591,
     "shellfishery": "PENNINGTON, TOTLAND, YARMOUTH",
-    "total_spill_hours": 15.190000000060536,
+    "total_spill_hours": 15.19,
     "lat": 50.689557,
     "lon": -1.538294,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 853,
+    "id": 852,
     "shellfishery": "Conwy",
     "total_spill_hours": 15.25,
     "lat": 53.282058,
@@ -2784,20 +2776,12 @@
     "pcon20nm": "Aberconwy"
   },
   {
-    "id": 756,
+    "id": 755,
     "shellfishery": "Burry N",
     "total_spill_hours": 15.5,
     "lat": 51.682021,
     "lon": -4.279617,
     "pcon20nm": "Llanelli"
-  },
-  {
-    "id": 536,
-    "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
-    "total_spill_hours": 15.5833333333333,
-    "lat": 50.684846,
-    "lon": -2.104831,
-    "pcon20nm": "Mid Dorset and North Poole"
   },
   {
     "id": 219,
@@ -2808,7 +2792,15 @@
     "pcon20nm": "Southport"
   },
   {
-    "id": 712,
+    "id": 535,
+    "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
+    "total_spill_hours": 15.6,
+    "lat": 50.684846,
+    "lon": -2.104831,
+    "pcon20nm": "Mid Dorset and North Poole"
+  },
+  {
+    "id": 711,
     "shellfishery": "West Wash",
     "total_spill_hours": 15.63,
     "lat": 52.982284,
@@ -2816,7 +2808,7 @@
     "pcon20nm": "Boston and Skegness"
   },
   {
-    "id": 785,
+    "id": 784,
     "shellfishery": "Burry N",
     "total_spill_hours": 15.75,
     "lat": 51.684129,
@@ -2824,9 +2816,9 @@
     "pcon20nm": "Llanelli"
   },
   {
-    "id": 988,
+    "id": 987,
     "shellfishery": "PORTSMOUTH HARBOUR",
-    "total_spill_hours": 16.245277777779847,
+    "total_spill_hours": 16.25,
     "lat": 50.856104,
     "lon": -1.191417,
     "pcon20nm": "Fareham"
@@ -2848,17 +2840,17 @@
     "pcon20nm": "Exeter"
   },
   {
-    "id": 614,
+    "id": 613,
     "shellfishery": "SWALE EAST, SWALECLIFFE",
-    "total_spill_hours": 16.6725000005099,
+    "total_spill_hours": 16.67,
     "lat": 51.366157,
     "lon": 1.037828,
     "pcon20nm": "Canterbury"
   },
   {
-    "id": 643,
+    "id": 642,
     "shellfishery": "MARGATE",
-    "total_spill_hours": 16.77777777792653,
+    "total_spill_hours": 16.78,
     "lat": 51.393407,
     "lon": 1.425815,
     "pcon20nm": "South Thanet"
@@ -2872,20 +2864,20 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 538,
-    "shellfishery": "CENTRAL SOLENT, COWES, LEPE MIDDLE BANK, MEDINA, STANSWOOD BAY",
-    "total_spill_hours": 17.234999999811407,
-    "lat": 50.763441,
-    "lon": -1.29695,
-    "pcon20nm": "Isle of Wight"
-  },
-  {
     "id": 239,
     "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
-    "total_spill_hours": 17.25,
+    "total_spill_hours": 17.2,
     "lat": 50.527864,
     "lon": -2.437578,
     "pcon20nm": "South Dorset"
+  },
+  {
+    "id": 537,
+    "shellfishery": "CENTRAL SOLENT, COWES, LEPE MIDDLE BANK, MEDINA, STANSWOOD BAY",
+    "total_spill_hours": 17.23,
+    "lat": 50.763441,
+    "lon": -1.29695,
+    "pcon20nm": "Isle of Wight"
   },
   {
     "id": 273,
@@ -2896,7 +2888,7 @@
     "pcon20nm": "East Devon"
   },
   {
-    "id": 729,
+    "id": 728,
     "shellfishery": "Deben",
     "total_spill_hours": 17.9,
     "lat": 52.08893,
@@ -2912,7 +2904,7 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 739,
+    "id": 738,
     "shellfishery": "Deben",
     "total_spill_hours": 18.5,
     "lat": 52.094094,
@@ -2936,33 +2928,33 @@
     "pcon20nm": "South East Cornwall"
   },
   {
-    "id": 564,
+    "id": 563,
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, CENTRAL SOLENT, SOUTHAMPTON WATER, STANSWOOD BAY",
-    "total_spill_hours": 19.03277777787298,
+    "total_spill_hours": 19.03,
     "lat": 50.852345,
     "lon": -1.291212,
     "pcon20nm": "Fareham"
   },
   {
-    "id": 694,
+    "id": 693,
     "shellfishery": "RYDE",
-    "total_spill_hours": 19.04305555560859,
+    "total_spill_hours": 19.04,
     "lat": 50.694075,
     "lon": -1.108409,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 640,
+    "id": 639,
     "shellfishery": "SHEPPEY, SWALE EAST, SWALECLIFFE",
-    "total_spill_hours": 19.299999999871943,
+    "total_spill_hours": 19.3,
     "lat": 51.404612,
     "lon": 0.908365,
     "pcon20nm": "Sittingbourne and Sheppey"
   },
   {
-    "id": 555,
+    "id": 554,
     "shellfishery": "PORTSMOUTH HARBOUR",
-    "total_spill_hours": 19.664444444119,
+    "total_spill_hours": 19.66,
     "lat": 50.85034,
     "lon": -1.177453,
     "pcon20nm": "Fareham"
@@ -2976,17 +2968,17 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 674,
+    "id": 673,
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, SOUTHAMPTON WATER, STANSWOOD BAY",
-    "total_spill_hours": 20.053333332936745,
+    "total_spill_hours": 20.05,
     "lat": 50.856799,
     "lon": -1.32993,
     "pcon20nm": "Eastleigh"
   },
   {
-    "id": 999,
+    "id": 998,
     "shellfishery": "MEDINA",
-    "total_spill_hours": 20.05944444425404,
+    "total_spill_hours": 20.06,
     "lat": 50.701718,
     "lon": -1.291643,
     "pcon20nm": "Isle of Wight"
@@ -3016,7 +3008,7 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 1007,
+    "id": 1006,
     "shellfishery": "Exe",
     "total_spill_hours": 20.3,
     "lat": 50.695099,
@@ -3024,9 +3016,9 @@
     "pcon20nm": "East Devon"
   },
   {
-    "id": 650,
+    "id": 649,
     "shellfishery": "LYMINGTON AND SOWLEY_M, PENNINGTON",
-    "total_spill_hours": 20.327777778322343,
+    "total_spill_hours": 20.33,
     "lat": 50.758886,
     "lon": -1.536904,
     "pcon20nm": "New Forest West"
@@ -3040,14 +3032,6 @@
     "pcon20nm": "Westmorland and Lonsdale"
   },
   {
-    "id": 808,
-    "shellfishery": "Burry N",
-    "total_spill_hours": 20.5,
-    "lat": 51.684324,
-    "lon": -4.178664,
-    "pcon20nm": "Llanelli"
-  },
-  {
     "id": 319,
     "shellfishery": "Exe",
     "total_spill_hours": 20.5,
@@ -3056,9 +3040,17 @@
     "pcon20nm": "Exeter"
   },
   {
-    "id": 991,
+    "id": 807,
+    "shellfishery": "Burry N",
+    "total_spill_hours": 20.5,
+    "lat": 51.684324,
+    "lon": -4.178664,
+    "pcon20nm": "Llanelli"
+  },
+  {
+    "id": 990,
     "shellfishery": "PORTSMOUTH HARBOUR",
-    "total_spill_hours": 20.666666666802485,
+    "total_spill_hours": 20.67,
     "lat": 50.816656,
     "lon": -1.17038,
     "pcon20nm": "Gosport"
@@ -3072,17 +3064,17 @@
     "pcon20nm": "South Ribble"
   },
   {
-    "id": 673,
+    "id": 672,
     "shellfishery": "CENTRAL SOLENT, COWES, PORTSMOUTH HARBOUR, RYDE, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 20.72694444435183,
+    "total_spill_hours": 20.73,
     "lat": 50.802282,
     "lon": -1.135157,
     "pcon20nm": "Gosport"
   },
   {
-    "id": 585,
+    "id": 584,
     "shellfishery": "RYDE",
-    "total_spill_hours": 21.03499999997439,
+    "total_spill_hours": 21.03,
     "lat": 50.7012,
     "lon": -1.099352,
     "pcon20nm": "Isle of Wight"
@@ -3091,25 +3083,25 @@
     "id": 751,
     "shellfishery": "Taf",
     "total_spill_hours": 21.25,
-    "lat": 51.768907,
-    "lon": -4.463408,
-    "pcon20nm": "Carmarthen West and South Pembrokeshire"
-  },
-  {
-    "id": 752,
-    "shellfishery": "Taf",
-    "total_spill_hours": 21.25,
     "lat": 51.768885,
     "lon": -4.462711,
     "pcon20nm": "Carmarthen West and South Pembrokeshire"
   },
   {
-    "id": 911,
+    "id": 910,
     "shellfishery": "Dee W",
     "total_spill_hours": 21.25,
     "lat": 53.250752,
     "lon": -3.128229,
     "pcon20nm": "Delyn"
+  },
+  {
+    "id": 750,
+    "shellfishery": "Taf",
+    "total_spill_hours": 21.25,
+    "lat": 51.768907,
+    "lon": -4.463408,
+    "pcon20nm": "Carmarthen West and South Pembrokeshire"
   },
   {
     "id": 356,
@@ -3144,7 +3136,7 @@
     "pcon20nm": "Poole"
   },
   {
-    "id": 829,
+    "id": 828,
     "shellfishery": "Dyfi",
     "total_spill_hours": 22.0,
     "lat": 52.589885,
@@ -3152,20 +3144,20 @@
     "pcon20nm": "Montgomeryshire"
   },
   {
-    "id": 571,
-    "shellfishery": "CENTRAL SOLENT, COWES, LEPE MIDDLE BANK, MEDINA, STANSWOOD BAY",
-    "total_spill_hours": 22.0,
-    "lat": 50.767107,
-    "lon": -1.308523,
-    "pcon20nm": "Isle of Wight"
-  },
-  {
-    "id": 1060,
+    "id": 1059,
     "shellfishery": "Dee W",
     "total_spill_hours": 22.0,
     "lat": 53.324177,
     "lon": -3.327376,
     "pcon20nm": "Delyn"
+  },
+  {
+    "id": 570,
+    "shellfishery": "CENTRAL SOLENT, COWES, LEPE MIDDLE BANK, MEDINA, STANSWOOD BAY",
+    "total_spill_hours": 22.0,
+    "lat": 50.767107,
+    "lon": -1.308523,
+    "pcon20nm": "Isle of Wight"
   },
   {
     "id": 506,
@@ -3192,15 +3184,15 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 530,
+    "id": 529,
     "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
-    "total_spill_hours": 22.807916666264646,
+    "total_spill_hours": 22.8,
     "lat": 50.697897,
     "lon": -2.092259,
     "pcon20nm": "Mid Dorset and North Poole"
   },
   {
-    "id": 1022,
+    "id": 1021,
     "shellfishery": "Fal Estuary",
     "total_spill_hours": 22.84,
     "lat": 50.267104,
@@ -3208,7 +3200,7 @@
     "pcon20nm": "Truro and Falmouth"
   },
   {
-    "id": 786,
+    "id": 785,
     "shellfishery": "Burry N",
     "total_spill_hours": 23.0,
     "lat": 51.683518,
@@ -3216,9 +3208,9 @@
     "pcon20nm": "Llanelli"
   },
   {
-    "id": 638,
+    "id": 637,
     "shellfishery": "CHICHESTER HARBOUR (CHICHESTER",
-    "total_spill_hours": 23.22472222225042,
+    "total_spill_hours": 23.22,
     "lat": 50.807653,
     "lon": -0.780094,
     "pcon20nm": "Chichester"
@@ -3232,7 +3224,7 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 764,
+    "id": 763,
     "shellfishery": "Cleddau",
     "total_spill_hours": 23.25,
     "lat": 51.695931,
@@ -3264,23 +3256,23 @@
     "pcon20nm": "East Devon"
   },
   {
-    "id": 578,
+    "id": 577,
     "shellfishery": "LANGSTONE HARBOUR, PORTSMOUTH HARBOUR",
-    "total_spill_hours": 23.846388888778165,
+    "total_spill_hours": 23.85,
     "lat": 50.835882,
     "lon": -1.060974,
     "pcon20nm": "Portsmouth North"
   },
   {
-    "id": 540,
+    "id": 539,
     "shellfishery": "SWALE EAST, SWALECLIFFE, MARGATE",
-    "total_spill_hours": 23.966666666558012,
+    "total_spill_hours": 23.97,
     "lat": 51.359923,
     "lon": 1.124334,
     "pcon20nm": "North Thanet"
   },
   {
-    "id": 781,
+    "id": 780,
     "shellfishery": "Swans W",
     "total_spill_hours": 24.5,
     "lat": 51.630775,
@@ -3296,7 +3288,7 @@
     "pcon20nm": "Plymouth, Moor View"
   },
   {
-    "id": 862,
+    "id": 861,
     "shellfishery": "Mawddach",
     "total_spill_hours": 24.75,
     "lat": 52.719411,
@@ -3312,47 +3304,39 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 1000,
+    "id": 999,
     "shellfishery": "LYMINGTON AND SOWLEY_M, NEWTOWN_M, PENNINGTON, YARMOUTH",
-    "total_spill_hours": 25.57555555505678,
+    "total_spill_hours": 25.58,
     "lat": 50.690697,
     "lon": -1.509261,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 548,
+    "id": 547,
     "shellfishery": "LYMINGTON AND SOWLEY_M, NEWTOWN_M, PENNINGTON, YARMOUTH",
-    "total_spill_hours": 25.682222222560085,
+    "total_spill_hours": 25.68,
     "lat": 50.704558,
     "lon": -1.49099,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 1026,
+    "id": 1025,
     "shellfishery": "CHICHESTER HARBOUR (CHICHESTER, CHICHESTER HARBOUR (THORNHAM C",
-    "total_spill_hours": 25.728611110593192,
+    "total_spill_hours": 25.73,
     "lat": 50.827995,
     "lon": -0.806102,
     "pcon20nm": "Chichester"
   },
   {
-    "id": 950,
-    "shellfishery": "Menai East",
+    "id": 779,
+    "shellfishery": "Swans E",
     "total_spill_hours": 25.75,
-    "lat": 53.223605,
-    "lon": -4.155142,
-    "pcon20nm": "Arfon"
+    "lat": 51.592595,
+    "lon": -3.792381,
+    "pcon20nm": "Aberavon"
   },
   {
-    "id": 861,
-    "shellfishery": "Mawddach",
-    "total_spill_hours": 25.75,
-    "lat": 52.727016,
-    "lon": -4.068349,
-    "pcon20nm": "Dwyfor Meirionnydd"
-  },
-  {
-    "id": 749,
+    "id": 748,
     "shellfishery": "Burry N",
     "total_spill_hours": 25.75,
     "lat": 51.695433,
@@ -3360,12 +3344,20 @@
     "pcon20nm": "Llanelli"
   },
   {
-    "id": 780,
-    "shellfishery": "Swans E",
+    "id": 949,
+    "shellfishery": "Menai East",
     "total_spill_hours": 25.75,
-    "lat": 51.592595,
-    "lon": -3.792381,
-    "pcon20nm": "Aberavon"
+    "lat": 53.223605,
+    "lon": -4.155142,
+    "pcon20nm": "Arfon"
+  },
+  {
+    "id": 860,
+    "shellfishery": "Mawddach",
+    "total_spill_hours": 25.75,
+    "lat": 52.727016,
+    "lon": -4.068349,
+    "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
     "id": 1,
@@ -3376,7 +3368,7 @@
     "pcon20nm": "Torridge and West Devon"
   },
   {
-    "id": 734,
+    "id": 733,
     "shellfishery": "Upper Roach",
     "total_spill_hours": 25.93,
     "lat": 51.579673,
@@ -3408,20 +3400,12 @@
     "pcon20nm": "East Devon"
   },
   {
-    "id": 612,
+    "id": 611,
     "shellfishery": "SWALE EAST, SWALECLIFFE",
-    "total_spill_hours": 26.571666666772217,
+    "total_spill_hours": 26.57,
     "lat": 51.366157,
     "lon": 1.037828,
     "pcon20nm": "Canterbury"
-  },
-  {
-    "id": 533,
-    "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
-    "total_spill_hours": 26.75,
-    "lat": 50.725042,
-    "lon": -2.032669,
-    "pcon20nm": "Poole"
   },
   {
     "id": 278,
@@ -3430,6 +3414,14 @@
     "lat": 50.531872,
     "lon": -3.60846,
     "pcon20nm": "Newton Abbot"
+  },
+  {
+    "id": 532,
+    "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
+    "total_spill_hours": 26.8,
+    "lat": 50.725042,
+    "lon": -2.032669,
+    "pcon20nm": "Poole"
   },
   {
     "id": 112,
@@ -3458,7 +3450,7 @@
   {
     "id": 517,
     "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
-    "total_spill_hours": 27.0833333333333,
+    "total_spill_hours": 27.1,
     "lat": 50.717475,
     "lon": -2.00548,
     "pcon20nm": "Poole"
@@ -3496,41 +3488,41 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 583,
+    "id": 582,
     "shellfishery": "LYMINGTON AND SOWLEY_M, NEWTOWN_M, PENNINGTON, TOTLAND, YARMOUTH",
-    "total_spill_hours": 27.528055555187166,
+    "total_spill_hours": 27.53,
     "lat": 50.706214,
     "lon": -1.499611,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 637,
+    "id": 636,
     "shellfishery": "MEDINA",
-    "total_spill_hours": 27.650000000023283,
+    "total_spill_hours": 27.65,
     "lat": 50.699014,
     "lon": -1.290693,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 580,
+    "id": 579,
     "shellfishery": "LYMINGTON AND SOWLEY_M, PENNINGTON, TOTLAND, YARMOUTH",
-    "total_spill_hours": 27.695833333593328,
+    "total_spill_hours": 27.7,
     "lat": 50.738786,
     "lon": -1.564623,
     "pcon20nm": "New Forest West"
   },
   {
-    "id": 682,
+    "id": 681,
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, SOUTHAMPTON WATER, STANSWOOD BAY",
-    "total_spill_hours": 27.873611111019272,
+    "total_spill_hours": 27.87,
     "lat": 50.854387,
     "lon": -1.317037,
     "pcon20nm": "Eastleigh"
   },
   {
-    "id": 995,
+    "id": 994,
     "shellfishery": "SWALE CENTRAL",
-    "total_spill_hours": 27.88277777773328,
+    "total_spill_hours": 27.88,
     "lat": 51.343491,
     "lon": 0.742646,
     "pcon20nm": "Sittingbourne and Sheppey"
@@ -3544,9 +3536,9 @@
     "pcon20nm": "Truro and Falmouth"
   },
   {
-    "id": 648,
+    "id": 647,
     "shellfishery": "SHEPPEY, SWALE CENTRAL, SWALE EAST, SWALECLIFFE",
-    "total_spill_hours": 27.966388888657093,
+    "total_spill_hours": 27.97,
     "lat": 51.399452,
     "lon": 0.898835,
     "pcon20nm": "Sittingbourne and Sheppey"
@@ -3568,23 +3560,23 @@
     "pcon20nm": "Exeter"
   },
   {
-    "id": 657,
+    "id": 656,
     "shellfishery": "PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 28.757777778315358,
+    "total_spill_hours": 28.76,
     "lat": 50.81973,
     "lon": -1.088271,
     "pcon20nm": "Portsmouth North"
   },
   {
-    "id": 645,
+    "id": 644,
     "shellfishery": "MARGATE",
-    "total_spill_hours": 28.95000000006985,
+    "total_spill_hours": 28.95,
     "lat": 51.376271,
     "lon": 1.448824,
     "pcon20nm": "South Thanet"
   },
   {
-    "id": 826,
+    "id": 825,
     "shellfishery": "Foulness",
     "total_spill_hours": 29.07,
     "lat": 51.551052,
@@ -3592,23 +3584,23 @@
     "pcon20nm": "Southend West"
   },
   {
-    "id": 661,
+    "id": 660,
     "shellfishery": "COWES, MEDINA, RYDE",
-    "total_spill_hours": 29.21999999944819,
+    "total_spill_hours": 29.22,
     "lat": 50.725045,
     "lon": -1.226546,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 993,
+    "id": 992,
     "shellfishery": "FOULNESS, OUTER THAMES, SHEPPEY, SOUTHEND",
-    "total_spill_hours": 29.404444444400724,
+    "total_spill_hours": 29.4,
     "lat": 51.452963,
     "lon": 0.722717,
     "pcon20nm": "Rochester and Strood"
   },
   {
-    "id": 765,
+    "id": 764,
     "shellfishery": "Cleddau",
     "total_spill_hours": 29.5,
     "lat": 51.706185,
@@ -3616,15 +3608,15 @@
     "pcon20nm": "Preseli Pembrokeshire"
   },
   {
-    "id": 649,
+    "id": 648,
     "shellfishery": "CHICHESTER HARBOUR (CHICHESTER, CHICHESTER HARBOUR (THORNHAM C",
-    "total_spill_hours": 29.702222222287674,
+    "total_spill_hours": 29.7,
     "lat": 50.827712,
     "lon": -0.851276,
     "pcon20nm": "Chichester"
   },
   {
-    "id": 814,
+    "id": 813,
     "shellfishery": "Burry N",
     "total_spill_hours": 29.75,
     "lat": 51.682946,
@@ -3632,9 +3624,9 @@
     "pcon20nm": "Llanelli"
   },
   {
-    "id": 1051,
+    "id": 1050,
     "shellfishery": "CHICHESTER HARBOUR (CHICHESTER, CHICHESTER HARBOUR (EMSWORTH C, CHICHESTER HARBOUR (THORNHAM C, LANGSTONE HARBOUR",
-    "total_spill_hours": 29.912500000325963,
+    "total_spill_hours": 29.91,
     "lat": 50.84029,
     "lon": -0.925676,
     "pcon20nm": "Chichester"
@@ -3656,7 +3648,7 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 731,
+    "id": 730,
     "shellfishery": "Colne",
     "total_spill_hours": 30.3,
     "lat": 51.794362,
@@ -3664,31 +3656,23 @@
     "pcon20nm": "Clacton"
   },
   {
-    "id": 629,
+    "id": 628,
     "shellfishery": "PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 30.57444444479188,
+    "total_spill_hours": 30.57,
     "lat": 50.812513,
     "lon": -1.085288,
     "pcon20nm": "Portsmouth North"
   },
   {
-    "id": 1029,
+    "id": 1028,
     "shellfishery": "MEDINA",
-    "total_spill_hours": 30.684722221980337,
+    "total_spill_hours": 30.68,
     "lat": 50.704418,
     "lon": -1.307038,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 963,
-    "shellfishery": "Dee W",
-    "total_spill_hours": 30.75,
-    "lat": 53.329057,
-    "lon": -3.305438,
-    "pcon20nm": "Delyn"
-  },
-  {
-    "id": 841,
+    "id": 840,
     "shellfishery": "Menai W",
     "total_spill_hours": 30.75,
     "lat": 53.132649,
@@ -3696,7 +3680,15 @@
     "pcon20nm": "Arfon"
   },
   {
-    "id": 705,
+    "id": 962,
+    "shellfishery": "Dee W",
+    "total_spill_hours": 30.75,
+    "lat": 53.329057,
+    "lon": -3.305438,
+    "pcon20nm": "Delyn"
+  },
+  {
+    "id": 704,
     "shellfishery": "South East Wash",
     "total_spill_hours": 30.83,
     "lat": 52.753846,
@@ -3704,9 +3696,9 @@
     "pcon20nm": "North West Norfolk"
   },
   {
-    "id": 607,
+    "id": 606,
     "shellfishery": "RYDE, SPITHEAD AND STOKES BAY,COWES",
-    "total_spill_hours": 30.895555555354804,
+    "total_spill_hours": 30.9,
     "lat": 50.724608,
     "lon": -1.126388,
     "pcon20nm": "Isle of Wight"
@@ -3728,17 +3720,17 @@
     "pcon20nm": "Wyre and Preston North"
   },
   {
-    "id": 663,
+    "id": 662,
     "shellfishery": "SOUTHAMPTON WATER",
-    "total_spill_hours": 31.49583333270857,
+    "total_spill_hours": 31.5,
     "lat": 50.933086,
     "lon": -1.384191,
     "pcon20nm": "Romsey and Southampton North"
   },
   {
-    "id": 1028,
+    "id": 1027,
     "shellfishery": "MEDINA",
-    "total_spill_hours": 31.521111111156642,
+    "total_spill_hours": 31.52,
     "lat": 50.708371,
     "lon": -1.291401,
     "pcon20nm": "Isle of Wight"
@@ -3760,15 +3752,15 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 618,
+    "id": 617,
     "shellfishery": "STOUR ESTUARY (KENT)",
-    "total_spill_hours": 31.68333333323244,
+    "total_spill_hours": 31.68,
     "lat": 51.276022,
     "lon": 1.335468,
     "pcon20nm": "South Thanet"
   },
   {
-    "id": 810,
+    "id": 809,
     "shellfishery": "Burry N",
     "total_spill_hours": 31.75,
     "lat": 51.676376,
@@ -3784,9 +3776,9 @@
     "pcon20nm": "South East Cornwall"
   },
   {
-    "id": 631,
+    "id": 630,
     "shellfishery": "SHEPPEY, SOUTHEND",
-    "total_spill_hours": 32.57361111114733,
+    "total_spill_hours": 32.57,
     "lat": 51.418557,
     "lon": 0.763249,
     "pcon20nm": "Sittingbourne and Sheppey"
@@ -3816,7 +3808,7 @@
     "pcon20nm": "South Ribble"
   },
   {
-    "id": 928,
+    "id": 927,
     "shellfishery": "Menai E",
     "total_spill_hours": 33.5,
     "lat": 53.214553,
@@ -3832,15 +3824,15 @@
     "pcon20nm": "Truro and Falmouth"
   },
   {
-    "id": 996,
+    "id": 995,
     "shellfishery": "CHICHESTER HARBOUR (CHICHESTER",
-    "total_spill_hours": 33.831666666897945,
+    "total_spill_hours": 33.83,
     "lat": 50.835718,
     "lon": -0.815576,
     "pcon20nm": "Chichester"
   },
   {
-    "id": 944,
+    "id": 943,
     "shellfishery": "Conwy",
     "total_spill_hours": 34.25,
     "lat": 53.284769,
@@ -3856,15 +3848,15 @@
     "pcon20nm": "Morecambe and Lunesdale"
   },
   {
-    "id": 589,
+    "id": 588,
     "shellfishery": "LYMINGTON AND SOWLEY_M, PENNINGTON, TOTLAND, YARMOUTH",
-    "total_spill_hours": 34.88055555563187,
+    "total_spill_hours": 34.88,
     "lat": 50.696811,
     "lon": -1.530719,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 1002,
+    "id": 1001,
     "shellfishery": "Morecambe Bay East and Lune (Broadfleet and Plover Scar)",
     "total_spill_hours": 35.1,
     "lat": 54.008756,
@@ -3880,7 +3872,7 @@
     "pcon20nm": "Sefton Central"
   },
   {
-    "id": 914,
+    "id": 913,
     "shellfishery": "Menai E",
     "total_spill_hours": 35.25,
     "lat": 53.238875,
@@ -3888,9 +3880,9 @@
     "pcon20nm": "Arfon"
   },
   {
-    "id": 556,
+    "id": 555,
     "shellfishery": "PORTSMOUTH HARBOUR",
-    "total_spill_hours": 35.464722222299315,
+    "total_spill_hours": 35.46,
     "lat": 50.850418,
     "lon": -1.188532,
     "pcon20nm": "Fareham"
@@ -3912,9 +3904,9 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 658,
+    "id": 657,
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, SOUTHAMPTON WATER",
-    "total_spill_hours": 36.350277777935844,
+    "total_spill_hours": 36.35,
     "lat": 50.880032,
     "lon": -1.319788,
     "pcon20nm": "Eastleigh"
@@ -3928,19 +3920,19 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 965,
-    "shellfishery": "Dee W",
-    "total_spill_hours": 36.5,
-    "lat": 53.268977,
-    "lon": -3.167995,
-    "pcon20nm": "Delyn"
-  },
-  {
-    "id": 969,
+    "id": 968,
     "shellfishery": "Dee W",
     "total_spill_hours": 36.5,
     "lat": 53.247812,
     "lon": -3.125454,
+    "pcon20nm": "Delyn"
+  },
+  {
+    "id": 964,
+    "shellfishery": "Dee W",
+    "total_spill_hours": 36.5,
+    "lat": 53.268977,
+    "lon": -3.167995,
     "pcon20nm": "Delyn"
   },
   {
@@ -3968,9 +3960,9 @@
     "pcon20nm": "Wirral South"
   },
   {
-    "id": 596,
+    "id": 595,
     "shellfishery": "CHICHESTER HARBOUR (EMSWORTH C, LANGSTONE HARBOUR, PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 36.99999999941792,
+    "total_spill_hours": 37.0,
     "lat": 50.78976,
     "lon": -1.02955,
     "pcon20nm": "Portsmouth South"
@@ -3992,17 +3984,17 @@
     "pcon20nm": "North Devon"
   },
   {
-    "id": 630,
+    "id": 629,
     "shellfishery": "PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 37.47166666632984,
+    "total_spill_hours": 37.47,
     "lat": 50.812064,
     "lon": -1.085439,
     "pcon20nm": "Portsmouth North"
   },
   {
-    "id": 683,
+    "id": 682,
     "shellfishery": "SWALE CENTRAL, SWALE EAST",
-    "total_spill_hours": 37.56416666682344,
+    "total_spill_hours": 37.56,
     "lat": 51.319773,
     "lon": 0.8984,
     "pcon20nm": "Faversham and Mid Kent"
@@ -4016,9 +4008,9 @@
     "pcon20nm": "Lancaster and Fleetwood"
   },
   {
-    "id": 569,
+    "id": 568,
     "shellfishery": "STOUR ESTUARY (KENT)",
-    "total_spill_hours": 37.821111111261416,
+    "total_spill_hours": 37.82,
     "lat": 51.27399,
     "lon": 1.346794,
     "pcon20nm": "South Thanet"
@@ -4032,15 +4024,15 @@
     "pcon20nm": "Westmorland and Lonsdale"
   },
   {
-    "id": 588,
+    "id": 587,
     "shellfishery": "RYDE",
-    "total_spill_hours": 38.533611110877246,
+    "total_spill_hours": 38.53,
     "lat": 50.694031,
     "lon": -1.090994,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 805,
+    "id": 804,
     "shellfishery": "Cleddau",
     "total_spill_hours": 38.75,
     "lat": 51.704943,
@@ -4048,9 +4040,9 @@
     "pcon20nm": "Preseli Pembrokeshire"
   },
   {
-    "id": 670,
+    "id": 669,
     "shellfishery": "OUTER THAMES, SHEPPEY, SWALE CENTRAL, SWALECLIFFE",
-    "total_spill_hours": 38.8813888891018,
+    "total_spill_hours": 38.88,
     "lat": 51.417607,
     "lon": 0.866469,
     "pcon20nm": "Sittingbourne and Sheppey"
@@ -4096,7 +4088,7 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 986,
+    "id": 985,
     "shellfishery": "Taw/Torridge",
     "total_spill_hours": 42.31,
     "lat": 50.948634,
@@ -4104,7 +4096,7 @@
     "pcon20nm": "Torridge and West Devon"
   },
   {
-    "id": 608,
+    "id": 607,
     "shellfishery": "RYDE, SPITHEAD AND STOKES BAY,COWES",
     "total_spill_hours": 42.5,
     "lat": 50.724608,
@@ -4120,20 +4112,20 @@
     "pcon20nm": "North Devon"
   },
   {
-    "id": 787,
-    "shellfishery": "Burry N",
-    "total_spill_hours": 42.75,
-    "lat": 51.668434,
-    "lon": -4.158666,
-    "pcon20nm": "Llanelli"
-  },
-  {
-    "id": 958,
+    "id": 957,
     "shellfishery": "Dee W",
     "total_spill_hours": 42.75,
     "lat": 53.278983,
     "lon": -3.186146,
     "pcon20nm": "Delyn"
+  },
+  {
+    "id": 786,
+    "shellfishery": "Burry N",
+    "total_spill_hours": 42.75,
+    "lat": 51.668434,
+    "lon": -4.158666,
+    "pcon20nm": "Llanelli"
   },
   {
     "id": 301,
@@ -4160,15 +4152,15 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 681,
+    "id": 680,
     "shellfishery": "CENTRAL SOLENT, COWES, PORTSMOUTH HARBOUR, RYDE, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 43.88611111108912,
+    "total_spill_hours": 43.89,
     "lat": 50.789813,
     "lon": -1.13936,
     "pcon20nm": "Gosport"
   },
   {
-    "id": 961,
+    "id": 960,
     "shellfishery": "DEE (EAST)",
     "total_spill_hours": 43.93,
     "lat": 53.346744,
@@ -4200,25 +4192,25 @@
     "pcon20nm": "Plymouth, Moor View"
   },
   {
-    "id": 602,
+    "id": 601,
     "shellfishery": "RYDE, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 44.50861111097038,
+    "total_spill_hours": 44.51,
     "lat": 50.721823,
     "lon": -1.114823,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 577,
+    "id": 576,
     "shellfishery": "CHICHESTER HARBOUR (EMSWORTH C, LANGSTONE HARBOUR, PORTSMOUTH HARBOUR",
-    "total_spill_hours": 44.93944444443332,
+    "total_spill_hours": 44.94,
     "lat": 50.833788,
     "lon": -1.046815,
     "pcon20nm": "Portsmouth North"
   },
   {
-    "id": 1056,
+    "id": 1055,
     "shellfishery": "SWALE CENTRAL, SWALE EAST",
-    "total_spill_hours": 45.44277777773095,
+    "total_spill_hours": 45.44,
     "lat": 51.388264,
     "lon": 0.841491,
     "pcon20nm": "Sittingbourne and Sheppey"
@@ -4248,9 +4240,9 @@
     "pcon20nm": "Truro and Falmouth"
   },
   {
-    "id": 558,
+    "id": 557,
     "shellfishery": "LYMINGTON AND SOWLEY_M, PENNINGTON",
-    "total_spill_hours": 45.669999998935964,
+    "total_spill_hours": 45.67,
     "lat": 50.758893,
     "lon": -1.538889,
     "pcon20nm": "New Forest West"
@@ -4272,7 +4264,7 @@
     "pcon20nm": "Morecambe and Lunesdale"
   },
   {
-    "id": 777,
+    "id": 776,
     "shellfishery": "Swansea Bay (S),(W),(E)",
     "total_spill_hours": 46.75,
     "lat": 51.611148,
@@ -4304,7 +4296,7 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 966,
+    "id": 965,
     "shellfishery": "Dee W",
     "total_spill_hours": 48.25,
     "lat": 53.262323,
@@ -4312,15 +4304,15 @@
     "pcon20nm": "Delyn"
   },
   {
-    "id": 549,
+    "id": 548,
     "shellfishery": "PENNINGTON, YARMOUTH",
-    "total_spill_hours": 48.85666666680481,
+    "total_spill_hours": 48.86,
     "lat": 50.671007,
     "lon": -1.510315,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 877,
+    "id": 876,
     "shellfishery": "Glaslyn",
     "total_spill_hours": 49.25,
     "lat": 52.924547,
@@ -4328,9 +4320,9 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 703,
+    "id": 702,
     "shellfishery": "CENTRAL SOLENT, COWES, MEDINA, SPITHEAD AND STOKES BAY, STANSWOOD BAY",
-    "total_spill_hours": 49.443611110851634,
+    "total_spill_hours": 49.44,
     "lat": 50.760697,
     "lon": -1.289335,
     "pcon20nm": "Isle of Wight"
@@ -4344,7 +4336,7 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 532,
+    "id": 531,
     "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
     "total_spill_hours": 50.5,
     "lat": 50.741998,
@@ -4352,17 +4344,17 @@
     "pcon20nm": "Poole"
   },
   {
-    "id": 551,
+    "id": 550,
     "shellfishery": "SHEPPEY, SOUTHEND",
-    "total_spill_hours": 50.77027777873445,
+    "total_spill_hours": 50.77,
     "lat": 51.416265,
     "lon": 0.74211,
     "pcon20nm": "Sittingbourne and Sheppey"
   },
   {
-    "id": 699,
+    "id": 698,
     "shellfishery": "MARGATE, SWALECLIFFE",
-    "total_spill_hours": 51.016666666720994,
+    "total_spill_hours": 51.02,
     "lat": 51.372636,
     "lon": 1.166731,
     "pcon20nm": "North Thanet"
@@ -4370,7 +4362,7 @@
   {
     "id": 516,
     "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
-    "total_spill_hours": 51.4166666666667,
+    "total_spill_hours": 51.4,
     "lat": 50.72876,
     "lon": -1.986226,
     "pcon20nm": "Poole"
@@ -4400,7 +4392,7 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 821,
+    "id": 820,
     "shellfishery": "Burry S",
     "total_spill_hours": 52.0,
     "lat": 51.632602,
@@ -4416,9 +4408,9 @@
     "pcon20nm": "Wyre and Preston North"
   },
   {
-    "id": 667,
+    "id": 666,
     "shellfishery": "PENNINGTON, YARMOUTH",
-    "total_spill_hours": 52.647777777921874,
+    "total_spill_hours": 52.65,
     "lat": 50.682639,
     "lon": -1.517696,
     "pcon20nm": "Isle of Wight"
@@ -4440,9 +4432,9 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 568,
+    "id": 567,
     "shellfishery": "SWALE CENTRAL",
-    "total_spill_hours": 55.577500000130385,
+    "total_spill_hours": 55.58,
     "lat": 51.345838,
     "lon": 0.7346,
     "pcon20nm": "Sittingbourne and Sheppey"
@@ -4456,17 +4448,17 @@
     "pcon20nm": "Camborne and Redruth"
   },
   {
-    "id": 542,
+    "id": 541,
     "shellfishery": "SWALE EAST, SWALECLIFFE",
-    "total_spill_hours": 56.012777778028976,
+    "total_spill_hours": 56.01,
     "lat": 51.372255,
     "lon": 1.066111,
     "pcon20nm": "Canterbury"
   },
   {
-    "id": 610,
+    "id": 609,
     "shellfishery": "FOULNESS, OUTER THAMES, SHEPPEY, SOUTHEND",
-    "total_spill_hours": 56.078333333542105,
+    "total_spill_hours": 56.08,
     "lat": 51.428671,
     "lon": 0.780548,
     "pcon20nm": "Sittingbourne and Sheppey"
@@ -4496,39 +4488,39 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 1040,
+    "id": 1039,
     "shellfishery": "PORTSMOUTH HARBOUR",
-    "total_spill_hours": 57.11138888873393,
+    "total_spill_hours": 57.11,
     "lat": 50.874854,
     "lon": -1.123012,
     "pcon20nm": "Meon Valley"
   },
   {
-    "id": 994,
+    "id": 993,
     "shellfishery": "FOULNESS, OUTER THAMES, SHEPPEY, SOUTHEND",
-    "total_spill_hours": 57.52861111157108,
+    "total_spill_hours": 57.53,
     "lat": 51.43016,
     "lon": 0.744093,
     "pcon20nm": "Sittingbourne and Sheppey"
   },
   {
-    "id": 574,
+    "id": 573,
     "shellfishery": "SWALE EAST, SWALECLIFFE, MARGATE",
-    "total_spill_hours": 57.79999999963911,
+    "total_spill_hours": 57.8,
     "lat": 51.379094,
     "lon": 1.144037,
     "pcon20nm": "North Thanet"
   },
   {
-    "id": 584,
+    "id": 583,
     "shellfishery": "COWES, RYDE",
-    "total_spill_hours": 58.03277777839685,
+    "total_spill_hours": 58.03,
     "lat": 50.708416,
     "lon": -1.214356,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 878,
+    "id": 877,
     "shellfishery": "Mawddach",
     "total_spill_hours": 58.75,
     "lat": 52.713482,
@@ -4552,15 +4544,15 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 554,
+    "id": 553,
     "shellfishery": "PORTSMOUTH HARBOUR",
-    "total_spill_hours": 58.93333333317423,
+    "total_spill_hours": 58.93,
     "lat": 50.848743,
     "lon": -1.180464,
     "pcon20nm": "Fareham"
   },
   {
-    "id": 891,
+    "id": 890,
     "shellfishery": "Menai W",
     "total_spill_hours": 59.0,
     "lat": 53.163568,
@@ -4568,15 +4560,15 @@
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
-    "id": 544,
+    "id": 543,
     "shellfishery": "RYDE",
-    "total_spill_hours": 59.15388888929738,
+    "total_spill_hours": 59.15,
     "lat": 50.691164,
     "lon": -1.115826,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 857,
+    "id": 856,
     "shellfishery": "Mawddach",
     "total_spill_hours": 59.25,
     "lat": 52.714246,
@@ -4584,7 +4576,7 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 876,
+    "id": 875,
     "shellfishery": "Glaslyn",
     "total_spill_hours": 59.25,
     "lat": 52.916248,
@@ -4600,9 +4592,9 @@
     "pcon20nm": "Bootle"
   },
   {
-    "id": 695,
+    "id": 694,
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, CENTRAL SOLENT, SOUTHAMPTON WATER, STANSWOOD BAY",
-    "total_spill_hours": 59.53666666627396,
+    "total_spill_hours": 59.54,
     "lat": 50.843045,
     "lon": -1.300016,
     "pcon20nm": "Fareham"
@@ -4616,7 +4608,7 @@
     "pcon20nm": "Preston"
   },
   {
-    "id": 848,
+    "id": 847,
     "shellfishery": "Menai W",
     "total_spill_hours": 60.75,
     "lat": 53.168298,
@@ -4624,7 +4616,7 @@
     "pcon20nm": "Arfon"
   },
   {
-    "id": 930,
+    "id": 929,
     "shellfishery": "Menai W",
     "total_spill_hours": 61.0,
     "lat": 53.164608,
@@ -4664,7 +4656,7 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 887,
+    "id": 886,
     "shellfishery": "Mawddach",
     "total_spill_hours": 63.0,
     "lat": 52.701756,
@@ -4672,7 +4664,7 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 939,
+    "id": 938,
     "shellfishery": "Conwy",
     "total_spill_hours": 63.25,
     "lat": 53.28942,
@@ -4696,7 +4688,7 @@
     "pcon20nm": "Torridge and West Devon"
   },
   {
-    "id": 849,
+    "id": 848,
     "shellfishery": "Menai E",
     "total_spill_hours": 64.75,
     "lat": 53.289039,
@@ -4712,7 +4704,7 @@
     "pcon20nm": "Wallasey"
   },
   {
-    "id": 881,
+    "id": 880,
     "shellfishery": "Menai E",
     "total_spill_hours": 65.0,
     "lat": 53.256454,
@@ -4736,7 +4728,7 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 898,
+    "id": 897,
     "shellfishery": "Conwy",
     "total_spill_hours": 66.75,
     "lat": 53.287724,
@@ -4744,15 +4736,15 @@
     "pcon20nm": "Aberconwy"
   },
   {
-    "id": 693,
+    "id": 692,
     "shellfishery": "PORTSMOUTH HARBOUR",
-    "total_spill_hours": 67.2352777782362,
+    "total_spill_hours": 67.24,
     "lat": 50.837049,
     "lon": -1.180101,
     "pcon20nm": "Fareham"
   },
   {
-    "id": 855,
+    "id": 854,
     "shellfishery": "Mawddach",
     "total_spill_hours": 67.25,
     "lat": 52.692516,
@@ -4760,25 +4752,25 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 573,
+    "id": 572,
     "shellfishery": "CENTRAL SOLENT, COWES, MEDINA, SPITHEAD AND STOKES BAY, STANSWOOD BAY",
-    "total_spill_hours": 67.83055555529427,
+    "total_spill_hours": 67.83,
     "lat": 50.759187,
     "lon": -1.292477,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 680,
+    "id": 679,
     "shellfishery": "PORTSMOUTH HARBOUR",
-    "total_spill_hours": 68.56444444478257,
+    "total_spill_hours": 68.56,
     "lat": 50.84007,
     "lon": -1.137583,
     "pcon20nm": "Fareham"
   },
   {
-    "id": 1043,
+    "id": 1042,
     "shellfishery": "PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 69.10388888942543,
+    "total_spill_hours": 69.1,
     "lat": 50.819039,
     "lon": -1.091833,
     "pcon20nm": "Portsmouth North"
@@ -4808,15 +4800,7 @@
     "pcon20nm": "South Ribble"
   },
   {
-    "id": 653,
-    "shellfishery": "PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 71.24583333358169,
-    "lat": 50.820125,
-    "lon": -1.081307,
-    "pcon20nm": "Portsmouth North"
-  },
-  {
-    "id": 967,
+    "id": 966,
     "shellfishery": "Dee W",
     "total_spill_hours": 71.25,
     "lat": 53.243487,
@@ -4824,7 +4808,15 @@
     "pcon20nm": "Delyn"
   },
   {
-    "id": 528,
+    "id": 652,
+    "shellfishery": "PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
+    "total_spill_hours": 71.25,
+    "lat": 50.820125,
+    "lon": -1.081307,
+    "pcon20nm": "Portsmouth North"
+  },
+  {
+    "id": 527,
     "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
     "total_spill_hours": 72.0,
     "lat": 50.73336,
@@ -4832,7 +4824,7 @@
     "pcon20nm": "Mid Dorset and North Poole"
   },
   {
-    "id": 974,
+    "id": 973,
     "shellfishery": "Avon",
     "total_spill_hours": 72.2,
     "lat": 50.318837,
@@ -4840,7 +4832,7 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 880,
+    "id": 879,
     "shellfishery": "Rhos on S",
     "total_spill_hours": 72.25,
     "lat": 53.311975,
@@ -4856,7 +4848,7 @@
     "pcon20nm": "Torridge and West Devon"
   },
   {
-    "id": 871,
+    "id": 870,
     "shellfishery": "Menai E",
     "total_spill_hours": 73.25,
     "lat": 53.261467,
@@ -4880,25 +4872,25 @@
     "pcon20nm": "Preston"
   },
   {
-    "id": 601,
+    "id": 600,
     "shellfishery": "COWES, RYDE, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 74.14833333314164,
+    "total_spill_hours": 74.15,
     "lat": 50.731494,
     "lon": -1.183222,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 666,
+    "id": 665,
     "shellfishery": "CENTRAL SOLENT, COWES, LEPE MIDDLE BANK, MEDINA, STANSWOOD BAY",
-    "total_spill_hours": 74.21972222160548,
+    "total_spill_hours": 74.22,
     "lat": 50.763989,
     "lon": -1.298502,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 550,
+    "id": 549,
     "shellfishery": "NEWTOWN_M, YARMOUTH",
-    "total_spill_hours": 74.89222222252283,
+    "total_spill_hours": 74.89,
     "lat": 50.688323,
     "lon": -1.422932,
     "pcon20nm": "Isle of Wight"
@@ -4928,7 +4920,7 @@
     "pcon20nm": "Plymouth, Moor View"
   },
   {
-    "id": 959,
+    "id": 958,
     "shellfishery": "Dee W",
     "total_spill_hours": 75.75,
     "lat": 53.319591,
@@ -4960,7 +4952,7 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 723,
+    "id": 722,
     "shellfishery": "Colne, Pyfleet",
     "total_spill_hours": 79.23,
     "lat": 51.890757,
@@ -4968,15 +4960,7 @@
     "pcon20nm": "Colchester"
   },
   {
-    "id": 859,
-    "shellfishery": "Mawddach",
-    "total_spill_hours": 79.5,
-    "lat": 53.185585,
-    "lon": -4.397781,
-    "pcon20nm": "Ynys M\u00f4n"
-  },
-  {
-    "id": 535,
+    "id": 534,
     "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
     "total_spill_hours": 79.5,
     "lat": 50.514124,
@@ -4984,9 +4968,17 @@
     "pcon20nm": "South Dorset"
   },
   {
-    "id": 1033,
+    "id": 858,
+    "shellfishery": "Mawddach",
+    "total_spill_hours": 79.5,
+    "lat": 53.185585,
+    "lon": -4.397781,
+    "pcon20nm": "Ynys M\u00f4n"
+  },
+  {
+    "id": 1032,
     "shellfishery": "LYMINGTON AND SOWLEY_M, NEWTOWN_M, YARMOUTH",
-    "total_spill_hours": 79.60444444476161,
+    "total_spill_hours": 79.6,
     "lat": 50.702936,
     "lon": -1.41369,
     "pcon20nm": "Isle of Wight"
@@ -5000,9 +4992,9 @@
     "pcon20nm": "Plymouth, Moor View"
   },
   {
-    "id": 633,
+    "id": 632,
     "shellfishery": "PORTSMOUTH HARBOUR",
-    "total_spill_hours": 80.42805555579253,
+    "total_spill_hours": 80.43,
     "lat": 50.855171,
     "lon": -1.173816,
     "pcon20nm": "Fareham"
@@ -5024,7 +5016,7 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 762,
+    "id": 761,
     "shellfishery": "Cleddau",
     "total_spill_hours": 82.5,
     "lat": 51.704813,
@@ -5032,15 +5024,15 @@
     "pcon20nm": "Preseli Pembrokeshire"
   },
   {
-    "id": 582,
+    "id": 581,
     "shellfishery": "PENNINGTON, YARMOUTH, TOTLAND",
-    "total_spill_hours": 82.90249999979278,
+    "total_spill_hours": 82.9,
     "lat": 50.683285,
     "lon": -1.544159,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 933,
+    "id": 932,
     "shellfishery": "Glaslyn",
     "total_spill_hours": 83.25,
     "lat": 52.92852,
@@ -5048,7 +5040,7 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 884,
+    "id": 883,
     "shellfishery": "Menai W",
     "total_spill_hours": 83.75,
     "lat": 53.141023,
@@ -5056,15 +5048,15 @@
     "pcon20nm": "Arfon"
   },
   {
-    "id": 1055,
+    "id": 1054,
     "shellfishery": "SWALE CENTRAL, SWALE EAST",
-    "total_spill_hours": 84.88666666683275,
+    "total_spill_hours": 84.89,
     "lat": 51.323811,
     "lon": 0.908933,
     "pcon20nm": "Faversham and Mid Kent"
   },
   {
-    "id": 873,
+    "id": 872,
     "shellfishery": "Menai E",
     "total_spill_hours": 85.75,
     "lat": 53.240974,
@@ -5072,7 +5064,7 @@
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
-    "id": 888,
+    "id": 887,
     "shellfishery": "Mawddach",
     "total_spill_hours": 86.25,
     "lat": 52.70863,
@@ -5096,7 +5088,7 @@
     "pcon20nm": "South East Cornwall"
   },
   {
-    "id": 872,
+    "id": 871,
     "shellfishery": "Menai E",
     "total_spill_hours": 87.5,
     "lat": 53.237455,
@@ -5104,9 +5096,9 @@
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
-    "id": 1034,
+    "id": 1033,
     "shellfishery": "COWES, MEDINA, RYDE, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 88.58861111139413,
+    "total_spill_hours": 88.59,
     "lat": 50.734117,
     "lon": -1.211517,
     "pcon20nm": "Isle of Wight"
@@ -5120,7 +5112,7 @@
     "pcon20nm": "Camborne and Redruth"
   },
   {
-    "id": 879,
+    "id": 878,
     "shellfishery": "Mawddach",
     "total_spill_hours": 89.25,
     "lat": 52.706126,
@@ -5128,9 +5120,9 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 635,
+    "id": 634,
     "shellfishery": "COWES, RYDE",
-    "total_spill_hours": 89.38111111050239,
+    "total_spill_hours": 89.38,
     "lat": 50.725389,
     "lon": -1.224132,
     "pcon20nm": "Isle of Wight"
@@ -5152,7 +5144,7 @@
     "pcon20nm": "Truro and Falmouth"
   },
   {
-    "id": 942,
+    "id": 941,
     "shellfishery": "Dee W",
     "total_spill_hours": 90.25,
     "lat": 53.294343,
@@ -5160,7 +5152,7 @@
     "pcon20nm": "Delyn"
   },
   {
-    "id": 721,
+    "id": 720,
     "shellfishery": "Walton Backwaters",
     "total_spill_hours": 90.97,
     "lat": 51.855237,
@@ -5168,15 +5160,15 @@
     "pcon20nm": "Clacton"
   },
   {
-    "id": 605,
+    "id": 604,
     "shellfishery": "COWES, RYDE, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 91.96583333378658,
+    "total_spill_hours": 91.97,
     "lat": 50.732971,
     "lon": -1.163217,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 869,
+    "id": 868,
     "shellfishery": "Conwy",
     "total_spill_hours": 92.25,
     "lat": 53.287598,
@@ -5184,15 +5176,15 @@
     "pcon20nm": "Aberconwy"
   },
   {
-    "id": 1027,
+    "id": 1026,
     "shellfishery": "PENNINGTON, YARMOUTH",
-    "total_spill_hours": 92.35722222214099,
+    "total_spill_hours": 92.36,
     "lat": 50.683082,
     "lon": -1.515993,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 910,
+    "id": 909,
     "shellfishery": "Menai E",
     "total_spill_hours": 93.0,
     "lat": 53.264502,
@@ -5200,17 +5192,17 @@
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
-    "id": 990,
+    "id": 989,
     "shellfishery": "PORTSMOUTH HARBOUR",
-    "total_spill_hours": 93.85555555560859,
+    "total_spill_hours": 93.86,
     "lat": 50.834592,
     "lon": -1.175884,
     "pcon20nm": "Gosport"
   },
   {
-    "id": 611,
+    "id": 610,
     "shellfishery": "SWALE EAST, SWALECLIFFE",
-    "total_spill_hours": 93.97999999998137,
+    "total_spill_hours": 93.98,
     "lat": 51.367397,
     "lon": 1.02814,
     "pcon20nm": "Canterbury"
@@ -5224,7 +5216,7 @@
     "pcon20nm": "Wirral West"
   },
   {
-    "id": 1005,
+    "id": 1004,
     "shellfishery": "Morecambe Bay East",
     "total_spill_hours": 97.01,
     "lat": 54.12052,
@@ -5240,9 +5232,9 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 604,
+    "id": 603,
     "shellfishery": "COWES, RYDE, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 97.42888888833113,
+    "total_spill_hours": 97.43,
     "lat": 50.718907,
     "lon": -1.158368,
     "pcon20nm": "Isle of Wight"
@@ -5256,7 +5248,7 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 895,
+    "id": 894,
     "shellfishery": "Mawddach",
     "total_spill_hours": 98.0,
     "lat": 52.699136,
@@ -5272,15 +5264,15 @@
     "pcon20nm": "Fylde"
   },
   {
-    "id": 641,
+    "id": 640,
     "shellfishery": "CHICHESTER HARBOUR (CHICHESTER",
-    "total_spill_hours": 99.9833333332208,
+    "total_spill_hours": 99.98,
     "lat": 50.813853,
     "lon": -0.753956,
     "pcon20nm": "Chichester"
   },
   {
-    "id": 758,
+    "id": 757,
     "shellfishery": "Burry N",
     "total_spill_hours": 100.75,
     "lat": 51.677392,
@@ -5296,20 +5288,20 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 775,
-    "shellfishery": "Swans W",
-    "total_spill_hours": 102.25,
-    "lat": 51.580326,
-    "lon": -4.004388,
-    "pcon20nm": "Gower"
-  },
-  {
     "id": 391,
     "shellfishery": "Teign",
     "total_spill_hours": 102.25,
     "lat": 50.532884,
     "lon": -3.593678,
     "pcon20nm": "Newton Abbot"
+  },
+  {
+    "id": 774,
+    "shellfishery": "Swans W",
+    "total_spill_hours": 102.25,
+    "lat": 51.580326,
+    "lon": -4.004388,
+    "pcon20nm": "Gower"
   },
   {
     "id": 250,
@@ -5320,7 +5312,7 @@
     "pcon20nm": "East Devon"
   },
   {
-    "id": 885,
+    "id": 884,
     "shellfishery": "Menai W",
     "total_spill_hours": 102.5,
     "lat": 53.143214,
@@ -5328,9 +5320,9 @@
     "pcon20nm": "Arfon"
   },
   {
-    "id": 599,
+    "id": 598,
     "shellfishery": "COWES, RYDE, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 103.2622222226928,
+    "total_spill_hours": 103.26,
     "lat": 50.728941,
     "lon": -1.153086,
     "pcon20nm": "Isle of Wight"
@@ -5408,7 +5400,7 @@
     "pcon20nm": "Lancaster and Fleetwood"
   },
   {
-    "id": 904,
+    "id": 903,
     "shellfishery": "Menai W",
     "total_spill_hours": 111.25,
     "lat": 53.162255,
@@ -5424,7 +5416,7 @@
     "pcon20nm": "Fylde"
   },
   {
-    "id": 727,
+    "id": 726,
     "shellfishery": "Colne",
     "total_spill_hours": 112.3,
     "lat": 51.856995,
@@ -5480,7 +5472,7 @@
     "pcon20nm": "Fylde"
   },
   {
-    "id": 769,
+    "id": 768,
     "shellfishery": "Swans W",
     "total_spill_hours": 116.5,
     "lat": 51.612839,
@@ -5496,7 +5488,7 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 856,
+    "id": 855,
     "shellfishery": "Mawddach",
     "total_spill_hours": 117.25,
     "lat": 52.702252,
@@ -5504,25 +5496,25 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 617,
+    "id": 616,
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, CENTRAL SOLENT, COWES, SOUTHAMPTON WATER, STANSWOOD BAY",
-    "total_spill_hours": 118.37388888909481,
+    "total_spill_hours": 118.37,
     "lat": 50.825827,
     "lon": -1.339034,
     "pcon20nm": "New Forest East"
   },
   {
-    "id": 609,
+    "id": 608,
     "shellfishery": "OUTER THAMES, SHEPPEY, SOUTHEND",
-    "total_spill_hours": 118.65527777757961,
+    "total_spill_hours": 118.66,
     "lat": 51.429715,
     "lon": 0.797157,
     "pcon20nm": "Sittingbourne and Sheppey"
   },
   {
-    "id": 676,
+    "id": 675,
     "shellfishery": "CENTRAL SOLENT, COWES, PORTSMOUTH HARBOUR, RYDE, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 118.72388888918795,
+    "total_spill_hours": 118.72,
     "lat": 50.807529,
     "lon": -1.13946,
     "pcon20nm": "Gosport"
@@ -5560,9 +5552,9 @@
     "pcon20nm": "Exeter"
   },
   {
-    "id": 1035,
+    "id": 1034,
     "shellfishery": "COWES, MEDINA, RYDE",
-    "total_spill_hours": 123.58166666695615,
+    "total_spill_hours": 123.58,
     "lat": 50.72594,
     "lon": -1.225964,
     "pcon20nm": "Isle of Wight"
@@ -5576,7 +5568,7 @@
     "pcon20nm": "Exeter"
   },
   {
-    "id": 767,
+    "id": 766,
     "shellfishery": "Taf",
     "total_spill_hours": 127.25,
     "lat": 51.769717,
@@ -5592,9 +5584,9 @@
     "pcon20nm": "Wirral West"
   },
   {
-    "id": 627,
+    "id": 626,
     "shellfishery": "SOUTHAMPTON WATER",
-    "total_spill_hours": 127.98388888867339,
+    "total_spill_hours": 127.98,
     "lat": 50.891807,
     "lon": -1.383598,
     "pcon20nm": "Southampton, Itchen"
@@ -5608,9 +5600,9 @@
     "pcon20nm": "East Devon"
   },
   {
-    "id": 659,
+    "id": 658,
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, SOUTHAMPTON WATER",
-    "total_spill_hours": 130.86694444378372,
+    "total_spill_hours": 130.87,
     "lat": 50.875961,
     "lon": -1.315726,
     "pcon20nm": "Eastleigh"
@@ -5624,7 +5616,7 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 971,
+    "id": 970,
     "shellfishery": "Dee W",
     "total_spill_hours": 132.5,
     "lat": 53.303027,
@@ -5632,9 +5624,9 @@
     "pcon20nm": "Delyn"
   },
   {
-    "id": 702,
+    "id": 701,
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, CENTRAL SOLENT, SOUTHAMPTON WATER, STANSWOOD BAY",
-    "total_spill_hours": 135.38138888881076,
+    "total_spill_hours": 135.38,
     "lat": 50.835234,
     "lon": -1.287069,
     "pcon20nm": "Fareham"
@@ -5648,17 +5640,17 @@
     "pcon20nm": "Fylde"
   },
   {
-    "id": 1030,
+    "id": 1029,
     "shellfishery": "COWES, RYDE",
-    "total_spill_hours": 136.83777777763316,
+    "total_spill_hours": 136.84,
     "lat": 50.72683,
     "lon": -1.224533,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 1059,
+    "id": 1058,
     "shellfishery": "SWALE CENTRAL, SWALE EAST, SWALECLIFFE",
-    "total_spill_hours": 137.20111111050937,
+    "total_spill_hours": 137.2,
     "lat": 51.30194,
     "lon": 0.942616,
     "pcon20nm": "Faversham and Mid Kent"
@@ -5696,7 +5688,7 @@
     "pcon20nm": "Westmorland and Lonsdale"
   },
   {
-    "id": 823,
+    "id": 822,
     "shellfishery": "Swans W",
     "total_spill_hours": 145.0,
     "lat": 51.618707,
@@ -5712,7 +5704,7 @@
     "pcon20nm": "Truro and Falmouth"
   },
   {
-    "id": 839,
+    "id": 838,
     "shellfishery": "Menai E",
     "total_spill_hours": 147.25,
     "lat": 53.253342,
@@ -5736,9 +5728,9 @@
     "pcon20nm": "South Ribble"
   },
   {
-    "id": 1042,
+    "id": 1041,
     "shellfishery": "LANGSTONE HARBOUR, PORTSMOUTH HARBOUR, RYDE, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 151.1769444452366,
+    "total_spill_hours": 151.18,
     "lat": 50.788212,
     "lon": -1.105908,
     "pcon20nm": "Portsmouth South"
@@ -5768,7 +5760,7 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 788,
+    "id": 787,
     "shellfishery": "Burry N",
     "total_spill_hours": 153.25,
     "lat": 51.665437,
@@ -5792,7 +5784,7 @@
     "pcon20nm": "Southport"
   },
   {
-    "id": 886,
+    "id": 885,
     "shellfishery": "Menai W",
     "total_spill_hours": 157.25,
     "lat": 53.13083,
@@ -5800,7 +5792,7 @@
     "pcon20nm": "Arfon"
   },
   {
-    "id": 724,
+    "id": 723,
     "shellfishery": "Colne, Pyfleet",
     "total_spill_hours": 158.14,
     "lat": 51.874393,
@@ -5816,9 +5808,9 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 632,
+    "id": 631,
     "shellfishery": "COWES, LEPE MIDDLE BANK, LYMINGTON AND SOWLEY_M, NEWTOWN_M",
-    "total_spill_hours": 159.5986111111706,
+    "total_spill_hours": 159.6,
     "lat": 50.719062,
     "lon": -1.367875,
     "pcon20nm": "Isle of Wight"
@@ -5832,7 +5824,7 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 757,
+    "id": 756,
     "shellfishery": "Burry S",
     "total_spill_hours": 160.5,
     "lat": 51.613913,
@@ -5840,7 +5832,7 @@
     "pcon20nm": "Gower"
   },
   {
-    "id": 792,
+    "id": 791,
     "shellfishery": "Swans S",
     "total_spill_hours": 161.0,
     "lat": 51.571364,
@@ -5848,7 +5840,7 @@
     "pcon20nm": "Gower"
   },
   {
-    "id": 907,
+    "id": 906,
     "shellfishery": "Menai W",
     "total_spill_hours": 161.75,
     "lat": 53.172653,
@@ -5856,7 +5848,7 @@
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
-    "id": 763,
+    "id": 762,
     "shellfishery": "Tywi",
     "total_spill_hours": 163.0,
     "lat": 51.772663,
@@ -5880,7 +5872,7 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 906,
+    "id": 905,
     "shellfishery": "Menai W",
     "total_spill_hours": 164.25,
     "lat": 53.175615,
@@ -5888,9 +5880,9 @@
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
-    "id": 672,
+    "id": 671,
     "shellfishery": "CENTRAL SOLENT, COWES, MEDINA, SPITHEAD AND STOKES BAY, STANSWOOD BAY, TOTLAND",
-    "total_spill_hours": 166.65611111163162,
+    "total_spill_hours": 166.66,
     "lat": 50.76102,
     "lon": -1.298263,
     "pcon20nm": "Isle of Wight"
@@ -5920,7 +5912,7 @@
     "pcon20nm": "Fylde"
   },
   {
-    "id": 529,
+    "id": 528,
     "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
     "total_spill_hours": 169.5,
     "lat": 50.730838,
@@ -6000,9 +5992,9 @@
     "pcon20nm": "Southport"
   },
   {
-    "id": 593,
+    "id": 592,
     "shellfishery": "COWES, LEPE MIDDLE BANK, LYMINGTON AND SOWLEY_M, MEDINA, NEWTOWN_M",
-    "total_spill_hours": 183.40222222229932,
+    "total_spill_hours": 183.4,
     "lat": 50.756353,
     "lon": -1.330372,
     "pcon20nm": "Isle of Wight"
@@ -6010,13 +6002,13 @@
   {
     "id": 240,
     "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
-    "total_spill_hours": 184.51666666741949,
+    "total_spill_hours": 184.5,
     "lat": 50.647794,
     "lon": -2.055499,
     "pcon20nm": "South Dorset"
   },
   {
-    "id": 870,
+    "id": 869,
     "shellfishery": "Conwy",
     "total_spill_hours": 186.5,
     "lat": 53.324794,
@@ -6024,7 +6016,7 @@
     "pcon20nm": "Aberconwy"
   },
   {
-    "id": 851,
+    "id": 850,
     "shellfishery": "Mawddach",
     "total_spill_hours": 187.75,
     "lat": 52.743071,
@@ -6032,7 +6024,7 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 867,
+    "id": 866,
     "shellfishery": "Llanddulas",
     "total_spill_hours": 188.5,
     "lat": 53.29477,
@@ -6048,7 +6040,7 @@
     "pcon20nm": "Truro and Falmouth"
   },
   {
-    "id": 745,
+    "id": 744,
     "shellfishery": "Swans E",
     "total_spill_hours": 188.75,
     "lat": 51.617149,
@@ -6056,7 +6048,7 @@
     "pcon20nm": "Aberavon"
   },
   {
-    "id": 1004,
+    "id": 1003,
     "shellfishery": "Lune (Plover Scar)",
     "total_spill_hours": 188.78,
     "lat": 54.141758,
@@ -6064,15 +6056,15 @@
     "pcon20nm": "Morecambe and Lunesdale"
   },
   {
-    "id": 669,
+    "id": 668,
     "shellfishery": "OUTER THAMES, SHEPPEY, SWALE EAST, SWALECLIFFE",
-    "total_spill_hours": 191.5763888885267,
+    "total_spill_hours": 191.58,
     "lat": 51.416349,
     "lon": 0.881062,
     "pcon20nm": "Sittingbourne and Sheppey"
   },
   {
-    "id": 741,
+    "id": 740,
     "shellfishery": "Gwendrae",
     "total_spill_hours": 192.5,
     "lat": 51.74426,
@@ -6080,9 +6072,9 @@
     "pcon20nm": "Carmarthen East and Dinefwr"
   },
   {
-    "id": 976,
+    "id": 975,
     "shellfishery": "RYDE",
-    "total_spill_hours": 193.56694444437744,
+    "total_spill_hours": 193.57,
     "lat": 50.681328,
     "lon": -1.13526,
     "pcon20nm": "Isle of Wight"
@@ -6096,9 +6088,9 @@
     "pcon20nm": "Wallasey"
   },
   {
-    "id": 700,
+    "id": 699,
     "shellfishery": "CHICHESTER HARBOUR (CHICHESTER, CHICHESTER HARBOUR (EMSWORTH C, CHICHESTER HARBOUR (THORNHAM C",
-    "total_spill_hours": 199.5011111117201,
+    "total_spill_hours": 199.5,
     "lat": 50.844769,
     "lon": -0.894891,
     "pcon20nm": "Chichester"
@@ -6136,7 +6128,7 @@
     "pcon20nm": "North Cornwall"
   },
   {
-    "id": 771,
+    "id": 770,
     "shellfishery": "Swans E",
     "total_spill_hours": 205.75,
     "lat": 51.620627,
@@ -6144,7 +6136,7 @@
     "pcon20nm": "Swansea East"
   },
   {
-    "id": 828,
+    "id": 827,
     "shellfishery": "Foulness",
     "total_spill_hours": 206.6,
     "lat": 51.534364,
@@ -6160,9 +6152,9 @@
     "pcon20nm": "Southport"
   },
   {
-    "id": 626,
+    "id": 625,
     "shellfishery": "BEAULIEU RIVER, LEPE MIDDLE BANK, LYMINGTON & SOWLEY",
-    "total_spill_hours": 207.3763888888643,
+    "total_spill_hours": 207.38,
     "lat": 50.815236,
     "lon": -1.446637,
     "pcon20nm": "New Forest East"
@@ -6192,7 +6184,7 @@
     "pcon20nm": "Penrith and The Border"
   },
   {
-    "id": 1003,
+    "id": 1002,
     "shellfishery": "Ribble",
     "total_spill_hours": 211.74,
     "lat": 53.742939,
@@ -6240,7 +6232,7 @@
     "pcon20nm": "Westmorland and Lonsdale"
   },
   {
-    "id": 811,
+    "id": 810,
     "shellfishery": "Gwendrae",
     "total_spill_hours": 221.0,
     "lat": 53.500592,
@@ -6264,9 +6256,9 @@
     "pcon20nm": "Sefton Central"
   },
   {
-    "id": 701,
+    "id": 700,
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, CENTRAL SOLENT, COWES, SOUTHAMPTON WATER, STANSWOOD BAY",
-    "total_spill_hours": 228.95083333278308,
+    "total_spill_hours": 228.95,
     "lat": 50.835234,
     "lon": -1.287069,
     "pcon20nm": "Fareham"
@@ -6280,7 +6272,7 @@
     "pcon20nm": "Westmorland and Lonsdale"
   },
   {
-    "id": 778,
+    "id": 777,
     "shellfishery": "Swans W",
     "total_spill_hours": 234.5,
     "lat": 51.616177,
@@ -6296,7 +6288,7 @@
     "pcon20nm": "South Ribble"
   },
   {
-    "id": 868,
+    "id": 867,
     "shellfishery": "Rhos on S",
     "total_spill_hours": 237.75,
     "lat": 53.319784,
@@ -6304,7 +6296,7 @@
     "pcon20nm": "Aberconwy"
   },
   {
-    "id": 889,
+    "id": 888,
     "shellfishery": "Mawddach",
     "total_spill_hours": 239.25,
     "lat": 52.710307,
@@ -6328,15 +6320,15 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 697,
+    "id": 696,
     "shellfishery": "COWES, MEDINA, RYDE",
-    "total_spill_hours": 248.78333333315095,
+    "total_spill_hours": 248.78,
     "lat": 50.724763,
     "lon": -1.224709,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 915,
+    "id": 914,
     "shellfishery": "Menai E",
     "total_spill_hours": 250.75,
     "lat": 53.23432,
@@ -6344,7 +6336,7 @@
     "pcon20nm": "Arfon"
   },
   {
-    "id": 830,
+    "id": 829,
     "shellfishery": "Dyfi",
     "total_spill_hours": 252.5,
     "lat": 52.593805,
@@ -6352,7 +6344,7 @@
     "pcon20nm": "Montgomeryshire"
   },
   {
-    "id": 843,
+    "id": 842,
     "shellfishery": "Menai W",
     "total_spill_hours": 254.25,
     "lat": 53.140164,
@@ -6368,7 +6360,7 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 957,
+    "id": 956,
     "shellfishery": "Dee W",
     "total_spill_hours": 260.0,
     "lat": 53.27124,
@@ -6376,7 +6368,7 @@
     "pcon20nm": "Delyn"
   },
   {
-    "id": 940,
+    "id": 939,
     "shellfishery": "Conwy",
     "total_spill_hours": 261.5,
     "lat": 53.294377,
@@ -6384,15 +6376,15 @@
     "pcon20nm": "Aberconwy"
   },
   {
-    "id": 1041,
+    "id": 1040,
     "shellfishery": "BEAULIEU RIVER, LYMINGTON AND SOWLEY_M, LEPE MIDDLE BANK",
-    "total_spill_hours": 262.1261111110216,
+    "total_spill_hours": 262.13,
     "lat": 50.804704,
     "lon": -1.46365,
     "pcon20nm": "New Forest East"
   },
   {
-    "id": 896,
+    "id": 895,
     "shellfishery": "Menai W",
     "total_spill_hours": 263.25,
     "lat": 53.205076,
@@ -6424,9 +6416,9 @@
     "pcon20nm": "Wirral South"
   },
   {
-    "id": 1053,
+    "id": 1052,
     "shellfishery": "CHICHESTER HARBOUR (CHICHESTER, CHICHESTER HARBOUR (EMSWORTH C, CHICHESTER HARBOUR (THORNHAM C, LANGSTONE HARBOUR",
-    "total_spill_hours": 271.05166666646255,
+    "total_spill_hours": 271.05,
     "lat": 50.84029,
     "lon": -0.925676,
     "pcon20nm": "Chichester"
@@ -6440,7 +6432,7 @@
     "pcon20nm": "Wirral West"
   },
   {
-    "id": 1014,
+    "id": 1013,
     "shellfishery": "Fal Estuary",
     "total_spill_hours": 272.21,
     "lat": 50.253225,
@@ -6448,7 +6440,7 @@
     "pcon20nm": "Truro and Falmouth"
   },
   {
-    "id": 838,
+    "id": 837,
     "shellfishery": "Menai F",
     "total_spill_hours": 274.25,
     "lat": 53.099977,
@@ -6472,7 +6464,7 @@
     "pcon20nm": "Fylde"
   },
   {
-    "id": 850,
+    "id": 849,
     "shellfishery": "Menai E",
     "total_spill_hours": 278.0,
     "lat": 53.291331,
@@ -6480,9 +6472,9 @@
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
-    "id": 620,
+    "id": 619,
     "shellfishery": "RYDE",
-    "total_spill_hours": 279.15250000037486,
+    "total_spill_hours": 279.15,
     "lat": 50.678093,
     "lon": -1.099936,
     "pcon20nm": "Isle of Wight"
@@ -6504,7 +6496,7 @@
     "pcon20nm": "North Devon"
   },
   {
-    "id": 919,
+    "id": 918,
     "shellfishery": "Dee W",
     "total_spill_hours": 285.0,
     "lat": 53.288556,
@@ -6520,7 +6512,7 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 753,
+    "id": 752,
     "shellfishery": "Cleddau",
     "total_spill_hours": 287.0,
     "lat": 51.76125,
@@ -6528,7 +6520,7 @@
     "pcon20nm": "Preseli Pembrokeshire"
   },
   {
-    "id": 973,
+    "id": 972,
     "shellfishery": "Teign",
     "total_spill_hours": 287.62,
     "lat": 50.480857,
@@ -6536,7 +6528,7 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 912,
+    "id": 911,
     "shellfishery": "Menai E",
     "total_spill_hours": 288.0,
     "lat": 53.184774,
@@ -6544,7 +6536,7 @@
     "pcon20nm": "Arfon"
   },
   {
-    "id": 784,
+    "id": 783,
     "shellfishery": "Burry N",
     "total_spill_hours": 290.5,
     "lat": 51.660606,
@@ -6560,15 +6552,15 @@
     "pcon20nm": "South Ribble"
   },
   {
-    "id": 1050,
+    "id": 1049,
     "shellfishery": "SOUTHAMPTON WATER",
-    "total_spill_hours": 291.7133333334932,
+    "total_spill_hours": 291.71,
     "lat": 50.929114,
     "lon": -1.381256,
     "pcon20nm": "Southampton, Test"
   },
   {
-    "id": 1009,
+    "id": 1008,
     "shellfishery": "Lynher",
     "total_spill_hours": 293.69,
     "lat": 50.371459,
@@ -6576,9 +6568,9 @@
     "pcon20nm": "South East Cornwall"
   },
   {
-    "id": 1057,
+    "id": 1056,
     "shellfishery": "SWALE CENTRAL",
-    "total_spill_hours": 299.6958333333023,
+    "total_spill_hours": 299.7,
     "lat": 51.349548,
     "lon": 0.745162,
     "pcon20nm": "Sittingbourne and Sheppey"
@@ -6592,7 +6584,7 @@
     "pcon20nm": "Truro and Falmouth"
   },
   {
-    "id": 740,
+    "id": 739,
     "shellfishery": "Swans E",
     "total_spill_hours": 305.5,
     "lat": 51.591467,
@@ -6600,7 +6592,7 @@
     "pcon20nm": "Aberavon"
   },
   {
-    "id": 842,
+    "id": 841,
     "shellfishery": "Menai W",
     "total_spill_hours": 306.0,
     "lat": 53.132463,
@@ -6624,7 +6616,7 @@
     "pcon20nm": "Liverpool, Riverside"
   },
   {
-    "id": 1061,
+    "id": 1060,
     "shellfishery": "Dee W",
     "total_spill_hours": 310.5,
     "lat": 53.291237,
@@ -6632,7 +6624,7 @@
     "pcon20nm": "Delyn"
   },
   {
-    "id": 754,
+    "id": 753,
     "shellfishery": "Tywi",
     "total_spill_hours": 311.5,
     "lat": 51.776323,
@@ -6640,7 +6632,7 @@
     "pcon20nm": "Carmarthen East and Dinefwr"
   },
   {
-    "id": 759,
+    "id": 758,
     "shellfishery": "Burry S",
     "total_spill_hours": 314.75,
     "lat": 51.642895,
@@ -6656,9 +6648,9 @@
     "pcon20nm": "Westmorland and Lonsdale"
   },
   {
-    "id": 1038,
+    "id": 1037,
     "shellfishery": "LYMINGTON AND SOWLEY_M, PENNINGTON",
-    "total_spill_hours": 316.06666666752426,
+    "total_spill_hours": 316.07,
     "lat": 50.788688,
     "lon": -1.546115,
     "pcon20nm": "New Forest East"
@@ -6672,7 +6664,7 @@
     "pcon20nm": "Morecambe and Lunesdale"
   },
   {
-    "id": 766,
+    "id": 765,
     "shellfishery": "Cleddau",
     "total_spill_hours": 333.25,
     "lat": 51.695442,
@@ -6736,7 +6728,7 @@
     "pcon20nm": "Truro and Falmouth"
   },
   {
-    "id": 737,
+    "id": 736,
     "shellfishery": "West Wash",
     "total_spill_hours": 356.77,
     "lat": 52.965309,
@@ -6752,7 +6744,7 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 714,
+    "id": 713,
     "shellfishery": "Deben",
     "total_spill_hours": 361.0,
     "lat": 52.007999,
@@ -6760,25 +6752,25 @@
     "pcon20nm": "Suffolk Coastal"
   },
   {
-    "id": 651,
+    "id": 650,
     "shellfishery": "COWES, MEDINA",
-    "total_spill_hours": 363.6277777774958,
+    "total_spill_hours": 363.63,
     "lat": 50.716614,
     "lon": -1.301333,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 1048,
+    "id": 1047,
     "shellfishery": "SOUTHAMPTON WATER",
-    "total_spill_hours": 367.1080555554363,
+    "total_spill_hours": 367.11,
     "lat": 50.899348,
     "lon": -1.455142,
     "pcon20nm": "New Forest East"
   },
   {
-    "id": 591,
+    "id": 590,
     "shellfishery": "LYMINGTON AND SOWLEY_M, NEWTOWN_M, PENNINGTON, YARMOUTH",
-    "total_spill_hours": 367.1713888894301,
+    "total_spill_hours": 367.17,
     "lat": 50.705175,
     "lon": -1.508968,
     "pcon20nm": "Isle of Wight"
@@ -6792,7 +6784,7 @@
     "pcon20nm": "Central Devon"
   },
   {
-    "id": 913,
+    "id": 912,
     "shellfishery": "Dyfi",
     "total_spill_hours": 369.5,
     "lat": 52.543759,
@@ -6816,7 +6808,7 @@
     "pcon20nm": "Wirral West"
   },
   {
-    "id": 760,
+    "id": 759,
     "shellfishery": "Porthcawl",
     "total_spill_hours": 372.0,
     "lat": 51.474533,
@@ -6856,7 +6848,7 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 956,
+    "id": 955,
     "shellfishery": "Dee W",
     "total_spill_hours": 383.25,
     "lat": 53.348528,
@@ -6888,9 +6880,9 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 704,
+    "id": 703,
     "shellfishery": "CENTRAL SOLENT, COWES, MEDINA, SPITHEAD AND STOKES BAY, STANSWOOD BAY, TOTLAND",
-    "total_spill_hours": 389.55333333212184,
+    "total_spill_hours": 389.55,
     "lat": 50.762107,
     "lon": -1.299523,
     "pcon20nm": "Isle of Wight"
@@ -6904,7 +6896,7 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 706,
+    "id": 705,
     "shellfishery": "South East Wash",
     "total_spill_hours": 397.7,
     "lat": 52.767911,
@@ -6928,7 +6920,7 @@
     "pcon20nm": "St Austell and Newquay"
   },
   {
-    "id": 949,
+    "id": 948,
     "shellfishery": "Menai West",
     "total_spill_hours": 404.0,
     "lat": 53.132655,
@@ -6936,15 +6928,15 @@
     "pcon20nm": "Arfon"
   },
   {
-    "id": 621,
+    "id": 620,
     "shellfishery": "LYMINGTON AND SOWLEY_M, NEWTOWN_M, PENNINGTON, YARMOUTH",
-    "total_spill_hours": 407.5372222212609,
+    "total_spill_hours": 407.54,
     "lat": 50.705356,
     "lon": -1.50925,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 900,
+    "id": 899,
     "shellfishery": "Dyfi",
     "total_spill_hours": 408.5,
     "lat": 52.513081,
@@ -6960,7 +6952,7 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 946,
+    "id": 945,
     "shellfishery": "Conwy/Conwy Bridge",
     "total_spill_hours": 416.0,
     "lat": 53.140028,
@@ -6984,9 +6976,9 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 989,
+    "id": 988,
     "shellfishery": "LYMINGTON AND SOWLEY_M, PENNINGTON, YARMOUTH",
-    "total_spill_hours": 429.0602777787717,
+    "total_spill_hours": 429.06,
     "lat": 50.734145,
     "lon": -1.581784,
     "pcon20nm": "New Forest West"
@@ -7000,7 +6992,7 @@
     "pcon20nm": "Bolton South East"
   },
   {
-    "id": 833,
+    "id": 832,
     "shellfishery": "Glaslyn",
     "total_spill_hours": 438.75,
     "lat": 52.929998,
@@ -7008,7 +7000,7 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 1021,
+    "id": 1020,
     "shellfishery": "Fal Estuary",
     "total_spill_hours": 439.59,
     "lat": 50.217696,
@@ -7024,9 +7016,9 @@
     "pcon20nm": "Penrith and The Border"
   },
   {
-    "id": 575,
+    "id": 574,
     "shellfishery": "MARGATE, SWALECLIFFE",
-    "total_spill_hours": 448.7116666669026,
+    "total_spill_hours": 448.71,
     "lat": 51.363464,
     "lon": 1.173282,
     "pcon20nm": "North Thanet"
@@ -7040,7 +7032,7 @@
     "pcon20nm": "Truro and Falmouth"
   },
   {
-    "id": 1062,
+    "id": 1061,
     "shellfishery": "Dee W",
     "total_spill_hours": 452.0,
     "lat": 53.278828,
@@ -7088,15 +7080,15 @@
     "pcon20nm": "St Austell and Newquay"
   },
   {
-    "id": 983,
+    "id": 982,
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, SOUTHAMPTON WATER",
-    "total_spill_hours": 464.16944444499677,
+    "total_spill_hours": 464.17,
     "lat": 50.87697,
     "lon": -1.31898,
     "pcon20nm": "Eastleigh"
   },
   {
-    "id": 984,
+    "id": 983,
     "shellfishery": "Exe",
     "total_spill_hours": 465.6,
     "lat": 50.718113,
@@ -7104,7 +7096,7 @@
     "pcon20nm": "Exeter"
   },
   {
-    "id": 1008,
+    "id": 1007,
     "shellfishery": "Lynher",
     "total_spill_hours": 468.62,
     "lat": 50.37123,
@@ -7120,7 +7112,7 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 1018,
+    "id": 1017,
     "shellfishery": "Teign",
     "total_spill_hours": 478.84,
     "lat": 50.602897,
@@ -7136,7 +7128,7 @@
     "pcon20nm": "Fylde"
   },
   {
-    "id": 816,
+    "id": 815,
     "shellfishery": "Burry N",
     "total_spill_hours": 480.5,
     "lat": 51.68831,
@@ -7144,7 +7136,7 @@
     "pcon20nm": "Llanelli"
   },
   {
-    "id": 941,
+    "id": 940,
     "shellfishery": "Red Wharf",
     "total_spill_hours": 480.75,
     "lat": 53.316778,
@@ -7160,17 +7152,17 @@
     "pcon20nm": "Plymouth, Moor View"
   },
   {
-    "id": 660,
+    "id": 659,
     "shellfishery": "COWES, MEDINA",
-    "total_spill_hours": 483.05944444349734,
+    "total_spill_hours": 483.06,
     "lat": 50.716625,
     "lon": -1.288302,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 1025,
+    "id": 1024,
     "shellfishery": "CHICHESTER HARBOUR (CHICHESTER, CHICHESTER HARBOUR (EMSWORTH C, CHICHESTER HARBOUR (THORNHAM C",
-    "total_spill_hours": 484.1177777785342,
+    "total_spill_hours": 484.12,
     "lat": 50.811365,
     "lon": -0.85338,
     "pcon20nm": "Chichester"
@@ -7192,7 +7184,7 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 1010,
+    "id": 1009,
     "shellfishery": "Camel",
     "total_spill_hours": 497.65,
     "lat": 50.515356,
@@ -7200,7 +7192,7 @@
     "pcon20nm": "North Cornwall"
   },
   {
-    "id": 952,
+    "id": 951,
     "shellfishery": "Mawddach",
     "total_spill_hours": 498.0,
     "lat": 52.720557,
@@ -7208,9 +7200,9 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 586,
+    "id": 585,
     "shellfishery": "SHEPPEY, SOUTHEND",
-    "total_spill_hours": 502.216666666267,
+    "total_spill_hours": 502.22,
     "lat": 51.396659,
     "lon": 0.742087,
     "pcon20nm": "Sittingbourne and Sheppey"
@@ -7224,7 +7216,7 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 813,
+    "id": 812,
     "shellfishery": "Gwendrae",
     "total_spill_hours": 505.5,
     "lat": 51.731758,
@@ -7264,9 +7256,9 @@
     "pcon20nm": "Sefton Central"
   },
   {
-    "id": 624,
+    "id": 623,
     "shellfishery": "CENTRAL SOLENT, COWES, MEDINA, SPITHEAD AND STOKES BAY, STANSWOOD BAY",
-    "total_spill_hours": 545.4402777786017,
+    "total_spill_hours": 545.44,
     "lat": 50.765034,
     "lon": -1.278068,
     "pcon20nm": "Isle of Wight"
@@ -7280,7 +7272,7 @@
     "pcon20nm": "Ribble Valley"
   },
   {
-    "id": 938,
+    "id": 937,
     "shellfishery": "Conwy",
     "total_spill_hours": 547.5,
     "lat": 53.284366,
@@ -7288,7 +7280,7 @@
     "pcon20nm": "Aberconwy"
   },
   {
-    "id": 955,
+    "id": 954,
     "shellfishery": "Dee W",
     "total_spill_hours": 549.25,
     "lat": 53.331581,
@@ -7320,23 +7312,23 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 537,
+    "id": 536,
     "shellfishery": "SOUTHAMPTON WATER",
-    "total_spill_hours": 574.3844444448478,
+    "total_spill_hours": 574.38,
     "lat": 50.904013,
     "lon": -1.450849,
     "pcon20nm": "Southampton, Test"
   },
   {
-    "id": 587,
+    "id": 586,
     "shellfishery": "RYDE",
-    "total_spill_hours": 579.6066666672123,
+    "total_spill_hours": 579.61,
     "lat": 50.688397,
     "lon": -1.072133,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 840,
+    "id": 839,
     "shellfishery": "Menai F",
     "total_spill_hours": 582.0,
     "lat": 53.110493,
@@ -7360,15 +7352,15 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 1024,
+    "id": 1023,
     "shellfishery": "CENTRAL SOLENT, COWES, RYDE, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 585.9744444453972,
+    "total_spill_hours": 585.97,
     "lat": 50.828084,
     "lon": -1.197014,
     "pcon20nm": "Gosport"
   },
   {
-    "id": 793,
+    "id": 792,
     "shellfishery": "Cleddau",
     "total_spill_hours": 586.0,
     "lat": 51.705834,
@@ -7408,7 +7400,7 @@
     "pcon20nm": "Westmorland and Lonsdale"
   },
   {
-    "id": 744,
+    "id": 743,
     "shellfishery": "Swans E",
     "total_spill_hours": 619.5,
     "lat": 51.621165,
@@ -7456,17 +7448,17 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 622,
+    "id": 621,
     "shellfishery": "LYMINGTON AND SOWLEY_M, NEWTOWN_M, PENNINGTON, YARMOUTH",
-    "total_spill_hours": 651.9463888890459,
+    "total_spill_hours": 651.95,
     "lat": 50.705356,
     "lon": -1.50925,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 597,
+    "id": 596,
     "shellfishery": "CHICHESTER HARBOUR (EMSWORTH C, LANGSTONE HARBOUR, PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 653.1719444417395,
+    "total_spill_hours": 653.17,
     "lat": 50.789263,
     "lon": -1.045592,
     "pcon20nm": "Portsmouth South"
@@ -7480,7 +7472,7 @@
     "pcon20nm": "Wyre and Preston North"
   },
   {
-    "id": 772,
+    "id": 771,
     "shellfishery": "Swans S",
     "total_spill_hours": 655.75,
     "lat": 51.566528,
@@ -7488,7 +7480,7 @@
     "pcon20nm": "Gower"
   },
   {
-    "id": 945,
+    "id": 944,
     "shellfishery": "Dee West",
     "total_spill_hours": 657.25,
     "lat": 53.340366,
@@ -7520,7 +7512,7 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 820,
+    "id": 819,
     "shellfishery": "Porthcawl",
     "total_spill_hours": 664.25,
     "lat": 51.479467,
@@ -7528,7 +7520,7 @@
     "pcon20nm": "Bridgend"
   },
   {
-    "id": 970,
+    "id": 969,
     "shellfishery": "Dee W",
     "total_spill_hours": 667.0,
     "lat": 53.310316,
@@ -7536,7 +7528,7 @@
     "pcon20nm": "Delyn"
   },
   {
-    "id": 982,
+    "id": 981,
     "shellfishery": "MORECAMBE BAY (LEVEN)",
     "total_spill_hours": 675.51,
     "lat": 54.232801,
@@ -7544,7 +7536,7 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 908,
+    "id": 907,
     "shellfishery": "Menai E",
     "total_spill_hours": 676.25,
     "lat": 53.274629,
@@ -7568,7 +7560,7 @@
     "pcon20nm": "Southport"
   },
   {
-    "id": 962,
+    "id": 961,
     "shellfishery": "Dee W",
     "total_spill_hours": 696.0,
     "lat": 53.309401,
@@ -7576,7 +7568,7 @@
     "pcon20nm": "Delyn"
   },
   {
-    "id": 844,
+    "id": 843,
     "shellfishery": "Menai E",
     "total_spill_hours": 698.75,
     "lat": 53.21628,
@@ -7600,7 +7592,7 @@
     "pcon20nm": "East Devon"
   },
   {
-    "id": 1016,
+    "id": 1015,
     "shellfishery": "Teign",
     "total_spill_hours": 711.37,
     "lat": 50.615877,
@@ -7608,7 +7600,7 @@
     "pcon20nm": "Central Devon"
   },
   {
-    "id": 894,
+    "id": 893,
     "shellfishery": "Rhos on S",
     "total_spill_hours": 723.75,
     "lat": 53.309469,
@@ -7632,7 +7624,7 @@
     "pcon20nm": "Sefton Central"
   },
   {
-    "id": 825,
+    "id": 824,
     "shellfishery": "Burry S",
     "total_spill_hours": 741.25,
     "lat": 51.643478,
@@ -7640,15 +7632,15 @@
     "pcon20nm": "Gower"
   },
   {
-    "id": 594,
+    "id": 593,
     "shellfishery": "CHICHESTER HARBOUR (EMSWORTH C, LANGSTONE HARBOUR, PORTSMOUTH HARBOUR",
-    "total_spill_hours": 761.717222222127,
+    "total_spill_hours": 761.72,
     "lat": 50.78976,
     "lon": -1.02955,
     "pcon20nm": "Portsmouth South"
   },
   {
-    "id": 791,
+    "id": 790,
     "shellfishery": "Swans E",
     "total_spill_hours": 781.25,
     "lat": 51.620501,
@@ -7656,9 +7648,9 @@
     "pcon20nm": "Aberavon"
   },
   {
-    "id": 545,
+    "id": 544,
     "shellfishery": "RYDE",
-    "total_spill_hours": 787.4538888877141,
+    "total_spill_hours": 787.45,
     "lat": 50.691164,
     "lon": -1.115826,
     "pcon20nm": "Isle of Wight"
@@ -7680,7 +7672,7 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 866,
+    "id": 865,
     "shellfishery": "Conwy",
     "total_spill_hours": 811.0,
     "lat": 53.268676,
@@ -7688,7 +7680,7 @@
     "pcon20nm": "Aberconwy"
   },
   {
-    "id": 960,
+    "id": 959,
     "shellfishery": "Dee W",
     "total_spill_hours": 815.0,
     "lat": 53.318827,
@@ -7696,7 +7688,7 @@
     "pcon20nm": "Delyn"
   },
   {
-    "id": 927,
+    "id": 926,
     "shellfishery": "Menai E",
     "total_spill_hours": 823.25,
     "lat": 53.209431,
@@ -7712,9 +7704,9 @@
     "pcon20nm": "Lancaster and Fleetwood"
   },
   {
-    "id": 1058,
+    "id": 1057,
     "shellfishery": "PORTSMOUTH HARBOUR",
-    "total_spill_hours": 848.9283333336934,
+    "total_spill_hours": 848.93,
     "lat": 50.893453,
     "lon": -1.195605,
     "pcon20nm": "Meon Valley"
@@ -7728,17 +7720,17 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 543,
+    "id": 542,
     "shellfishery": "NEWTOWN_M",
-    "total_spill_hours": 857.3488888886059,
+    "total_spill_hours": 857.35,
     "lat": 50.678889,
     "lon": -1.406629,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 636,
+    "id": 635,
     "shellfishery": "SWALE EAST, SWALECLIFFE",
-    "total_spill_hours": 874.1563888880191,
+    "total_spill_hours": 874.16,
     "lat": 51.384402,
     "lon": 1.076266,
     "pcon20nm": "Canterbury"
@@ -7752,15 +7744,15 @@
     "pcon20nm": "Lancaster and Fleetwood"
   },
   {
-    "id": 1039,
+    "id": 1038,
     "shellfishery": "PENNINGTON",
-    "total_spill_hours": 887.6275000002352,
+    "total_spill_hours": 887.63,
     "lat": 50.768089,
     "lon": -1.593535,
     "pcon20nm": "New Forest East"
   },
   {
-    "id": 836,
+    "id": 835,
     "shellfishery": "Conwy/Conwy Bridge",
     "total_spill_hours": 887.75,
     "lat": 53.13989,
@@ -7776,7 +7768,7 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 803,
+    "id": 802,
     "shellfishery": "Cleddau",
     "total_spill_hours": 900.0,
     "lat": 51.741495,
@@ -7832,7 +7824,7 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 1017,
+    "id": 1016,
     "shellfishery": "Camel",
     "total_spill_hours": 942.91,
     "lat": 50.472445,
@@ -7840,7 +7832,7 @@
     "pcon20nm": "North Cornwall"
   },
   {
-    "id": 858,
+    "id": 857,
     "shellfishery": "Menai E",
     "total_spill_hours": 943.0,
     "lat": 53.243821,
@@ -7856,17 +7848,17 @@
     "pcon20nm": "Westmorland and Lonsdale"
   },
   {
-    "id": 581,
+    "id": 580,
     "shellfishery": "LYMINGTON AND SOWLEY_M, PENNINGTON, TOTLAND, YARMOUTH",
-    "total_spill_hours": 951.7416666680365,
+    "total_spill_hours": 951.74,
     "lat": 50.738786,
     "lon": -1.564623,
     "pcon20nm": "New Forest West"
   },
   {
-    "id": 997,
+    "id": 996,
     "shellfishery": "COWES, MEDINA",
-    "total_spill_hours": 957.8119444439071,
+    "total_spill_hours": 957.81,
     "lat": 50.717854,
     "lon": -1.283467,
     "pcon20nm": "Isle of Wight"
@@ -7896,7 +7888,7 @@
     "pcon20nm": "Sefton Central"
   },
   {
-    "id": 755,
+    "id": 754,
     "shellfishery": "Cleddau",
     "total_spill_hours": 982.0,
     "lat": 51.74519,
@@ -7904,7 +7896,7 @@
     "pcon20nm": "Preseli Pembrokeshire"
   },
   {
-    "id": 725,
+    "id": 724,
     "shellfishery": "Tollesbury Channel",
     "total_spill_hours": 1006.8,
     "lat": 51.763388,
@@ -7936,15 +7928,15 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 625,
+    "id": 624,
     "shellfishery": "COWES, RYDE, SPITHEAD AND STOKES BAY",
-    "total_spill_hours": 1049.743888889614,
+    "total_spill_hours": 1049.74,
     "lat": 50.72716,
     "lon": -1.143059,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 929,
+    "id": 928,
     "shellfishery": "Rhos on S",
     "total_spill_hours": 1063.5,
     "lat": 53.317469,
@@ -7955,16 +7947,16 @@
     "id": 920,
     "shellfishery": "Menai E",
     "total_spill_hours": 1065.5,
-    "lat": 53.227475,
-    "lon": -4.159891,
+    "lat": 53.227416,
+    "lon": -4.156218,
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
-    "id": 921,
+    "id": 919,
     "shellfishery": "Menai E",
     "total_spill_hours": 1065.5,
-    "lat": 53.227416,
-    "lon": -4.156218,
+    "lat": 53.227475,
+    "lon": -4.159891,
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
@@ -7976,15 +7968,15 @@
     "pcon20nm": "Plymouth, Sutton and Devonport"
   },
   {
-    "id": 623,
+    "id": 622,
     "shellfishery": "CENTRAL SOLENT, COWES, LEPE MIDDLE BANK, MEDINA, STANSWOOD BAY",
-    "total_spill_hours": 1109.0961111114593,
+    "total_spill_hours": 1109.1,
     "lat": 50.762431,
     "lon": -1.323905,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 1011,
+    "id": 1010,
     "shellfishery": "Dart",
     "total_spill_hours": 1116.34,
     "lat": 50.396485,
@@ -7992,7 +7984,7 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 972,
+    "id": 971,
     "shellfishery": "Avon",
     "total_spill_hours": 1121.54,
     "lat": 50.419796,
@@ -8024,7 +8016,7 @@
     "pcon20nm": "Camborne and Redruth"
   },
   {
-    "id": 713,
+    "id": 712,
     "shellfishery": "Osea Island",
     "total_spill_hours": 1179.73,
     "lat": 51.73367,
@@ -8040,7 +8032,7 @@
     "pcon20nm": "Fylde"
   },
   {
-    "id": 1020,
+    "id": 1019,
     "shellfishery": "Teign",
     "total_spill_hours": 1184.16,
     "lat": 50.615322,
@@ -8064,7 +8056,7 @@
     "pcon20nm": "Fylde"
   },
   {
-    "id": 1019,
+    "id": 1018,
     "shellfishery": "Teign",
     "total_spill_hours": 1247.72,
     "lat": 50.602897,
@@ -8088,7 +8080,7 @@
     "pcon20nm": "Central Devon"
   },
   {
-    "id": 835,
+    "id": 834,
     "shellfishery": "Menai E",
     "total_spill_hours": 1312.25,
     "lat": 53.246112,
@@ -8096,7 +8088,7 @@
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
-    "id": 837,
+    "id": 836,
     "shellfishery": "Menai Strait (West)",
     "total_spill_hours": 1333.75,
     "lat": 53.150339,
@@ -8112,7 +8104,7 @@
     "pcon20nm": "Westmorland and Lonsdale"
   },
   {
-    "id": 924,
+    "id": 923,
     "shellfishery": "Menai E",
     "total_spill_hours": 1365.5,
     "lat": 53.221316,
@@ -8120,7 +8112,7 @@
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
-    "id": 925,
+    "id": 924,
     "shellfishery": "Menai E",
     "total_spill_hours": 1365.5,
     "lat": 53.221074,
@@ -8128,7 +8120,7 @@
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
-    "id": 790,
+    "id": 789,
     "shellfishery": "Taf",
     "total_spill_hours": 1390.25,
     "lat": 51.769315,
@@ -8144,7 +8136,7 @@
     "pcon20nm": "St Austell and Newquay"
   },
   {
-    "id": 975,
+    "id": 974,
     "shellfishery": "Teign",
     "total_spill_hours": 1408.85,
     "lat": 50.523986,
@@ -8152,7 +8144,7 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 797,
+    "id": 796,
     "shellfishery": "Swansea Bay (S),(W),(E)",
     "total_spill_hours": 1409.75,
     "lat": 51.551249,
@@ -8168,7 +8160,7 @@
     "pcon20nm": "East Devon"
   },
   {
-    "id": 905,
+    "id": 904,
     "shellfishery": "Menai W",
     "total_spill_hours": 1441.0,
     "lat": 53.175615,
@@ -8176,7 +8168,7 @@
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
-    "id": 903,
+    "id": 902,
     "shellfishery": "Red Wharf",
     "total_spill_hours": 1473.5,
     "lat": 53.285331,
@@ -8192,7 +8184,7 @@
     "pcon20nm": "South Ribble"
   },
   {
-    "id": 865,
+    "id": 864,
     "shellfishery": "Mawddach",
     "total_spill_hours": 1503.75,
     "lat": 52.748635,
@@ -8200,7 +8192,7 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 707,
+    "id": 706,
     "shellfishery": "Burnham Overy Creek",
     "total_spill_hours": 1554.27,
     "lat": 52.946298,
@@ -8248,7 +8240,7 @@
     "pcon20nm": "North Devon"
   },
   {
-    "id": 798,
+    "id": 797,
     "shellfishery": "Swans E",
     "total_spill_hours": 1651.0,
     "lat": 51.576878,
@@ -8256,7 +8248,7 @@
     "pcon20nm": "Aberavon"
   },
   {
-    "id": 948,
+    "id": 947,
     "shellfishery": "Mawddach",
     "total_spill_hours": 1665.75,
     "lat": 52.699966,
@@ -8280,7 +8272,7 @@
     "pcon20nm": "Leeds North West"
   },
   {
-    "id": 1012,
+    "id": 1011,
     "shellfishery": "Fowey",
     "total_spill_hours": 1733.23,
     "lat": 50.404087,
@@ -8296,7 +8288,7 @@
     "pcon20nm": "Westmorland and Lonsdale"
   },
   {
-    "id": 845,
+    "id": 844,
     "shellfishery": "Menai Strait (East)",
     "total_spill_hours": 1856.25,
     "lat": 53.184861,
@@ -8312,7 +8304,7 @@
     "pcon20nm": "Birkenhead"
   },
   {
-    "id": 1013,
+    "id": 1012,
     "shellfishery": "Salcombe",
     "total_spill_hours": 2003.27,
     "lat": 50.28578,
@@ -8344,7 +8336,7 @@
     "pcon20nm": "Lancaster and Fleetwood"
   },
   {
-    "id": 926,
+    "id": 925,
     "shellfishery": "Menai E",
     "total_spill_hours": 2114.0,
     "lat": 53.232736,
@@ -8376,7 +8368,7 @@
     "pcon20nm": "South Ribble"
   },
   {
-    "id": 1015,
+    "id": 1014,
     "shellfishery": "Fal Estuary",
     "total_spill_hours": 2366.32,
     "lat": 50.253225,
@@ -8392,7 +8384,7 @@
     "pcon20nm": "Wirral South"
   },
   {
-    "id": 943,
+    "id": 942,
     "shellfishery": "Conwy",
     "total_spill_hours": 2574.0,
     "lat": 53.284769,
@@ -8408,7 +8400,7 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 750,
+    "id": 749,
     "shellfishery": "Cleddau",
     "total_spill_hours": 2922.0,
     "lat": 51.694544,
@@ -8416,7 +8408,7 @@
     "pcon20nm": "Carmarthen West and South Pembrokeshire"
   },
   {
-    "id": 935,
+    "id": 934,
     "shellfishery": "Conwy",
     "total_spill_hours": 3037.5,
     "lat": 53.278392,
@@ -8432,7 +8424,7 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 846,
+    "id": 845,
     "shellfishery": "Menai W",
     "total_spill_hours": 3415.5,
     "lat": 53.163027,
@@ -8448,7 +8440,7 @@
     "pcon20nm": "Penrith and The Border"
   },
   {
-    "id": 804,
+    "id": 803,
     "shellfishery": "Carew",
     "total_spill_hours": 3710.75,
     "lat": 51.694563,
@@ -8480,9 +8472,9 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 1054,
+    "id": 1053,
     "shellfishery": "CHICHESTER HARBOUR (CHICHESTER",
-    "total_spill_hours": 4995.995277777663,
+    "total_spill_hours": 4996.0,
     "lat": 50.863975,
     "lon": -0.773793,
     "pcon20nm": "Chichester"

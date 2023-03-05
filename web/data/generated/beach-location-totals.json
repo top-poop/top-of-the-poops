@@ -2,23 +2,15 @@
   {
     "id": 390,
     "bathing": "Saltburn Pier",
-    "total_spill_hours": 0.003611111082136631,
+    "total_spill_hours": 0.003611,
     "lat": 54.586828,
     "lon": -0.978861,
     "pcon20nm": "Middlesbrough South and East Cleveland"
   },
   {
-    "id": 528,
-    "bathing": "POOLE HARBOUR ROCKLEY SANDS",
-    "total_spill_hours": 0.01,
-    "lat": 50.729406,
-    "lon": -2.024596,
-    "pcon20nm": "Poole"
-  },
-  {
     "id": 394,
     "bathing": "Marske",
-    "total_spill_hours": 0.02611111110309139,
+    "total_spill_hours": 0.026111,
     "lat": 54.608924,
     "lon": -1.009893,
     "pcon20nm": "Redcar"
@@ -32,9 +24,9 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 966,
+    "id": 965,
     "bathing": "Seahouses North",
-    "total_spill_hours": 0.03333333333333333,
+    "total_spill_hours": 0.033333,
     "lat": 55.57654,
     "lon": -1.656534,
     "pcon20nm": "Berwick-upon-Tweed"
@@ -56,7 +48,7 @@
     "pcon20nm": "Wallasey"
   },
   {
-    "id": 872,
+    "id": 871,
     "bathing": "Scarborough South Bay",
     "total_spill_hours": 0.0833333333333333,
     "lat": 54.27952,
@@ -104,20 +96,20 @@
     "pcon20nm": "Wallasey"
   },
   {
-    "id": 9,
-    "bathing": "ILFRACOMBE WILDERSMOUTH BEACH",
-    "total_spill_hours": 0.14,
-    "lat": 51.210326,
-    "lon": -4.121791,
-    "pcon20nm": "North Devon"
-  },
-  {
     "id": 217,
     "bathing": "Cleveleys",
     "total_spill_hours": 0.14,
     "lat": 53.897557,
     "lon": -3.040692,
     "pcon20nm": "Lancaster and Fleetwood"
+  },
+  {
+    "id": 9,
+    "bathing": "ILFRACOMBE WILDERSMOUTH BEACH",
+    "total_spill_hours": 0.14,
+    "lat": 51.210326,
+    "lon": -4.121791,
+    "pcon20nm": "North Devon"
   },
   {
     "id": 186,
@@ -144,7 +136,15 @@
     "pcon20nm": "Plymouth, Moor View"
   },
   {
-    "id": 959,
+    "id": 954,
+    "bathing": "PORTLAND HARBOUR CASTLE COVE/PORTLAND HARBOUR SANDSFOOT CASTLE",
+    "total_spill_hours": 0.2,
+    "lat": 50.597823,
+    "lon": -2.460196,
+    "pcon20nm": "South Dorset"
+  },
+  {
+    "id": 958,
     "bathing": "Spittal",
     "total_spill_hours": 0.2,
     "lat": 55.757315,
@@ -152,9 +152,9 @@
     "pcon20nm": "Berwick-upon-Tweed"
   },
   {
-    "id": 641,
+    "id": 640,
     "bathing": "SHOREHAM BEACH, SOUTHWICK",
-    "total_spill_hours": 0.2333333333954215,
+    "total_spill_hours": 0.23,
     "lat": 50.834556,
     "lon": -0.23874,
     "pcon20nm": "East Worthing and Shoreham"
@@ -168,31 +168,7 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 845,
-    "bathing": "New Quay North",
-    "total_spill_hours": 0.25,
-    "lat": 52.215555,
-    "lon": -4.35903,
-    "pcon20nm": "Ceredigion"
-  },
-  {
-    "id": 828,
-    "bathing": "Rest Bay Porthcawl",
-    "total_spill_hours": 0.25,
-    "lat": 51.525861,
-    "lon": -3.701231,
-    "pcon20nm": "Bridgend"
-  },
-  {
-    "id": 955,
-    "bathing": "PORTLAND HARBOUR CASTLE COVE/PORTLAND HARBOUR SANDSFOOT CASTLE",
-    "total_spill_hours": 0.25,
-    "lat": 50.597823,
-    "lon": -2.460196,
-    "pcon20nm": "South Dorset"
-  },
-  {
-    "id": 711,
+    "id": 710,
     "bathing": "Jacksons Bay Barry",
     "total_spill_hours": 0.25,
     "lat": 51.408756,
@@ -200,15 +176,7 @@
     "pcon20nm": "Vale of Glamorgan"
   },
   {
-    "id": 797,
-    "bathing": "Swansea",
-    "total_spill_hours": 0.25,
-    "lat": 51.616745,
-    "lon": -3.960273,
-    "pcon20nm": "Swansea West"
-  },
-  {
-    "id": 899,
+    "id": 898,
     "bathing": "Rhyl",
     "total_spill_hours": 0.25,
     "lat": 53.325181,
@@ -216,15 +184,31 @@
     "pcon20nm": "Vale of Clwyd"
   },
   {
-    "id": 793,
-    "bathing": "Aberporth",
+    "id": 664,
+    "bathing": "EASTBOURNE",
     "total_spill_hours": 0.25,
-    "lat": 52.134416,
-    "lon": -4.548732,
+    "lat": 50.760677,
+    "lon": 0.287106,
+    "pcon20nm": "Eastbourne"
+  },
+  {
+    "id": 827,
+    "bathing": "Rest Bay Porthcawl",
+    "total_spill_hours": 0.25,
+    "lat": 51.525861,
+    "lon": -3.701231,
+    "pcon20nm": "Bridgend"
+  },
+  {
+    "id": 844,
+    "bathing": "New Quay North",
+    "total_spill_hours": 0.25,
+    "lat": 52.215555,
+    "lon": -4.35903,
     "pcon20nm": "Ceredigion"
   },
   {
-    "id": 788,
+    "id": 787,
     "bathing": "Wisemans Bridge",
     "total_spill_hours": 0.25,
     "lat": 51.710797,
@@ -232,36 +216,28 @@
     "pcon20nm": "Carmarthen West and South Pembrokeshire"
   },
   {
-    "id": 665,
-    "bathing": "EASTBOURNE",
-    "total_spill_hours": 0.25138888898072764,
-    "lat": 50.760677,
-    "lon": 0.287106,
-    "pcon20nm": "Eastbourne"
+    "id": 796,
+    "bathing": "Swansea",
+    "total_spill_hours": 0.25,
+    "lat": 51.616745,
+    "lon": -3.960273,
+    "pcon20nm": "Swansea West"
   },
   {
-    "id": 638,
+    "id": 792,
+    "bathing": "Aberporth",
+    "total_spill_hours": 0.25,
+    "lat": 52.134416,
+    "lon": -4.548732,
+    "pcon20nm": "Ceredigion"
+  },
+  {
+    "id": 637,
     "bathing": "LANCING BEACH GREEN, WORTHING",
-    "total_spill_hours": 0.26361111109144986,
+    "total_spill_hours": 0.26,
     "lat": 50.824388,
     "lon": -0.355552,
     "pcon20nm": "East Worthing and Shoreham"
-  },
-  {
-    "id": 414,
-    "bathing": "Saltburn Pier",
-    "total_spill_hours": 0.26666666666666666,
-    "lat": 54.557824,
-    "lon": -0.966922,
-    "pcon20nm": "Middlesbrough South and East Cleveland"
-  },
-  {
-    "id": 388,
-    "bathing": "Seaton Carew (Centre)",
-    "total_spill_hours": 0.26666666666666666,
-    "lat": 54.663332,
-    "lon": -1.210825,
-    "pcon20nm": "Hartlepool"
   },
   {
     "id": 31,
@@ -272,12 +248,28 @@
     "pcon20nm": "Wallasey"
   },
   {
-    "id": 559,
+    "id": 388,
+    "bathing": "Seaton Carew (Centre)",
+    "total_spill_hours": 0.27,
+    "lat": 54.663332,
+    "lon": -1.210825,
+    "pcon20nm": "Hartlepool"
+  },
+  {
+    "id": 558,
     "bathing": "RAMSGATE WESTERN UNDERCLIFFE",
-    "total_spill_hours": 0.2733333333162591,
+    "total_spill_hours": 0.27,
     "lat": 51.325409,
     "lon": 1.366761,
     "pcon20nm": "South Thanet"
+  },
+  {
+    "id": 414,
+    "bathing": "Saltburn Pier",
+    "total_spill_hours": 0.27,
+    "lat": 54.557824,
+    "lon": -0.966922,
+    "pcon20nm": "Middlesbrough South and East Cleveland"
   },
   {
     "id": 317,
@@ -288,15 +280,15 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 628,
+    "id": 627,
     "bathing": "MARGATE FULSAM ROCK, MARGATE THE BAY, ST MILDREDS BAY WESTGATE, WALPOLE BAY MARGATE, WEST BAY WESTGATE, WESTBROOK BAY MARGATE",
-    "total_spill_hours": 0.39750000002095476,
+    "total_spill_hours": 0.4,
     "lat": 51.388467,
     "lon": 1.366646,
     "pcon20nm": "North Thanet"
   },
   {
-    "id": 745,
+    "id": 744,
     "bathing": "Jaywick",
     "total_spill_hours": 0.43,
     "lat": 51.775763,
@@ -306,37 +298,37 @@
   {
     "id": 386,
     "bathing": "Seaburn (Whitburn North)",
-    "total_spill_hours": 0.4666666666666667,
+    "total_spill_hours": 0.47,
     "lat": 54.934748,
     "lon": -1.367899,
     "pcon20nm": "Sunderland Central"
   },
   {
-    "id": 237,
-    "bathing": "BOURNEMOUTH FISHERMAN'S WALK",
-    "total_spill_hours": 0.466666666666667,
-    "lat": 50.721849,
-    "lon": -1.81908,
-    "pcon20nm": "Bournemouth East"
-  },
-  {
-    "id": 251,
-    "bathing": "BLUE ANCHOR WEST",
-    "total_spill_hours": 0.490833333333333,
-    "lat": 51.188001,
-    "lon": -3.307226,
-    "pcon20nm": "Bridgwater and West Somerset"
-  },
-  {
-    "id": 578,
+    "id": 577,
     "bathing": "FOLKESTONE",
-    "total_spill_hours": 0.49249999987659976,
+    "total_spill_hours": 0.49,
     "lat": 51.083193,
     "lon": 1.199325,
     "pcon20nm": "Folkestone and Hythe"
   },
   {
-    "id": 917,
+    "id": 251,
+    "bathing": "BLUE ANCHOR WEST",
+    "total_spill_hours": 0.5,
+    "lat": 51.188001,
+    "lon": -3.307226,
+    "pcon20nm": "Bridgwater and West Somerset"
+  },
+  {
+    "id": 237,
+    "bathing": "BOURNEMOUTH FISHERMAN'S WALK",
+    "total_spill_hours": 0.5,
+    "lat": 50.721849,
+    "lon": -1.81908,
+    "pcon20nm": "Bournemouth East"
+  },
+  {
+    "id": 916,
     "bathing": "Aberffraw",
     "total_spill_hours": 0.5,
     "lat": 53.190395,
@@ -344,7 +336,7 @@
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
-    "id": 948,
+    "id": 947,
     "bathing": "Prestatyn",
     "total_spill_hours": 0.5,
     "lat": 53.340054,
@@ -352,7 +344,7 @@
     "pcon20nm": "Vale of Clwyd"
   },
   {
-    "id": 864,
+    "id": 863,
     "bathing": "Limeslade",
     "total_spill_hours": 0.5,
     "lat": 51.56658,
@@ -384,12 +376,12 @@
     "pcon20nm": "Plymouth, Sutton and Devonport"
   },
   {
-    "id": 406,
-    "bathing": "Seaham Hall",
-    "total_spill_hours": 0.5663888888888888,
-    "lat": 54.841471,
-    "lon": -1.354876,
-    "pcon20nm": "Easington"
+    "id": 54,
+    "bathing": "West Kirby",
+    "total_spill_hours": 0.57,
+    "lat": 53.373375,
+    "lon": -3.164686,
+    "pcon20nm": "Wirral West"
   },
   {
     "id": 427,
@@ -400,12 +392,12 @@
     "pcon20nm": "St Ives"
   },
   {
-    "id": 54,
-    "bathing": "West Kirby",
+    "id": 406,
+    "bathing": "Seaham Hall",
     "total_spill_hours": 0.57,
-    "lat": 53.373375,
-    "lon": -3.164686,
-    "pcon20nm": "Wirral West"
+    "lat": 54.841471,
+    "lon": -1.354876,
+    "pcon20nm": "Easington"
   },
   {
     "id": 296,
@@ -418,18 +410,10 @@
   {
     "id": 349,
     "bathing": "Spittal",
-    "total_spill_hours": 0.6000000000000001,
+    "total_spill_hours": 0.6,
     "lat": 55.756938,
     "lon": -1.992639,
     "pcon20nm": "Berwick-upon-Tweed"
-  },
-  {
-    "id": 316,
-    "bathing": "CHALLABOROUGH BEACH",
-    "total_spill_hours": 0.62,
-    "lat": 50.28889,
-    "lon": -3.898159,
-    "pcon20nm": "South West Devon"
   },
   {
     "id": 206,
@@ -440,9 +424,17 @@
     "pcon20nm": "Southport"
   },
   {
+    "id": 316,
+    "bathing": "CHALLABOROUGH BEACH",
+    "total_spill_hours": 0.62,
+    "lat": 50.28889,
+    "lon": -3.898159,
+    "pcon20nm": "South West Devon"
+  },
+  {
     "id": 385,
     "bathing": "Seaburn (Whitburn North)",
-    "total_spill_hours": 0.6333333333333333,
+    "total_spill_hours": 0.63,
     "lat": 54.934928,
     "lon": -1.367896,
     "pcon20nm": "Sunderland Central"
@@ -450,23 +442,23 @@
   {
     "id": 405,
     "bathing": "Seaham Hall",
-    "total_spill_hours": 0.6333333333333333,
+    "total_spill_hours": 0.63,
     "lat": 54.842119,
     "lon": -1.350008,
     "pcon20nm": "Easington"
   },
   {
-    "id": 951,
+    "id": 950,
     "bathing": "HYTHE, SANDGATE",
-    "total_spill_hours": 0.6341666666558012,
+    "total_spill_hours": 0.63,
     "lat": 51.071237,
     "lon": 1.122546,
     "pcon20nm": "Folkestone and Hythe"
   },
   {
-    "id": 679,
+    "id": 678,
     "bathing": "STOKES BAY, SOUTHSEA",
-    "total_spill_hours": 0.6500000000232831,
+    "total_spill_hours": 0.65,
     "lat": 50.792108,
     "lon": -1.145702,
     "pcon20nm": "Gosport"
@@ -488,7 +480,7 @@
     "pcon20nm": "St Helens South and Whiston"
   },
   {
-    "id": 727,
+    "id": 726,
     "bathing": "Cleethorpes and Humberston Fitties",
     "total_spill_hours": 0.7,
     "lat": 53.539666,
@@ -496,7 +488,7 @@
     "pcon20nm": "Cleethorpes"
   },
   {
-    "id": 735,
+    "id": 734,
     "bathing": "Clacton Groyne 41/Clacton Martello Tower",
     "total_spill_hours": 0.7,
     "lat": 51.783776,
@@ -504,7 +496,7 @@
     "pcon20nm": "Clacton"
   },
   {
-    "id": 697,
+    "id": 696,
     "bathing": "Cromer",
     "total_spill_hours": 0.73,
     "lat": 52.933644,
@@ -520,31 +512,7 @@
     "pcon20nm": "North Cornwall"
   },
   {
-    "id": 709,
-    "bathing": "Cold Knap",
-    "total_spill_hours": 0.75,
-    "lat": 51.383918,
-    "lon": -3.290166,
-    "pcon20nm": "Vale of Glamorgan"
-  },
-  {
-    "id": 239,
-    "bathing": "WESTON-SUPER-MARE UPHILL SLIPWAY/WESTON MAIN",
-    "total_spill_hours": 0.75,
-    "lat": 51.35184,
-    "lon": -2.985757,
-    "pcon20nm": "Weston-Super-Mare"
-  },
-  {
-    "id": 546,
-    "bathing": "CHARMOUTH WEST",
-    "total_spill_hours": 0.75,
-    "lat": 50.739433,
-    "lon": -2.898435,
-    "pcon20nm": "West Dorset"
-  },
-  {
-    "id": 808,
+    "id": 807,
     "bathing": "Swansea Bay",
     "total_spill_hours": 0.75,
     "lat": 51.671792,
@@ -552,12 +520,20 @@
     "pcon20nm": "Swansea East"
   },
   {
-    "id": 946,
+    "id": 945,
     "bathing": "Rhyl",
     "total_spill_hours": 0.75,
     "lat": 53.297622,
     "lon": -3.46553,
     "pcon20nm": "Vale of Clwyd"
+  },
+  {
+    "id": 708,
+    "bathing": "Cold Knap",
+    "total_spill_hours": 0.75,
+    "lat": 51.383918,
+    "lon": -3.290166,
+    "pcon20nm": "Vale of Glamorgan"
   },
   {
     "id": 294,
@@ -576,12 +552,36 @@
     "pcon20nm": "Torbay"
   },
   {
+    "id": 239,
+    "bathing": "WESTON-SUPER-MARE UPHILL SLIPWAY/WESTON MAIN",
+    "total_spill_hours": 0.8,
+    "lat": 51.35184,
+    "lon": -2.985757,
+    "pcon20nm": "Weston-Super-Mare"
+  },
+  {
+    "id": 545,
+    "bathing": "CHARMOUTH WEST",
+    "total_spill_hours": 0.8,
+    "lat": 50.739433,
+    "lon": -2.898435,
+    "pcon20nm": "West Dorset"
+  },
+  {
     "id": 222,
     "bathing": "PAR SANDS",
     "total_spill_hours": 0.82,
     "lat": 50.346895,
     "lon": -4.706909,
     "pcon20nm": "St Austell and Newquay"
+  },
+  {
+    "id": 701,
+    "bathing": "Great Yarmouth South",
+    "total_spill_hours": 0.83,
+    "lat": 52.594522,
+    "lon": 1.721922,
+    "pcon20nm": "Great Yarmouth"
   },
   {
     "id": 115,
@@ -592,17 +592,9 @@
     "pcon20nm": "Wyre and Preston North"
   },
   {
-    "id": 702,
-    "bathing": "Great Yarmouth South",
-    "total_spill_hours": 0.83,
-    "lat": 52.594522,
-    "lon": 1.721922,
-    "pcon20nm": "Great Yarmouth"
-  },
-  {
-    "id": 556,
+    "id": 555,
     "bathing": "SEAFORD",
-    "total_spill_hours": 0.8752777777262963,
+    "total_spill_hours": 0.88,
     "lat": 50.788278,
     "lon": 0.055763,
     "pcon20nm": "Lewes"
@@ -624,28 +616,12 @@
     "pcon20nm": "Wyre and Preston North"
   },
   {
-    "id": 661,
+    "id": 660,
     "bathing": "BOTANY BAY BROADSTAIRS, BROADSTAIRS STONE BAY, BROADSTAIRS VIKING BAY, JOSS BAY BROADSTAIRS",
-    "total_spill_hours": 0.9499999999534339,
+    "total_spill_hours": 0.95,
     "lat": 51.376271,
     "lon": 1.448824,
     "pcon20nm": "South Thanet"
-  },
-  {
-    "id": 328,
-    "bathing": "INSTOW BEACH",
-    "total_spill_hours": 0.97,
-    "lat": 51.055694,
-    "lon": -4.191772,
-    "pcon20nm": "Torridge and West Devon"
-  },
-  {
-    "id": 734,
-    "bathing": "Clacton Groyne 41/Clacton Martello Tower",
-    "total_spill_hours": 0.97,
-    "lat": 51.788081,
-    "lon": 1.143848,
-    "pcon20nm": "Clacton"
   },
   {
     "id": 111,
@@ -656,6 +632,22 @@
     "pcon20nm": "Lancaster and Fleetwood"
   },
   {
+    "id": 328,
+    "bathing": "INSTOW BEACH",
+    "total_spill_hours": 0.97,
+    "lat": 51.055694,
+    "lon": -4.191772,
+    "pcon20nm": "Torridge and West Devon"
+  },
+  {
+    "id": 733,
+    "bathing": "Clacton Groyne 41/Clacton Martello Tower",
+    "total_spill_hours": 0.97,
+    "lat": 51.788081,
+    "lon": 1.143848,
+    "pcon20nm": "Clacton"
+  },
+  {
     "id": 141,
     "bathing": "Haverigg, Walney Biggar Bank, Walney West Shore, and Walney Sandy Gap",
     "total_spill_hours": 0.98,
@@ -664,20 +656,12 @@
     "pcon20nm": "Copeland"
   },
   {
-    "id": 664,
-    "bathing": "SELSEY",
-    "total_spill_hours": 0.9999999999417923,
-    "lat": 50.736496,
-    "lon": -0.786619,
-    "pcon20nm": "Chichester"
-  },
-  {
-    "id": 820,
-    "bathing": "Swansea Bay",
+    "id": 700,
+    "bathing": "Mundesley",
     "total_spill_hours": 1.0,
-    "lat": 51.615899,
-    "lon": -3.994471,
-    "pcon20nm": "Swansea West"
+    "lat": 52.87603,
+    "lon": 1.43977,
+    "pcon20nm": "North Norfolk"
   },
   {
     "id": 789,
@@ -688,23 +672,7 @@
     "pcon20nm": "Carmarthen West and South Pembrokeshire"
   },
   {
-    "id": 693,
-    "bathing": "Jacksons Bay Barry",
-    "total_spill_hours": 1.0,
-    "lat": 51.435985,
-    "lon": -3.187055,
-    "pcon20nm": "Cardiff South and Penarth"
-  },
-  {
-    "id": 701,
-    "bathing": "Mundesley",
-    "total_spill_hours": 1.0,
-    "lat": 52.87603,
-    "lon": 1.43977,
-    "pcon20nm": "North Norfolk"
-  },
-  {
-    "id": 792,
+    "id": 791,
     "bathing": "Aberporth",
     "total_spill_hours": 1.0,
     "lat": 52.133122,
@@ -712,7 +680,15 @@
     "pcon20nm": "Ceredigion"
   },
   {
-    "id": 790,
+    "id": 692,
+    "bathing": "Jacksons Bay Barry",
+    "total_spill_hours": 1.0,
+    "lat": 51.435985,
+    "lon": -3.187055,
+    "pcon20nm": "Cardiff South and Penarth"
+  },
+  {
+    "id": 788,
     "bathing": "Saundersfoot",
     "total_spill_hours": 1.0,
     "lat": 51.715289,
@@ -720,9 +696,25 @@
     "pcon20nm": "Carmarthen West and South Pembrokeshire"
   },
   {
-    "id": 952,
+    "id": 819,
+    "bathing": "Swansea Bay",
+    "total_spill_hours": 1.0,
+    "lat": 51.615899,
+    "lon": -3.994471,
+    "pcon20nm": "Swansea West"
+  },
+  {
+    "id": 663,
+    "bathing": "SELSEY",
+    "total_spill_hours": 1.0,
+    "lat": 50.736496,
+    "lon": -0.786619,
+    "pcon20nm": "Chichester"
+  },
+  {
+    "id": 951,
     "bathing": "Blyth South Beach",
-    "total_spill_hours": 1.0333333333333332,
+    "total_spill_hours": 1.03,
     "lat": 55.118005,
     "lon": -1.508767,
     "pcon20nm": "Blyth Valley"
@@ -752,9 +744,9 @@
     "pcon20nm": "South East Cornwall"
   },
   {
-    "id": 535,
+    "id": 534,
     "bathing": "PORTLAND HARBOUR CASTLE COVE/PORTLAND HARBOUR SANDSFOOT CASTLE**",
-    "total_spill_hours": 1.16666666666667,
+    "total_spill_hours": 1.2,
     "lat": 50.591875,
     "lon": -2.465718,
     "pcon20nm": "South Dorset"
@@ -776,7 +768,7 @@
     "pcon20nm": "Preston"
   },
   {
-    "id": 756,
+    "id": 755,
     "bathing": "Southwold the Pier",
     "total_spill_hours": 1.23,
     "lat": 52.331257,
@@ -792,20 +784,20 @@
     "pcon20nm": "Liverpool, Riverside"
   },
   {
-    "id": 990,
-    "bathing": "Swansea",
-    "total_spill_hours": 1.25,
-    "lat": 51.616206,
-    "lon": -3.971474,
-    "pcon20nm": "Swansea West"
-  },
-  {
-    "id": 712,
+    "id": 711,
     "bathing": "Jacksons Bay Barry",
     "total_spill_hours": 1.25,
     "lat": 51.41705,
     "lon": -3.280026,
     "pcon20nm": "Vale of Glamorgan"
+  },
+  {
+    "id": 989,
+    "bathing": "Swansea",
+    "total_spill_hours": 1.25,
+    "lat": 51.616206,
+    "lon": -3.971474,
+    "pcon20nm": "Swansea West"
   },
   {
     "id": 47,
@@ -824,9 +816,9 @@
     "pcon20nm": "Copeland"
   },
   {
-    "id": 549,
+    "id": 548,
     "bathing": "LULWORTH COVE",
-    "total_spill_hours": 1.41666666666667,
+    "total_spill_hours": 1.4,
     "lat": 50.622657,
     "lon": -2.253693,
     "pcon20nm": "South Dorset"
@@ -850,7 +842,7 @@
   {
     "id": 358,
     "bathing": "Seahouses North",
-    "total_spill_hours": 1.5455555557273328,
+    "total_spill_hours": 1.55,
     "lat": 55.583036,
     "lon": -1.653258,
     "pcon20nm": "Berwick-upon-Tweed"
@@ -872,6 +864,14 @@
     "pcon20nm": "Torbay"
   },
   {
+    "id": 234,
+    "bathing": "PORTLAND HARBOUR CASTLE COVE/PORTLAND HARBOUR SANDSFOOT CASTLE**",
+    "total_spill_hours": 1.6,
+    "lat": 50.563792,
+    "lon": -2.449205,
+    "pcon20nm": "South Dorset"
+  },
+  {
     "id": 319,
     "bathing": "HOPE COVE BEACH",
     "total_spill_hours": 1.61,
@@ -880,7 +880,7 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 960,
+    "id": 959,
     "bathing": "PAR SANDS",
     "total_spill_hours": 1.62,
     "lat": 50.351298,
@@ -894,14 +894,6 @@
     "lat": 50.829402,
     "lon": -4.545606,
     "pcon20nm": "North Cornwall"
-  },
-  {
-    "id": 234,
-    "bathing": "PORTLAND HARBOUR CASTLE COVE/PORTLAND HARBOUR SANDSFOOT CASTLE**",
-    "total_spill_hours": 1.63,
-    "lat": 50.563792,
-    "lon": -2.449205,
-    "pcon20nm": "South Dorset"
   },
   {
     "id": 508,
@@ -922,21 +914,13 @@
   {
     "id": 526,
     "bathing": "SWANAGE CENTRAL",
-    "total_spill_hours": 1.66666666666667,
+    "total_spill_hours": 1.7,
     "lat": 50.608383,
     "lon": -1.955637,
     "pcon20nm": "South Dorset"
   },
   {
-    "id": 716,
-    "bathing": "Jacksons Bay Barry",
-    "total_spill_hours": 1.75,
-    "lat": 51.415549,
-    "lon": -3.257494,
-    "pcon20nm": "Vale of Glamorgan"
-  },
-  {
-    "id": 895,
+    "id": 894,
     "bathing": "Llanddwyn",
     "total_spill_hours": 1.75,
     "lat": 53.164763,
@@ -944,44 +928,36 @@
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
-    "id": 999,
-    "bathing": "SOUTHSEA, STOKES BAY",
-    "total_spill_hours": 1.7666666668374091,
-    "lat": 50.819039,
-    "lon": -1.091833,
-    "pcon20nm": "Portsmouth North"
+    "id": 715,
+    "bathing": "Jacksons Bay Barry",
+    "total_spill_hours": 1.75,
+    "lat": 51.415549,
+    "lon": -3.257494,
+    "pcon20nm": "Vale of Glamorgan"
   },
   {
-    "id": 572,
+    "id": 571,
     "bathing": "COWES, GURNARD",
-    "total_spill_hours": 1.7674999998416752,
+    "total_spill_hours": 1.77,
     "lat": 50.766152,
     "lon": -1.299179,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 577,
+    "id": 998,
+    "bathing": "SOUTHSEA, STOKES BAY",
+    "total_spill_hours": 1.77,
+    "lat": 50.819039,
+    "lon": -1.091833,
+    "pcon20nm": "Portsmouth North"
+  },
+  {
+    "id": 576,
     "bathing": "DEAL CASTLE",
-    "total_spill_hours": 1.866666666814126,
+    "total_spill_hours": 1.87,
     "lat": 51.240844,
     "lon": 1.410591,
     "pcon20nm": "Dover"
-  },
-  {
-    "id": 1011,
-    "bathing": "Bridlington South Bay",
-    "total_spill_hours": 1.88611111111111,
-    "lat": 54.070578,
-    "lon": -0.22729,
-    "pcon20nm": "East Yorkshire"
-  },
-  {
-    "id": 663,
-    "bathing": "SEAFORD",
-    "total_spill_hours": 1.897222222178243,
-    "lat": 50.764586,
-    "lon": 0.108329,
-    "pcon20nm": "Lewes"
   },
   {
     "id": 376,
@@ -992,20 +968,28 @@
     "pcon20nm": "Blyth Valley"
   },
   {
-    "id": 997,
+    "id": 1010,
+    "bathing": "Bridlington South Bay",
+    "total_spill_hours": 1.9,
+    "lat": 54.070578,
+    "lon": -0.22729,
+    "pcon20nm": "East Yorkshire"
+  },
+  {
+    "id": 662,
+    "bathing": "SEAFORD",
+    "total_spill_hours": 1.9,
+    "lat": 50.764586,
+    "lon": 0.108329,
+    "pcon20nm": "Lewes"
+  },
+  {
+    "id": 996,
     "bathing": "SOUTHSEA, STOKES BAY",
-    "total_spill_hours": 1.966666666441597,
+    "total_spill_hours": 1.97,
     "lat": 50.819039,
     "lon": -1.091833,
     "pcon20nm": "Portsmouth North"
-  },
-  {
-    "id": 755,
-    "bathing": "Southwold the Pier",
-    "total_spill_hours": 1.97,
-    "lat": 52.331517,
-    "lon": 1.672915,
-    "pcon20nm": "Suffolk Coastal"
   },
   {
     "id": 190,
@@ -1016,6 +1000,14 @@
     "pcon20nm": "Copeland"
   },
   {
+    "id": 754,
+    "bathing": "Southwold the Pier",
+    "total_spill_hours": 1.97,
+    "lat": 52.331517,
+    "lon": 1.672915,
+    "pcon20nm": "Suffolk Coastal"
+  },
+  {
     "id": 124,
     "bathing": "Fleetwood",
     "total_spill_hours": 1.99,
@@ -1024,23 +1016,7 @@
     "pcon20nm": "Lancaster and Fleetwood"
   },
   {
-    "id": 791,
-    "bathing": "Tenby S",
-    "total_spill_hours": 2.0,
-    "lat": 51.672968,
-    "lon": -4.694289,
-    "pcon20nm": "Carmarthen West and South Pembrokeshire"
-  },
-  {
-    "id": 834,
-    "bathing": "Langland",
-    "total_spill_hours": 2.0,
-    "lat": 51.56574,
-    "lon": -4.012779,
-    "pcon20nm": "Gower"
-  },
-  {
-    "id": 830,
+    "id": 829,
     "bathing": "Aberafan",
     "total_spill_hours": 2.0,
     "lat": 51.598917,
@@ -1048,7 +1024,23 @@
     "pcon20nm": "Aberavon"
   },
   {
-    "id": 829,
+    "id": 833,
+    "bathing": "Langland",
+    "total_spill_hours": 2.0,
+    "lat": 51.56574,
+    "lon": -4.012779,
+    "pcon20nm": "Gower"
+  },
+  {
+    "id": 790,
+    "bathing": "Tenby S",
+    "total_spill_hours": 2.0,
+    "lat": 51.672968,
+    "lon": -4.694289,
+    "pcon20nm": "Carmarthen West and South Pembrokeshire"
+  },
+  {
+    "id": 828,
     "bathing": "Aberafan",
     "total_spill_hours": 2.0,
     "lat": 51.662529,
@@ -1056,28 +1048,12 @@
     "pcon20nm": "Neath"
   },
   {
-    "id": 681,
+    "id": 680,
     "bathing": "EASTNEY, BEACHLANDS WEST",
-    "total_spill_hours": 2.016111111093778,
+    "total_spill_hours": 2.02,
     "lat": 50.816366,
     "lon": -1.060939,
     "pcon20nm": "Portsmouth North"
-  },
-  {
-    "id": 636,
-    "bathing": "LITTLEHAMPTON",
-    "total_spill_hours": 2.0497222223784775,
-    "lat": 50.853628,
-    "lon": -0.553428,
-    "pcon20nm": "Arundel and South Downs"
-  },
-  {
-    "id": 982,
-    "bathing": "SALCOMBE NORTH SANDS",
-    "total_spill_hours": 2.05,
-    "lat": 50.230287,
-    "lon": -3.781975,
-    "pcon20nm": "Totnes"
   },
   {
     "id": 302,
@@ -1088,9 +1064,25 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 675,
+    "id": 981,
+    "bathing": "SALCOMBE NORTH SANDS",
+    "total_spill_hours": 2.05,
+    "lat": 50.230287,
+    "lon": -3.781975,
+    "pcon20nm": "Totnes"
+  },
+  {
+    "id": 635,
+    "bathing": "LITTLEHAMPTON",
+    "total_spill_hours": 2.05,
+    "lat": 50.853628,
+    "lon": -0.553428,
+    "pcon20nm": "Arundel and South Downs"
+  },
+  {
+    "id": 674,
     "bathing": "STOKES BAY, SOUTHSEA",
-    "total_spill_hours": 2.059999999939464,
+    "total_spill_hours": 2.06,
     "lat": 50.797059,
     "lon": -1.122199,
     "pcon20nm": "Gosport"
@@ -1104,7 +1096,7 @@
     "pcon20nm": "Liverpool, Riverside"
   },
   {
-    "id": 753,
+    "id": 752,
     "bathing": "Clacton",
     "total_spill_hours": 2.07,
     "lat": 51.79306,
@@ -1152,28 +1144,20 @@
     "pcon20nm": "Berwick-upon-Tweed"
   },
   {
-    "id": 993,
+    "id": 992,
     "bathing": "COLWELL BAY",
-    "total_spill_hours": 2.296388888906222,
+    "total_spill_hours": 2.3,
     "lat": 50.705574,
     "lon": -1.49721,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 564,
+    "id": 563,
     "bathing": "LITTLESTONE, ST MARYS BAY (KENT)",
-    "total_spill_hours": 2.3213888888130896,
+    "total_spill_hours": 2.32,
     "lat": 50.981625,
     "lon": 0.961069,
     "pcon20nm": "Folkestone and Hythe"
-  },
-  {
-    "id": 444,
-    "bathing": "SUMMERLEAZE",
-    "total_spill_hours": 2.33,
-    "lat": 50.828935,
-    "lon": -4.547242,
-    "pcon20nm": "North Cornwall"
   },
   {
     "id": 504,
@@ -1184,52 +1168,36 @@
     "pcon20nm": "St Austell and Newquay"
   },
   {
-    "id": 244,
-    "bathing": "CLEVEDON BEACH",
-    "total_spill_hours": 2.35,
-    "lat": 51.44139,
-    "lon": -2.861643,
-    "pcon20nm": "North Somerset"
+    "id": 444,
+    "bathing": "SUMMERLEAZE",
+    "total_spill_hours": 2.33,
+    "lat": 50.828935,
+    "lon": -4.547242,
+    "pcon20nm": "North Cornwall"
   },
   {
     "id": 369,
     "bathing": "Warkworth & Amble Links",
-    "total_spill_hours": 2.3666666666666663,
+    "total_spill_hours": 2.37,
     "lat": 55.343387,
     "lon": -1.605649,
     "pcon20nm": "Berwick-upon-Tweed"
   },
   {
-    "id": 534,
+    "id": 244,
+    "bathing": "CLEVEDON BEACH",
+    "total_spill_hours": 2.4,
+    "lat": 51.44139,
+    "lon": -2.861643,
+    "pcon20nm": "North Somerset"
+  },
+  {
+    "id": 533,
     "bathing": "WEYMOUTH LODMOOR",
-    "total_spill_hours": 2.43333333333333,
+    "total_spill_hours": 2.4,
     "lat": 50.623239,
     "lon": -2.448231,
     "pcon20nm": "South Dorset"
-  },
-  {
-    "id": 242,
-    "bathing": "PORLOCK WEIR",
-    "total_spill_hours": 2.46666666666667,
-    "lat": 51.215658,
-    "lon": -3.599961,
-    "pcon20nm": "Bridgwater and West Somerset"
-  },
-  {
-    "id": 937,
-    "bathing": "Prestatyn",
-    "total_spill_hours": 2.5,
-    "lat": 53.328186,
-    "lon": -3.422581,
-    "pcon20nm": "Vale of Clwyd"
-  },
-  {
-    "id": 762,
-    "bathing": "Aberystwyth S",
-    "total_spill_hours": 2.5,
-    "lat": 52.406564,
-    "lon": -4.073466,
-    "pcon20nm": "Ceredigion"
   },
   {
     "id": 17,
@@ -1240,6 +1208,30 @@
     "pcon20nm": "Wallasey"
   },
   {
+    "id": 761,
+    "bathing": "Aberystwyth S",
+    "total_spill_hours": 2.5,
+    "lat": 52.406564,
+    "lon": -4.073466,
+    "pcon20nm": "Ceredigion"
+  },
+  {
+    "id": 242,
+    "bathing": "PORLOCK WEIR",
+    "total_spill_hours": 2.5,
+    "lat": 51.215658,
+    "lon": -3.599961,
+    "pcon20nm": "Bridgwater and West Somerset"
+  },
+  {
+    "id": 936,
+    "bathing": "Prestatyn",
+    "total_spill_hours": 2.5,
+    "lat": 53.328186,
+    "lon": -3.422581,
+    "pcon20nm": "Vale of Clwyd"
+  },
+  {
     "id": 204,
     "bathing": "Ainsdale",
     "total_spill_hours": 2.53,
@@ -1248,7 +1240,7 @@
     "pcon20nm": "Southport"
   },
   {
-    "id": 975,
+    "id": 974,
     "bathing": "PORTHGWIDDEN BEACH ST.IVES",
     "total_spill_hours": 2.56,
     "lat": 50.21719,
@@ -1264,7 +1256,7 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 696,
+    "id": 695,
     "bathing": "Sherringham",
     "total_spill_hours": 2.57,
     "lat": 52.945139,
@@ -1272,17 +1264,17 @@
     "pcon20nm": "North Norfolk"
   },
   {
-    "id": 589,
+    "id": 588,
     "bathing": "VENTNOR",
-    "total_spill_hours": 2.63333333353512,
+    "total_spill_hours": 2.63,
     "lat": 50.591003,
     "lon": -1.21942,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 685,
+    "id": 684,
     "bathing": "WORTHING",
-    "total_spill_hours": 2.634999999892898,
+    "total_spill_hours": 2.63,
     "lat": 50.80427,
     "lon": -0.42268,
     "pcon20nm": "Worthing West"
@@ -1296,7 +1288,7 @@
     "pcon20nm": "Plymouth, Sutton and Devonport"
   },
   {
-    "id": 747,
+    "id": 746,
     "bathing": "Jaywick",
     "total_spill_hours": 2.7,
     "lat": 51.779729,
@@ -1312,20 +1304,20 @@
     "pcon20nm": "Torbay"
   },
   {
+    "id": 741,
+    "bathing": "Colne",
+    "total_spill_hours": 2.9,
+    "lat": 51.810321,
+    "lon": 1.019449,
+    "pcon20nm": "Harwich and North Essex"
+  },
+  {
     "id": 209,
     "bathing": "Southport, St Annes Pier, St. Annes North and Blackpool South",
     "total_spill_hours": 2.9,
     "lat": 53.748079,
     "lon": -2.713375,
     "pcon20nm": "South Ribble"
-  },
-  {
-    "id": 742,
-    "bathing": "Colne",
-    "total_spill_hours": 2.9,
-    "lat": 51.810321,
-    "lon": 1.019449,
-    "pcon20nm": "Harwich and North Essex"
   },
   {
     "id": 305,
@@ -1336,7 +1328,7 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 978,
+    "id": 977,
     "bathing": "PLYMOUTH HOE (EAST)",
     "total_spill_hours": 2.98,
     "lat": 50.405064,
@@ -1344,23 +1336,7 @@
     "pcon20nm": "Plymouth, Moor View"
   },
   {
-    "id": 725,
-    "bathing": "Jacksons",
-    "total_spill_hours": 3.0,
-    "lat": 51.399984,
-    "lon": -3.272348,
-    "pcon20nm": "Vale of Glamorgan"
-  },
-  {
-    "id": 816,
-    "bathing": "Aberafan",
-    "total_spill_hours": 3.0,
-    "lat": 51.649021,
-    "lon": -3.819367,
-    "pcon20nm": "Neath"
-  },
-  {
-    "id": 850,
+    "id": 849,
     "bathing": "Aberafan",
     "total_spill_hours": 3.0,
     "lat": 51.668676,
@@ -1368,7 +1344,7 @@
     "pcon20nm": "Neath"
   },
   {
-    "id": 1012,
+    "id": 1011,
     "bathing": "Indirectly via Surface Water Sewer to Wilsthorpe",
     "total_spill_hours": 3.0,
     "lat": 54.066765,
@@ -1376,12 +1352,20 @@
     "pcon20nm": "East Yorkshire"
   },
   {
-    "id": 533,
-    "bathing": "WEYMOUTH LODMOOR",
-    "total_spill_hours": 3.07,
-    "lat": 50.623089,
-    "lon": -2.449883,
-    "pcon20nm": "South Dorset"
+    "id": 815,
+    "bathing": "Aberafan",
+    "total_spill_hours": 3.0,
+    "lat": 51.649021,
+    "lon": -3.819367,
+    "pcon20nm": "Neath"
+  },
+  {
+    "id": 724,
+    "bathing": "Jacksons",
+    "total_spill_hours": 3.0,
+    "lat": 51.399984,
+    "lon": -3.272348,
+    "pcon20nm": "Vale of Glamorgan"
   },
   {
     "id": 225,
@@ -1392,6 +1376,14 @@
     "pcon20nm": "South West Devon"
   },
   {
+    "id": 532,
+    "bathing": "WEYMOUTH LODMOOR",
+    "total_spill_hours": 3.1,
+    "lat": 50.623089,
+    "lon": -2.449883,
+    "pcon20nm": "South Dorset"
+  },
+  {
     "id": 455,
     "bathing": "MAWGAN PORTH BEACH",
     "total_spill_hours": 3.21,
@@ -1400,15 +1392,7 @@
     "pcon20nm": "St Austell and Newquay"
   },
   {
-    "id": 775,
-    "bathing": "Wisemans Bridge",
-    "total_spill_hours": 3.25,
-    "lat": 51.732337,
-    "lon": -4.662652,
-    "pcon20nm": "Carmarthen West and South Pembrokeshire"
-  },
-  {
-    "id": 787,
+    "id": 786,
     "bathing": "Wisemans Bridge",
     "total_spill_hours": 3.25,
     "lat": 51.71097,
@@ -1416,15 +1400,23 @@
     "pcon20nm": "Carmarthen West and South Pembrokeshire"
   },
   {
-    "id": 680,
+    "id": 679,
     "bathing": "HILLHEAD, LEE-ON-SOLENT, STOKES BAY",
-    "total_spill_hours": 3.252777778019663,
+    "total_spill_hours": 3.25,
     "lat": 50.794523,
     "lon": -1.194468,
     "pcon20nm": "Gosport"
   },
   {
-    "id": 968,
+    "id": 774,
+    "bathing": "Wisemans Bridge",
+    "total_spill_hours": 3.25,
+    "lat": 51.732337,
+    "lon": -4.662652,
+    "pcon20nm": "Carmarthen West and South Pembrokeshire"
+  },
+  {
+    "id": 967,
     "bathing": "St Annes",
     "total_spill_hours": 3.37,
     "lat": 53.763706,
@@ -1432,31 +1424,31 @@
     "pcon20nm": "Fylde"
   },
   {
-    "id": 677,
+    "id": 676,
     "bathing": "HILLHEAD, LEE-ON-SOLENT, STOKES BAY",
-    "total_spill_hours": 3.4647222220664844,
+    "total_spill_hours": 3.46,
     "lat": 50.794172,
     "lon": -1.195751,
     "pcon20nm": "Gosport"
   },
   {
-    "id": 576,
+    "id": 575,
     "bathing": "BROADSTAIRS STONE BAY, BROADSTAIRS VIKING BAY, RAMSGATE SANDS, RAMSGATE WESTERN UNDERCLIFFE",
-    "total_spill_hours": 3.483333333511837,
+    "total_spill_hours": 3.48,
     "lat": 51.336584,
     "lon": 1.429831,
     "pcon20nm": "South Thanet"
   },
   {
-    "id": 606,
+    "id": 605,
     "bathing": "LITTLEHAMPTON",
-    "total_spill_hours": 3.4900000001653098,
+    "total_spill_hours": 3.49,
     "lat": 50.80287,
     "lon": -0.507737,
     "pcon20nm": "Worthing West"
   },
   {
-    "id": 870,
+    "id": 869,
     "bathing": "Wilsthorpe",
     "total_spill_hours": 3.5,
     "lat": 54.060585,
@@ -1464,9 +1456,9 @@
     "pcon20nm": "East Yorkshire"
   },
   {
-    "id": 669,
+    "id": 668,
     "bathing": "COWES, GURNARD",
-    "total_spill_hours": 3.6769444444798864,
+    "total_spill_hours": 3.68,
     "lat": 50.760331,
     "lon": -1.288348,
     "pcon20nm": "Isle of Wight"
@@ -1496,9 +1488,9 @@
     "pcon20nm": "Preston"
   },
   {
-    "id": 600,
+    "id": 599,
     "bathing": "BOGNOR REGIS (ALDWICK), BOGNOR REGIS EAST, FELPHAM, PAGHAM",
-    "total_spill_hours": 3.747500000114087,
+    "total_spill_hours": 3.75,
     "lat": 50.778096,
     "lon": -0.699587,
     "pcon20nm": "Bognor Regis and Littlehampton"
@@ -1536,7 +1528,7 @@
     "pcon20nm": "Morecambe and Lunesdale"
   },
   {
-    "id": 728,
+    "id": 727,
     "bathing": "Ingoldsmell South",
     "total_spill_hours": 4.0,
     "lat": 53.183033,
@@ -1544,7 +1536,7 @@
     "pcon20nm": "Boston and Skegness"
   },
   {
-    "id": 862,
+    "id": 861,
     "bathing": "Trecco Bay",
     "total_spill_hours": 4.0,
     "lat": 51.479343,
@@ -1552,7 +1544,7 @@
     "pcon20nm": "Bridgend"
   },
   {
-    "id": 958,
+    "id": 957,
     "bathing": "Lowestoft North",
     "total_spill_hours": 4.1,
     "lat": 52.474333,
@@ -1562,13 +1554,13 @@
   {
     "id": 350,
     "bathing": "Spittal",
-    "total_spill_hours": 4.1000000000000005,
+    "total_spill_hours": 4.1,
     "lat": 55.773596,
     "lon": -2.009469,
     "pcon20nm": "Berwick-upon-Tweed"
   },
   {
-    "id": 729,
+    "id": 728,
     "bathing": "Frinton",
     "total_spill_hours": 4.17,
     "lat": 51.824273,
@@ -1576,23 +1568,23 @@
     "pcon20nm": "Clacton"
   },
   {
-    "id": 599,
+    "id": 598,
     "bathing": "BOGNOR REGIS (ALDWICK), BOGNOR REGIS EAST, FELPHAM, MIDDLETON-ON-SEA",
-    "total_spill_hours": 4.202777777973097,
+    "total_spill_hours": 4.2,
     "lat": 50.785275,
     "lon": -0.658532,
     "pcon20nm": "Bognor Regis and Littlehampton"
   },
   {
-    "id": 536,
+    "id": 535,
     "bathing": "STUDLAND KNOLL HOUSE",
-    "total_spill_hours": 4.25,
+    "total_spill_hours": 4.2,
     "lat": 50.644596,
     "lon": -1.95242,
     "pcon20nm": "South Dorset"
   },
   {
-    "id": 698,
+    "id": 697,
     "bathing": "Mundesley",
     "total_spill_hours": 4.3,
     "lat": 52.876619,
@@ -1608,12 +1600,12 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 429,
-    "bathing": "PLYMOUTH HOE (WEST)",
-    "total_spill_hours": 4.43,
-    "lat": 50.366121,
-    "lon": -4.152947,
-    "pcon20nm": "Plymouth, Sutton and Devonport"
+    "id": 554,
+    "bathing": "SWANAGE CENTRAL",
+    "total_spill_hours": 4.4,
+    "lat": 50.6107,
+    "lon": -1.976763,
+    "pcon20nm": "South Dorset"
   },
   {
     "id": 431,
@@ -1624,17 +1616,17 @@
     "pcon20nm": "Plymouth, Sutton and Devonport"
   },
   {
-    "id": 555,
-    "bathing": "SWANAGE CENTRAL",
-    "total_spill_hours": 4.43333333333333,
-    "lat": 50.6107,
-    "lon": -1.976763,
-    "pcon20nm": "South Dorset"
+    "id": 429,
+    "bathing": "PLYMOUTH HOE (WEST)",
+    "total_spill_hours": 4.43,
+    "lat": 50.366121,
+    "lon": -4.152947,
+    "pcon20nm": "Plymouth, Sutton and Devonport"
   },
   {
-    "id": 618,
+    "id": 617,
     "bathing": "RYDE",
-    "total_spill_hours": 4.631944444554392,
+    "total_spill_hours": 4.63,
     "lat": 50.714557,
     "lon": -1.166236,
     "pcon20nm": "Isle of Wight"
@@ -1648,7 +1640,7 @@
     "pcon20nm": "Bootle"
   },
   {
-    "id": 740,
+    "id": 739,
     "bathing": "Colne",
     "total_spill_hours": 4.67,
     "lat": 51.816682,
@@ -1664,15 +1656,15 @@
     "pcon20nm": "Plymouth, Sutton and Devonport"
   },
   {
-    "id": 566,
+    "id": 565,
     "bathing": "MINSTER LEAS",
-    "total_spill_hours": 4.740555555734318,
+    "total_spill_hours": 4.74,
     "lat": 51.427633,
     "lon": 0.812712,
     "pcon20nm": "Sittingbourne and Sheppey"
   },
   {
-    "id": 726,
+    "id": 725,
     "bathing": "Mablethorpe Town",
     "total_spill_hours": 4.77,
     "lat": 53.341571,
@@ -1680,12 +1672,20 @@
     "pcon20nm": "Louth and Horncastle"
   },
   {
-    "id": 627,
+    "id": 626,
     "bathing": "HERNE BAY CENTRAL, TANKERTON, WEST BEACH WHITSTABLE",
-    "total_spill_hours": 4.8638888887362555,
+    "total_spill_hours": 4.86,
     "lat": 51.367669,
     "lon": 1.066092,
     "pcon20nm": "Canterbury"
+  },
+  {
+    "id": 611,
+    "bathing": "RYDE",
+    "total_spill_hours": 4.88,
+    "lat": 50.733015,
+    "lon": -1.169309,
+    "pcon20nm": "Isle of Wight"
   },
   {
     "id": 39,
@@ -1696,14 +1696,6 @@
     "pcon20nm": "Liverpool, Riverside"
   },
   {
-    "id": 612,
-    "bathing": "RYDE",
-    "total_spill_hours": 4.882777777849697,
-    "lat": 50.733015,
-    "lon": -1.169309,
-    "pcon20nm": "Isle of Wight"
-  },
-  {
     "id": 512,
     "bathing": "ROCK BEACH",
     "total_spill_hours": 4.92,
@@ -1712,7 +1704,7 @@
     "pcon20nm": "North Cornwall"
   },
   {
-    "id": 700,
+    "id": 699,
     "bathing": "Holland",
     "total_spill_hours": 5.07,
     "lat": 51.810427,
@@ -1728,23 +1720,23 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 591,
+    "id": 590,
     "bathing": "FOLKESTONE, SANDGATE",
-    "total_spill_hours": 5.137222221877892,
+    "total_spill_hours": 5.14,
     "lat": 51.072597,
     "lon": 1.145624,
     "pcon20nm": "Folkestone and Hythe"
   },
   {
-    "id": 666,
+    "id": 665,
     "bathing": "BEXHILL, ST LEONARDS",
-    "total_spill_hours": 5.188055555394385,
+    "total_spill_hours": 5.19,
     "lat": 50.846397,
     "lon": 0.505673,
     "pcon20nm": "Bexhill and Battle"
   },
   {
-    "id": 730,
+    "id": 729,
     "bathing": "Frinton",
     "total_spill_hours": 5.2,
     "lat": 51.831324,
@@ -1760,23 +1752,23 @@
     "pcon20nm": "St Ives"
   },
   {
-    "id": 529,
+    "id": 528,
     "bathing": "WEYMOUTH CENTRAL",
-    "total_spill_hours": 5.33333333333333,
+    "total_spill_hours": 5.3,
     "lat": 50.608651,
     "lon": -2.475777,
     "pcon20nm": "South Dorset"
   },
   {
-    "id": 676,
+    "id": 675,
     "bathing": "SOUTHSEA, STOKES BAY",
-    "total_spill_hours": 5.3577777776517905,
+    "total_spill_hours": 5.36,
     "lat": 50.810883,
     "lon": -1.130882,
     "pcon20nm": "Gosport"
   },
   {
-    "id": 880,
+    "id": 879,
     "bathing": "Llandudno W",
     "total_spill_hours": 5.5,
     "lat": 53.300332,
@@ -1784,15 +1776,7 @@
     "pcon20nm": "Aberconwy"
   },
   {
-    "id": 530,
-    "bathing": "WEYMOUTH CENTRAL",
-    "total_spill_hours": 5.5,
-    "lat": 50.609706,
-    "lon": -2.459535,
-    "pcon20nm": "South Dorset"
-  },
-  {
-    "id": 865,
+    "id": 864,
     "bathing": "Rhosilli",
     "total_spill_hours": 5.5,
     "lat": 51.598678,
@@ -1800,7 +1784,15 @@
     "pcon20nm": "Gower"
   },
   {
-    "id": 541,
+    "id": 529,
+    "bathing": "WEYMOUTH CENTRAL",
+    "total_spill_hours": 5.5,
+    "lat": 50.609706,
+    "lon": -2.459535,
+    "pcon20nm": "South Dorset"
+  },
+  {
+    "id": 540,
     "bathing": "POOLE HARBOUR HAMWORTH PARK /POOLE HARBOUR ROCKLEY SANDS / POOLE HARBOUR LAKE",
     "total_spill_hours": 5.6,
     "lat": 50.741998,
@@ -1816,15 +1808,7 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 949,
-    "bathing": "Prestatyn",
-    "total_spill_hours": 6.0,
-    "lat": 53.335437,
-    "lon": -3.422116,
-    "pcon20nm": "Vale of Clwyd"
-  },
-  {
-    "id": 838,
+    "id": 837,
     "bathing": "Aberafan",
     "total_spill_hours": 6.0,
     "lat": 51.662099,
@@ -1832,15 +1816,15 @@
     "pcon20nm": "Aberavon"
   },
   {
-    "id": 868,
-    "bathing": "Swansea Bay",
+    "id": 948,
+    "bathing": "Prestatyn",
     "total_spill_hours": 6.0,
-    "lat": 51.654725,
-    "lon": -3.986706,
-    "pcon20nm": "Swansea East"
+    "lat": 53.335437,
+    "lon": -3.422116,
+    "pcon20nm": "Vale of Clwyd"
   },
   {
-    "id": 867,
+    "id": 866,
     "bathing": "Swansea Bay",
     "total_spill_hours": 6.0,
     "lat": 51.648751,
@@ -1848,15 +1832,23 @@
     "pcon20nm": "Swansea East"
   },
   {
-    "id": 871,
+    "id": 867,
+    "bathing": "Swansea Bay",
+    "total_spill_hours": 6.0,
+    "lat": 51.654725,
+    "lon": -3.986706,
+    "pcon20nm": "Swansea East"
+  },
+  {
+    "id": 870,
     "bathing": "Scarborough South Bay",
-    "total_spill_hours": 6.21083333333333,
+    "total_spill_hours": 6.2,
     "lat": 54.285823,
     "lon": -0.384226,
     "pcon20nm": "Scarborough and Whitby"
   },
   {
-    "id": 809,
+    "id": 808,
     "bathing": "Swansea Bay",
     "total_spill_hours": 6.25,
     "lat": 51.671266,
@@ -1864,9 +1856,9 @@
     "pcon20nm": "Swansea East"
   },
   {
-    "id": 568,
+    "id": 567,
     "bathing": "BOGNOR REGIS (ALDWICK), BOGNOR REGIS EAST, FELPHAM, MIDDLETON-ON-SEA",
-    "total_spill_hours": 6.348888888896909,
+    "total_spill_hours": 6.35,
     "lat": 50.796042,
     "lon": -0.68788,
     "pcon20nm": "Bognor Regis and Littlehampton"
@@ -1874,13 +1866,13 @@
   {
     "id": 384,
     "bathing": "Whitley Bay",
-    "total_spill_hours": 6.416111111117061,
+    "total_spill_hours": 6.42,
     "lat": 55.058374,
     "lon": -1.455736,
     "pcon20nm": "Tynemouth"
   },
   {
-    "id": 704,
+    "id": 703,
     "bathing": "Gorleston Beach",
     "total_spill_hours": 6.43,
     "lat": 52.569316,
@@ -1888,7 +1880,7 @@
     "pcon20nm": "Great Yarmouth"
   },
   {
-    "id": 717,
+    "id": 716,
     "bathing": "Jacksons Bay Barry",
     "total_spill_hours": 6.5,
     "lat": 51.450049,
@@ -1896,25 +1888,25 @@
     "pcon20nm": "Vale of Glamorgan"
   },
   {
-    "id": 551,
+    "id": 550,
     "bathing": "HIVE (BURTON BRADSTOCK)",
-    "total_spill_hours": 6.5000000016298145,
+    "total_spill_hours": 6.5,
     "lat": 50.701307,
     "lon": -2.730753,
     "pcon20nm": "West Dorset"
   },
   {
-    "id": 598,
+    "id": 597,
     "bathing": "BOGNOR REGIS (ALDWICK), BOGNOR REGIS EAST, FELPHAM, PAGHAM",
-    "total_spill_hours": 6.524722222296987,
+    "total_spill_hours": 6.52,
     "lat": 50.779636,
     "lon": -0.684509,
     "pcon20nm": "Bognor Regis and Littlehampton"
   },
   {
-    "id": 649,
+    "id": 648,
     "bathing": "EASTBOURNE, PEVENSEY BAY",
-    "total_spill_hours": 6.638333332724869,
+    "total_spill_hours": 6.64,
     "lat": 50.784983,
     "lon": 0.326883,
     "pcon20nm": "Eastbourne"
@@ -1930,21 +1922,21 @@
   {
     "id": 348,
     "bathing": "Spittal",
-    "total_spill_hours": 6.866666666666666,
+    "total_spill_hours": 6.87,
     "lat": 55.767307,
     "lon": -2.004351,
     "pcon20nm": "Berwick-upon-Tweed"
   },
   {
-    "id": 563,
+    "id": 562,
     "bathing": "ST HELENS",
-    "total_spill_hours": 7.085833333258051,
+    "total_spill_hours": 7.09,
     "lat": 50.667474,
     "lon": -1.184617,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 947,
+    "id": 946,
     "bathing": "Prestatyn",
     "total_spill_hours": 7.25,
     "lat": 53.330486,
@@ -1952,17 +1944,17 @@
     "pcon20nm": "Vale of Clwyd"
   },
   {
-    "id": 643,
+    "id": 642,
     "bathing": "PEVENSEY BAY",
-    "total_spill_hours": 7.28611111122882,
+    "total_spill_hours": 7.29,
     "lat": 50.818213,
     "lon": 0.311213,
     "pcon20nm": "Bexhill and Battle"
   },
   {
-    "id": 983,
+    "id": 982,
     "bathing": "Scarborough North Bay",
-    "total_spill_hours": 7.41666666666666,
+    "total_spill_hours": 7.4,
     "lat": 54.294182,
     "lon": -0.405165,
     "pcon20nm": "Scarborough and Whitby"
@@ -1970,7 +1962,7 @@
   {
     "id": 409,
     "bathing": "Seaham Hall",
-    "total_spill_hours": 7.43333333333333,
+    "total_spill_hours": 7.43,
     "lat": 54.831304,
     "lon": -1.342554,
     "pcon20nm": "Easington"
@@ -1984,7 +1976,7 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 692,
+    "id": 691,
     "bathing": "Cold Knap",
     "total_spill_hours": 7.5,
     "lat": 51.405242,
@@ -2010,7 +2002,7 @@
   {
     "id": 352,
     "bathing": "Spittal",
-    "total_spill_hours": 7.633333333333333,
+    "total_spill_hours": 7.63,
     "lat": 55.766166,
     "lon": -2.002184,
     "pcon20nm": "Berwick-upon-Tweed"
@@ -2024,7 +2016,7 @@
     "pcon20nm": "West Dorset"
   },
   {
-    "id": 860,
+    "id": 859,
     "bathing": "Aberafan",
     "total_spill_hours": 7.75,
     "lat": 51.653673,
@@ -2032,15 +2024,7 @@
     "pcon20nm": "Neath"
   },
   {
-    "id": 758,
-    "bathing": "Southerndown",
-    "total_spill_hours": 7.75,
-    "lat": 51.498608,
-    "lon": -3.590737,
-    "pcon20nm": "Bridgend"
-  },
-  {
-    "id": 780,
+    "id": 779,
     "bathing": "Aberystwyth S",
     "total_spill_hours": 7.75,
     "lat": 52.411715,
@@ -2048,9 +2032,17 @@
     "pcon20nm": "Ceredigion"
   },
   {
-    "id": 659,
+    "id": 757,
+    "bathing": "Southerndown",
+    "total_spill_hours": 7.75,
+    "lat": 51.498608,
+    "lon": -3.590737,
+    "pcon20nm": "Bridgend"
+  },
+  {
+    "id": 658,
     "bathing": "BOTANY BAY BROADSTAIRS, BROADSTAIRS STONE BAY, JOSS BAY BROADSTAIRS, MARGATE FULSAM ROCK, MARGATE THE BAY, WALPOLE BAY MARGATE",
-    "total_spill_hours": 7.876666666707024,
+    "total_spill_hours": 7.88,
     "lat": 51.393407,
     "lon": 1.425815,
     "pcon20nm": "South Thanet"
@@ -2058,7 +2050,7 @@
   {
     "id": 356,
     "bathing": "Spittal",
-    "total_spill_hours": 7.999999999999998,
+    "total_spill_hours": 8.0,
     "lat": 55.766947,
     "lon": -2.00161,
     "pcon20nm": "Berwick-upon-Tweed"
@@ -2080,15 +2072,15 @@
     "pcon20nm": "St Austell and Newquay"
   },
   {
-    "id": 1002,
+    "id": 1001,
     "bathing": "LANCING BEACH GREEN, SHOREHAM BEACH, SOUTHWICK",
-    "total_spill_hours": 8.208611111040227,
+    "total_spill_hours": 8.21,
     "lat": 50.833554,
     "lon": -0.280104,
     "pcon20nm": "East Worthing and Shoreham"
   },
   {
-    "id": 965,
+    "id": 964,
     "bathing": "Fleetwood",
     "total_spill_hours": 8.22,
     "lat": 53.840272,
@@ -2104,20 +2096,20 @@
     "pcon20nm": "Liverpool, Riverside"
   },
   {
-    "id": 694,
-    "bathing": "Cold Knap",
-    "total_spill_hours": 8.25,
-    "lat": 51.3999,
-    "lon": -3.293205,
-    "pcon20nm": "Vale of Glamorgan"
-  },
-  {
-    "id": 763,
+    "id": 762,
     "bathing": "Poppit West",
     "total_spill_hours": 8.25,
     "lat": 52.082025,
     "lon": -4.663335,
     "pcon20nm": "Ceredigion"
+  },
+  {
+    "id": 693,
+    "bathing": "Cold Knap",
+    "total_spill_hours": 8.25,
+    "lat": 51.3999,
+    "lon": -3.293205,
+    "pcon20nm": "Vale of Glamorgan"
   },
   {
     "id": 46,
@@ -2136,9 +2128,9 @@
     "pcon20nm": "Plymouth, Sutton and Devonport"
   },
   {
-    "id": 569,
+    "id": 568,
     "bathing": "COWES, GURNARD",
-    "total_spill_hours": 8.5544444443658,
+    "total_spill_hours": 8.55,
     "lat": 50.767107,
     "lon": -1.308523,
     "pcon20nm": "Isle of Wight"
@@ -2152,7 +2144,7 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 710,
+    "id": 709,
     "bathing": "Cold Knap",
     "total_spill_hours": 8.75,
     "lat": 51.395615,
@@ -2170,13 +2162,13 @@
   {
     "id": 370,
     "bathing": "Warkworth & Amble Links",
-    "total_spill_hours": 8.866666666666665,
+    "total_spill_hours": 8.87,
     "lat": 55.342913,
     "lon": -1.608965,
     "pcon20nm": "Berwick-upon-Tweed"
   },
   {
-    "id": 904,
+    "id": 903,
     "bathing": "Criccieth",
     "total_spill_hours": 9.0,
     "lat": 52.918385,
@@ -2184,7 +2176,7 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 802,
+    "id": 801,
     "bathing": "Limeslade",
     "total_spill_hours": 9.0,
     "lat": 51.580148,
@@ -2200,28 +2192,28 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 660,
+    "id": 659,
     "bathing": "BOTANY BAY BROADSTAIRS, BROADSTAIRS STONE BAY, BROADSTAIRS VIKING BAY, JOSS BAY BROADSTAIRS",
-    "total_spill_hours": 9.113055555440951,
+    "total_spill_hours": 9.11,
     "lat": 51.376271,
     "lon": 1.448824,
     "pcon20nm": "South Thanet"
   },
   {
-    "id": 548,
-    "bathing": "CHARMOUTH WEST",
-    "total_spill_hours": 9.165555555664469,
-    "lat": 50.739844,
-    "lon": -2.891782,
-    "pcon20nm": "West Dorset"
-  },
-  {
-    "id": 652,
+    "id": 651,
     "bathing": "SANDOWN, SHANKLIN",
-    "total_spill_hours": 9.16666666668607,
+    "total_spill_hours": 9.17,
     "lat": 50.626209,
     "lon": -1.173596,
     "pcon20nm": "Isle of Wight"
+  },
+  {
+    "id": 547,
+    "bathing": "CHARMOUTH WEST",
+    "total_spill_hours": 9.2,
+    "lat": 50.739844,
+    "lon": -2.891782,
+    "pcon20nm": "West Dorset"
   },
   {
     "id": 16,
@@ -2232,20 +2224,20 @@
     "pcon20nm": "Wallasey"
   },
   {
-    "id": 832,
-    "bathing": "Aberafan",
-    "total_spill_hours": 9.25,
-    "lat": 51.632863,
-    "lon": -3.744606,
-    "pcon20nm": "Aberavon"
-  },
-  {
-    "id": 923,
+    "id": 922,
     "bathing": "Morfa Nefyn",
     "total_spill_hours": 9.25,
     "lat": 52.937953,
     "lon": -4.518275,
     "pcon20nm": "Dwyfor Meirionnydd"
+  },
+  {
+    "id": 831,
+    "bathing": "Aberafan",
+    "total_spill_hours": 9.25,
+    "lat": 51.632863,
+    "lon": -3.744606,
+    "pcon20nm": "Aberavon"
   },
   {
     "id": 458,
@@ -2264,7 +2256,7 @@
     "pcon20nm": "Lancaster and Fleetwood"
   },
   {
-    "id": 760,
+    "id": 759,
     "bathing": "Caswell",
     "total_spill_hours": 9.5,
     "lat": 51.570684,
@@ -2272,15 +2264,15 @@
     "pcon20nm": "Gower"
   },
   {
-    "id": 644,
+    "id": 643,
     "bathing": "PEVENSEY BAY",
-    "total_spill_hours": 9.534722222189885,
+    "total_spill_hours": 9.53,
     "lat": 50.815421,
     "lon": 0.324988,
     "pcon20nm": "Bexhill and Battle"
   },
   {
-    "id": 736,
+    "id": 735,
     "bathing": "Southwold the Deans",
     "total_spill_hours": 9.57,
     "lat": 52.323207,
@@ -2296,7 +2288,7 @@
     "pcon20nm": "Copeland"
   },
   {
-    "id": 804,
+    "id": 803,
     "bathing": "Swansea Bay",
     "total_spill_hours": 9.75,
     "lat": 51.611429,
@@ -2312,7 +2304,7 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 743,
+    "id": 742,
     "bathing": "Frinton",
     "total_spill_hours": 10.0,
     "lat": 51.82807,
@@ -2328,7 +2320,7 @@
     "pcon20nm": "Torbay"
   },
   {
-    "id": 752,
+    "id": 751,
     "bathing": "Lowestoft North",
     "total_spill_hours": 10.07,
     "lat": 52.471913,
@@ -2344,9 +2336,9 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 963,
+    "id": 962,
     "bathing": "Bridlington North Bay",
-    "total_spill_hours": 10.25,
+    "total_spill_hours": 10.2,
     "lat": 54.0893,
     "lon": -0.180774,
     "pcon20nm": "East Yorkshire"
@@ -2354,34 +2346,18 @@
   {
     "id": 524,
     "bathing": "BOURNEMOUTH BOSCOMBE PIER",
-    "total_spill_hours": 10.25,
+    "total_spill_hours": 10.2,
     "lat": 50.71995,
     "lon": -1.843126,
     "pcon20nm": "Bournemouth East"
   },
   {
-    "id": 615,
+    "id": 614,
     "bathing": "RYDE, SEAGROVE, ST HELENS",
-    "total_spill_hours": 10.347499999799766,
+    "total_spill_hours": 10.35,
     "lat": 50.721243,
     "lon": -1.109593,
     "pcon20nm": "Isle of Wight"
-  },
-  {
-    "id": 911,
-    "bathing": "Llandudno West Shore",
-    "total_spill_hours": 10.5,
-    "lat": 53.281227,
-    "lon": -3.813161,
-    "pcon20nm": "Aberconwy"
-  },
-  {
-    "id": 707,
-    "bathing": "Cold Knap",
-    "total_spill_hours": 10.5,
-    "lat": 51.393832,
-    "lon": -3.284898,
-    "pcon20nm": "Vale of Glamorgan"
   },
   {
     "id": 401,
@@ -2392,12 +2368,28 @@
     "pcon20nm": "Easington"
   },
   {
-    "id": 854,
+    "id": 910,
+    "bathing": "Llandudno West Shore",
+    "total_spill_hours": 10.5,
+    "lat": 53.281227,
+    "lon": -3.813161,
+    "pcon20nm": "Aberconwy"
+  },
+  {
+    "id": 853,
     "bathing": "Swansea Bay",
     "total_spill_hours": 10.5,
     "lat": 51.667628,
     "lon": -4.02733,
     "pcon20nm": "Gower"
+  },
+  {
+    "id": 706,
+    "bathing": "Cold Knap",
+    "total_spill_hours": 10.5,
+    "lat": 51.393832,
+    "lon": -3.284898,
+    "pcon20nm": "Vale of Glamorgan"
   },
   {
     "id": 163,
@@ -2416,15 +2408,15 @@
     "pcon20nm": "Torbay"
   },
   {
-    "id": 650,
+    "id": 649,
     "bathing": "SANDOWN, SHANKLIN, YAVERLAND",
-    "total_spill_hours": 10.624166666879319,
+    "total_spill_hours": 10.62,
     "lat": 50.655895,
     "lon": -1.149874,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 783,
+    "id": 782,
     "bathing": "Broadhaven",
     "total_spill_hours": 10.75,
     "lat": 51.776088,
@@ -2440,25 +2432,25 @@
     "pcon20nm": "Copeland"
   },
   {
-    "id": 1009,
+    "id": 1008,
     "bathing": "Bridlington South Bay",
-    "total_spill_hours": 10.8999999999999,
+    "total_spill_hours": 10.9,
     "lat": 54.083504,
     "lon": -0.195857,
     "pcon20nm": "East Yorkshire"
   },
   {
-    "id": 545,
+    "id": 544,
     "bathing": "CHRISTCHURCH AVON BEACH/CHRISTCHURCH FRIAR'S CLIFF",
-    "total_spill_hours": 10.9908333333333,
+    "total_spill_hours": 11.0,
     "lat": 50.728596,
     "lon": -1.793367,
     "pcon20nm": "Bournemouth East"
   },
   {
-    "id": 998,
+    "id": 997,
     "bathing": "SOUTHSEA, STOKES BAY",
-    "total_spill_hours": 11.08333333331393,
+    "total_spill_hours": 11.08,
     "lat": 50.819039,
     "lon": -1.091833,
     "pcon20nm": "Portsmouth North"
@@ -2472,20 +2464,12 @@
     "pcon20nm": "Sefton Central"
   },
   {
-    "id": 801,
+    "id": 800,
     "bathing": "Limeslade",
     "total_spill_hours": 11.25,
     "lat": 51.574845,
     "lon": -3.99885,
     "pcon20nm": "Gower"
-  },
-  {
-    "id": 324,
-    "bathing": "SHOALSTONE BEACH",
-    "total_spill_hours": 11.3,
-    "lat": 50.400171,
-    "lon": -3.503106,
-    "pcon20nm": "Totnes"
   },
   {
     "id": 312,
@@ -2496,12 +2480,28 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 645,
+    "id": 324,
+    "bathing": "SHOALSTONE BEACH",
+    "total_spill_hours": 11.3,
+    "lat": 50.400171,
+    "lon": -3.503106,
+    "pcon20nm": "Totnes"
+  },
+  {
+    "id": 644,
     "bathing": "RYDE",
-    "total_spill_hours": 11.333055555413011,
+    "total_spill_hours": 11.33,
     "lat": 50.732502,
     "lon": -1.21197,
     "pcon20nm": "Isle of Wight"
+  },
+  {
+    "id": 259,
+    "bathing": "BURNHAM JETTY NORTH",
+    "total_spill_hours": 11.6,
+    "lat": 51.131576,
+    "lon": -3.00164,
+    "pcon20nm": "Bridgwater and West Somerset"
   },
   {
     "id": 474,
@@ -2512,17 +2512,9 @@
     "pcon20nm": "Plymouth, Sutton and Devonport"
   },
   {
-    "id": 259,
-    "bathing": "BURNHAM JETTY NORTH",
-    "total_spill_hours": 11.61138888867572,
-    "lat": 51.131576,
-    "lon": -3.00164,
-    "pcon20nm": "Bridgwater and West Somerset"
-  },
-  {
-    "id": 683,
+    "id": 682,
     "bathing": "SHANKLIN, VENTNOR",
-    "total_spill_hours": 11.648333333199844,
+    "total_spill_hours": 11.65,
     "lat": 50.613822,
     "lon": -1.176781,
     "pcon20nm": "Isle of Wight"
@@ -2536,28 +2528,28 @@
     "pcon20nm": "East Devon"
   },
   {
-    "id": 585,
+    "id": 584,
     "bathing": "HASTINGS PELHAM BEACH, ST LEONARDS",
-    "total_spill_hours": 11.87305555556668,
+    "total_spill_hours": 11.87,
     "lat": 50.856488,
     "lon": 0.599429,
     "pcon20nm": "Hastings and Rye"
   },
   {
-    "id": 714,
-    "bathing": "Jacksons Bay Barry",
-    "total_spill_hours": 12.0,
-    "lat": 51.415184,
-    "lon": -3.261295,
-    "pcon20nm": "Vale of Glamorgan"
-  },
-  {
-    "id": 738,
+    "id": 737,
     "bathing": "Colne",
     "total_spill_hours": 12.0,
     "lat": 51.809569,
     "lon": 1.017223,
     "pcon20nm": "Harwich and North Essex"
+  },
+  {
+    "id": 713,
+    "bathing": "Jacksons Bay Barry",
+    "total_spill_hours": 12.0,
+    "lat": 51.415184,
+    "lon": -3.261295,
+    "pcon20nm": "Vale of Glamorgan"
   },
   {
     "id": 218,
@@ -2568,7 +2560,7 @@
     "pcon20nm": "Wyre and Preston North"
   },
   {
-    "id": 741,
+    "id": 740,
     "bathing": "Colne",
     "total_spill_hours": 12.27,
     "lat": 51.809558,
@@ -2584,12 +2576,28 @@
     "pcon20nm": "Lancaster and Fleetwood"
   },
   {
-    "id": 625,
+    "id": 624,
     "bathing": "TANKERTON, WEST BEACH WHITSTABLE",
-    "total_spill_hours": 12.558333333756309,
+    "total_spill_hours": 12.56,
     "lat": 51.366157,
     "lon": 1.037828,
     "pcon20nm": "Canterbury"
+  },
+  {
+    "id": 738,
+    "bathing": "Colne",
+    "total_spill_hours": 13.0,
+    "lat": 51.813441,
+    "lon": 1.020529,
+    "pcon20nm": "Harwich and North Essex"
+  },
+  {
+    "id": 944,
+    "bathing": "Prestatyn",
+    "total_spill_hours": 13.0,
+    "lat": 53.332091,
+    "lon": -3.400981,
+    "pcon20nm": "Vale of Clwyd"
   },
   {
     "id": 330,
@@ -2598,22 +2606,6 @@
     "lat": 51.068652,
     "lon": -4.176968,
     "pcon20nm": "North Devon"
-  },
-  {
-    "id": 739,
-    "bathing": "Colne",
-    "total_spill_hours": 13.0,
-    "lat": 51.813441,
-    "lon": 1.020529,
-    "pcon20nm": "Harwich and North Essex"
-  },
-  {
-    "id": 945,
-    "bathing": "Prestatyn",
-    "total_spill_hours": 13.0,
-    "lat": 53.332091,
-    "lon": -3.400981,
-    "pcon20nm": "Vale of Clwyd"
   },
   {
     "id": 428,
@@ -2626,7 +2618,7 @@
   {
     "id": 381,
     "bathing": "Tynemouth Longsands South",
-    "total_spill_hours": 13.221388888719957,
+    "total_spill_hours": 13.22,
     "lat": 55.02254,
     "lon": -1.421264,
     "pcon20nm": "Tynemouth"
@@ -2640,23 +2632,23 @@
     "pcon20nm": "St Ives"
   },
   {
-    "id": 956,
-    "bathing": "Bridlington South Bay",
-    "total_spill_hours": 13.5999999999999,
-    "lat": 54.082984,
-    "lon": -0.201337,
-    "pcon20nm": "East Yorkshire"
-  },
-  {
     "id": 407,
     "bathing": "Seaton Carew (North)",
-    "total_spill_hours": 13.60000000015134,
+    "total_spill_hours": 13.6,
     "lat": 54.660397,
     "lon": -1.199116,
     "pcon20nm": "Hartlepool"
   },
   {
-    "id": 890,
+    "id": 955,
+    "bathing": "Bridlington South Bay",
+    "total_spill_hours": 13.6,
+    "lat": 54.082984,
+    "lon": -0.201337,
+    "pcon20nm": "East Yorkshire"
+  },
+  {
+    "id": 889,
     "bathing": "Pwllheli",
     "total_spill_hours": 13.75,
     "lat": 52.88927,
@@ -2674,7 +2666,7 @@
   {
     "id": 255,
     "bathing": "BURNHAM JETTY NORTH",
-    "total_spill_hours": 13.7883333333333,
+    "total_spill_hours": 13.8,
     "lat": 51.221081,
     "lon": -2.98726,
     "pcon20nm": "Wells"
@@ -2682,7 +2674,7 @@
   {
     "id": 249,
     "bathing": "MINEHEAD TERMINUS",
-    "total_spill_hours": 13.9166666666667,
+    "total_spill_hours": 13.9,
     "lat": 51.209676,
     "lon": -3.473482,
     "pcon20nm": "Bridgwater and West Somerset"
@@ -2696,7 +2688,7 @@
     "pcon20nm": "Copeland"
   },
   {
-    "id": 550,
+    "id": 549,
     "bathing": "LULWORTH COVE",
     "total_spill_hours": 14.0,
     "lat": 50.619067,
@@ -2704,7 +2696,7 @@
     "pcon20nm": "South Dorset"
   },
   {
-    "id": 841,
+    "id": 840,
     "bathing": "Swansea Bay",
     "total_spill_hours": 14.25,
     "lat": 51.649446,
@@ -2712,7 +2704,7 @@
     "pcon20nm": "Swansea West"
   },
   {
-    "id": 919,
+    "id": 918,
     "bathing": "Penmaenmawr",
     "total_spill_hours": 14.5,
     "lat": 53.270791,
@@ -2728,15 +2720,15 @@
     "pcon20nm": "Southport"
   },
   {
-    "id": 610,
+    "id": 609,
     "bathing": "RYDE, SEAGROVE",
-    "total_spill_hours": 14.529166666790843,
+    "total_spill_hours": 14.53,
     "lat": 50.72597,
     "lon": -1.152573,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 778,
+    "id": 777,
     "bathing": "Aberystwyth S",
     "total_spill_hours": 14.75,
     "lat": 52.411167,
@@ -2744,7 +2736,7 @@
     "pcon20nm": "Ceredigion"
   },
   {
-    "id": 848,
+    "id": 847,
     "bathing": "Dale",
     "total_spill_hours": 15.0,
     "lat": 51.706123,
@@ -2752,23 +2744,23 @@
     "pcon20nm": "Preseli Pembrokeshire"
   },
   {
-    "id": 964,
-    "bathing": "Bridlington North Bay",
-    "total_spill_hours": 15.1833333333333,
-    "lat": 54.088386,
-    "lon": -0.185707,
-    "pcon20nm": "East Yorkshire"
-  },
-  {
-    "id": 593,
+    "id": 592,
     "bathing": "COLWELL BAY, TOTLAND BAY",
-    "total_spill_hours": 15.190000000060536,
+    "total_spill_hours": 15.19,
     "lat": 50.689557,
     "lon": -1.538294,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 877,
+    "id": 963,
+    "bathing": "Bridlington North Bay",
+    "total_spill_hours": 15.2,
+    "lat": 54.088386,
+    "lon": -0.185707,
+    "pcon20nm": "East Yorkshire"
+  },
+  {
+    "id": 876,
     "bathing": "Penmaenmawr",
     "total_spill_hours": 15.25,
     "lat": 53.282058,
@@ -2776,9 +2768,9 @@
     "pcon20nm": "Aberconwy"
   },
   {
-    "id": 584,
+    "id": 583,
     "bathing": "HASTINGS PELHAM BEACH, ST LEONARDS",
-    "total_spill_hours": 15.327500000072177,
+    "total_spill_hours": 15.33,
     "lat": 50.851004,
     "lon": 0.562751,
     "pcon20nm": "Hastings and Rye"
@@ -2832,7 +2824,7 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 909,
+    "id": 908,
     "bathing": "Harlech",
     "total_spill_hours": 16.25,
     "lat": 52.86185,
@@ -2840,9 +2832,9 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 654,
+    "id": 653,
     "bathing": "HASTINGS PELHAM BEACH, ST LEONARDS",
-    "total_spill_hours": 16.254999999480788,
+    "total_spill_hours": 16.25,
     "lat": 50.854183,
     "lon": 0.582108,
     "pcon20nm": "Hastings and Rye"
@@ -2856,7 +2848,7 @@
     "pcon20nm": "Berwick-upon-Tweed"
   },
   {
-    "id": 695,
+    "id": 694,
     "bathing": "Hunstanton Main Beach",
     "total_spill_hours": 16.33,
     "lat": 52.932953,
@@ -2880,39 +2872,31 @@
     "pcon20nm": "West Dorset"
   },
   {
-    "id": 626,
+    "id": 625,
     "bathing": "TANKERTON, WEST BEACH WHITSTABLE",
-    "total_spill_hours": 16.6725000005099,
+    "total_spill_hours": 16.67,
     "lat": 51.366157,
     "lon": 1.037828,
     "pcon20nm": "Canterbury"
   },
   {
-    "id": 658,
+    "id": 657,
     "bathing": "BOTANY BAY BROADSTAIRS, BROADSTAIRS STONE BAY, JOSS BAY BROADSTAIRS, MARGATE FULSAM ROCK, MARGATE THE BAY, WALPOLE BAY MARGATE",
-    "total_spill_hours": 16.77777777792653,
+    "total_spill_hours": 16.78,
     "lat": 51.393407,
     "lon": 1.425815,
     "pcon20nm": "South Thanet"
   },
   {
-    "id": 571,
+    "id": 570,
     "bathing": "RAMSGATE SANDS, RAMSGATE WESTERN UNDERCLIFFE",
-    "total_spill_hours": 16.899999999906868,
+    "total_spill_hours": 16.9,
     "lat": 51.323179,
     "lon": 1.41268,
     "pcon20nm": "South Thanet"
   },
   {
-    "id": 869,
-    "bathing": "Swansea Bay",
-    "total_spill_hours": 17.0,
-    "lat": 51.633138,
-    "lon": -3.984361,
-    "pcon20nm": "Swansea West"
-  },
-  {
-    "id": 706,
+    "id": 705,
     "bathing": "Jacksons Bay Barry",
     "total_spill_hours": 17.0,
     "lat": 51.453678,
@@ -2920,23 +2904,23 @@
     "pcon20nm": "Cardiff South and Penarth"
   },
   {
-    "id": 557,
+    "id": 868,
+    "bathing": "Swansea Bay",
+    "total_spill_hours": 17.0,
+    "lat": 51.633138,
+    "lon": -3.984361,
+    "pcon20nm": "Swansea West"
+  },
+  {
+    "id": 556,
     "bathing": "COWES, GURNARD",
-    "total_spill_hours": 17.234999999811407,
+    "total_spill_hours": 17.23,
     "lat": 50.763441,
     "lon": -1.29695,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 715,
-    "bathing": "Jacksons Bay Barry",
-    "total_spill_hours": 17.25,
-    "lat": 51.415613,
-    "lon": -3.258186,
-    "pcon20nm": "Vale of Glamorgan"
-  },
-  {
-    "id": 837,
+    "id": 836,
     "bathing": "Swansea Bay",
     "total_spill_hours": 17.25,
     "lat": 51.668908,
@@ -2944,9 +2928,17 @@
     "pcon20nm": "Gower"
   },
   {
-    "id": 1004,
+    "id": 714,
+    "bathing": "Jacksons Bay Barry",
+    "total_spill_hours": 17.25,
+    "lat": 51.415613,
+    "lon": -3.258186,
+    "pcon20nm": "Vale of Glamorgan"
+  },
+  {
+    "id": 1003,
     "bathing": "Indirectly to Flamborough South",
-    "total_spill_hours": 17.45,
+    "total_spill_hours": 17.4,
     "lat": 54.110818,
     "lon": -0.127374,
     "pcon20nm": "East Yorkshire"
@@ -2960,7 +2952,7 @@
     "pcon20nm": "South Ribble"
   },
   {
-    "id": 819,
+    "id": 818,
     "bathing": "Broadhaven",
     "total_spill_hours": 18.75,
     "lat": 51.780895,
@@ -2968,7 +2960,7 @@
     "pcon20nm": "Preseli Pembrokeshire"
   },
   {
-    "id": 786,
+    "id": 785,
     "bathing": "Tenby S",
     "total_spill_hours": 19.0,
     "lat": 51.660842,
@@ -2976,9 +2968,9 @@
     "pcon20nm": "Carmarthen West and South Pembrokeshire"
   },
   {
-    "id": 682,
+    "id": 681,
     "bathing": "BEMBRIDGE, SEAGROVE, ST HELENS",
-    "total_spill_hours": 19.04305555560859,
+    "total_spill_hours": 19.04,
     "lat": 50.694075,
     "lon": -1.108409,
     "pcon20nm": "Isle of Wight"
@@ -2986,7 +2978,7 @@
   {
     "id": 368,
     "bathing": "Warkworth & Amble Links",
-    "total_spill_hours": 19.133333333333333,
+    "total_spill_hours": 19.13,
     "lat": 55.34742,
     "lon": -1.613651,
     "pcon20nm": "Berwick-upon-Tweed"
@@ -3000,17 +2992,17 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 653,
+    "id": 652,
     "bathing": "LEYSDOWN",
-    "total_spill_hours": 19.299999999871943,
+    "total_spill_hours": 19.3,
     "lat": 51.404612,
     "lon": 0.908365,
     "pcon20nm": "Sittingbourne and Sheppey"
   },
   {
-    "id": 656,
+    "id": 655,
     "bathing": "CHRISTCHURCH BAY, HIGHCLIFFE, MILFORD-ON-SEA",
-    "total_spill_hours": 19.334444444510154,
+    "total_spill_hours": 19.33,
     "lat": 50.737072,
     "lon": -1.651338,
     "pcon20nm": "New Forest West"
@@ -3024,7 +3016,7 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 751,
+    "id": 750,
     "bathing": "Lowestoft North",
     "total_spill_hours": 19.8,
     "lat": 52.474428,
@@ -3082,7 +3074,7 @@
   {
     "id": 397,
     "bathing": "Marske",
-    "total_spill_hours": 20.333333333333332,
+    "total_spill_hours": 20.33,
     "lat": 54.585551,
     "lon": -1.037987,
     "pcon20nm": "Redcar"
@@ -3090,7 +3082,7 @@
   {
     "id": 412,
     "bathing": "Redcar Coatham",
-    "total_spill_hours": 20.53333333333333,
+    "total_spill_hours": 20.53,
     "lat": 54.620375,
     "lon": -1.070154,
     "pcon20nm": "Redcar"
@@ -3112,15 +3104,7 @@
     "pcon20nm": "South Ribble"
   },
   {
-    "id": 673,
-    "bathing": "STOKES BAY, SOUTHSEA",
-    "total_spill_hours": 20.72694444435183,
-    "lat": 50.802282,
-    "lon": -1.135157,
-    "pcon20nm": "Gosport"
-  },
-  {
-    "id": 733,
+    "id": 732,
     "bathing": "Clacton Martello Tower",
     "total_spill_hours": 20.73,
     "lat": 51.78201,
@@ -3128,39 +3112,47 @@
     "pcon20nm": "Clacton"
   },
   {
+    "id": 672,
+    "bathing": "STOKES BAY, SOUTHSEA",
+    "total_spill_hours": 20.73,
+    "lat": 50.802282,
+    "lon": -1.135157,
+    "pcon20nm": "Gosport"
+  },
+  {
     "id": 240,
     "bathing": "BURNHAM JETTY NORTH",
-    "total_spill_hours": 20.89,
+    "total_spill_hours": 20.9,
     "lat": 51.141451,
     "lon": -2.992991,
     "pcon20nm": "Bridgwater and West Somerset"
   },
   {
-    "id": 583,
+    "id": 582,
     "bathing": "BEMBRIDGE, SEAGROVE, ST HELENS",
-    "total_spill_hours": 21.03499999997439,
+    "total_spill_hours": 21.03,
     "lat": 50.7012,
     "lon": -1.099352,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 1000,
+    "id": 999,
     "bathing": "BIRLING GAP",
-    "total_spill_hours": 21.116111110837664,
+    "total_spill_hours": 21.12,
     "lat": 50.745503,
     "lon": 0.206416,
     "pcon20nm": "Lewes"
   },
   {
-    "id": 646,
+    "id": 645,
     "bathing": "HYTHE, SANDGATE",
-    "total_spill_hours": 21.39666666719131,
+    "total_spill_hours": 21.4,
     "lat": 51.064392,
     "lon": 1.075407,
     "pcon20nm": "Folkestone and Hythe"
   },
   {
-    "id": 926,
+    "id": 925,
     "bathing": "Sandy Cove",
     "total_spill_hours": 21.5,
     "lat": 53.302638,
@@ -3168,7 +3160,7 @@
     "pcon20nm": "Clwyd West"
   },
   {
-    "id": 861,
+    "id": 860,
     "bathing": "Aberafan",
     "total_spill_hours": 21.5,
     "lat": 51.65709,
@@ -3192,7 +3184,7 @@
     "pcon20nm": "Morecambe and Lunesdale"
   },
   {
-    "id": 570,
+    "id": 569,
     "bathing": "COWES, GURNARD",
     "total_spill_hours": 22.0,
     "lat": 50.767107,
@@ -3202,13 +3194,13 @@
   {
     "id": 254,
     "bathing": "CLEVEDON BEACH",
-    "total_spill_hours": 22.3338888888889,
+    "total_spill_hours": 22.3,
     "lat": 51.428339,
     "lon": -2.875494,
     "pcon20nm": "North Somerset"
   },
   {
-    "id": 818,
+    "id": 817,
     "bathing": "Tenby S",
     "total_spill_hours": 22.5,
     "lat": 51.678127,
@@ -3218,23 +3210,23 @@
   {
     "id": 360,
     "bathing": "Beadnell",
-    "total_spill_hours": 22.74194444459863,
+    "total_spill_hours": 22.74,
     "lat": 55.554618,
     "lon": -1.641269,
     "pcon20nm": "Berwick-upon-Tweed"
   },
   {
-    "id": 540,
+    "id": 539,
     "bathing": "POOLE HARBOUR ROCKLEY SANDS**",
-    "total_spill_hours": 22.807916666264646,
+    "total_spill_hours": 22.8,
     "lat": 50.697897,
     "lon": -2.092259,
     "pcon20nm": "Mid Dorset and North Poole"
   },
   {
-    "id": 597,
+    "id": 596,
     "bathing": "BOGNOR REGIS (ALDWICK), BOGNOR REGIS EAST, FELPHAM, MIDDLETON-ON-SEA",
-    "total_spill_hours": 22.835277777572628,
+    "total_spill_hours": 22.84,
     "lat": 50.787899,
     "lon": -0.659875,
     "pcon20nm": "Bognor Regis and Littlehampton"
@@ -3248,7 +3240,7 @@
     "pcon20nm": "South Dorset"
   },
   {
-    "id": 858,
+    "id": 857,
     "bathing": "Aberafan",
     "total_spill_hours": 23.25,
     "lat": 51.66254,
@@ -3256,9 +3248,9 @@
     "pcon20nm": "Neath"
   },
   {
-    "id": 967,
+    "id": 966,
     "bathing": "Newbiggin North & Newbiggin South",
-    "total_spill_hours": 23.366666666666667,
+    "total_spill_hours": 23.37,
     "lat": 55.172248,
     "lon": -1.54925,
     "pcon20nm": "Wansbeck"
@@ -3272,7 +3264,7 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 1006,
+    "id": 1005,
     "bathing": "Rhyl",
     "total_spill_hours": 23.5,
     "lat": 53.291077,
@@ -3280,9 +3272,9 @@
     "pcon20nm": "Vale of Clwyd"
   },
   {
-    "id": 1008,
+    "id": 1007,
     "bathing": "Indirectly via Scalby Beck to Scarborough North Bay",
-    "total_spill_hours": 23.5833333333333,
+    "total_spill_hours": 23.6,
     "lat": 54.29565,
     "lon": -0.448901,
     "pcon20nm": "Scarborough and Whitby"
@@ -3290,21 +3282,21 @@
   {
     "id": 525,
     "bathing": "BOURNEMOUTH PIER",
-    "total_spill_hours": 23.75,
+    "total_spill_hours": 23.8,
     "lat": 50.716392,
     "lon": -1.875999,
     "pcon20nm": "Bournemouth West"
   },
   {
-    "id": 558,
+    "id": 557,
     "bathing": "HERNE BAY, HERNE BAY CENTRAL",
-    "total_spill_hours": 23.966666666558012,
+    "total_spill_hours": 23.97,
     "lat": 51.359923,
     "lon": 1.124334,
     "pcon20nm": "North Thanet"
   },
   {
-    "id": 987,
+    "id": 986,
     "bathing": "CRACKINGTON HAVEN BEACH",
     "total_spill_hours": 23.98,
     "lat": 50.734144,
@@ -3312,7 +3304,7 @@
     "pcon20nm": "North Cornwall"
   },
   {
-    "id": 925,
+    "id": 924,
     "bathing": "Sandy Cove",
     "total_spill_hours": 24.25,
     "lat": 53.303482,
@@ -3322,13 +3314,13 @@
   {
     "id": 245,
     "bathing": "BURNHAM JETTY NORTH",
-    "total_spill_hours": 24.33333333354676,
+    "total_spill_hours": 24.3,
     "lat": 51.205729,
     "lon": -3.01599,
     "pcon20nm": "Bridgwater and West Somerset"
   },
   {
-    "id": 882,
+    "id": 881,
     "bathing": "Barmouth",
     "total_spill_hours": 24.75,
     "lat": 52.719411,
@@ -3336,7 +3328,7 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 777,
+    "id": 776,
     "bathing": "New Quay North",
     "total_spill_hours": 25.25,
     "lat": 52.216672,
@@ -3346,7 +3338,7 @@
   {
     "id": 359,
     "bathing": "Bamburgh Castle",
-    "total_spill_hours": 25.392222221998964,
+    "total_spill_hours": 25.39,
     "lat": 55.604273,
     "lon": -1.695891,
     "pcon20nm": "Berwick-upon-Tweed"
@@ -3360,7 +3352,7 @@
     "pcon20nm": "St Austell and Newquay"
   },
   {
-    "id": 881,
+    "id": 880,
     "bathing": "Barmouth",
     "total_spill_hours": 25.75,
     "lat": 52.727016,
@@ -3392,7 +3384,7 @@
     "pcon20nm": "St Austell and Newquay"
   },
   {
-    "id": 539,
+    "id": 538,
     "bathing": "CHRISTCHURCH AVON BEACH/CHRISTCHURCH FRIAR'S CLIFF",
     "total_spill_hours": 26.3,
     "lat": 50.732103,
@@ -3400,17 +3392,17 @@
     "pcon20nm": "Bournemouth East"
   },
   {
-    "id": 637,
+    "id": 636,
     "bathing": "LITTLEHAMPTON",
-    "total_spill_hours": 26.466666666674428,
+    "total_spill_hours": 26.47,
     "lat": 50.813339,
     "lon": -0.553536,
     "pcon20nm": "Bognor Regis and Littlehampton"
   },
   {
-    "id": 624,
+    "id": 623,
     "bathing": "TANKERTON, WEST BEACH WHITSTABLE",
-    "total_spill_hours": 26.571666666772217,
+    "total_spill_hours": 26.57,
     "lat": 51.366157,
     "lon": 1.037828,
     "pcon20nm": "Canterbury"
@@ -3418,15 +3410,15 @@
   {
     "id": 257,
     "bathing": "BURNHAM JETTY NORTH",
-    "total_spill_hours": 26.72388888389105,
+    "total_spill_hours": 26.7,
     "lat": 51.137414,
     "lon": -3.002481,
     "pcon20nm": "Bridgwater and West Somerset"
   },
   {
-    "id": 552,
+    "id": 551,
     "bathing": "POOLE HARBOUR ROCKLEY SANDS",
-    "total_spill_hours": 26.75,
+    "total_spill_hours": 26.8,
     "lat": 50.725042,
     "lon": -2.032669,
     "pcon20nm": "Poole"
@@ -3440,7 +3432,7 @@
     "pcon20nm": "Lancaster and Fleetwood"
   },
   {
-    "id": 754,
+    "id": 753,
     "bathing": "Cleethorpes",
     "total_spill_hours": 26.97,
     "lat": 53.579876,
@@ -3458,7 +3450,7 @@
   {
     "id": 250,
     "bathing": "BLUE ANCHOR WEST",
-    "total_spill_hours": 27.25,
+    "total_spill_hours": 27.2,
     "lat": 51.177893,
     "lon": -3.342135,
     "pcon20nm": "Bridgwater and West Somerset"
@@ -3488,23 +3480,23 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 581,
+    "id": 580,
     "bathing": "COLWELL BAY",
-    "total_spill_hours": 27.528055555187166,
+    "total_spill_hours": 27.53,
     "lat": 50.706214,
     "lon": -1.499611,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 662,
+    "id": 661,
     "bathing": "LEYSDOWN",
-    "total_spill_hours": 27.966388888657093,
+    "total_spill_hours": 27.97,
     "lat": 51.399452,
     "lon": 0.898835,
     "pcon20nm": "Sittingbourne and Sheppey"
   },
   {
-    "id": 842,
+    "id": 841,
     "bathing": "Poppit West",
     "total_spill_hours": 28.0,
     "lat": 52.084089,
@@ -3512,15 +3504,15 @@
     "pcon20nm": "Ceredigion"
   },
   {
-    "id": 651,
+    "id": 650,
     "bathing": "SANDOWN, SHANKLIN, YAVERLAND",
-    "total_spill_hours": 28.220833333209157,
+    "total_spill_hours": 28.22,
     "lat": 50.634007,
     "lon": -1.169924,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 761,
+    "id": 760,
     "bathing": "Newgale",
     "total_spill_hours": 28.25,
     "lat": 51.866676,
@@ -3536,15 +3528,15 @@
     "pcon20nm": "Truro and Falmouth"
   },
   {
-    "id": 668,
+    "id": 667,
     "bathing": "SOUTHSEA, STOKES BAY",
-    "total_spill_hours": 28.757777778315358,
+    "total_spill_hours": 28.76,
     "lat": 50.81973,
     "lon": -1.088271,
     "pcon20nm": "Portsmouth North"
   },
   {
-    "id": 989,
+    "id": 988,
     "bathing": "SEATON BEACH",
     "total_spill_hours": 29.26,
     "lat": 50.706969,
@@ -3552,9 +3544,9 @@
     "pcon20nm": "Tiverton and Honiton"
   },
   {
-    "id": 961,
+    "id": 960,
     "bathing": "SHEERNESS",
-    "total_spill_hours": 29.404444444400724,
+    "total_spill_hours": 29.4,
     "lat": 51.452963,
     "lon": 0.722717,
     "pcon20nm": "Rochester and Strood"
@@ -3562,21 +3554,21 @@
   {
     "id": 238,
     "bathing": "BURNHAM JETTY NORTH",
-    "total_spill_hours": 30.0805555555556,
+    "total_spill_hours": 30.1,
     "lat": 51.131042,
     "lon": -3.001057,
     "pcon20nm": "Bridgwater and West Somerset"
   },
   {
-    "id": 603,
+    "id": 602,
     "bathing": "BEXHILL",
-    "total_spill_hours": 30.296111111005303,
+    "total_spill_hours": 30.3,
     "lat": 50.845788,
     "lon": 0.466714,
     "pcon20nm": "Bexhill and Battle"
   },
   {
-    "id": 822,
+    "id": 821,
     "bathing": "Porth Eynon",
     "total_spill_hours": 30.5,
     "lat": 51.543347,
@@ -3592,17 +3584,17 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 639,
+    "id": 638,
     "bathing": "SOUTHSEA, STOKES BAY",
-    "total_spill_hours": 30.57444444479188,
+    "total_spill_hours": 30.57,
     "lat": 50.812513,
     "lon": -1.085288,
     "pcon20nm": "Portsmouth North"
   },
   {
-    "id": 619,
+    "id": 618,
     "bathing": "RYDE, SEAGROVE, ST HELENS",
-    "total_spill_hours": 30.895555555354804,
+    "total_spill_hours": 30.9,
     "lat": 50.724608,
     "lon": -1.126388,
     "pcon20nm": "Isle of Wight"
@@ -3610,7 +3602,7 @@
   {
     "id": 396,
     "bathing": "Marske",
-    "total_spill_hours": 30.999999999999993,
+    "total_spill_hours": 31.0,
     "lat": 54.595701,
     "lon": -1.008356,
     "pcon20nm": "Redcar"
@@ -3634,7 +3626,7 @@
   {
     "id": 383,
     "bathing": "Whitley Bay",
-    "total_spill_hours": 31.212222222355194,
+    "total_spill_hours": 31.21,
     "lat": 55.045058,
     "lon": -1.442208,
     "pcon20nm": "Tynemouth"
@@ -3648,7 +3640,7 @@
     "pcon20nm": "Wyre and Preston North"
   },
   {
-    "id": 721,
+    "id": 720,
     "bathing": "Jacksons Bay Barry",
     "total_spill_hours": 31.5,
     "lat": 51.442589,
@@ -3672,7 +3664,7 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 938,
+    "id": 937,
     "bathing": "Prestatyn",
     "total_spill_hours": 32.5,
     "lat": 53.339869,
@@ -3680,9 +3672,9 @@
     "pcon20nm": "Vale of Clwyd"
   },
   {
-    "id": 642,
+    "id": 641,
     "bathing": "SHEERNESS",
-    "total_spill_hours": 32.57361111114733,
+    "total_spill_hours": 32.57,
     "lat": 51.418557,
     "lon": 0.763249,
     "pcon20nm": "Sittingbourne and Sheppey"
@@ -3690,13 +3682,13 @@
   {
     "id": 365,
     "bathing": "Warkworth & Amble Links",
-    "total_spill_hours": 33.16666666666664,
+    "total_spill_hours": 33.17,
     "lat": 55.349915,
     "lon": -1.609684,
     "pcon20nm": "Berwick-upon-Tweed"
   },
   {
-    "id": 732,
+    "id": 731,
     "bathing": "Clacton",
     "total_spill_hours": 33.33,
     "lat": 51.796557,
@@ -3728,7 +3720,7 @@
     "pcon20nm": "South East Cornwall"
   },
   {
-    "id": 916,
+    "id": 915,
     "bathing": "Penmaenmawr",
     "total_spill_hours": 34.25,
     "lat": 53.284769,
@@ -3738,13 +3730,13 @@
   {
     "id": 353,
     "bathing": "Spittal",
-    "total_spill_hours": 34.39999999999999,
+    "total_spill_hours": 34.4,
     "lat": 55.761466,
     "lon": -2.009865,
     "pcon20nm": "Berwick-upon-Tweed"
   },
   {
-    "id": 887,
+    "id": 886,
     "bathing": "Penmaenmawr",
     "total_spill_hours": 34.5,
     "lat": 53.276268,
@@ -3760,15 +3752,15 @@
     "pcon20nm": "Morecambe and Lunesdale"
   },
   {
-    "id": 592,
+    "id": 591,
     "bathing": "COLWELL BAY, TOTLAND BAY",
-    "total_spill_hours": 34.88055555563187,
+    "total_spill_hours": 34.88,
     "lat": 50.696811,
     "lon": -1.530719,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 969,
+    "id": 968,
     "bathing": "Morecambe South",
     "total_spill_hours": 35.1,
     "lat": 54.008756,
@@ -3794,7 +3786,7 @@
   {
     "id": 363,
     "bathing": "Seahouses North",
-    "total_spill_hours": 35.73333333333333,
+    "total_spill_hours": 35.73,
     "lat": 55.585771,
     "lon": -1.664148,
     "pcon20nm": "Berwick-upon-Tweed"
@@ -3808,20 +3800,20 @@
     "pcon20nm": "Torbay"
   },
   {
-    "id": 782,
-    "bathing": "Aberystwyth S",
-    "total_spill_hours": 36.5,
-    "lat": 52.409185,
-    "lon": -4.066575,
-    "pcon20nm": "Ceredigion"
-  },
-  {
-    "id": 795,
+    "id": 794,
     "bathing": "Whitesand",
     "total_spill_hours": 36.5,
     "lat": 51.881183,
     "lon": -5.271604,
     "pcon20nm": "Preseli Pembrokeshire"
+  },
+  {
+    "id": 781,
+    "bathing": "Aberystwyth S",
+    "total_spill_hours": 36.5,
+    "lat": 52.409185,
+    "lon": -4.066575,
+    "pcon20nm": "Ceredigion"
   },
   {
     "id": 120,
@@ -3840,28 +3832,28 @@
     "pcon20nm": "Wirral South"
   },
   {
-    "id": 553,
+    "id": 552,
     "bathing": "WEST BAY (WEST)",
-    "total_spill_hours": 36.9166666666667,
+    "total_spill_hours": 36.9,
     "lat": 50.711621,
     "lon": -2.763064,
     "pcon20nm": "West Dorset"
   },
   {
-    "id": 607,
-    "bathing": "BEACHLANDS CENTRAL, BEACHLANDS WEST, EASTNEY, SOUTHSEA EAST",
-    "total_spill_hours": 36.99999999941792,
-    "lat": 50.78976,
-    "lon": -1.02955,
-    "pcon20nm": "Portsmouth South"
-  },
-  {
-    "id": 984,
+    "id": 983,
     "bathing": "Indirectly via Burniston Beck to Scarborough North Bay",
     "total_spill_hours": 37.0,
     "lat": 54.318638,
     "lon": -0.440196,
     "pcon20nm": "Scarborough and Whitby"
+  },
+  {
+    "id": 606,
+    "bathing": "BEACHLANDS CENTRAL, BEACHLANDS WEST, EASTNEY, SOUTHSEA EAST",
+    "total_spill_hours": 37.0,
+    "lat": 50.78976,
+    "lon": -1.02955,
+    "pcon20nm": "Portsmouth South"
   },
   {
     "id": 223,
@@ -3872,15 +3864,15 @@
     "pcon20nm": "St Austell and Newquay"
   },
   {
-    "id": 640,
+    "id": 639,
     "bathing": "SOUTHSEA, STOKES BAY",
-    "total_spill_hours": 37.47166666632984,
+    "total_spill_hours": 37.47,
     "lat": 50.812064,
     "lon": -1.085439,
     "pcon20nm": "Portsmouth North"
   },
   {
-    "id": 855,
+    "id": 854,
     "bathing": "Swansea Bay",
     "total_spill_hours": 37.5,
     "lat": 51.672678,
@@ -3888,7 +3880,7 @@
     "pcon20nm": "Gower"
   },
   {
-    "id": 749,
+    "id": 748,
     "bathing": "Lowestoft North",
     "total_spill_hours": 37.53,
     "lat": 52.472,
@@ -3896,9 +3888,9 @@
     "pcon20nm": "Waveney"
   },
   {
-    "id": 605,
+    "id": 604,
     "bathing": "BEXHILL, NORMANS BAY",
-    "total_spill_hours": 37.56083333323477,
+    "total_spill_hours": 37.56,
     "lat": 50.833295,
     "lon": 0.440633,
     "pcon20nm": "Bexhill and Battle"
@@ -3912,7 +3904,7 @@
     "pcon20nm": "Lancaster and Fleetwood"
   },
   {
-    "id": 981,
+    "id": 980,
     "bathing": "SALCOMBE SOUTH SANDS",
     "total_spill_hours": 38.02,
     "lat": 50.241224,
@@ -3930,21 +3922,13 @@
   {
     "id": 364,
     "bathing": "Warkworth & Amble Links",
-    "total_spill_hours": 38.17388888908317,
+    "total_spill_hours": 38.17,
     "lat": 55.334059,
     "lon": -1.588906,
     "pcon20nm": "Berwick-upon-Tweed"
   },
   {
-    "id": 544,
-    "bathing": "CHRISTCHURCH AVON BEACH/CHRISTCHURCH FRIAR'S CLIFF",
-    "total_spill_hours": 38.354583331150934,
-    "lat": 50.768149,
-    "lon": -1.879224,
-    "pcon20nm": "Bournemouth West"
-  },
-  {
-    "id": 737,
+    "id": 736,
     "bathing": "North West Norfolk",
     "total_spill_hours": 38.4,
     "lat": 52.95519,
@@ -3952,9 +3936,17 @@
     "pcon20nm": "North West Norfolk"
   },
   {
-    "id": 588,
+    "id": 543,
+    "bathing": "CHRISTCHURCH AVON BEACH/CHRISTCHURCH FRIAR'S CLIFF",
+    "total_spill_hours": 38.4,
+    "lat": 50.768149,
+    "lon": -1.879224,
+    "pcon20nm": "Bournemouth West"
+  },
+  {
+    "id": 587,
     "bathing": "BEMBRIDGE, SEAGROVE, ST HELENS",
-    "total_spill_hours": 38.533611110877246,
+    "total_spill_hours": 38.53,
     "lat": 50.694031,
     "lon": -1.090994,
     "pcon20nm": "Isle of Wight"
@@ -3962,7 +3954,7 @@
   {
     "id": 236,
     "bathing": "POOLE SHORE ROAD BEACH",
-    "total_spill_hours": 38.61,
+    "total_spill_hours": 38.6,
     "lat": 50.695934,
     "lon": -1.930606,
     "pcon20nm": "Poole"
@@ -3978,7 +3970,7 @@
   {
     "id": 258,
     "bathing": "BURNHAM JETTY NORTH",
-    "total_spill_hours": 40.161388887965586,
+    "total_spill_hours": 40.2,
     "lat": 51.117251,
     "lon": -2.994187,
     "pcon20nm": "Bridgwater and West Somerset"
@@ -3992,7 +3984,7 @@
     "pcon20nm": "St Ives"
   },
   {
-    "id": 723,
+    "id": 722,
     "bathing": "Jacksons Bay Barry",
     "total_spill_hours": 40.5,
     "lat": 51.445114,
@@ -4024,7 +4016,7 @@
     "pcon20nm": "Torbay"
   },
   {
-    "id": 620,
+    "id": 619,
     "bathing": "RYDE, SEAGROVE, ST HELENS",
     "total_spill_hours": 42.5,
     "lat": 50.724608,
@@ -4032,9 +4024,9 @@
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 604,
+    "id": 603,
     "bathing": "BEXHILL, NORMANS BAY",
-    "total_spill_hours": 43.01305555575527,
+    "total_spill_hours": 43.01,
     "lat": 50.831504,
     "lon": 0.427331,
     "pcon20nm": "Bexhill and Battle"
@@ -4064,15 +4056,15 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 678,
+    "id": 677,
     "bathing": "STOKES BAY, SOUTHSEA",
-    "total_spill_hours": 43.88611111108912,
+    "total_spill_hours": 43.89,
     "lat": 50.789813,
     "lon": -1.13936,
     "pcon20nm": "Gosport"
   },
   {
-    "id": 940,
+    "id": 939,
     "bathing": "West Kirby",
     "total_spill_hours": 43.93,
     "lat": 53.346744,
@@ -4096,14 +4088,6 @@
     "pcon20nm": "Wirral South"
   },
   {
-    "id": 531,
-    "bathing": "CHRISTCHURCH AVON BEACH/CHRISTCHURCH FRIAR'S CLIFF",
-    "total_spill_hours": 44.35997221665457,
-    "lat": 50.755249,
-    "lon": -1.813664,
-    "pcon20nm": "Christchurch"
-  },
-  {
     "id": 375,
     "bathing": "Blyth South Beach",
     "total_spill_hours": 44.4,
@@ -4112,17 +4096,25 @@
     "pcon20nm": "Blyth Valley"
   },
   {
+    "id": 530,
+    "bathing": "CHRISTCHURCH AVON BEACH/CHRISTCHURCH FRIAR'S CLIFF",
+    "total_spill_hours": 44.4,
+    "lat": 50.755249,
+    "lon": -1.813664,
+    "pcon20nm": "Christchurch"
+  },
+  {
     "id": 398,
     "bathing": "Marske",
-    "total_spill_hours": 44.466666666666654,
+    "total_spill_hours": 44.47,
     "lat": 54.595897,
     "lon": -1.025919,
     "pcon20nm": "Redcar"
   },
   {
-    "id": 614,
+    "id": 613,
     "bathing": "RYDE, SEAGROVE, ST HELENS",
-    "total_spill_hours": 44.50861111097038,
+    "total_spill_hours": 44.51,
     "lat": 50.721823,
     "lon": -1.114823,
     "pcon20nm": "Isle of Wight"
@@ -4136,7 +4128,7 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 796,
+    "id": 795,
     "bathing": "Whitesand",
     "total_spill_hours": 46.0,
     "lat": 51.88223,
@@ -4168,7 +4160,7 @@
     "pcon20nm": "Torbay"
   },
   {
-    "id": 805,
+    "id": 804,
     "bathing": "Swansea Bay",
     "total_spill_hours": 46.75,
     "lat": 51.611148,
@@ -4192,7 +4184,7 @@
     "pcon20nm": "Heywood and Middleton"
   },
   {
-    "id": 807,
+    "id": 806,
     "bathing": "Swansea Bay",
     "total_spill_hours": 47.75,
     "lat": 51.65617,
@@ -4200,7 +4192,7 @@
     "pcon20nm": "Swansea East"
   },
   {
-    "id": 924,
+    "id": 923,
     "bathing": "Morfa Nefyn",
     "total_spill_hours": 48.25,
     "lat": 52.928609,
@@ -4208,9 +4200,9 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 689,
+    "id": 688,
     "bathing": "COWES, GURNARD",
-    "total_spill_hours": 49.443611110851634,
+    "total_spill_hours": 49.44,
     "lat": 50.760697,
     "lon": -1.289335,
     "pcon20nm": "Isle of Wight"
@@ -4240,7 +4232,7 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 542,
+    "id": 541,
     "bathing": "POOLE HARBOUR HAMWORTH PARK /POOLE HARBOUR ROCKLEY SANDS / POOLE HARBOUR LAKE",
     "total_spill_hours": 50.5,
     "lat": 50.741998,
@@ -4248,31 +4240,31 @@
     "pcon20nm": "Poole"
   },
   {
-    "id": 523,
-    "bathing": "BOURNEMOUTH HENGISTBURY WEST",
-    "total_spill_hours": 50.75,
-    "lat": 50.719484,
-    "lon": -1.777542,
-    "pcon20nm": "Bournemouth East"
-  },
-  {
-    "id": 565,
+    "id": 564,
     "bathing": "SHEERNESS",
-    "total_spill_hours": 50.77027777873445,
+    "total_spill_hours": 50.77,
     "lat": 51.416265,
     "lon": 0.74211,
     "pcon20nm": "Sittingbourne and Sheppey"
   },
   {
-    "id": 684,
+    "id": 523,
+    "bathing": "BOURNEMOUTH HENGISTBURY WEST",
+    "total_spill_hours": 50.8,
+    "lat": 50.719484,
+    "lon": -1.777542,
+    "pcon20nm": "Bournemouth East"
+  },
+  {
+    "id": 683,
     "bathing": "HERNE BAY, HERNE BAY CENTRAL",
-    "total_spill_hours": 51.016666666720994,
+    "total_spill_hours": 51.02,
     "lat": 51.372636,
     "lon": 1.166731,
     "pcon20nm": "North Thanet"
   },
   {
-    "id": 810,
+    "id": 809,
     "bathing": "Saundersfoot",
     "total_spill_hours": 51.25,
     "lat": 51.711498,
@@ -4290,13 +4282,13 @@
   {
     "id": 339,
     "bathing": "Spittal",
-    "total_spill_hours": 52.69999999999999,
+    "total_spill_hours": 52.7,
     "lat": 55.768762,
     "lon": -2.011349,
     "pcon20nm": "Berwick-upon-Tweed"
   },
   {
-    "id": 770,
+    "id": 769,
     "bathing": "Llanrhysted",
     "total_spill_hours": 53.75,
     "lat": 52.302383,
@@ -4306,7 +4298,7 @@
   {
     "id": 343,
     "bathing": "Spittal",
-    "total_spill_hours": 54.46500000025844,
+    "total_spill_hours": 54.47,
     "lat": 55.765839,
     "lon": -2.027875,
     "pcon20nm": "Berwick-upon-Tweed"
@@ -4314,23 +4306,23 @@
   {
     "id": 345,
     "bathing": "Spittal",
-    "total_spill_hours": 55.26666666666665,
+    "total_spill_hours": 55.27,
     "lat": 55.76167,
     "lon": -2.025306,
     "pcon20nm": "Berwick-upon-Tweed"
   },
   {
-    "id": 560,
+    "id": 559,
     "bathing": "HERNE BAY CENTRAL, TANKERTON",
-    "total_spill_hours": 56.012777778028976,
+    "total_spill_hours": 56.01,
     "lat": 51.372255,
     "lon": 1.066111,
     "pcon20nm": "Canterbury"
   },
   {
-    "id": 622,
+    "id": 621,
     "bathing": "MINSTER LEAS, SHEERNESS",
-    "total_spill_hours": 56.078333333542105,
+    "total_spill_hours": 56.08,
     "lat": 51.428671,
     "lon": 0.780548,
     "pcon20nm": "Sittingbourne and Sheppey"
@@ -4352,7 +4344,7 @@
     "pcon20nm": "South Ribble"
   },
   {
-    "id": 785,
+    "id": 784,
     "bathing": "Lydstep",
     "total_spill_hours": 57.0,
     "lat": 51.650176,
@@ -4368,25 +4360,25 @@
     "pcon20nm": "Plymouth, Sutton and Devonport"
   },
   {
-    "id": 962,
+    "id": 961,
     "bathing": "SHEERNESS",
-    "total_spill_hours": 57.52861111157108,
+    "total_spill_hours": 57.53,
     "lat": 51.43016,
     "lon": 0.744093,
     "pcon20nm": "Sittingbourne and Sheppey"
   },
   {
-    "id": 574,
+    "id": 573,
     "bathing": "HERNE BAY, HERNE BAY CENTRAL",
-    "total_spill_hours": 57.79999999963911,
+    "total_spill_hours": 57.8,
     "lat": 51.379094,
     "lon": 1.144037,
     "pcon20nm": "North Thanet"
   },
   {
-    "id": 957,
+    "id": 956,
     "bathing": "LANCING BEACH GREEN, WORTHING",
-    "total_spill_hours": 57.80055555549916,
+    "total_spill_hours": 57.8,
     "lat": 51.352348,
     "lon": 0.590636,
     "pcon20nm": "Gillingham and Rainham"
@@ -4400,23 +4392,23 @@
     "pcon20nm": "St Austell and Newquay"
   },
   {
-    "id": 582,
+    "id": 581,
     "bathing": "RYDE",
-    "total_spill_hours": 58.03277777839685,
+    "total_spill_hours": 58.03,
     "lat": 50.708416,
     "lon": -1.214356,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 602,
+    "id": 601,
     "bathing": "BEXHILL",
-    "total_spill_hours": 58.70000000030268,
+    "total_spill_hours": 58.7,
     "lat": 50.835819,
     "lon": 0.466047,
     "pcon20nm": "Bexhill and Battle"
   },
   {
-    "id": 896,
+    "id": 895,
     "bathing": "Llanddwyn",
     "total_spill_hours": 59.0,
     "lat": 53.163568,
@@ -4424,7 +4416,7 @@
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
-    "id": 942,
+    "id": 941,
     "bathing": "Rhyl",
     "total_spill_hours": 59.0,
     "lat": 53.295961,
@@ -4432,9 +4424,9 @@
     "pcon20nm": "Vale of Clwyd"
   },
   {
-    "id": 561,
+    "id": 560,
     "bathing": "BEMBRIDGE, SEAGROVE, ST HELENS",
-    "total_spill_hours": 59.15388888929738,
+    "total_spill_hours": 59.15,
     "lat": 50.691164,
     "lon": -1.115826,
     "pcon20nm": "Isle of Wight"
@@ -4464,7 +4456,7 @@
     "pcon20nm": "Tiverton and Honiton"
   },
   {
-    "id": 884,
+    "id": 883,
     "bathing": "Colwyn Bay",
     "total_spill_hours": 60.75,
     "lat": 53.294534,
@@ -4480,9 +4472,9 @@
     "pcon20nm": "St Austell and Newquay"
   },
   {
-    "id": 953,
+    "id": 952,
     "bathing": "Spittal",
-    "total_spill_hours": 61.44111111111112,
+    "total_spill_hours": 61.44,
     "lat": 55.739372,
     "lon": -1.991862,
     "pcon20nm": "Berwick-upon-Tweed"
@@ -4506,10 +4498,18 @@
   {
     "id": 382,
     "bathing": "Marsden",
-    "total_spill_hours": 61.83333333333332,
+    "total_spill_hours": 61.83,
     "lat": 54.979574,
     "lon": -1.382351,
     "pcon20nm": "South Shields"
+  },
+  {
+    "id": 851,
+    "bathing": "Aberafan",
+    "total_spill_hours": 62.5,
+    "lat": 51.663645,
+    "lon": -3.798739,
+    "pcon20nm": "Neath"
   },
   {
     "id": 447,
@@ -4520,14 +4520,6 @@
     "pcon20nm": "St Austell and Newquay"
   },
   {
-    "id": 852,
-    "bathing": "Aberafan",
-    "total_spill_hours": 62.5,
-    "lat": 51.663645,
-    "lon": -3.798739,
-    "pcon20nm": "Neath"
-  },
-  {
     "id": 290,
     "bathing": "SIDMOUTH (TOWN) BEACH",
     "total_spill_hours": 62.88,
@@ -4536,7 +4528,7 @@
     "pcon20nm": "East Devon"
   },
   {
-    "id": 894,
+    "id": 893,
     "bathing": "Fairbourne",
     "total_spill_hours": 63.0,
     "lat": 52.701756,
@@ -4552,7 +4544,7 @@
     "pcon20nm": "Wallasey"
   },
   {
-    "id": 891,
+    "id": 890,
     "bathing": "Llanfairfech",
     "total_spill_hours": 65.0,
     "lat": 53.256454,
@@ -4562,7 +4554,7 @@
   {
     "id": 354,
     "bathing": "Spittal",
-    "total_spill_hours": 65.15861111111116,
+    "total_spill_hours": 65.16,
     "lat": 55.760415,
     "lon": -2.002088,
     "pcon20nm": "Berwick-upon-Tweed"
@@ -4576,7 +4568,7 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 703,
+    "id": 702,
     "bathing": "Great Yarmouth Pier/Great Yarmouth South",
     "total_spill_hours": 65.7,
     "lat": 52.600932,
@@ -4592,7 +4584,7 @@
     "pcon20nm": "Wallasey"
   },
   {
-    "id": 746,
+    "id": 745,
     "bathing": "Frinton",
     "total_spill_hours": 66.33,
     "lat": 51.834493,
@@ -4600,7 +4592,7 @@
     "pcon20nm": "Clacton"
   },
   {
-    "id": 878,
+    "id": 877,
     "bathing": "Fairbourne",
     "total_spill_hours": 67.25,
     "lat": 52.692516,
@@ -4608,9 +4600,9 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 573,
+    "id": 572,
     "bathing": "COWES, GURNARD",
-    "total_spill_hours": 67.83055555529427,
+    "total_spill_hours": 67.83,
     "lat": 50.759187,
     "lon": -1.292477,
     "pcon20nm": "Isle of Wight"
@@ -4632,9 +4624,9 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 996,
+    "id": 995,
     "bathing": "SOUTHSEA, STOKES BAY",
-    "total_spill_hours": 69.10388888942543,
+    "total_spill_hours": 69.1,
     "lat": 50.819039,
     "lon": -1.091833,
     "pcon20nm": "Portsmouth North"
@@ -4650,7 +4642,7 @@
   {
     "id": 527,
     "bathing": "SWANAGE CENTRAL",
-    "total_spill_hours": 69.45361111481907,
+    "total_spill_hours": 69.5,
     "lat": 50.608383,
     "lon": -1.955637,
     "pcon20nm": "South Dorset"
@@ -4666,7 +4658,7 @@
   {
     "id": 256,
     "bathing": "CLEVEDON BEACH",
-    "total_spill_hours": 70.8077777777778,
+    "total_spill_hours": 70.8,
     "lat": 51.451246,
     "lon": -2.854201,
     "pcon20nm": "North Somerset"
@@ -4680,15 +4672,15 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 667,
+    "id": 666,
     "bathing": "SOUTHSEA, STOKES BAY",
-    "total_spill_hours": 71.24583333358169,
+    "total_spill_hours": 71.25,
     "lat": 50.820125,
     "lon": -1.081307,
     "pcon20nm": "Portsmouth North"
   },
   {
-    "id": 708,
+    "id": 707,
     "bathing": "Cold Knap",
     "total_spill_hours": 71.25,
     "lat": 51.385229,
@@ -4696,7 +4688,7 @@
     "pcon20nm": "Vale of Glamorgan"
   },
   {
-    "id": 537,
+    "id": 536,
     "bathing": "POOLE HARBOUR ROCKLEY SANDS",
     "total_spill_hours": 72.0,
     "lat": 50.73336,
@@ -4704,7 +4696,7 @@
     "pcon20nm": "Mid Dorset and North Poole"
   },
   {
-    "id": 744,
+    "id": 743,
     "bathing": "Jaywick",
     "total_spill_hours": 72.83,
     "lat": 51.781204,
@@ -4728,7 +4720,7 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 764,
+    "id": 763,
     "bathing": "Poppit West",
     "total_spill_hours": 73.0,
     "lat": 52.081224,
@@ -4736,9 +4728,9 @@
     "pcon20nm": "Ceredigion"
   },
   {
-    "id": 554,
+    "id": 553,
     "bathing": "CHURCH OPE COVE",
-    "total_spill_hours": 73.33333333348855,
+    "total_spill_hours": 73.3,
     "lat": 50.539672,
     "lon": -2.430349,
     "pcon20nm": "South Dorset"
@@ -4752,7 +4744,7 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 719,
+    "id": 718,
     "bathing": "Cold Knap Barry",
     "total_spill_hours": 73.5,
     "lat": 51.38693,
@@ -4776,17 +4768,17 @@
     "pcon20nm": "Preston"
   },
   {
-    "id": 613,
+    "id": 612,
     "bathing": "RYDE",
-    "total_spill_hours": 74.14833333314164,
+    "total_spill_hours": 74.15,
     "lat": 50.731494,
     "lon": -1.183222,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 670,
+    "id": 669,
     "bathing": "COWES, GURNARD",
-    "total_spill_hours": 74.21972222160548,
+    "total_spill_hours": 74.22,
     "lat": 50.763989,
     "lon": -1.298502,
     "pcon20nm": "Isle of Wight"
@@ -4802,7 +4794,7 @@
   {
     "id": 403,
     "bathing": "Crimdon",
-    "total_spill_hours": 75.46666666666668,
+    "total_spill_hours": 75.47,
     "lat": 54.723252,
     "lon": -1.249937,
     "pcon20nm": "Easington"
@@ -4826,7 +4818,7 @@
   {
     "id": 341,
     "bathing": "Spittal",
-    "total_spill_hours": 79.23333333333336,
+    "total_spill_hours": 79.23,
     "lat": 55.767306,
     "lon": -2.01044,
     "pcon20nm": "Berwick-upon-Tweed"
@@ -4848,7 +4840,7 @@
     "pcon20nm": "West Lancashire"
   },
   {
-    "id": 731,
+    "id": 730,
     "bathing": "Walton",
     "total_spill_hours": 80.83,
     "lat": 51.854387,
@@ -4872,9 +4864,9 @@
     "pcon20nm": "South East Cornwall"
   },
   {
-    "id": 580,
+    "id": 579,
     "bathing": "COLWELL BAY, TOTLAND BAY",
-    "total_spill_hours": 82.90249999979278,
+    "total_spill_hours": 82.9,
     "lat": 50.683285,
     "lon": -1.544159,
     "pcon20nm": "Isle of Wight"
@@ -4890,7 +4882,7 @@
   {
     "id": 395,
     "bathing": "Marske",
-    "total_spill_hours": 88.46666666666668,
+    "total_spill_hours": 88.47,
     "lat": 54.597651,
     "lon": -1.016048,
     "pcon20nm": "Redcar"
@@ -4898,15 +4890,15 @@
   {
     "id": 391,
     "bathing": "Saltburn Pier",
-    "total_spill_hours": 88.50000000000001,
+    "total_spill_hours": 88.5,
     "lat": 54.573667,
     "lon": -0.95,
     "pcon20nm": "Middlesbrough South and East Cleveland"
   },
   {
-    "id": 994,
+    "id": 993,
     "bathing": "RYDE",
-    "total_spill_hours": 88.58861111139413,
+    "total_spill_hours": 88.59,
     "lat": 50.734117,
     "lon": -1.211517,
     "pcon20nm": "Isle of Wight"
@@ -4928,15 +4920,15 @@
     "pcon20nm": "St Austell and Newquay"
   },
   {
-    "id": 617,
+    "id": 616,
     "bathing": "RYDE",
-    "total_spill_hours": 91.96583333378658,
+    "total_spill_hours": 91.97,
     "lat": 50.732971,
     "lon": -1.163217,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 768,
+    "id": 767,
     "bathing": "Aberafan",
     "total_spill_hours": 92.0,
     "lat": 51.612086,
@@ -4944,7 +4936,7 @@
     "pcon20nm": "Aberavon"
   },
   {
-    "id": 718,
+    "id": 717,
     "bathing": "Cold Knap Barry",
     "total_spill_hours": 92.5,
     "lat": 51.381286,
@@ -4952,9 +4944,9 @@
     "pcon20nm": "Vale of Glamorgan"
   },
   {
-    "id": 623,
+    "id": 622,
     "bathing": "TANKERTON, WEST BEACH WHITSTABLE",
-    "total_spill_hours": 93.97999999998137,
+    "total_spill_hours": 93.98,
     "lat": 51.367397,
     "lon": 1.02814,
     "pcon20nm": "Canterbury"
@@ -4970,7 +4962,7 @@
   {
     "id": 373,
     "bathing": "Newbiggin North & Newbiggin South",
-    "total_spill_hours": 94.40027777838986,
+    "total_spill_hours": 94.4,
     "lat": 55.175739,
     "lon": -1.522251,
     "pcon20nm": "Wansbeck"
@@ -4986,13 +4978,13 @@
   {
     "id": 410,
     "bathing": "Redcar Coatham",
-    "total_spill_hours": 95.16666666666667,
+    "total_spill_hours": 95.17,
     "lat": 54.61966,
     "lon": -1.075451,
     "pcon20nm": "Redcar"
   },
   {
-    "id": 972,
+    "id": 971,
     "bathing": "Morecambe North",
     "total_spill_hours": 97.01,
     "lat": 54.12052,
@@ -5000,9 +4992,9 @@
     "pcon20nm": "Morecambe and Lunesdale"
   },
   {
-    "id": 616,
+    "id": 615,
     "bathing": "RYDE, SEAGROVE",
-    "total_spill_hours": 97.42888888833113,
+    "total_spill_hours": 97.43,
     "lat": 50.718907,
     "lon": -1.158368,
     "pcon20nm": "Isle of Wight"
@@ -5018,13 +5010,13 @@
   {
     "id": 346,
     "bathing": "Spittal",
-    "total_spill_hours": 99.16666666666671,
+    "total_spill_hours": 99.17,
     "lat": 55.760262,
     "lon": -1.995603,
     "pcon20nm": "Berwick-upon-Tweed"
   },
   {
-    "id": 803,
+    "id": 802,
     "bathing": "Limeslade",
     "total_spill_hours": 102.25,
     "lat": 51.580326,
@@ -5040,9 +5032,9 @@
     "pcon20nm": "East Devon"
   },
   {
-    "id": 611,
+    "id": 610,
     "bathing": "RYDE, SEAGROVE",
-    "total_spill_hours": 103.2622222226928,
+    "total_spill_hours": 103.26,
     "lat": 50.728941,
     "lon": -1.153086,
     "pcon20nm": "Isle of Wight"
@@ -5056,7 +5048,7 @@
     "pcon20nm": "Lancaster and Fleetwood"
   },
   {
-    "id": 974,
+    "id": 973,
     "bathing": "MOTHECOMBE BEACH",
     "total_spill_hours": 103.99,
     "lat": 50.355326,
@@ -5066,15 +5058,15 @@
   {
     "id": 415,
     "bathing": "Saltburn Pier",
-    "total_spill_hours": 104.10111111140577,
+    "total_spill_hours": 104.1,
     "lat": 54.561262,
     "lon": -0.963263,
     "pcon20nm": "Middlesbrough South and East Cleveland"
   },
   {
-    "id": 950,
+    "id": 949,
     "bathing": "LITTLEHAMPTON",
-    "total_spill_hours": 104.73916666646255,
+    "total_spill_hours": 104.74,
     "lat": 50.848799,
     "lon": -0.562953,
     "pcon20nm": "Arundel and South Downs"
@@ -5096,7 +5088,7 @@
     "pcon20nm": "Preston"
   },
   {
-    "id": 757,
+    "id": 756,
     "bathing": "Lowestoft North",
     "total_spill_hours": 106.67,
     "lat": 52.472562,
@@ -5106,7 +5098,7 @@
   {
     "id": 351,
     "bathing": "Spittal",
-    "total_spill_hours": 106.90000000000009,
+    "total_spill_hours": 106.9,
     "lat": 55.775231,
     "lon": -2.011031,
     "pcon20nm": "Berwick-upon-Tweed"
@@ -5114,7 +5106,7 @@
   {
     "id": 357,
     "bathing": "Spittal",
-    "total_spill_hours": 107.06666666666678,
+    "total_spill_hours": 107.07,
     "lat": 55.761889,
     "lon": -2.00451,
     "pcon20nm": "Berwick-upon-Tweed"
@@ -5128,7 +5120,7 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 691,
+    "id": 690,
     "bathing": "Swansea Bay",
     "total_spill_hours": 109.0,
     "lat": 51.604903,
@@ -5152,7 +5144,7 @@
     "pcon20nm": "Lancaster and Fleetwood"
   },
   {
-    "id": 900,
+    "id": 899,
     "bathing": "Llanddwyn",
     "total_spill_hours": 111.25,
     "lat": 53.162255,
@@ -5168,7 +5160,7 @@
     "pcon20nm": "Fylde"
   },
   {
-    "id": 1005,
+    "id": 1004,
     "bathing": "Traeth Lligwy",
     "total_spill_hours": 113.25,
     "lat": 53.35194,
@@ -5194,13 +5186,13 @@
   {
     "id": 361,
     "bathing": "Beadnell",
-    "total_spill_hours": 115.26805555581814,
+    "total_spill_hours": 115.27,
     "lat": 55.551151,
     "lon": -1.623865,
     "pcon20nm": "Berwick-upon-Tweed"
   },
   {
-    "id": 939,
+    "id": 938,
     "bathing": "Prestatyn",
     "total_spill_hours": 115.5,
     "lat": 53.345803,
@@ -5216,7 +5208,7 @@
     "pcon20nm": "Fylde"
   },
   {
-    "id": 798,
+    "id": 797,
     "bathing": "Swansea Bay",
     "total_spill_hours": 116.5,
     "lat": 51.612839,
@@ -5232,7 +5224,7 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 879,
+    "id": 878,
     "bathing": "Fairbourne",
     "total_spill_hours": 117.25,
     "lat": 52.702252,
@@ -5240,7 +5232,7 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 892,
+    "id": 891,
     "bathing": "Colwyn Bay",
     "total_spill_hours": 118.0,
     "lat": 53.292518,
@@ -5248,25 +5240,25 @@
     "pcon20nm": "Clwyd West"
   },
   {
-    "id": 631,
+    "id": 630,
     "bathing": "CALSHOT",
-    "total_spill_hours": 118.37388888909481,
+    "total_spill_hours": 118.37,
     "lat": 50.825827,
     "lon": -1.339034,
     "pcon20nm": "New Forest East"
   },
   {
-    "id": 621,
+    "id": 620,
     "bathing": "MINSTER LEAS, SHEERNESS",
-    "total_spill_hours": 118.65527777757961,
+    "total_spill_hours": 118.66,
     "lat": 51.429715,
     "lon": 0.797157,
     "pcon20nm": "Sittingbourne and Sheppey"
   },
   {
-    "id": 674,
+    "id": 673,
     "bathing": "STOKES BAY, SOUTHSEA",
-    "total_spill_hours": 118.72388888918795,
+    "total_spill_hours": 118.72,
     "lat": 50.807529,
     "lon": -1.13946,
     "pcon20nm": "Gosport"
@@ -5290,15 +5282,15 @@
   {
     "id": 387,
     "bathing": "Seaburn (Whitburn North)",
-    "total_spill_hours": 118.94916666654171,
+    "total_spill_hours": 118.95,
     "lat": 54.945609,
     "lon": -1.365387,
     "pcon20nm": "South Shields"
   },
   {
-    "id": 601,
+    "id": 600,
     "bathing": "BEXHILL",
-    "total_spill_hours": 119.31666666688398,
+    "total_spill_hours": 119.32,
     "lat": 50.840283,
     "lon": 0.492987,
     "pcon20nm": "Bexhill and Battle"
@@ -5312,6 +5304,14 @@
     "pcon20nm": "Plymouth, Sutton and Devonport"
   },
   {
+    "id": 241,
+    "bathing": "PORLOCK WEIR",
+    "total_spill_hours": 120.2,
+    "lat": 51.214923,
+    "lon": -3.597158,
+    "pcon20nm": "Bridgwater and West Somerset"
+  },
+  {
     "id": 24,
     "bathing": "Formby",
     "total_spill_hours": 120.22,
@@ -5320,20 +5320,12 @@
     "pcon20nm": "Wirral South"
   },
   {
-    "id": 835,
+    "id": 834,
     "bathing": "Swansea Bay",
     "total_spill_hours": 120.25,
     "lat": 51.662391,
     "lon": -3.892287,
     "pcon20nm": "Swansea East"
-  },
-  {
-    "id": 241,
-    "bathing": "PORLOCK WEIR",
-    "total_spill_hours": 120.25,
-    "lat": 51.214923,
-    "lon": -3.597158,
-    "pcon20nm": "Bridgwater and West Somerset"
   },
   {
     "id": 88,
@@ -5354,15 +5346,15 @@
   {
     "id": 347,
     "bathing": "Spittal",
-    "total_spill_hours": 123.0002777777778,
+    "total_spill_hours": 123.0,
     "lat": 55.763021,
     "lon": -2.006391,
     "pcon20nm": "Berwick-upon-Tweed"
   },
   {
-    "id": 547,
+    "id": 546,
     "bathing": "CHARMOUTH WEST",
-    "total_spill_hours": 123.41,
+    "total_spill_hours": 123.4,
     "lat": 50.739844,
     "lon": -2.891782,
     "pcon20nm": "West Dorset"
@@ -5370,7 +5362,7 @@
   {
     "id": 380,
     "bathing": "Whitley Bay",
-    "total_spill_hours": 125.1397222240339,
+    "total_spill_hours": 125.14,
     "lat": 55.058908,
     "lon": -1.454712,
     "pcon20nm": "Tynemouth"
@@ -5392,7 +5384,7 @@
     "pcon20nm": "West Dorset"
   },
   {
-    "id": 827,
+    "id": 826,
     "bathing": "Llangrannog",
     "total_spill_hours": 133.75,
     "lat": 52.160852,
@@ -5400,9 +5392,9 @@
     "pcon20nm": "Ceredigion"
   },
   {
-    "id": 687,
+    "id": 686,
     "bathing": "HILLHEAD",
-    "total_spill_hours": 135.38138888881076,
+    "total_spill_hours": 135.38,
     "lat": 50.835234,
     "lon": -1.287069,
     "pcon20nm": "Fareham"
@@ -5424,7 +5416,7 @@
     "pcon20nm": "South East Cornwall"
   },
   {
-    "id": 765,
+    "id": 764,
     "bathing": "Poppit West",
     "total_spill_hours": 139.0,
     "lat": 52.081899,
@@ -5434,7 +5426,7 @@
   {
     "id": 342,
     "bathing": "Spittal",
-    "total_spill_hours": 139.36666666666673,
+    "total_spill_hours": 139.37,
     "lat": 55.767594,
     "lon": -2.010727,
     "pcon20nm": "Berwick-upon-Tweed"
@@ -5456,7 +5448,7 @@
     "pcon20nm": "Westmorland and Lonsdale"
   },
   {
-    "id": 776,
+    "id": 775,
     "bathing": "Amroth",
     "total_spill_hours": 142.0,
     "lat": 51.733738,
@@ -5464,7 +5456,7 @@
     "pcon20nm": "Carmarthen West and South Pembrokeshire"
   },
   {
-    "id": 1007,
+    "id": 1006,
     "bathing": "Rhyl",
     "total_spill_hours": 144.0,
     "lat": 53.204811,
@@ -5480,7 +5472,7 @@
     "pcon20nm": "Westmorland and Lonsdale"
   },
   {
-    "id": 866,
+    "id": 865,
     "bathing": "Swansea Bay",
     "total_spill_hours": 145.0,
     "lat": 51.618707,
@@ -5488,7 +5480,7 @@
     "pcon20nm": "Swansea West"
   },
   {
-    "id": 750,
+    "id": 749,
     "bathing": "Lowestoft North",
     "total_spill_hours": 145.13,
     "lat": 52.476025,
@@ -5512,7 +5504,7 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 875,
+    "id": 874,
     "bathing": "Llanfairfech",
     "total_spill_hours": 147.25,
     "lat": 53.253342,
@@ -5520,7 +5512,7 @@
     "pcon20nm": "Aberconwy"
   },
   {
-    "id": 859,
+    "id": 858,
     "bathing": "Aberafan",
     "total_spill_hours": 148.5,
     "lat": 51.677904,
@@ -5536,9 +5528,9 @@
     "pcon20nm": "South Ribble"
   },
   {
-    "id": 995,
+    "id": 994,
     "bathing": "SOUTHSEA EAST, STOKES BAY",
-    "total_spill_hours": 151.1769444452366,
+    "total_spill_hours": 151.18,
     "lat": 50.788212,
     "lon": -1.105908,
     "pcon20nm": "Portsmouth South"
@@ -5552,7 +5544,7 @@
     "pcon20nm": "North Cornwall"
   },
   {
-    "id": 888,
+    "id": 887,
     "bathing": "Aberdaron",
     "total_spill_hours": 152.0,
     "lat": 52.804364,
@@ -5576,9 +5568,9 @@
     "pcon20nm": "North Devon"
   },
   {
-    "id": 590,
+    "id": 589,
     "bathing": "VENTNOR",
-    "total_spill_hours": 152.6694444445311,
+    "total_spill_hours": 152.67,
     "lat": 50.592709,
     "lon": -1.205687,
     "pcon20nm": "Isle of Wight"
@@ -5600,7 +5592,7 @@
     "pcon20nm": "North Devon"
   },
   {
-    "id": 849,
+    "id": 848,
     "bathing": "Poppit",
     "total_spill_hours": 154.75,
     "lat": 52.120721,
@@ -5608,7 +5600,7 @@
     "pcon20nm": "Ceredigion"
   },
   {
-    "id": 713,
+    "id": 712,
     "bathing": "Jacksons Bay Barry",
     "total_spill_hours": 154.75,
     "lat": 51.417918,
@@ -5624,9 +5616,9 @@
     "pcon20nm": "Wirral West"
   },
   {
-    "id": 688,
+    "id": 687,
     "bathing": "LITTLESTONE, ST MARYS BAY (KENT)",
-    "total_spill_hours": 155.6322222223389,
+    "total_spill_hours": 155.63,
     "lat": 50.977688,
     "lon": 0.953125,
     "pcon20nm": "Folkestone and Hythe"
@@ -5640,7 +5632,7 @@
     "pcon20nm": "Southport"
   },
   {
-    "id": 944,
+    "id": 943,
     "bathing": "Sandy Cove",
     "total_spill_hours": 158.5,
     "lat": 53.3098,
@@ -5680,7 +5672,7 @@
     "pcon20nm": "Tiverton and Honiton"
   },
   {
-    "id": 720,
+    "id": 719,
     "bathing": "Cold Knap",
     "total_spill_hours": 161.0,
     "lat": 51.394795,
@@ -5696,7 +5688,7 @@
     "pcon20nm": "Plymouth, Sutton and Devonport"
   },
   {
-    "id": 817,
+    "id": 816,
     "bathing": "Manorbier",
     "total_spill_hours": 162.25,
     "lat": 51.640893,
@@ -5704,15 +5696,15 @@
     "pcon20nm": "Carmarthen West and South Pembrokeshire"
   },
   {
-    "id": 579,
+    "id": 578,
     "bathing": "FOLKESTONE",
-    "total_spill_hours": 163.76388888945803,
+    "total_spill_hours": 163.76,
     "lat": 51.083193,
     "lon": 1.199325,
     "pcon20nm": "Folkestone and Hythe"
   },
   {
-    "id": 722,
+    "id": 721,
     "bathing": "Jacksons Bay Barry",
     "total_spill_hours": 165.5,
     "lat": 51.435779,
@@ -5720,7 +5712,7 @@
     "pcon20nm": "Cardiff South and Penarth"
   },
   {
-    "id": 772,
+    "id": 771,
     "bathing": "Aberystwyth South",
     "total_spill_hours": 165.75,
     "lat": 52.379194,
@@ -5736,15 +5728,15 @@
     "pcon20nm": "Truro and Falmouth"
   },
   {
-    "id": 672,
+    "id": 671,
     "bathing": "COWES, GURNARD",
-    "total_spill_hours": 166.65611111163162,
+    "total_spill_hours": 166.66,
     "lat": 50.76102,
     "lon": -1.298263,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 902,
+    "id": 901,
     "bathing": "Criccieth",
     "total_spill_hours": 167.5,
     "lat": 52.915348,
@@ -5760,7 +5752,7 @@
     "pcon20nm": "Fylde"
   },
   {
-    "id": 935,
+    "id": 934,
     "bathing": "Rhyl",
     "total_spill_hours": 168.25,
     "lat": 53.30616,
@@ -5770,13 +5762,13 @@
   {
     "id": 367,
     "bathing": "Warkworth & Amble Links",
-    "total_spill_hours": 169.33333333333343,
+    "total_spill_hours": 169.33,
     "lat": 55.334381,
     "lon": -1.583196,
     "pcon20nm": "Berwick-upon-Tweed"
   },
   {
-    "id": 538,
+    "id": 537,
     "bathing": "POOLE HARBOUR ROCKLEY SANDS",
     "total_spill_hours": 169.5,
     "lat": 50.730838,
@@ -5792,7 +5784,7 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 920,
+    "id": 919,
     "bathing": "Morfa Nefyn",
     "total_spill_hours": 173.0,
     "lat": 52.928347,
@@ -5816,7 +5808,7 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 814,
+    "id": 813,
     "bathing": "Barafundle",
     "total_spill_hours": 175.75,
     "lat": 51.631289,
@@ -5826,7 +5818,7 @@
   {
     "id": 243,
     "bathing": "MINEHEAD TERMINUS",
-    "total_spill_hours": 176.25,
+    "total_spill_hours": 176.2,
     "lat": 51.213049,
     "lon": -3.440946,
     "pcon20nm": "Bridgwater and West Somerset"
@@ -5872,7 +5864,7 @@
     "pcon20nm": "Lancaster and Fleetwood"
   },
   {
-    "id": 794,
+    "id": 793,
     "bathing": "Rest Bay Porthcawl",
     "total_spill_hours": 181.0,
     "lat": 51.526233,
@@ -5882,7 +5874,7 @@
   {
     "id": 366,
     "bathing": "Warkworth & Amble Links",
-    "total_spill_hours": 182.27833333297167,
+    "total_spill_hours": 182.28,
     "lat": 55.336517,
     "lon": -1.577341,
     "pcon20nm": "Berwick-upon-Tweed"
@@ -5896,7 +5888,7 @@
     "pcon20nm": "Southport"
   },
   {
-    "id": 901,
+    "id": 900,
     "bathing": "Criccieth",
     "total_spill_hours": 183.0,
     "lat": 52.917727,
@@ -5904,9 +5896,9 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 596,
+    "id": 595,
     "bathing": "COWES, GURNARD",
-    "total_spill_hours": 183.40222222229932,
+    "total_spill_hours": 183.4,
     "lat": 50.756353,
     "lon": -1.330372,
     "pcon20nm": "Isle of Wight"
@@ -5936,7 +5928,7 @@
     "pcon20nm": "North Devon"
   },
   {
-    "id": 885,
+    "id": 884,
     "bathing": "Abergele (Pensarn)",
     "total_spill_hours": 188.5,
     "lat": 53.29477,
@@ -5944,7 +5936,7 @@
     "pcon20nm": "Clwyd West"
   },
   {
-    "id": 971,
+    "id": 970,
     "bathing": "Morecambe South",
     "total_spill_hours": 188.78,
     "lat": 54.141758,
@@ -5960,7 +5952,7 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 769,
+    "id": 768,
     "bathing": "Aberafan",
     "total_spill_hours": 191.0,
     "lat": 51.61747,
@@ -5968,17 +5960,17 @@
     "pcon20nm": "Aberavon"
   },
   {
-    "id": 1010,
+    "id": 1009,
     "bathing": "Bridlington South Bay",
-    "total_spill_hours": 191.205555555555,
+    "total_spill_hours": 191.2,
     "lat": 54.070578,
     "lon": -0.22729,
     "pcon20nm": "East Yorkshire"
   },
   {
-    "id": 671,
+    "id": 670,
     "bathing": "LEYSDOWN",
-    "total_spill_hours": 191.5763888885267,
+    "total_spill_hours": 191.58,
     "lat": 51.416349,
     "lon": 0.881062,
     "pcon20nm": "Sittingbourne and Sheppey"
@@ -5992,15 +5984,15 @@
     "pcon20nm": "Camborne and Redruth"
   },
   {
-    "id": 954,
+    "id": 953,
     "bathing": "ST HELENS",
-    "total_spill_hours": 193.56694444437744,
+    "total_spill_hours": 193.57,
     "lat": 50.681328,
     "lon": -1.13526,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 724,
+    "id": 723,
     "bathing": "Jacksons Bay Barry",
     "total_spill_hours": 194.5,
     "lat": 51.419885,
@@ -6008,7 +6000,7 @@
     "pcon20nm": "Cardiff South and Penarth"
   },
   {
-    "id": 910,
+    "id": 909,
     "bathing": "Rhyl",
     "total_spill_hours": 195.25,
     "lat": 53.122522,
@@ -6032,15 +6024,15 @@
     "pcon20nm": "Newton Abbot"
   },
   {
-    "id": 629,
+    "id": 628,
     "bathing": "LITTLEHAMPTON",
-    "total_spill_hours": 199.459444443346,
+    "total_spill_hours": 199.46,
     "lat": 50.776017,
     "lon": -0.510578,
     "pcon20nm": "Worthing West"
   },
   {
-    "id": 748,
+    "id": 747,
     "bathing": "West Mersea",
     "total_spill_hours": 200.77,
     "lat": 51.775242,
@@ -6080,7 +6072,7 @@
     "pcon20nm": "South East Cornwall"
   },
   {
-    "id": 815,
+    "id": 814,
     "bathing": "Aberystwyth N",
     "total_spill_hours": 204.5,
     "lat": 52.433658,
@@ -6104,7 +6096,7 @@
     "pcon20nm": "Wallasey"
   },
   {
-    "id": 970,
+    "id": 969,
     "bathing": "Southport, St Annes Pier, St. Annes North and Blackpool South",
     "total_spill_hours": 211.74,
     "lat": 53.742939,
@@ -6120,7 +6112,7 @@
     "pcon20nm": "Plymouth, Sutton and Devonport"
   },
   {
-    "id": 979,
+    "id": 978,
     "bathing": "LONG ROCK",
     "total_spill_hours": 212.29,
     "lat": 50.128962,
@@ -6128,7 +6120,7 @@
     "pcon20nm": "St Ives"
   },
   {
-    "id": 705,
+    "id": 704,
     "bathing": "Jacksons",
     "total_spill_hours": 213.0,
     "lat": 51.405882,
@@ -6136,7 +6128,7 @@
     "pcon20nm": "Vale of Glamorgan"
   },
   {
-    "id": 833,
+    "id": 832,
     "bathing": "Aberafan",
     "total_spill_hours": 214.25,
     "lat": 51.609158,
@@ -6152,7 +6144,7 @@
     "pcon20nm": "Berwick-upon-Tweed"
   },
   {
-    "id": 821,
+    "id": 820,
     "bathing": "Broadhaven",
     "total_spill_hours": 216.25,
     "lat": 51.773743,
@@ -6176,7 +6168,7 @@
     "pcon20nm": "Westmorland and Lonsdale"
   },
   {
-    "id": 856,
+    "id": 855,
     "bathing": "Aberafan",
     "total_spill_hours": 221.75,
     "lat": 51.633269,
@@ -6184,9 +6176,9 @@
     "pcon20nm": "Neath"
   },
   {
-    "id": 630,
+    "id": 629,
     "bathing": "BOGNOR REGIS (ALDWICK), BOGNOR REGIS EAST, FELPHAM, PAGHAM",
-    "total_spill_hours": 222.76833333342802,
+    "total_spill_hours": 222.77,
     "lat": 50.755738,
     "lon": -0.694678,
     "pcon20nm": "Bognor Regis and Littlehampton"
@@ -6194,13 +6186,13 @@
   {
     "id": 338,
     "bathing": "Spittal",
-    "total_spill_hours": 223.63333333333327,
+    "total_spill_hours": 223.63,
     "lat": 55.767226,
     "lon": -2.003682,
     "pcon20nm": "Berwick-upon-Tweed"
   },
   {
-    "id": 936,
+    "id": 935,
     "bathing": "Rhyl",
     "total_spill_hours": 226.25,
     "lat": 53.316358,
@@ -6216,15 +6208,15 @@
     "pcon20nm": "Sefton Central"
   },
   {
-    "id": 686,
+    "id": 685,
     "bathing": "HILLHEAD",
-    "total_spill_hours": 228.95083333278308,
+    "total_spill_hours": 228.95,
     "lat": 50.835234,
     "lon": -1.287069,
     "pcon20nm": "Fareham"
   },
   {
-    "id": 781,
+    "id": 780,
     "bathing": "Aberystwyth S",
     "total_spill_hours": 229.0,
     "lat": 52.411576,
@@ -6232,7 +6224,7 @@
     "pcon20nm": "Ceredigion"
   },
   {
-    "id": 932,
+    "id": 931,
     "bathing": "Craig Du",
     "total_spill_hours": 231.5,
     "lat": 52.91398,
@@ -6264,7 +6256,7 @@
     "pcon20nm": "South Ribble"
   },
   {
-    "id": 922,
+    "id": 921,
     "bathing": "Morfa Nefyn",
     "total_spill_hours": 235.0,
     "lat": 52.928402,
@@ -6272,7 +6264,7 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 847,
+    "id": 846,
     "bathing": "New Quay",
     "total_spill_hours": 242.0,
     "lat": 52.210949,
@@ -6282,13 +6274,13 @@
   {
     "id": 248,
     "bathing": "BLUE ANCHOR WEST",
-    "total_spill_hours": 247.75,
+    "total_spill_hours": 247.8,
     "lat": 51.163814,
     "lon": -3.385062,
     "pcon20nm": "Bridgwater and West Somerset"
   },
   {
-    "id": 831,
+    "id": 830,
     "bathing": "Aberafan",
     "total_spill_hours": 248.25,
     "lat": 51.612232,
@@ -6304,7 +6296,7 @@
     "pcon20nm": "Plymouth, Sutton and Devonport"
   },
   {
-    "id": 906,
+    "id": 905,
     "bathing": "Tywyn",
     "total_spill_hours": 252.5,
     "lat": 52.596273,
@@ -6314,7 +6306,7 @@
   {
     "id": 362,
     "bathing": "Beadnell",
-    "total_spill_hours": 255.37888888944872,
+    "total_spill_hours": 255.38,
     "lat": 55.551151,
     "lon": -1.623865,
     "pcon20nm": "Berwick-upon-Tweed"
@@ -6328,7 +6320,7 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 912,
+    "id": 911,
     "bathing": "Llandudno West Shore",
     "total_spill_hours": 261.5,
     "lat": 53.294377,
@@ -6336,7 +6328,7 @@
     "pcon20nm": "Aberconwy"
   },
   {
-    "id": 846,
+    "id": 845,
     "bathing": "New Quay",
     "total_spill_hours": 263.5,
     "lat": 52.210949,
@@ -6376,7 +6368,7 @@
     "pcon20nm": "Wirral West"
   },
   {
-    "id": 825,
+    "id": 824,
     "bathing": "Broadhaven",
     "total_spill_hours": 275.75,
     "lat": 51.775232,
@@ -6394,7 +6386,7 @@
   {
     "id": 421,
     "bathing": "Indirectly via Scalby Beck to Scarborough North Bay",
-    "total_spill_hours": 277.249722222222,
+    "total_spill_hours": 277.2,
     "lat": 54.307028,
     "lon": -0.411431,
     "pcon20nm": "Scarborough and Whitby"
@@ -6416,9 +6408,9 @@
     "pcon20nm": "Copeland"
   },
   {
-    "id": 632,
+    "id": 631,
     "bathing": "BEMBRIDGE, ST HELENS",
-    "total_spill_hours": 279.15250000037486,
+    "total_spill_hours": 279.15,
     "lat": 50.678093,
     "lon": -1.099936,
     "pcon20nm": "Isle of Wight"
@@ -6432,15 +6424,15 @@
     "pcon20nm": "South East Cornwall"
   },
   {
-    "id": 567,
+    "id": 566,
     "bathing": "LITTLEHAMPTON",
-    "total_spill_hours": 286.09444444358815,
+    "total_spill_hours": 286.09,
     "lat": 50.804347,
     "lon": -0.539197,
     "pcon20nm": "Bognor Regis and Littlehampton"
   },
   {
-    "id": 931,
+    "id": 930,
     "bathing": "Trearddur",
     "total_spill_hours": 290.75,
     "lat": 53.2791,
@@ -6456,7 +6448,7 @@
     "pcon20nm": "South Ribble"
   },
   {
-    "id": 851,
+    "id": 850,
     "bathing": "Aberafan",
     "total_spill_hours": 293.25,
     "lat": 51.660296,
@@ -6474,13 +6466,13 @@
   {
     "id": 392,
     "bathing": "Saltburn Pier",
-    "total_spill_hours": 298.07638888730435,
+    "total_spill_hours": 298.08,
     "lat": 54.566655,
     "lon": -0.96973,
     "pcon20nm": "Middlesbrough South and East Cleveland"
   },
   {
-    "id": 893,
+    "id": 892,
     "bathing": "Trearddur",
     "total_spill_hours": 298.5,
     "lat": 53.278117,
@@ -6488,7 +6480,7 @@
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
-    "id": 889,
+    "id": 888,
     "bathing": "Pwllheli",
     "total_spill_hours": 303.25,
     "lat": 52.88335,
@@ -6496,7 +6488,7 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 759,
+    "id": 758,
     "bathing": "Aberfan",
     "total_spill_hours": 305.5,
     "lat": 51.591467,
@@ -6520,9 +6512,9 @@
     "pcon20nm": "Liverpool, Riverside"
   },
   {
-    "id": 543,
+    "id": 542,
     "bathing": "CHRISTCHURCH AVON BEACH/CHRISTCHURCH FRIAR'S CLIFF",
-    "total_spill_hours": 314.56,
+    "total_spill_hours": 314.6,
     "lat": 50.741946,
     "lon": -1.767374,
     "pcon20nm": "Christchurch"
@@ -6544,9 +6536,9 @@
     "pcon20nm": "Morecambe and Lunesdale"
   },
   {
-    "id": 609,
+    "id": 608,
     "bathing": "SEAFORD",
-    "total_spill_hours": 325.8933333346504,
+    "total_spill_hours": 325.89,
     "lat": 50.787642,
     "lon": 0.061269,
     "pcon20nm": "Lewes"
@@ -6554,7 +6546,7 @@
   {
     "id": 399,
     "bathing": "Saltburn Pier",
-    "total_spill_hours": 330.6677777777659,
+    "total_spill_hours": 330.67,
     "lat": 54.53664,
     "lon": -1.074546,
     "pcon20nm": "Middlesbrough South and East Cleveland"
@@ -6584,7 +6576,7 @@
     "pcon20nm": "St Austell and Newquay"
   },
   {
-    "id": 898,
+    "id": 897,
     "bathing": "Rhosneigr",
     "total_spill_hours": 350.5,
     "lat": 53.222501,
@@ -6602,7 +6594,7 @@
   {
     "id": 389,
     "bathing": "Saltburn Pier",
-    "total_spill_hours": 351.4588888887665,
+    "total_spill_hours": 351.46,
     "lat": 54.585704,
     "lon": -0.98415,
     "pcon20nm": "Middlesbrough South and East Cleveland"
@@ -6626,7 +6618,7 @@
   {
     "id": 378,
     "bathing": "Blyth South Beach",
-    "total_spill_hours": 357.9000000000001,
+    "total_spill_hours": 357.9,
     "lat": 55.092035,
     "lon": -1.515148,
     "pcon20nm": "Blyth Valley"
@@ -6640,7 +6632,7 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 773,
+    "id": 772,
     "bathing": "Aberystwyth South",
     "total_spill_hours": 367.25,
     "lat": 52.379194,
@@ -6656,7 +6648,7 @@
     "pcon20nm": "North Cornwall"
   },
   {
-    "id": 905,
+    "id": 904,
     "bathing": "Aberdyfi",
     "total_spill_hours": 369.5,
     "lat": 52.543759,
@@ -6682,7 +6674,7 @@
   {
     "id": 379,
     "bathing": "Blyth South Beach",
-    "total_spill_hours": 371.9666666666667,
+    "total_spill_hours": 371.97,
     "lat": 55.1203,
     "lon": -1.500758,
     "pcon20nm": "Blyth Valley"
@@ -6704,7 +6696,7 @@
     "pcon20nm": "South East Cornwall"
   },
   {
-    "id": 991,
+    "id": 990,
     "bathing": "Nolton Haven",
     "total_spill_hours": 378.75,
     "lat": 51.825108,
@@ -6736,15 +6728,15 @@
     "pcon20nm": "Preston"
   },
   {
-    "id": 690,
+    "id": 689,
     "bathing": "COWES, GURNARD",
-    "total_spill_hours": 389.55333333212184,
+    "total_spill_hours": 389.55,
     "lat": 50.762107,
     "lon": -1.299523,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 799,
+    "id": 798,
     "bathing": "Barafundle",
     "total_spill_hours": 391.0,
     "lat": 51.631114,
@@ -6752,7 +6744,7 @@
     "pcon20nm": "Carmarthen West and South Pembrokeshire"
   },
   {
-    "id": 908,
+    "id": 907,
     "bathing": "Harlech",
     "total_spill_hours": 398.25,
     "lat": 52.862603,
@@ -6776,7 +6768,7 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 903,
+    "id": 902,
     "bathing": "Criccieth",
     "total_spill_hours": 405.75,
     "lat": 52.91404,
@@ -6784,7 +6776,7 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 976,
+    "id": 975,
     "bathing": "THURLESTONE (SOUTH) BEACH",
     "total_spill_hours": 410.94,
     "lat": 50.266197,
@@ -6792,7 +6784,7 @@
     "pcon20nm": "Totnes"
   },
   {
-    "id": 988,
+    "id": 987,
     "bathing": "MOTHECOMBE BEACH",
     "total_spill_hours": 411.26,
     "lat": 50.347147,
@@ -6802,7 +6794,7 @@
   {
     "id": 400,
     "bathing": "Seaton Carew (North)",
-    "total_spill_hours": 416.02944444771856,
+    "total_spill_hours": 416.03,
     "lat": 54.663163,
     "lon": -1.172133,
     "pcon20nm": "Hartlepool"
@@ -6816,7 +6808,7 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 973,
+    "id": 972,
     "bathing": "PORTH KIDNEY SANDS",
     "total_spill_hours": 426.08,
     "lat": 50.170468,
@@ -6858,15 +6850,15 @@
   {
     "id": 413,
     "bathing": "Redcar Sands - Granville Terrace",
-    "total_spill_hours": 444.8666666666667,
+    "total_spill_hours": 444.87,
     "lat": 54.616368,
     "lon": -1.052917,
     "pcon20nm": "Redcar"
   },
   {
-    "id": 575,
+    "id": 574,
     "bathing": "HERNE BAY",
-    "total_spill_hours": 448.7116666669026,
+    "total_spill_hours": 448.71,
     "lat": 51.363464,
     "lon": 1.173282,
     "pcon20nm": "North Thanet"
@@ -6880,7 +6872,7 @@
     "pcon20nm": "Copeland"
   },
   {
-    "id": 843,
+    "id": 842,
     "bathing": "Newgale",
     "total_spill_hours": 451.25,
     "lat": 51.857705,
@@ -6920,7 +6912,7 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 857,
+    "id": 856,
     "bathing": "Aberafan",
     "total_spill_hours": 473.25,
     "lat": 51.65128,
@@ -6936,7 +6928,7 @@
     "pcon20nm": "Fylde"
   },
   {
-    "id": 913,
+    "id": 912,
     "bathing": "Benllech",
     "total_spill_hours": 480.75,
     "lat": 53.316778,
@@ -6944,7 +6936,7 @@
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
-    "id": 806,
+    "id": 805,
     "bathing": "Aberporth",
     "total_spill_hours": 483.5,
     "lat": 52.134212,
@@ -6992,7 +6984,7 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 930,
+    "id": 929,
     "bathing": "Barmouth",
     "total_spill_hours": 498.0,
     "lat": 52.720557,
@@ -7000,17 +6992,17 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 586,
+    "id": 585,
     "bathing": "SHEERNESS",
-    "total_spill_hours": 502.216666666267,
+    "total_spill_hours": 502.22,
     "lat": 51.396659,
     "lon": 0.742087,
     "pcon20nm": "Sittingbourne and Sheppey"
   },
   {
-    "id": 1001,
+    "id": 1000,
     "bathing": "PAGHAM",
-    "total_spill_hours": 511.70583333377726,
+    "total_spill_hours": 511.71,
     "lat": 50.754956,
     "lon": -0.797625,
     "pcon20nm": "Chichester"
@@ -7048,9 +7040,9 @@
     "pcon20nm": "St Ives"
   },
   {
-    "id": 634,
+    "id": 633,
     "bathing": "COWES, GURNARD",
-    "total_spill_hours": 545.4402777786017,
+    "total_spill_hours": 545.44,
     "lat": 50.765034,
     "lon": -1.278068,
     "pcon20nm": "Isle of Wight"
@@ -7066,13 +7058,13 @@
   {
     "id": 404,
     "bathing": "Seaham Beach",
-    "total_spill_hours": 552.9666666666666,
+    "total_spill_hours": 552.97,
     "lat": 54.799997,
     "lon": -1.390894,
     "pcon20nm": "Easington"
   },
   {
-    "id": 929,
+    "id": 928,
     "bathing": "Harlech",
     "total_spill_hours": 558.5,
     "lat": 52.863312,
@@ -7096,9 +7088,9 @@
     "pcon20nm": "Copeland"
   },
   {
-    "id": 1003,
+    "id": 1002,
     "bathing": "CAMBER",
-    "total_spill_hours": 561.6636111113476,
+    "total_spill_hours": 561.66,
     "lat": 50.945822,
     "lon": 0.74394,
     "pcon20nm": "Hastings and Rye"
@@ -7112,7 +7104,7 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 766,
+    "id": 765,
     "bathing": "Poppit West",
     "total_spill_hours": 565.25,
     "lat": 52.08346,
@@ -7120,17 +7112,17 @@
     "pcon20nm": "Preseli Pembrokeshire"
   },
   {
-    "id": 655,
+    "id": 654,
     "bathing": "PAGHAM",
-    "total_spill_hours": 567.9858333325828,
+    "total_spill_hours": 567.99,
     "lat": 50.783405,
     "lon": -0.749233,
     "pcon20nm": "Bognor Regis and Littlehampton"
   },
   {
-    "id": 587,
+    "id": 586,
     "bathing": "BEMBRIDGE, ST HELENS",
-    "total_spill_hours": 579.6066666672123,
+    "total_spill_hours": 579.61,
     "lat": 50.688397,
     "lon": -1.072133,
     "pcon20nm": "Isle of Wight"
@@ -7144,9 +7136,9 @@
     "pcon20nm": "Birkenhead"
   },
   {
-    "id": 992,
+    "id": 991,
     "bathing": "LEE-ON-SOLENT, STOKES BAY",
-    "total_spill_hours": 585.9744444453972,
+    "total_spill_hours": 585.97,
     "lat": 50.828084,
     "lon": -1.197014,
     "pcon20nm": "Gosport"
@@ -7170,7 +7162,7 @@
   {
     "id": 371,
     "bathing": "Druridge Bay North",
-    "total_spill_hours": 604.4761111111147,
+    "total_spill_hours": 604.48,
     "lat": 55.294515,
     "lon": -1.592275,
     "pcon20nm": "Berwick-upon-Tweed"
@@ -7194,7 +7186,7 @@
   {
     "id": 393,
     "bathing": "Marske",
-    "total_spill_hours": 634.2078169418382,
+    "total_spill_hours": 634.21,
     "lat": 54.608924,
     "lon": -1.009893,
     "pcon20nm": "Redcar"
@@ -7208,7 +7200,7 @@
     "pcon20nm": "Barrow and Furness"
   },
   {
-    "id": 886,
+    "id": 885,
     "bathing": "Cemaes",
     "total_spill_hours": 637.25,
     "lat": 53.416345,
@@ -7216,7 +7208,7 @@
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
-    "id": 943,
+    "id": 942,
     "bathing": "Abergele",
     "total_spill_hours": 641.25,
     "lat": 53.300267,
@@ -7234,13 +7226,13 @@
   {
     "id": 408,
     "bathing": "Seaham Hall",
-    "total_spill_hours": 646.4005555555557,
+    "total_spill_hours": 646.4,
     "lat": 54.82815,
     "lon": -1.355992,
     "pcon20nm": "Easington"
   },
   {
-    "id": 928,
+    "id": 927,
     "bathing": "Llandanwg",
     "total_spill_hours": 647.0,
     "lat": 52.83573,
@@ -7256,15 +7248,15 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 608,
+    "id": 607,
     "bathing": "BEACHLANDS CENTRAL, BEACHLANDS WEST, EASTNEY, SOUTHSEA EAST",
-    "total_spill_hours": 653.1719444417395,
+    "total_spill_hours": 653.17,
     "lat": 50.789263,
     "lon": -1.045592,
     "pcon20nm": "Portsmouth South"
   },
   {
-    "id": 986,
+    "id": 985,
     "bathing": "PAR SANDS",
     "total_spill_hours": 653.78,
     "lat": 50.391213,
@@ -7280,7 +7272,7 @@
     "pcon20nm": "Wyre and Preston North"
   },
   {
-    "id": 800,
+    "id": 799,
     "bathing": "Limeslade",
     "total_spill_hours": 655.75,
     "lat": 51.566528,
@@ -7304,7 +7296,7 @@
     "pcon20nm": "Workington"
   },
   {
-    "id": 863,
+    "id": 862,
     "bathing": "Southerndown",
     "total_spill_hours": 664.25,
     "lat": 51.479467,
@@ -7336,7 +7328,7 @@
     "pcon20nm": "Copeland"
   },
   {
-    "id": 812,
+    "id": 811,
     "bathing": "Tenby S",
     "total_spill_hours": 687.75,
     "lat": 51.67068,
@@ -7344,7 +7336,7 @@
     "pcon20nm": "Carmarthen West and South Pembrokeshire"
   },
   {
-    "id": 813,
+    "id": 812,
     "bathing": "Tenby S",
     "total_spill_hours": 693.0,
     "lat": 51.670863,
@@ -7360,7 +7352,7 @@
     "pcon20nm": "Southport"
   },
   {
-    "id": 980,
+    "id": 979,
     "bathing": "PLYMOUTH HOE (EAST)",
     "total_spill_hours": 694.39,
     "lat": 50.389116,
@@ -7368,9 +7360,9 @@
     "pcon20nm": "South West Devon"
   },
   {
-    "id": 532,
+    "id": 531,
     "bathing": "SEATOWN",
-    "total_spill_hours": 700.0000000018626,
+    "total_spill_hours": 700.0,
     "lat": 50.726013,
     "lon": -2.815578,
     "pcon20nm": "West Dorset"
@@ -7408,7 +7400,7 @@
     "pcon20nm": "South East Cornwall"
   },
   {
-    "id": 699,
+    "id": 698,
     "bathing": "Holland",
     "total_spill_hours": 729.03,
     "lat": 51.810427,
@@ -7424,7 +7416,7 @@
     "pcon20nm": "Sefton Central"
   },
   {
-    "id": 876,
+    "id": 875,
     "bathing": "Aberdyfi",
     "total_spill_hours": 733.25,
     "lat": 52.594203,
@@ -7432,7 +7424,7 @@
     "pcon20nm": "Montgomeryshire"
   },
   {
-    "id": 914,
+    "id": 913,
     "bathing": "Rhosneigr",
     "total_spill_hours": 749.0,
     "lat": 53.220209,
@@ -7440,7 +7432,7 @@
     "pcon20nm": "Ynys M\u00f4n"
   },
   {
-    "id": 853,
+    "id": 852,
     "bathing": "Aberafan",
     "total_spill_hours": 764.5,
     "lat": 51.601759,
@@ -7456,7 +7448,7 @@
     "pcon20nm": null
   },
   {
-    "id": 873,
+    "id": 872,
     "bathing": "Dyffryn",
     "total_spill_hours": 782.75,
     "lat": 52.791506,
@@ -7464,15 +7456,15 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 562,
+    "id": 561,
     "bathing": "BEMBRIDGE, SEAGROVE, ST HELENS",
-    "total_spill_hours": 787.4538888877141,
+    "total_spill_hours": 787.45,
     "lat": 50.691164,
     "lon": -1.115826,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 836,
+    "id": 835,
     "bathing": "Wisemans Bridge",
     "total_spill_hours": 795.0,
     "lat": 51.735777,
@@ -7480,7 +7472,7 @@
     "pcon20nm": "Carmarthen West and South Pembrokeshire"
   },
   {
-    "id": 897,
+    "id": 896,
     "bathing": "Llanddona",
     "total_spill_hours": 837.5,
     "lat": 53.287335,
@@ -7496,7 +7488,7 @@
     "pcon20nm": "Lancaster and Fleetwood"
   },
   {
-    "id": 941,
+    "id": 940,
     "bathing": "Rhyl",
     "total_spill_hours": 860.25,
     "lat": 53.220799,
@@ -7506,15 +7498,15 @@
   {
     "id": 374,
     "bathing": "Newbiggin North & Newbiggin South",
-    "total_spill_hours": 861.1686111110612,
+    "total_spill_hours": 861.17,
     "lat": 55.175739,
     "lon": -1.522251,
     "pcon20nm": "Wansbeck"
   },
   {
-    "id": 648,
+    "id": 647,
     "bathing": "HERNE BAY CENTRAL, TANKERTON",
-    "total_spill_hours": 874.1563888880191,
+    "total_spill_hours": 874.16,
     "lat": 51.384402,
     "lon": 1.076266,
     "pcon20nm": "Canterbury"
@@ -7546,7 +7538,7 @@
   {
     "id": 252,
     "bathing": "BLUE ANCHOR WEST",
-    "total_spill_hours": 891.7500000006985,
+    "total_spill_hours": 891.8,
     "lat": 51.16638,
     "lon": -3.357963,
     "pcon20nm": "Bridgwater and West Somerset"
@@ -7568,7 +7560,7 @@
     "pcon20nm": "Fylde"
   },
   {
-    "id": 840,
+    "id": 839,
     "bathing": "New Quay",
     "total_spill_hours": 908.0,
     "lat": 52.205393,
@@ -7576,9 +7568,9 @@
     "pcon20nm": "Ceredigion"
   },
   {
-    "id": 595,
+    "id": 594,
     "bathing": "SANDOWN, WHITECLIFF BAY, YAVERLAND, SHANKLIN",
-    "total_spill_hours": 913.8469444446964,
+    "total_spill_hours": 913.85,
     "lat": 50.664529,
     "lon": -1.150001,
     "pcon20nm": "Isle of Wight"
@@ -7586,7 +7578,7 @@
   {
     "id": 402,
     "bathing": "Crimdon",
-    "total_spill_hours": 922.7838888892438,
+    "total_spill_hours": 922.78,
     "lat": 54.747407,
     "lon": -1.283823,
     "pcon20nm": "Easington"
@@ -7616,9 +7608,9 @@
     "pcon20nm": "Copeland"
   },
   {
-    "id": 985,
+    "id": 984,
     "bathing": "Scarborough South Bay",
-    "total_spill_hours": 950.75,
+    "total_spill_hours": 950.8,
     "lat": 54.259154,
     "lon": -0.378821,
     "pcon20nm": "Scarborough and Whitby"
@@ -7640,7 +7632,7 @@
     "pcon20nm": "Copeland"
   },
   {
-    "id": 934,
+    "id": 933,
     "bathing": "Rhyl",
     "total_spill_hours": 971.75,
     "lat": 53.182694,
@@ -7664,7 +7656,7 @@
     "pcon20nm": "Sefton Central"
   },
   {
-    "id": 977,
+    "id": 976,
     "bathing": "EAST LOOE BEACH",
     "total_spill_hours": 986.04,
     "lat": 50.440765,
@@ -7672,7 +7664,7 @@
     "pcon20nm": "South East Cornwall"
   },
   {
-    "id": 874,
+    "id": 873,
     "bathing": "Cemaes",
     "total_spill_hours": 1025.75,
     "lat": 53.394738,
@@ -7688,9 +7680,9 @@
     "pcon20nm": "East Devon"
   },
   {
-    "id": 635,
+    "id": 634,
     "bathing": "COWES, RYDE, SEAGROVE",
-    "total_spill_hours": 1049.743888889614,
+    "total_spill_hours": 1049.74,
     "lat": 50.72716,
     "lon": -1.143059,
     "pcon20nm": "Isle of Wight"
@@ -7704,9 +7696,9 @@
     "pcon20nm": "South East Cornwall"
   },
   {
-    "id": 633,
+    "id": 632,
     "bathing": "COWES, GURNARD",
-    "total_spill_hours": 1109.0961111114593,
+    "total_spill_hours": 1109.1,
     "lat": 50.762431,
     "lon": -1.323905,
     "pcon20nm": "Isle of Wight"
@@ -7714,13 +7706,13 @@
   {
     "id": 411,
     "bathing": "Redcar Coatham",
-    "total_spill_hours": 1117.5419444444706,
+    "total_spill_hours": 1117.54,
     "lat": 54.621301,
     "lon": -1.074949,
     "pcon20nm": "Redcar"
   },
   {
-    "id": 771,
+    "id": 770,
     "bathing": "Wisemans Bridge",
     "total_spill_hours": 1120.75,
     "lat": 51.765478,
@@ -7736,7 +7728,7 @@
     "pcon20nm": "East Devon"
   },
   {
-    "id": 823,
+    "id": 822,
     "bathing": "Clarach South",
     "total_spill_hours": 1129.5,
     "lat": 52.438269,
@@ -7746,7 +7738,7 @@
   {
     "id": 253,
     "bathing": "CLEVEDON BEACH",
-    "total_spill_hours": 1154.899722216418,
+    "total_spill_hours": 1154.9,
     "lat": 51.510063,
     "lon": -2.672875,
     "pcon20nm": "Bristol North West"
@@ -7784,9 +7776,9 @@
     "pcon20nm": "Fylde"
   },
   {
-    "id": 647,
+    "id": 646,
     "bathing": "HYTHE, SANDGATE",
-    "total_spill_hours": 1193.7672222219408,
+    "total_spill_hours": 1193.77,
     "lat": 51.064392,
     "lon": 1.075407,
     "pcon20nm": "Folkestone and Hythe"
@@ -7816,15 +7808,15 @@
     "pcon20nm": "Wirral South"
   },
   {
-    "id": 594,
+    "id": 593,
     "bathing": "SANDOWN, WHITECLIFF BAY, YAVERLAND, SHANKLIN",
-    "total_spill_hours": 1262.9288888878073,
+    "total_spill_hours": 1262.93,
     "lat": 50.664529,
     "lon": -1.150001,
     "pcon20nm": "Isle of Wight"
   },
   {
-    "id": 811,
+    "id": 810,
     "bathing": "Saundersfoot",
     "total_spill_hours": 1294.75,
     "lat": 51.710161,
@@ -7832,7 +7824,7 @@
     "pcon20nm": "Carmarthen West and South Pembrokeshire"
   },
   {
-    "id": 844,
+    "id": 843,
     "bathing": "Pembrey",
     "total_spill_hours": 1354.25,
     "lat": 51.675877,
@@ -7840,7 +7832,7 @@
     "pcon20nm": "Llanelli"
   },
   {
-    "id": 883,
+    "id": 882,
     "bathing": "Morfa Nefyn",
     "total_spill_hours": 1381.0,
     "lat": 52.938031,
@@ -7856,7 +7848,7 @@
     "pcon20nm": "St Austell and Newquay"
   },
   {
-    "id": 824,
+    "id": 823,
     "bathing": "Swansea Bay",
     "total_spill_hours": 1409.75,
     "lat": 51.551249,
@@ -7864,9 +7856,9 @@
     "pcon20nm": "Aberavon"
   },
   {
-    "id": 657,
+    "id": 656,
     "bathing": "BOGNOR REGIS EAST, FELPHAM, MIDDLETON-ON-SEA",
-    "total_spill_hours": 1411.2011111114407,
+    "total_spill_hours": 1411.2,
     "lat": 50.820698,
     "lon": -0.659973,
     "pcon20nm": "Arundel and South Downs"
@@ -7880,7 +7872,7 @@
     "pcon20nm": "Westmorland and Lonsdale"
   },
   {
-    "id": 774,
+    "id": 773,
     "bathing": "Aberystwyth South",
     "total_spill_hours": 1470.75,
     "lat": 52.379194,
@@ -7906,13 +7898,13 @@
   {
     "id": 372,
     "bathing": "Druridge Bay North",
-    "total_spill_hours": 1518.428611111769,
+    "total_spill_hours": 1518.43,
     "lat": 55.294515,
     "lon": -1.592275,
     "pcon20nm": "Berwick-upon-Tweed"
   },
   {
-    "id": 839,
+    "id": 838,
     "bathing": "Poppit West",
     "total_spill_hours": 1518.5,
     "lat": 52.090008,
@@ -7928,7 +7920,7 @@
     "pcon20nm": "Wirral South"
   },
   {
-    "id": 779,
+    "id": 778,
     "bathing": "Caerfai",
     "total_spill_hours": 1573.75,
     "lat": 51.867456,
@@ -7936,7 +7928,7 @@
     "pcon20nm": "Preseli Pembrokeshire"
   },
   {
-    "id": 784,
+    "id": 783,
     "bathing": "West Angle",
     "total_spill_hours": 1589.75,
     "lat": 51.684644,
@@ -7944,7 +7936,7 @@
     "pcon20nm": "Carmarthen West and South Pembrokeshire"
   },
   {
-    "id": 933,
+    "id": 932,
     "bathing": "Rhyl",
     "total_spill_hours": 1612.75,
     "lat": 53.123112,
@@ -7976,7 +7968,7 @@
     "pcon20nm": "Camborne and Redruth"
   },
   {
-    "id": 927,
+    "id": 926,
     "bathing": "Llandanwg",
     "total_spill_hours": 1810.75,
     "lat": 52.826007,
@@ -7984,7 +7976,7 @@
     "pcon20nm": "Dwyfor Meirionnydd"
   },
   {
-    "id": 907,
+    "id": 906,
     "bathing": "Tywyn",
     "total_spill_hours": 1817.5,
     "lat": 52.595602,
@@ -8016,7 +8008,7 @@
     "pcon20nm": "Lancaster and Fleetwood"
   },
   {
-    "id": 918,
+    "id": 917,
     "bathing": "Aberffraw",
     "total_spill_hours": 2104.5,
     "lat": 53.178966,
@@ -8032,7 +8024,7 @@
     "pcon20nm": "South Ribble"
   },
   {
-    "id": 826,
+    "id": 825,
     "bathing": "Newport N",
     "total_spill_hours": 2423.25,
     "lat": 52.021185,
@@ -8040,7 +8032,7 @@
     "pcon20nm": "Preseli Pembrokeshire"
   },
   {
-    "id": 921,
+    "id": 920,
     "bathing": "Morfa Nefyn",
     "total_spill_hours": 2454.25,
     "lat": 52.928416,
@@ -8056,7 +8048,7 @@
     "pcon20nm": "Wirral South"
   },
   {
-    "id": 915,
+    "id": 914,
     "bathing": "Penmaenmawr",
     "total_spill_hours": 2574.0,
     "lat": 53.284769,
@@ -8064,7 +8056,7 @@
     "pcon20nm": "Aberconwy"
   },
   {
-    "id": 767,
+    "id": 766,
     "bathing": "Pendine",
     "total_spill_hours": 3264.75,
     "lat": 51.742411,

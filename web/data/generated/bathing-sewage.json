@@ -27,7 +27,7 @@
     "company_name": "United Utilities",
     "bathing": "Haverigg, Walney Biggar Bank, Walney West Shore, and Walney Sandy Gap",
     "total_count": 401.0,
-    "total_hours": 6522.2300000000005,
+    "total_hours": 6522.23,
     "spills_increase": -304.0,
     "hours_increase": -4653.08
   },
@@ -37,13 +37,13 @@
     "total_count": 909.0,
     "total_hours": 6317.64,
     "spills_increase": -90.0,
-    "hours_increase": 56.9600000000001
+    "hours_increase": 56.96
   },
   {
     "company_name": "United Utilities",
     "bathing": "Seascale",
     "total_count": 774.0,
-    "total_hours": 6293.7699999999995,
+    "total_hours": 6293.77,
     "spills_increase": -506.0,
     "hours_increase": -3147.07
   },
@@ -99,9 +99,9 @@
     "company_name": "South West Water",
     "bathing": "EAST LOOE BEACH",
     "total_count": 549.0,
-    "total_hours": 3257.5299999999997,
+    "total_hours": 3257.53,
     "spills_increase": 49.0,
-    "hours_increase": 40.19999999999989
+    "hours_increase": 40.2
   },
   {
     "company_name": "United Utilities",
@@ -131,9 +131,9 @@
     "company_name": "Southern Water",
     "bathing": "COWES, GURNARD",
     "total_count": 498.41,
-    "total_hours": 2638.875833332364,
+    "total_hours": 2638.87,
     "spills_increase": 498.41,
-    "hours_increase": 2638.875833332364
+    "hours_increase": 2638.87
   },
   {
     "company_name": "United Utilities",
@@ -141,7 +141,7 @@
     "total_count": 415.0,
     "total_hours": 2564.86,
     "spills_increase": -97.0,
-    "hours_increase": -0.4299999999999988
+    "hours_increase": -0.43
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -181,7 +181,7 @@
     "total_count": 320.0,
     "total_hours": 2221.67,
     "spills_increase": 32.0,
-    "hours_increase": 430.09000000000003
+    "hours_increase": 430.09
   },
   {
     "company_name": "South West Water",
@@ -195,9 +195,9 @@
     "company_name": "Southern Water",
     "bathing": "SANDOWN, WHITECLIFF BAY, YAVERLAND, SHANKLIN",
     "total_count": 177.0,
-    "total_hours": 2176.7758333325037,
+    "total_hours": 2176.78,
     "spills_increase": 177.0,
-    "hours_increase": 2176.7758333325037
+    "hours_increase": 2176.78
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -211,9 +211,9 @@
     "company_name": "Northumbrian Water",
     "bathing": "Druridge Bay North",
     "total_count": 141.0,
-    "total_hours": 2122.9047222228837,
+    "total_hours": 2122.91,
     "spills_increase": 141.0,
-    "hours_increase": 2122.9047222228837
+    "hours_increase": 2122.91
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -315,9 +315,9 @@
     "company_name": "Yorkshire Water",
     "bathing": "Indirectly via Scalby Beck to Scarborough North Bay",
     "total_count": 176.0,
-    "total_hours": 1621.8330555555553,
+    "total_hours": 1621.8,
     "spills_increase": 176.0,
-    "hours_increase": 1621.8330555555553
+    "hours_increase": 1621.8
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -339,9 +339,9 @@
     "company_name": "Northumbrian Water",
     "bathing": "Spittal",
     "total_count": 679.0,
-    "total_hours": 1462.3316666669255,
+    "total_hours": 1462.34,
     "spills_increase": 127.0,
-    "hours_increase": 459.9916666669254
+    "hours_increase": 460.0
   },
   {
     "company_name": "United Utilities",
@@ -371,9 +371,9 @@
     "company_name": "Southern Water",
     "bathing": "BOGNOR REGIS EAST, FELPHAM, MIDDLETON-ON-SEA",
     "total_count": 86.0,
-    "total_hours": 1411.2011111114407,
+    "total_hours": 1411.2,
     "spills_increase": 86.0,
-    "hours_increase": 1411.2011111114407
+    "hours_increase": 1411.2
   },
   {
     "company_name": "South West Water",
@@ -381,7 +381,7 @@
     "total_count": 157.0,
     "total_hours": 1377.09,
     "spills_increase": 32.0,
-    "hours_increase": 310.0799999999999
+    "hours_increase": 310.08
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -411,41 +411,41 @@
     "company_name": "South West Water",
     "bathing": "PENTEWAN BEACH",
     "total_count": 102.0,
-    "total_hours": 1343.1699999999998,
+    "total_hours": 1343.17,
     "spills_increase": -45.0,
-    "hours_increase": -1454.6200000000001
+    "hours_increase": -1454.62
   },
   {
     "company_name": "Wessex Water",
     "bathing": "CLEVEDON BEACH",
     "total_count": 170.0,
-    "total_hours": 1250.3913888830848,
+    "total_hours": 1250.4,
     "spills_increase": -33.0,
-    "hours_increase": -723.5486111169153
+    "hours_increase": -723.54
   },
   {
     "company_name": "Northumbrian Water",
     "bathing": "Redcar Coatham",
     "total_count": 163.0,
-    "total_hours": 1233.2419444444706,
+    "total_hours": 1233.24,
     "spills_increase": 128.0,
-    "hours_increase": 1181.7519444444706
+    "hours_increase": 1181.75
   },
   {
     "company_name": "Wessex Water",
     "bathing": "BLUE ANCHOR WEST",
     "total_count": 137.0,
-    "total_hours": 1217.2408333340318,
+    "total_hours": 1217.3,
     "spills_increase": -66.0,
-    "hours_increase": -1815.2591666659682
+    "hours_increase": -1815.2
   },
   {
     "company_name": "Southern Water",
     "bathing": "HYTHE, SANDGATE",
     "total_count": 145.0,
-    "total_hours": 1215.7980555557879,
+    "total_hours": 1215.8,
     "spills_increase": 145.0,
-    "hours_increase": 1215.7980555557879
+    "hours_increase": 1215.8
   },
   {
     "company_name": "South West Water",
@@ -453,15 +453,15 @@
     "total_count": 93.0,
     "total_hours": 1175.14,
     "spills_increase": -30.0,
-    "hours_increase": -530.5099999999999
+    "hours_increase": -530.51
   },
   {
     "company_name": "Northumbrian Water",
     "bathing": "Saltburn Pier",
     "total_count": 131.0,
-    "total_hours": 1173.0744444429913,
+    "total_hours": 1173.083611,
     "spills_increase": 17.0,
-    "hours_increase": 179.70444444299133
+    "hours_increase": 179.713611
   },
   {
     "company_name": "United Utilities",
@@ -507,9 +507,9 @@
     "company_name": "Southern Water",
     "bathing": "PAGHAM",
     "total_count": 80.0,
-    "total_hours": 1079.69166666636,
+    "total_hours": 1079.7,
     "spills_increase": 80.0,
-    "hours_increase": 1079.69166666636
+    "hours_increase": 1079.7
   },
   {
     "company_name": "United Utilities",
@@ -531,9 +531,9 @@
     "company_name": "Southern Water",
     "bathing": "COWES, RYDE, SEAGROVE",
     "total_count": 99.0,
-    "total_hours": 1049.743888889614,
+    "total_hours": 1049.74,
     "spills_increase": 99.0,
-    "hours_increase": 1049.743888889614
+    "hours_increase": 1049.74
   },
   {
     "company_name": "United Utilities",
@@ -547,17 +547,17 @@
     "company_name": "Northumbrian Water",
     "bathing": "Crimdon",
     "total_count": 83.0,
-    "total_hours": 998.2505555559105,
+    "total_hours": 998.25,
     "spills_increase": -5.0,
-    "hours_increase": 134.7705555559105
+    "hours_increase": 134.77
   },
   {
     "company_name": "Northumbrian Water",
     "bathing": "Newbiggin North & Newbiggin South",
     "total_count": 136.0,
-    "total_hours": 978.9355555561177,
+    "total_hours": 978.94,
     "spills_increase": 120.0,
-    "hours_increase": 965.1355555561178
+    "hours_increase": 965.14
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -571,25 +571,25 @@
     "company_name": "Yorkshire Water",
     "bathing": "Scarborough South Bay",
     "total_count": 87.0,
-    "total_hours": 957.0441666666667,
+    "total_hours": 957.0833333333334,
     "spills_increase": 87.0,
-    "hours_increase": 957.0441666666667
+    "hours_increase": 957.0833333333334
   },
   {
     "company_name": "Southern Water",
     "bathing": "HERNE BAY CENTRAL, TANKERTON",
     "total_count": 118.0,
-    "total_hours": 930.1691666660481,
+    "total_hours": 930.17,
     "spills_increase": 118.0,
-    "hours_increase": 930.1691666660481
+    "hours_increase": 930.17
   },
   {
     "company_name": "Southern Water",
     "bathing": "BEMBRIDGE, SEAGROVE, ST HELENS",
     "total_count": 128.0,
-    "total_hours": 925.2194444434717,
+    "total_hours": 925.2,
     "spills_increase": 128.0,
-    "hours_increase": 925.2194444434717
+    "hours_increase": 925.2
   },
   {
     "company_name": "South West Water",
@@ -611,17 +611,17 @@
     "company_name": "South West Water",
     "bathing": "LONG ROCK",
     "total_count": 261.0,
-    "total_hours": 873.5600000000001,
+    "total_hours": 873.56,
     "spills_increase": -37.0,
-    "hours_increase": -203.12999999999997
+    "hours_increase": -203.13
   },
   {
     "company_name": "Southern Water",
     "bathing": "BEMBRIDGE, ST HELENS",
     "total_count": 73.0,
-    "total_hours": 858.7591666675871,
+    "total_hours": 858.76,
     "spills_increase": 73.0,
-    "hours_increase": 858.7591666675871
+    "hours_increase": 858.76
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -635,9 +635,9 @@
     "company_name": "Northumbrian Water",
     "bathing": "Marske",
     "total_count": 177.0,
-    "total_hours": 818.7339280529413,
+    "total_hours": 818.736111,
     "spills_increase": 103.0,
-    "hours_increase": 714.2739280529413
+    "hours_increase": 714.276111
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -667,9 +667,9 @@
     "company_name": "Northumbrian Water",
     "bathing": "Blyth South Beach",
     "total_count": 90.0,
-    "total_hours": 775.3000000000001,
+    "total_hours": 775.3,
     "spills_increase": 45.0,
-    "hours_increase": 580.9400000000002
+    "hours_increase": 580.94
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -691,9 +691,9 @@
     "company_name": "Wessex Water",
     "bathing": "SEATOWN",
     "total_count": 68.0,
-    "total_hours": 716.5000000018626,
+    "total_hours": 716.5,
     "spills_increase": -23.0,
-    "hours_increase": -511.24999999813735
+    "hours_increase": -511.25
   },
   {
     "company_name": "South West Water",
@@ -707,9 +707,9 @@
     "company_name": "Southern Water",
     "bathing": "BEACHLANDS CENTRAL, BEACHLANDS WEST, EASTNEY, SOUTHSEA EAST",
     "total_count": 114.0,
-    "total_hours": 690.1719444411574,
+    "total_hours": 690.17,
     "spills_increase": 114.0,
-    "hours_increase": 690.1719444411574
+    "hours_increase": 690.17
   },
   {
     "company_name": "South West Water",
@@ -723,9 +723,9 @@
     "company_name": "Southern Water",
     "bathing": "SHEERNESS",
     "total_count": 114.0,
-    "total_hours": 672.4936111121206,
+    "total_hours": 672.49,
     "spills_increase": 114.0,
-    "hours_increase": 672.4936111121206
+    "hours_increase": 672.49
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -739,9 +739,9 @@
     "company_name": "Northumbrian Water",
     "bathing": "Seaham Hall",
     "total_count": 117.0,
-    "total_hours": 665.5336111111112,
+    "total_hours": 665.53,
     "spills_increase": 16.0,
-    "hours_increase": 301.0336111111112
+    "hours_increase": 301.03
   },
   {
     "company_name": "South West Water",
@@ -795,9 +795,9 @@
     "company_name": "Southern Water",
     "bathing": "LITTLEHAMPTON",
     "total_count": 149.0,
-    "total_hours": 622.2994444426149,
+    "total_hours": 622.3,
     "spills_increase": 149.0,
-    "hours_increase": 622.2994444426149
+    "hours_increase": 622.3
   },
   {
     "company_name": "South West Water",
@@ -805,7 +805,7 @@
     "total_count": 53.0,
     "total_hours": 617.82,
     "spills_increase": -40.0,
-    "hours_increase": -355.0199999999999
+    "hours_increase": -355.02
   },
   {
     "company_name": "United Utilities",
@@ -827,9 +827,9 @@
     "company_name": "Southern Water",
     "bathing": "LEE-ON-SOLENT, STOKES BAY",
     "total_count": 52.0,
-    "total_hours": 585.9744444453972,
+    "total_hours": 585.97,
     "spills_increase": 52.0,
-    "hours_increase": 585.9744444453972
+    "hours_increase": 585.97
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -843,9 +843,9 @@
     "company_name": "Southern Water",
     "bathing": "CAMBER",
     "total_count": 46.0,
-    "total_hours": 561.6636111113476,
+    "total_hours": 561.66,
     "spills_increase": 46.0,
-    "hours_increase": 561.6636111113476
+    "hours_increase": 561.66
   },
   {
     "company_name": "South West Water",
@@ -859,9 +859,9 @@
     "company_name": "Northumbrian Water",
     "bathing": "Seaham Beach",
     "total_count": 69.0,
-    "total_hours": 552.9666666666666,
+    "total_hours": 552.97,
     "spills_increase": 24.0,
-    "hours_increase": 280.99666666666656
+    "hours_increase": 281.0
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -947,17 +947,17 @@
     "company_name": "Northumbrian Water",
     "bathing": "Warkworth & Amble Links",
     "total_count": 141.0,
-    "total_hours": 453.3188888887216,
+    "total_hours": 453.32,
     "spills_increase": 39.0,
-    "hours_increase": 274.1288888887216
+    "hours_increase": 274.13
   },
   {
     "company_name": "Southern Water",
     "bathing": "HERNE BAY",
     "total_count": 35.0,
-    "total_hours": 448.7116666669026,
+    "total_hours": 448.71,
     "spills_increase": 35.0,
-    "hours_increase": 448.7116666669026
+    "hours_increase": 448.71
   },
   {
     "company_name": "South West Water",
@@ -971,9 +971,9 @@
     "company_name": "Northumbrian Water",
     "bathing": "Redcar Sands - Granville Terrace",
     "total_count": 72.0,
-    "total_hours": 444.8666666666667,
+    "total_hours": 444.87,
     "spills_increase": 39.0,
-    "hours_increase": 287.83666666666664
+    "hours_increase": 287.84
   },
   {
     "company_name": "South West Water",
@@ -987,17 +987,17 @@
     "company_name": "Wessex Water",
     "bathing": "CHRISTCHURCH AVON BEACH/CHRISTCHURCH FRIAR'S CLIFF",
     "total_count": 72.0,
-    "total_hours": 434.5653888811388,
+    "total_hours": 434.7,
     "spills_increase": -35.0,
-    "hours_increase": -486.3246111188612
+    "hours_increase": -486.19
   },
   {
     "company_name": "Northumbrian Water",
     "bathing": "Seaton Carew (North)",
     "total_count": 96.0,
-    "total_hours": 429.6294444478699,
+    "total_hours": 429.63,
     "spills_increase": -7.0,
-    "hours_increase": 82.6494444478699
+    "hours_increase": 82.65
   },
   {
     "company_name": "South West Water",
@@ -1019,9 +1019,9 @@
     "company_name": "Northumbrian Water",
     "bathing": "Beadnell",
     "total_count": 61.0,
-    "total_hours": 393.3888888898655,
+    "total_hours": 393.39,
     "spills_increase": 19.0,
-    "hours_increase": 287.90888888986547
+    "hours_increase": 287.91
   },
   {
     "company_name": "South West Water",
@@ -1075,9 +1075,9 @@
     "company_name": "Southern Water",
     "bathing": "HILLHEAD",
     "total_count": 44.0,
-    "total_hours": 364.33222222159384,
+    "total_hours": 364.33,
     "spills_increase": 44.0,
-    "hours_increase": 364.33222222159384
+    "hours_increase": 364.33
   },
   {
     "company_name": "South West Water",
@@ -1099,17 +1099,17 @@
     "company_name": "Southern Water",
     "bathing": "RYDE",
     "total_count": 111.0,
-    "total_hours": 333.5833333345363,
+    "total_hours": 333.58,
     "spills_increase": 111.0,
-    "hours_increase": 333.5833333345363
+    "hours_increase": 333.58
   },
   {
     "company_name": "Southern Water",
     "bathing": "SEAFORD",
     "total_count": 90.0,
-    "total_hours": 328.6658333345549,
+    "total_hours": 328.67,
     "spills_increase": 90.0,
-    "hours_increase": 328.6658333345549
+    "hours_increase": 328.67
   },
   {
     "company_name": "Anglian Water",
@@ -1187,9 +1187,9 @@
     "company_name": "Wessex Water",
     "bathing": "POOLE HARBOUR ROCKLEY SANDS",
     "total_count": 45.0,
-    "total_hours": 268.26,
+    "total_hours": 268.3,
     "spills_increase": -4.0,
-    "hours_increase": -169.74
+    "hours_increase": -169.7
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -1203,9 +1203,9 @@
     "company_name": "Southern Water",
     "bathing": "SOUTHSEA, STOKES BAY",
     "total_count": 120.0,
-    "total_hours": 257.3280555566889,
+    "total_hours": 257.33,
     "spills_increase": 120.0,
-    "hours_increase": 257.3280555566889
+    "hours_increase": 257.33
   },
   {
     "company_name": "South West Water",
@@ -1243,9 +1243,9 @@
     "company_name": "Southern Water",
     "bathing": "LEYSDOWN",
     "total_count": 39.0,
-    "total_hours": 238.84277777705574,
+    "total_hours": 238.85,
     "spills_increase": 39.0,
-    "hours_increase": 238.84277777705574
+    "hours_increase": 238.85
   },
   {
     "company_name": "United Utilities",
@@ -1259,9 +1259,9 @@
     "company_name": "Southern Water",
     "bathing": "BOGNOR REGIS (ALDWICK), BOGNOR REGIS EAST, FELPHAM, PAGHAM",
     "total_count": 53.0,
-    "total_hours": 233.0405555558391,
+    "total_hours": 233.04,
     "spills_increase": 53.0,
-    "hours_increase": 233.0405555558391
+    "hours_increase": 233.04
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -1283,9 +1283,9 @@
     "company_name": "Yorkshire Water",
     "bathing": "Bridlington South Bay",
     "total_count": 132.0,
-    "total_hours": 217.59166666666593,
+    "total_hours": 217.6,
     "spills_increase": 132.0,
-    "hours_increase": 217.59166666666593
+    "hours_increase": 217.6
   },
   {
     "company_name": "South West Water",
@@ -1307,9 +1307,9 @@
     "company_name": "Southern Water",
     "bathing": "RYDE, SEAGROVE",
     "total_count": 51.0,
-    "total_hours": 215.22027777781477,
+    "total_hours": 215.22,
     "spills_increase": 51.0,
-    "hours_increase": 215.22027777781477
+    "hours_increase": 215.22
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -1323,9 +1323,9 @@
     "company_name": "Southern Water",
     "bathing": "BEXHILL",
     "total_count": 25.0,
-    "total_hours": 208.31277777819196,
+    "total_hours": 208.32,
     "spills_increase": 25.0,
-    "hours_increase": 208.31277777819196
+    "hours_increase": 208.32
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -1363,17 +1363,17 @@
     "company_name": "Southern Water",
     "bathing": "ST HELENS",
     "total_count": 37.0,
-    "total_hours": 200.6527777776355,
+    "total_hours": 200.66,
     "spills_increase": 37.0,
-    "hours_increase": 200.6527777776355
+    "hours_increase": 200.66
   },
   {
     "company_name": "Wessex Water",
     "bathing": "MINEHEAD TERMINUS",
     "total_count": 51.0,
-    "total_hours": 190.1666666666667,
+    "total_hours": 190.1,
     "spills_increase": -29.0,
-    "hours_increase": -363.8333333333333
+    "hours_increase": -363.9
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -1387,9 +1387,9 @@
     "company_name": "Southern Water",
     "bathing": "STOKES BAY, SOUTHSEA",
     "total_count": 55.0,
-    "total_hours": 186.04694444459165,
+    "total_hours": 186.05,
     "spills_increase": 55.0,
-    "hours_increase": 186.04694444459165
+    "hours_increase": 186.05
   },
   {
     "company_name": "South West Water",
@@ -1443,9 +1443,9 @@
     "company_name": "Southern Water",
     "bathing": "MINSTER LEAS, SHEERNESS",
     "total_count": 24.0,
-    "total_hours": 174.73361111112172,
+    "total_hours": 174.74,
     "spills_increase": 24.0,
-    "hours_increase": 174.73361111112172
+    "hours_increase": 174.74
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -1467,9 +1467,9 @@
     "company_name": "Wessex Water",
     "bathing": "BURNHAM JETTY NORTH",
     "total_count": 102.0,
-    "total_hours": 168.488888882968,
+    "total_hours": 168.5,
     "spills_increase": -2.0,
-    "hours_increase": -60.561111117031984
+    "hours_increase": -60.55
   },
   {
     "company_name": "South West Water",
@@ -1491,17 +1491,17 @@
     "company_name": "Southern Water",
     "bathing": "FOLKESTONE",
     "total_count": 31.0,
-    "total_hours": 164.25638888933463,
+    "total_hours": 164.25,
     "spills_increase": 31.0,
-    "hours_increase": 164.25638888933463
+    "hours_increase": 164.25
   },
   {
     "company_name": "Northumbrian Water",
     "bathing": "Whitley Bay",
     "total_count": 41.0,
-    "total_hours": 162.76805555750616,
+    "total_hours": 162.77,
     "spills_increase": 11.0,
-    "hours_increase": 87.36805555750615
+    "hours_increase": 87.37
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -1523,17 +1523,17 @@
     "company_name": "Southern Water",
     "bathing": "LITTLESTONE, ST MARYS BAY (KENT)",
     "total_count": 13.0,
-    "total_hours": 157.953611111152,
+    "total_hours": 157.95,
     "spills_increase": 13.0,
-    "hours_increase": 157.953611111152
+    "hours_increase": 157.95
   },
   {
     "company_name": "Southern Water",
     "bathing": "VENTNOR",
     "total_count": 15.0,
-    "total_hours": 155.30277777806623,
+    "total_hours": 155.3,
     "spills_increase": 15.0,
-    "hours_increase": 155.30277777806623
+    "hours_increase": 155.3
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -1563,17 +1563,17 @@
     "company_name": "Southern Water",
     "bathing": "SOUTHSEA EAST, STOKES BAY",
     "total_count": 35.0,
-    "total_hours": 151.1769444452366,
+    "total_hours": 151.18,
     "spills_increase": 35.0,
-    "hours_increase": 151.1769444452366
+    "hours_increase": 151.18
   },
   {
     "company_name": "Southern Water",
     "bathing": "TANKERTON, WEST BEACH WHITSTABLE",
     "total_count": 71.0,
-    "total_hours": 149.7825000010198,
+    "total_hours": 149.78,
     "spills_increase": 71.0,
-    "hours_increase": 149.7825000010198
+    "hours_increase": 149.78
   },
   {
     "company_name": "South West Water",
@@ -1605,7 +1605,7 @@
     "total_count": 67.0,
     "total_hours": 137.77,
     "spills_increase": -12.0,
-    "hours_increase": 21.90000000000001
+    "hours_increase": 21.9
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -1619,57 +1619,57 @@
     "company_name": "Wessex Water",
     "bathing": "CHARMOUTH WEST",
     "total_count": 70.0,
-    "total_hours": 133.32555555566447,
+    "total_hours": 133.4,
     "spills_increase": -22.0,
-    "hours_increase": -146.18444444433553
+    "hours_increase": -146.11
   },
   {
     "company_name": "Southern Water",
     "bathing": "COLWELL BAY, TOTLAND BAY",
     "total_count": 39.0,
-    "total_hours": 132.9730555554852,
+    "total_hours": 132.97,
     "spills_increase": 39.0,
-    "hours_increase": 132.9730555554852
+    "hours_increase": 132.97
   },
   {
     "company_name": "Southern Water",
     "bathing": "HERNE BAY, HERNE BAY CENTRAL",
     "total_count": 47.0,
-    "total_hours": 132.78333333291812,
+    "total_hours": 132.79,
     "spills_increase": 47.0,
-    "hours_increase": 132.78333333291812
+    "hours_increase": 132.79
   },
   {
     "company_name": "Southern Water",
     "bathing": "RYDE, SEAGROVE, ST HELENS",
     "total_count": 35.0,
-    "total_hours": 128.25166666612495,
+    "total_hours": 128.26,
     "spills_increase": 35.0,
-    "hours_increase": 128.25166666612495
+    "hours_increase": 128.26
   },
   {
     "company_name": "Wessex Water",
     "bathing": "PORLOCK WEIR",
     "total_count": 29.0,
-    "total_hours": 122.71666666666667,
+    "total_hours": 122.7,
     "spills_increase": -36.0,
-    "hours_increase": -736.6133333333333
+    "hours_increase": -736.63
   },
   {
     "company_name": "Northumbrian Water",
     "bathing": "Seaburn (Whitburn North)",
     "total_count": 33.0,
-    "total_hours": 120.04916666654171,
+    "total_hours": 120.05,
     "spills_increase": 10.0,
-    "hours_increase": 52.12916666654171
+    "hours_increase": 52.13
   },
   {
     "company_name": "Southern Water",
     "bathing": "CALSHOT",
     "total_count": 15.0,
-    "total_hours": 118.37388888909481,
+    "total_hours": 118.37,
     "spills_increase": 15.0,
-    "hours_increase": 118.37388888909481
+    "hours_increase": 118.37
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -1707,9 +1707,9 @@
     "company_name": "Wessex Water",
     "bathing": "SWANAGE CENTRAL",
     "total_count": 33.0,
-    "total_hours": 98.55361111481906,
+    "total_hours": 98.6,
     "spills_increase": -7.0,
-    "hours_increase": -62.69638888518093
+    "hours_increase": -62.65
   },
   {
     "company_name": "United Utilities",
@@ -1723,9 +1723,9 @@
     "company_name": "South West Water",
     "bathing": "BEACON COVE BEACH",
     "total_count": 69.0,
-    "total_hours": 91.36999999999999,
+    "total_hours": 91.37,
     "spills_increase": 5.0,
-    "hours_increase": 10.709999999999997
+    "hours_increase": 10.71
   },
   {
     "company_name": "South West Water",
@@ -1779,9 +1779,9 @@
     "company_name": "Southern Water",
     "bathing": "BEXHILL, NORMANS BAY",
     "total_count": 22.0,
-    "total_hours": 80.57388888899004,
+    "total_hours": 80.57,
     "spills_increase": 22.0,
-    "hours_increase": 80.57388888899004
+    "hours_increase": 80.57
   },
   {
     "company_name": "South West Water",
@@ -1811,9 +1811,9 @@
     "company_name": "Wessex Water",
     "bathing": "CHURCH OPE COVE",
     "total_count": 26.0,
-    "total_hours": 73.33333333348855,
+    "total_hours": 73.3,
     "spills_increase": 26.0,
-    "hours_increase": 73.33333333348855
+    "hours_increase": 73.3
   },
   {
     "company_name": "South West Water",
@@ -1837,7 +1837,7 @@
     "total_count": 48.0,
     "total_hours": 65.46,
     "spills_increase": -31.0,
-    "hours_increase": -73.96000000000001
+    "hours_increase": -73.96
   },
   {
     "company_name": "South West Water",
@@ -1851,9 +1851,9 @@
     "company_name": "Northumbrian Water",
     "bathing": "Marsden",
     "total_count": 19.0,
-    "total_hours": 61.83333333333332,
+    "total_hours": 61.83,
     "spills_increase": -2.0,
-    "hours_increase": 7.663333333333321
+    "hours_increase": 7.66
   },
   {
     "company_name": "South West Water",
@@ -1875,9 +1875,9 @@
     "company_name": "Southern Water",
     "bathing": "LANCING BEACH GREEN, WORTHING",
     "total_count": 34.0,
-    "total_hours": 58.06416666659061,
+    "total_hours": 58.06,
     "spills_increase": 34.0,
-    "hours_increase": 58.06416666659061
+    "hours_increase": 58.06
   },
   {
     "company_name": "South West Water",
@@ -1923,17 +1923,9 @@
     "company_name": "Wessex Water",
     "bathing": "BOURNEMOUTH HENGISTBURY WEST",
     "total_count": 20.0,
-    "total_hours": 50.75,
+    "total_hours": 50.8,
     "spills_increase": -5.0,
-    "hours_increase": -16.0
-  },
-  {
-    "company_name": "South West Water",
-    "bathing": "SALCOMBE SOUTH SANDS",
-    "total_count": 54.0,
-    "total_hours": 47.980000000000004,
-    "spills_increase": 28.0,
-    "hours_increase": -45.44
+    "hours_increase": -15.95
   },
   {
     "company_name": "South West Water",
@@ -1944,12 +1936,20 @@
     "hours_increase": -728.85
   },
   {
+    "company_name": "South West Water",
+    "bathing": "SALCOMBE SOUTH SANDS",
+    "total_count": 54.0,
+    "total_hours": 47.98,
+    "spills_increase": 28.0,
+    "hours_increase": -45.44
+  },
+  {
     "company_name": "Wessex Water",
     "bathing": "WESTON-SUPER-MARE UPHILL SLIPWAY/WESTON MAIN",
     "total_count": 13.0,
-    "total_hours": 47.45,
+    "total_hours": 47.5,
     "spills_increase": -8.0,
-    "hours_increase": -72.62
+    "hours_increase": -72.57
   },
   {
     "company_name": "Anglian Water",
@@ -1971,9 +1971,9 @@
     "company_name": "Southern Water",
     "bathing": "HASTINGS PELHAM BEACH, ST LEONARDS",
     "total_count": 22.0,
-    "total_hours": 43.455555555119645,
+    "total_hours": 43.45,
     "spills_increase": 22.0,
-    "hours_increase": 43.455555555119645
+    "hours_increase": 43.45
   },
   {
     "company_name": "South West Water",
@@ -1987,17 +1987,17 @@
     "company_name": "Southern Water",
     "bathing": "SANDOWN, SHANKLIN, YAVERLAND",
     "total_count": 21.0,
-    "total_hours": 38.845000000088476,
+    "total_hours": 38.84,
     "spills_increase": 21.0,
-    "hours_increase": 38.845000000088476
+    "hours_increase": 38.84
   },
   {
     "company_name": "Wessex Water",
     "bathing": "POOLE SHORE ROAD BEACH",
     "total_count": 26.0,
-    "total_hours": 38.61,
+    "total_hours": 38.6,
     "spills_increase": -27.0,
-    "hours_increase": -44.39
+    "hours_increase": -44.4
   },
   {
     "company_name": "Anglian Water",
@@ -2011,9 +2011,9 @@
     "company_name": "Northumbrian Water",
     "bathing": "Seahouses North",
     "total_count": 6.0,
-    "total_hours": 37.31222222239399,
+    "total_hours": 37.313333,
     "spills_increase": -8.0,
-    "hours_increase": 26.392222222393993
+    "hours_increase": 26.393333
   },
   {
     "company_name": "Yorkshire Water",
@@ -2027,9 +2027,9 @@
     "company_name": "Wessex Water",
     "bathing": "WEST BAY (WEST)",
     "total_count": 13.0,
-    "total_hours": 36.9166666666667,
+    "total_hours": 36.9,
     "spills_increase": -1.0,
-    "hours_increase": -11.5033333333333
+    "hours_increase": -11.52
   },
   {
     "company_name": "Anglian Water",
@@ -2059,9 +2059,9 @@
     "company_name": "Southern Water",
     "bathing": "BOGNOR REGIS (ALDWICK), BOGNOR REGIS EAST, FELPHAM, MIDDLETON-ON-SEA",
     "total_count": 13.0,
-    "total_hours": 33.38694444444263,
+    "total_hours": 33.39,
     "spills_increase": 13.0,
-    "hours_increase": 33.38694444444263
+    "hours_increase": 33.39
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -2075,9 +2075,9 @@
     "company_name": "Southern Water",
     "bathing": "COLWELL BAY",
     "total_count": 16.0,
-    "total_hours": 29.824444444093388,
+    "total_hours": 29.83,
     "spills_increase": 16.0,
-    "hours_increase": 29.824444444093388
+    "hours_increase": 29.83
   },
   {
     "company_name": "South West Water",
@@ -2115,25 +2115,25 @@
     "company_name": "Yorkshire Water",
     "bathing": "Bridlington North Bay",
     "total_count": 34.0,
-    "total_hours": 25.4333333333333,
+    "total_hours": 25.4,
     "spills_increase": 34.0,
-    "hours_increase": 25.4333333333333
+    "hours_increase": 25.4
   },
   {
     "company_name": "Northumbrian Water",
     "bathing": "Bamburgh Castle",
     "total_count": 10.0,
-    "total_hours": 25.392222221998964,
+    "total_hours": 25.39,
     "spills_increase": 8.0,
-    "hours_increase": 22.012222221998964
+    "hours_increase": 22.01
   },
   {
     "company_name": "Southern Water",
     "bathing": "BOTANY BAY BROADSTAIRS, BROADSTAIRS STONE BAY, JOSS BAY BROADSTAIRS, MARGATE FULSAM ROCK, MARGATE THE BAY, WALPOLE BAY MARGATE",
     "total_count": 11.0,
-    "total_hours": 24.654444444633555,
+    "total_hours": 24.66,
     "spills_increase": 11.0,
-    "hours_increase": 24.654444444633555
+    "hours_increase": 24.66
   },
   {
     "company_name": "South West Water",
@@ -2147,17 +2147,17 @@
     "company_name": "Wessex Water",
     "bathing": "BOURNEMOUTH PIER",
     "total_count": 7.0,
-    "total_hours": 23.75,
+    "total_hours": 23.8,
     "spills_increase": 0.0,
-    "hours_increase": -1.25
+    "hours_increase": -1.2
   },
   {
     "company_name": "Wessex Water",
     "bathing": "POOLE HARBOUR ROCKLEY SANDS**",
     "total_count": 6.0,
-    "total_hours": 22.807916666264646,
+    "total_hours": 22.8,
     "spills_increase": 6.0,
-    "hours_increase": 22.807916666264646
+    "hours_increase": 22.8
   },
   {
     "company_name": "South West Water",
@@ -2171,9 +2171,9 @@
     "company_name": "Southern Water",
     "bathing": "BIRLING GAP",
     "total_count": 12.0,
-    "total_hours": 21.116111110837664,
+    "total_hours": 21.12,
     "spills_increase": 12.0,
-    "hours_increase": 21.116111110837664
+    "hours_increase": 21.12
   },
   {
     "company_name": "Anglian Water",
@@ -2187,9 +2187,9 @@
     "company_name": "Southern Water",
     "bathing": "CHRISTCHURCH BAY, HIGHCLIFFE, MILFORD-ON-SEA",
     "total_count": 6.0,
-    "total_hours": 19.334444444510154,
+    "total_hours": 19.33,
     "spills_increase": 6.0,
-    "hours_increase": 19.334444444510154
+    "hours_increase": 19.33
   },
   {
     "company_name": "United Utilities",
@@ -2203,25 +2203,25 @@
     "company_name": "Yorkshire Water",
     "bathing": "Indirectly to Flamborough South",
     "total_count": 8.0,
-    "total_hours": 17.45,
+    "total_hours": 17.4,
     "spills_increase": 8.0,
-    "hours_increase": 17.45
+    "hours_increase": 17.4
   },
   {
     "company_name": "Southern Water",
     "bathing": "RAMSGATE SANDS, RAMSGATE WESTERN UNDERCLIFFE",
     "total_count": 6.0,
-    "total_hours": 16.899999999906868,
+    "total_hours": 16.9,
     "spills_increase": 6.0,
-    "hours_increase": 16.899999999906868
+    "hours_increase": 16.9
   },
   {
     "company_name": "Southern Water",
     "bathing": "PEVENSEY BAY",
     "total_count": 9.0,
-    "total_hours": 16.820833333418705,
+    "total_hours": 16.82,
     "spills_increase": 9.0,
-    "hours_increase": 16.820833333418705
+    "hours_increase": 16.82
   },
   {
     "company_name": "Anglian Water",
@@ -2235,9 +2235,9 @@
     "company_name": "Wessex Water",
     "bathing": "LULWORTH COVE",
     "total_count": 16.0,
-    "total_hours": 15.41666666666667,
+    "total_hours": 15.4,
     "spills_increase": -52.0,
-    "hours_increase": -631.5233333333333
+    "hours_increase": -631.54
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -2259,17 +2259,17 @@
     "company_name": "Northumbrian Water",
     "bathing": "Tynemouth Longsands South",
     "total_count": 4.0,
-    "total_hours": 13.221388888719957,
+    "total_hours": 13.22,
     "spills_increase": 0.0,
-    "hours_increase": 12.891388888719957
+    "hours_increase": 12.89
   },
   {
     "company_name": "Southern Water",
     "bathing": "SHANKLIN, VENTNOR",
     "total_count": 10.0,
-    "total_hours": 11.648333333199844,
+    "total_hours": 11.65,
     "spills_increase": 10.0,
-    "hours_increase": 11.648333333199844
+    "hours_increase": 11.65
   },
   {
     "company_name": "South West Water",
@@ -2299,25 +2299,25 @@
     "company_name": "Wessex Water",
     "bathing": "WEYMOUTH CENTRAL",
     "total_count": 9.0,
-    "total_hours": 10.83333333333333,
+    "total_hours": 10.8,
     "spills_increase": -6.0,
-    "hours_increase": -22.86666666666667
+    "hours_increase": -22.9
   },
   {
     "company_name": "Wessex Water",
     "bathing": "BOURNEMOUTH BOSCOMBE PIER",
     "total_count": 11.0,
-    "total_hours": 10.25,
+    "total_hours": 10.2,
     "spills_increase": 5.0,
-    "hours_increase": 5.25
+    "hours_increase": 5.2
   },
   {
     "company_name": "Southern Water",
     "bathing": "BOTANY BAY BROADSTAIRS, BROADSTAIRS STONE BAY, BROADSTAIRS VIKING BAY, JOSS BAY BROADSTAIRS",
     "total_count": 6.0,
-    "total_hours": 10.063055555394385,
+    "total_hours": 10.06,
     "spills_increase": 6.0,
-    "hours_increase": 10.063055555394385
+    "hours_increase": 10.06
   },
   {
     "company_name": "Anglian Water",
@@ -2341,55 +2341,55 @@
     "total_count": 9.0,
     "total_hours": 9.37,
     "spills_increase": 4.0,
-    "hours_increase": 5.369999999999999
+    "hours_increase": 5.37
   },
   {
     "company_name": "Southern Water",
     "bathing": "SANDOWN, SHANKLIN",
     "total_count": 4.0,
-    "total_hours": 9.16666666668607,
+    "total_hours": 9.17,
     "spills_increase": 4.0,
-    "hours_increase": 9.16666666668607
+    "hours_increase": 9.17
   },
   {
     "company_name": "Southern Water",
     "bathing": "LANCING BEACH GREEN, SHOREHAM BEACH, SOUTHWICK",
     "total_count": 7.0,
-    "total_hours": 8.208611111040227,
+    "total_hours": 8.21,
     "spills_increase": 7.0,
-    "hours_increase": 8.208611111040227
+    "hours_increase": 8.21
   },
   {
     "company_name": "Yorkshire Water",
     "bathing": "Scarborough North Bay",
     "total_count": 11.0,
-    "total_hours": 7.41666666666666,
+    "total_hours": 7.4,
     "spills_increase": 11.0,
-    "hours_increase": 7.41666666666666
+    "hours_increase": 7.4
   },
   {
     "company_name": "Southern Water",
     "bathing": "HILLHEAD, LEE-ON-SOLENT, STOKES BAY",
     "total_count": 7.0,
-    "total_hours": 6.717500000086147,
+    "total_hours": 6.71,
     "spills_increase": 7.0,
-    "hours_increase": 6.717500000086147
+    "hours_increase": 6.71
   },
   {
     "company_name": "Southern Water",
     "bathing": "EASTBOURNE, PEVENSEY BAY",
     "total_count": 8.0,
-    "total_hours": 6.638333332724869,
+    "total_hours": 6.64,
     "spills_increase": 8.0,
-    "hours_increase": 6.638333332724869
+    "hours_increase": 6.64
   },
   {
     "company_name": "Wessex Water",
     "bathing": "HIVE (BURTON BRADSTOCK)",
     "total_count": 2.0,
-    "total_hours": 6.5000000016298145,
+    "total_hours": 6.5,
     "spills_increase": 0.0,
-    "hours_increase": 4.2500000016298145
+    "hours_increase": 4.25
   },
   {
     "company_name": "Anglian Water",
@@ -2400,20 +2400,20 @@
     "hours_increase": -19.94
   },
   {
-    "company_name": "Wessex Water",
-    "bathing": "WEYMOUTH LODMOOR",
-    "total_count": 13.0,
-    "total_hours": 5.50333333333333,
-    "spills_increase": -5.0,
-    "hours_increase": -0.52666666666667
-  },
-  {
     "company_name": "Dwr Cymru Welsh Water",
     "bathing": "Rhosilli",
     "total_count": 2.0,
     "total_hours": 5.5,
     "spills_increase": 2.0,
     "hours_increase": 5.5
+  },
+  {
+    "company_name": "Wessex Water",
+    "bathing": "WEYMOUTH LODMOOR",
+    "total_count": 13.0,
+    "total_hours": 5.5,
+    "spills_increase": -5.0,
+    "hours_increase": -0.53
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -2443,25 +2443,25 @@
     "company_name": "Southern Water",
     "bathing": "BEXHILL, ST LEONARDS",
     "total_count": 4.0,
-    "total_hours": 5.188055555394385,
+    "total_hours": 5.19,
     "spills_increase": 4.0,
-    "hours_increase": 5.188055555394385
+    "hours_increase": 5.19
   },
   {
     "company_name": "Southern Water",
     "bathing": "FOLKESTONE, SANDGATE",
     "total_count": 6.0,
-    "total_hours": 5.137222221877892,
+    "total_hours": 5.14,
     "spills_increase": 6.0,
-    "hours_increase": 5.137222221877892
+    "hours_increase": 5.14
   },
   {
     "company_name": "Southern Water",
     "bathing": "HERNE BAY CENTRAL, TANKERTON, WEST BEACH WHITSTABLE",
     "total_count": 3.0,
-    "total_hours": 4.8638888887362555,
+    "total_hours": 4.86,
     "spills_increase": 3.0,
-    "hours_increase": 4.8638888887362555
+    "hours_increase": 4.86
   },
   {
     "company_name": "Anglian Water",
@@ -2475,17 +2475,17 @@
     "company_name": "Southern Water",
     "bathing": "MINSTER LEAS",
     "total_count": 6.0,
-    "total_hours": 4.740555555734318,
+    "total_hours": 4.74,
     "spills_increase": 6.0,
-    "hours_increase": 4.740555555734318
+    "hours_increase": 4.74
   },
   {
     "company_name": "Wessex Water",
     "bathing": "STUDLAND KNOLL HOUSE",
     "total_count": 2.0,
-    "total_hours": 4.25,
+    "total_hours": 4.2,
     "spills_increase": -7.0,
-    "hours_increase": -17.75
+    "hours_increase": -17.8
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -2515,17 +2515,17 @@
     "company_name": "Southern Water",
     "bathing": "BROADSTAIRS STONE BAY, BROADSTAIRS VIKING BAY, RAMSGATE SANDS, RAMSGATE WESTERN UNDERCLIFFE",
     "total_count": 2.0,
-    "total_hours": 3.483333333511837,
+    "total_hours": 3.48,
     "spills_increase": 2.0,
-    "hours_increase": 3.483333333511837
+    "hours_increase": 3.48
   },
   {
     "company_name": "Northumbrian Water",
     "bathing": "Seaton Sluice",
     "total_count": 21.0,
-    "total_hours": 3.2333333333333334,
+    "total_hours": 3.23,
     "spills_increase": -11.0,
-    "hours_increase": -75.76666666666667
+    "hours_increase": -75.77
   },
   {
     "company_name": "Anglian Water",
@@ -2547,17 +2547,17 @@
     "company_name": "Wessex Water",
     "bathing": "PORTLAND HARBOUR CASTLE COVE/PORTLAND HARBOUR SANDSFOOT CASTLE**",
     "total_count": 15.0,
-    "total_hours": 2.79666666666667,
+    "total_hours": 2.8,
     "spills_increase": 10.0,
-    "hours_increase": -0.0333333333333299
+    "hours_increase": -0.03
   },
   {
     "company_name": "Southern Water",
     "bathing": "WORTHING",
     "total_count": 2.0,
-    "total_hours": 2.634999999892898,
+    "total_hours": 2.63,
     "spills_increase": 2.0,
-    "hours_increase": 2.634999999892898
+    "hours_increase": 2.63
   },
   {
     "company_name": "Anglian Water",
@@ -2589,15 +2589,15 @@
     "total_count": 4.0,
     "total_hours": 2.05,
     "spills_increase": -1.0,
-    "hours_increase": 1.6699999999999997
+    "hours_increase": 1.67
   },
   {
     "company_name": "Southern Water",
     "bathing": "EASTNEY, BEACHLANDS WEST",
     "total_count": 2.0,
-    "total_hours": 2.016111111093778,
+    "total_hours": 2.02,
     "spills_increase": 2.0,
-    "hours_increase": 2.016111111093778
+    "hours_increase": 2.02
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -2611,9 +2611,9 @@
     "company_name": "Southern Water",
     "bathing": "DEAL CASTLE",
     "total_count": 2.0,
-    "total_hours": 1.866666666814126,
+    "total_hours": 1.87,
     "spills_increase": 2.0,
-    "hours_increase": 1.866666666814126
+    "hours_increase": 1.87
   },
   {
     "company_name": "Anglian Water",
@@ -2651,9 +2651,9 @@
     "company_name": "Southern Water",
     "bathing": "SELSEY",
     "total_count": 1.0,
-    "total_hours": 0.9999999999417923,
+    "total_hours": 1.0,
     "spills_increase": 1.0,
-    "hours_increase": 0.9999999999417923
+    "hours_increase": 1.0
   },
   {
     "company_name": "South West Water",
@@ -2715,45 +2715,37 @@
     "company_name": "Wessex Water",
     "bathing": "BOURNEMOUTH FISHERMAN'S WALK",
     "total_count": 2.0,
-    "total_hours": 0.466666666666667,
+    "total_hours": 0.5,
     "spills_increase": 2.0,
-    "hours_increase": 0.466666666666667
+    "hours_increase": 0.5
   },
   {
     "company_name": "Southern Water",
     "bathing": "MARGATE FULSAM ROCK, MARGATE THE BAY, ST MILDREDS BAY WESTGATE, WALPOLE BAY MARGATE, WEST BAY WESTGATE, WESTBROOK BAY MARGATE",
     "total_count": 1.0,
-    "total_hours": 0.39750000002095476,
+    "total_hours": 0.4,
     "spills_increase": 1.0,
-    "hours_increase": 0.39750000002095476
+    "hours_increase": 0.4
   },
   {
     "company_name": "Northumbrian Water",
     "bathing": "Seaton Carew (Centre)",
     "total_count": 3.0,
-    "total_hours": 0.36666666666666664,
+    "total_hours": 0.37,
     "spills_increase": -5.0,
-    "hours_increase": -3.8633333333333333
+    "hours_increase": -3.86
   },
   {
     "company_name": "Southern Water",
     "bathing": "RAMSGATE WESTERN UNDERCLIFFE",
     "total_count": 1.0,
-    "total_hours": 0.2733333333162591,
+    "total_hours": 0.27,
     "spills_increase": 1.0,
-    "hours_increase": 0.2733333333162591
+    "hours_increase": 0.27
   },
   {
     "company_name": "Southern Water",
     "bathing": "EASTBOURNE",
-    "total_count": 1.0,
-    "total_hours": 0.25138888898072764,
-    "spills_increase": 1.0,
-    "hours_increase": 0.25138888898072764
-  },
-  {
-    "company_name": "Wessex Water",
-    "bathing": "PORTLAND HARBOUR CASTLE COVE/PORTLAND HARBOUR SANDSFOOT CASTLE",
     "total_count": 1.0,
     "total_hours": 0.25,
     "spills_increase": 1.0,
@@ -2763,9 +2755,17 @@
     "company_name": "Southern Water",
     "bathing": "SHOREHAM BEACH, SOUTHWICK",
     "total_count": 1.0,
-    "total_hours": 0.2333333333954215,
+    "total_hours": 0.23,
     "spills_increase": 1.0,
-    "hours_increase": 0.2333333333954215
+    "hours_increase": 0.23
+  },
+  {
+    "company_name": "Wessex Water",
+    "bathing": "PORTLAND HARBOUR CASTLE COVE/PORTLAND HARBOUR SANDSFOOT CASTLE",
+    "total_count": 1.0,
+    "total_hours": 0.2,
+    "spills_increase": 1.0,
+    "hours_increase": 0.2
   },
   {
     "company_name": "United Utilities",

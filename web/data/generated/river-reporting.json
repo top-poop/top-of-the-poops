@@ -6351,7 +6351,7 @@
     "location": "Trough Beck",
     "discharge_site_name": "BRIMINGTON COMMON WESTWOOD LANE SPS",
     "spill_count": 0.0,
-    "reporting_percent": 1.8236301369862997,
+    "reporting_percent": 1.8000000000000003,
     "excuses": "Sensor failure / issue Scheduled",
     "lat": 53.241931,
     "lon": -1.385598,
@@ -6380,17 +6380,6 @@
     "pcon20nm": "Gower"
   },
   {
-    "id": 863,
-    "location": "Jackson Bridge Dike",
-    "discharge_site_name": "SPRING WOOD CSO",
-    "spill_count": 6.0,
-    "reporting_percent": 1.95490867579908,
-    "excuses": "Comms failure / issue Scheduled",
-    "lat": 53.569734,
-    "lon": -1.756326,
-    "pcon20nm": "Colne Valley"
-  },
-  {
     "id": 666,
     "location": "River Medway",
     "discharge_site_name": "ROCHESTER AVENUE ROCHESTER CSO",
@@ -6400,6 +6389,17 @@
     "lat": 51.380797,
     "lon": 0.506587,
     "pcon20nm": "Rochester and Strood"
+  },
+  {
+    "id": 863,
+    "location": "Jackson Bridge Dike",
+    "discharge_site_name": "SPRING WOOD CSO",
+    "spill_count": 6.0,
+    "reporting_percent": 2.0,
+    "excuses": "Comms failure / issue Scheduled",
+    "lat": 53.569734,
+    "lon": -1.756326,
+    "pcon20nm": "Colne Valley"
   },
   {
     "id": 709,
@@ -6424,17 +6424,6 @@
     "pcon20nm": "Birmingham, Northfield"
   },
   {
-    "id": 673,
-    "location": "River Aire",
-    "discharge_site_name": "DOCKFIELD ROAD CSO",
-    "spill_count": 0.0,
-    "reporting_percent": 2.36872146118721,
-    "excuses": "Comms failure / issue Scheduled",
-    "lat": 53.837598,
-    "lon": -1.770809,
-    "pcon20nm": "Shipley"
-  },
-  {
     "id": 429,
     "location": "Of Gore Burn",
     "discharge_site_name": "PATTON STREET STORAGE TANK",
@@ -6446,18 +6435,29 @@
     "pcon20nm": "Sedgefield"
   },
   {
+    "id": 673,
+    "location": "River Aire",
+    "discharge_site_name": "DOCKFIELD ROAD CSO",
+    "spill_count": 0.0,
+    "reporting_percent": 2.4,
+    "excuses": "Comms failure / issue Scheduled",
+    "lat": 53.837598,
+    "lon": -1.770809,
+    "pcon20nm": "Shipley"
+  },
+  {
     "id": 433,
     "location": "Mickle Ing Beck",
     "discharge_site_name": "MENSTON MAIN DRAIN SCHEME",
     "spill_count": 0.0,
-    "reporting_percent": 3.28196347031963,
+    "reporting_percent": 3.3,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 53.895247,
     "lon": -1.744017,
     "pcon20nm": "Shipley"
   },
   {
-    "id": 523,
+    "id": 524,
     "location": "Rudhall Brook",
     "discharge_site_name": "CAWDOR ARCH COMBINED SEWER OVERFLOW",
     "spill_count": 0.0,
@@ -6468,7 +6468,7 @@
     "pcon20nm": "Hereford and South Herefordshire"
   },
   {
-    "id": 524,
+    "id": 523,
     "location": "Rudhall Brook",
     "discharge_site_name": "CAWDOR ARCH COMBINED SEWER OVERFLOW",
     "spill_count": 0.0,
@@ -6483,7 +6483,7 @@
     "location": "Danby Beck",
     "discharge_site_name": "BOTTON WPC WORKS",
     "spill_count": 4.0,
-    "reporting_percent": 5.0884703196347,
+    "reporting_percent": 5.1,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 54.430324,
     "lon": -0.933273,
@@ -6516,7 +6516,7 @@
     "location": "Toad Hall Beck",
     "discharge_site_name": "SICKLINGHALL CSO",
     "spill_count": 0.0,
-    "reporting_percent": 6.107305936073051,
+    "reporting_percent": 6.1,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 53.930487,
     "lon": -1.445008,
@@ -6549,7 +6549,7 @@
     "location": "Howl Beck",
     "discharge_site_name": "SHERIFF HUTTON STW",
     "spill_count": 26.0,
-    "reporting_percent": 6.50684931506849,
+    "reporting_percent": 6.5,
     "excuses": "Sensor failure / issue Scheduled",
     "lat": 54.082407,
     "lon": -1.017263,
@@ -6571,7 +6571,7 @@
     "location": "Bentley Mill Stream",
     "discharge_site_name": "BENTLEY SEWAGE TREATMENT WORKS",
     "spill_count": 14.0,
-    "reporting_percent": 7.36015981735159,
+    "reporting_percent": 7.400000000000001,
     "excuses": "Sensor failure / issue Scheduled",
     "lat": 53.545241,
     "lon": -1.138475,
@@ -6626,7 +6626,7 @@
     "location": "Falhouse Beck",
     "discharge_site_name": "GRANGE MOOR CSO",
     "spill_count": 6.0,
-    "reporting_percent": 9.58333333333333,
+    "reporting_percent": 9.6,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 53.64847,
     "lon": -1.669932,
@@ -6699,17 +6699,6 @@
     "pcon20nm": "South Staffordshire"
   },
   {
-    "id": 553,
-    "location": "River Great Ouse",
-    "discharge_site_name": "WESTBURY STW",
-    "spill_count": 8.0,
-    "reporting_percent": 11.44,
-    "excuses": "Telemetry or data archiving failure / issue Resolved - November",
-    "lat": 52.014694,
-    "lon": -1.090414,
-    "pcon20nm": "Buckingham"
-  },
-  {
     "id": 562,
     "location": "River Nene",
     "discharge_site_name": "SUTTON BRIDGE STW",
@@ -6719,6 +6708,17 @@
     "lat": 52.784199,
     "lon": 0.169766,
     "pcon20nm": "South Holland and The Deepings"
+  },
+  {
+    "id": 553,
+    "location": "River Great Ouse",
+    "discharge_site_name": "WESTBURY STW",
+    "spill_count": 8.0,
+    "reporting_percent": 11.44,
+    "excuses": "Telemetry or data archiving failure / issue Resolved - November",
+    "lat": 52.014694,
+    "lon": -1.090414,
+    "pcon20nm": "Buckingham"
   },
   {
     "id": 718,
@@ -6776,7 +6776,7 @@
     "pcon20nm": "Rhondda"
   },
   {
-    "id": 612,
+    "id": 613,
     "location": "River Dee",
     "discharge_site_name": "CRANE STREET CSO",
     "spill_count": 1.0,
@@ -6787,7 +6787,7 @@
     "pcon20nm": "City of Chester"
   },
   {
-    "id": 613,
+    "id": 612,
     "location": "River Dee",
     "discharge_site_name": "CRANE STREET CSO",
     "spill_count": 1.0,
@@ -6802,7 +6802,7 @@
     "location": "Oak Hill Clough",
     "discharge_site_name": "FIELDEN TERRACE CSO",
     "spill_count": 3.0,
-    "reporting_percent": 12.7568493150684,
+    "reporting_percent": 12.8,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 53.719433,
     "lon": -2.096325,
@@ -6846,7 +6846,7 @@
     "location": "River Don",
     "discharge_site_name": "STATION LANE CSO",
     "spill_count": 4.0,
-    "reporting_percent": 13.5616438356164,
+    "reporting_percent": 13.6,
     "excuses": "Comms failure / issue Resolved - November",
     "lat": 53.436233,
     "lon": -1.537848,
@@ -6945,7 +6945,7 @@
     "location": "Nether Ends Beck",
     "discharge_site_name": "STANSFIELD MILL CSO",
     "spill_count": 3.0,
-    "reporting_percent": 14.9857305936073,
+    "reporting_percent": 15.0,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 53.695888,
     "lon": -1.935824,
@@ -7051,17 +7051,6 @@
     "pcon20nm": "Neath"
   },
   {
-    "id": 792,
-    "location": "Culverted River Kyle",
-    "discharge_site_name": "TOLLERTON GARAGE CSO",
-    "spill_count": 1.0,
-    "reporting_percent": 16.954908675799,
-    "excuses": "Power failure / issue Resolved - October",
-    "lat": 54.072562,
-    "lon": -1.224736,
-    "pcon20nm": "Thirsk and Malton"
-  },
-  {
     "id": 565,
     "location": "River Garnant",
     "discharge_site_name": "GCG - D/S of Graig Road CSO",
@@ -7073,11 +7062,22 @@
     "pcon20nm": "Neath"
   },
   {
+    "id": 792,
+    "location": "Culverted River Kyle",
+    "discharge_site_name": "TOLLERTON GARAGE CSO",
+    "spill_count": 1.0,
+    "reporting_percent": 17.0,
+    "excuses": "Power failure / issue Resolved - October",
+    "lat": 54.072562,
+    "lon": -1.224736,
+    "pcon20nm": "Thirsk and Malton"
+  },
+  {
     "id": 634,
     "location": "River Calder",
     "discharge_site_name": "MITCHELL LAITHES WWTW",
     "spill_count": 20.0,
-    "reporting_percent": 17.5713470319634,
+    "reporting_percent": 17.6,
     "excuses": "Installation set-up/design issue Scheduled",
     "lat": 53.674853,
     "lon": -1.607753,
@@ -7143,7 +7143,7 @@
     "location": "Ings Beck",
     "discharge_site_name": "DRAUGHTON WPC WORKS",
     "spill_count": 0.0,
-    "reporting_percent": 20.111301369863,
+    "reporting_percent": 20.1,
     "excuses": "Power failure / issue Resolved - December",
     "lat": 53.974232,
     "lon": -1.931667,
@@ -7154,7 +7154,7 @@
     "location": "Ings Beck",
     "discharge_site_name": "DRAUGHTON WPC WORKS",
     "spill_count": 0.0,
-    "reporting_percent": 20.1769406392694,
+    "reporting_percent": 20.2,
     "excuses": "Installation set-up/design issue Resolved - October",
     "lat": 53.974232,
     "lon": -1.931667,
@@ -7282,17 +7282,6 @@
     "pcon20nm": "South Derbyshire"
   },
   {
-    "id": 848,
-    "location": "River Calder",
-    "discharge_site_name": "FERNHILL CSO",
-    "spill_count": 0.0,
-    "reporting_percent": 23.3561643835616,
-    "excuses": "Comms failure / issue Scheduled",
-    "lat": 53.727291,
-    "lon": -2.123033,
-    "pcon20nm": "Calder Valley"
-  },
-  {
     "id": 589,
     "location": "Sea",
     "discharge_site_name": "SWO. 50 YARDS BELOW SHELL GARA KNEL",
@@ -7302,6 +7291,17 @@
     "lat": 51.579098,
     "lon": -4.206622,
     "pcon20nm": "Gower"
+  },
+  {
+    "id": 848,
+    "location": "River Calder",
+    "discharge_site_name": "FERNHILL CSO",
+    "spill_count": 0.0,
+    "reporting_percent": 23.4,
+    "excuses": "Comms failure / issue Scheduled",
+    "lat": 53.727291,
+    "lon": -2.123033,
+    "pcon20nm": "Calder Valley"
   },
   {
     "id": 569,
@@ -7363,7 +7363,7 @@
     "location": "River Skell",
     "discharge_site_name": "HARROGATE ROAD CSO",
     "spill_count": 0.0,
-    "reporting_percent": 23.861301369863,
+    "reporting_percent": 23.9,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 54.132279,
     "lon": -1.527452,
@@ -7407,7 +7407,7 @@
     "location": "Kirkbridge Dike",
     "discharge_site_name": "DARNALL ROAD CSO",
     "spill_count": 13.0,
-    "reporting_percent": 24.4206621004566,
+    "reporting_percent": 24.4,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 53.393551,
     "lon": -1.425105,
@@ -7484,7 +7484,7 @@
     "location": "Scour Gutter",
     "discharge_site_name": "SKELTON ON URE WPC WORKS",
     "spill_count": 20.0,
-    "reporting_percent": 26.2985159817351,
+    "reporting_percent": 26.3,
     "excuses": "Installation set-up/design issue Resolved - September",
     "lat": 54.112072,
     "lon": -1.45848,
@@ -7528,7 +7528,7 @@
     "location": "Oak Beck Via A Public Sewer",
     "discharge_site_name": "33 SKIPTON ROAD CSO",
     "spill_count": 0.0,
-    "reporting_percent": 26.9948630136986,
+    "reporting_percent": 27.0,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 54.003373,
     "lon": -1.535258,
@@ -7590,28 +7590,6 @@
     "pcon20nm": "Stratford-on-Avon"
   },
   {
-    "id": 836,
-    "location": "River Calder",
-    "discharge_site_name": "HEALEY ROAD OSSETT CSO",
-    "spill_count": 0.0,
-    "reporting_percent": 27.3972602739726,
-    "excuses": "Sensor failure / issue Scheduled",
-    "lat": 53.671623,
-    "lon": -1.582808,
-    "pcon20nm": "Wakefield"
-  },
-  {
-    "id": 837,
-    "location": "Leeds",
-    "discharge_site_name": "CALVERLEY EAST NO 2 CSO",
-    "spill_count": 0.0,
-    "reporting_percent": 27.3972602739726,
-    "excuses": "Comms failure / issue Resolved - December",
-    "lat": 53.829581,
-    "lon": -1.683646,
-    "pcon20nm": "Pudsey"
-  },
-  {
     "id": 350,
     "location": "River South Tyne",
     "discharge_site_name": "ALSTON EJECTOR STATION CSO",
@@ -7660,7 +7638,7 @@
     "location": "Brook Dike",
     "discharge_site_name": "STUMP CROSS ROAD CSO",
     "spill_count": 4.0,
-    "reporting_percent": 29.349315068493105,
+    "reporting_percent": 29.3,
     "excuses": "Telemetry or data archiving failure / issue Scheduled",
     "lat": 53.498124,
     "lon": -1.350989,
@@ -7671,7 +7649,7 @@
     "location": "River Rother",
     "discharge_site_name": "ALBERT ROAD CSO",
     "spill_count": 1.0,
-    "reporting_percent": 29.412100456621,
+    "reporting_percent": 29.4,
     "excuses": "Comms failure / issue Resolved - December",
     "lat": 53.272633,
     "lon": -1.400934,
@@ -7733,11 +7711,33 @@
     "pcon20nm": "Derbyshire Dales"
   },
   {
+    "id": 837,
+    "location": "Leeds",
+    "discharge_site_name": "CALVERLEY EAST NO 2 CSO",
+    "spill_count": 0.0,
+    "reporting_percent": 30.0,
+    "excuses": "Comms failure / issue Resolved - December",
+    "lat": 53.829581,
+    "lon": -1.683646,
+    "pcon20nm": "Pudsey"
+  },
+  {
+    "id": 836,
+    "location": "River Calder",
+    "discharge_site_name": "HEALEY ROAD OSSETT CSO",
+    "spill_count": 0.0,
+    "reporting_percent": 30.0,
+    "excuses": "Sensor failure / issue Scheduled",
+    "lat": 53.671623,
+    "lon": -1.582808,
+    "pcon20nm": "Wakefield"
+  },
+  {
     "id": 827,
     "location": "River Holme",
     "discharge_site_name": "CORN MILL NO 2 CSO",
     "spill_count": 16.0,
-    "reporting_percent": 30.196917808219105,
+    "reporting_percent": 30.2,
     "excuses": "Sensor failure / issue Resolved - October",
     "lat": 53.605651,
     "lon": -1.789669,
@@ -7825,7 +7825,7 @@
     "location": "River Wiske",
     "discharge_site_name": "OTTERINGTON ROAD SSO",
     "spill_count": 3.0,
-    "reporting_percent": 31.8607305936073,
+    "reporting_percent": 31.9,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 54.286618,
     "lon": -1.403508,
@@ -7847,7 +7847,7 @@
     "location": "To River Hull",
     "discharge_site_name": "INGS LANE SPS",
     "spill_count": 0.0,
-    "reporting_percent": 32.2859589041095,
+    "reporting_percent": 32.3,
     "excuses": "Comms failure / issue Resolved - November",
     "lat": 53.803122,
     "lon": -0.370853,
@@ -7935,7 +7935,7 @@
     "location": "Longwood Brook",
     "discharge_site_name": "DALE STREET CSO",
     "spill_count": 13.0,
-    "reporting_percent": 33.6044520547945,
+    "reporting_percent": 33.6,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 53.645593,
     "lon": -1.834897,
@@ -7946,7 +7946,7 @@
     "location": "River Sheaf",
     "discharge_site_name": "LITTLE LONDON ROAD CSO",
     "spill_count": 18.0,
-    "reporting_percent": 33.8184931506849,
+    "reporting_percent": 33.8,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 53.351878,
     "lon": -1.483774,
@@ -7979,7 +7979,7 @@
     "location": "River Colne",
     "discharge_site_name": "DOG KENNEL BANK/SOMERSET ROAD CSO",
     "spill_count": 8.0,
-    "reporting_percent": 34.7212709284627,
+    "reporting_percent": 34.7,
     "excuses": "Sensor failure / issue Resolved - August",
     "lat": 53.642198,
     "lon": -1.770657,
@@ -8017,17 +8017,6 @@
     "lat": 55.349933,
     "lon": -2.125697,
     "pcon20nm": "Berwick-upon-Tweed"
-  },
-  {
-    "id": 461,
-    "location": "Derwent",
-    "discharge_site_name": "RECTORY FARM SEWAGE PUMPING STATION",
-    "spill_count": 0.0,
-    "reporting_percent": 35.6735159817351,
-    "excuses": "Comms failure / issue Scheduled",
-    "lat": 54.033801,
-    "lon": -0.885253,
-    "pcon20nm": "Thirsk and Malton"
   },
   {
     "id": 502,
@@ -8074,6 +8063,17 @@
     "pcon20nm": "Bolton West"
   },
   {
+    "id": 107,
+    "location": "River Irwell",
+    "discharge_site_name": "WATER ST/NEW QUAY ST CSO",
+    "spill_count": 0.0,
+    "reporting_percent": 36.81,
+    "excuses": "Comms failure / issue N/A - Ongoing investigation",
+    "lat": 53.480068,
+    "lon": -2.255363,
+    "pcon20nm": "Manchester Central"
+  },
+  {
     "id": 259,
     "location": "Weaver Navigation",
     "discharge_site_name": "OFF SCHOOL LANE CSO (472JI)",
@@ -8107,17 +8107,6 @@
     "pcon20nm": "Pendle"
   },
   {
-    "id": 263,
-    "location": "Peckmill Brook Via Sws",
-    "discharge_site_name": "REAR MEADOW LANE CSO",
-    "spill_count": 2.0,
-    "reporting_percent": 36.81,
-    "excuses": "Comms failure / issue N/A - Ongoing investigation",
-    "lat": 53.22163,
-    "lon": -2.513049,
-    "pcon20nm": "Eddisbury"
-  },
-  {
     "id": 682,
     "location": "River Roch Via Sws",
     "discharge_site_name": "TRAFALGAR STREET /RAMSEY STREET CSO",
@@ -8129,15 +8118,15 @@
     "pcon20nm": "Rochdale"
   },
   {
-    "id": 107,
-    "location": "River Irwell",
-    "discharge_site_name": "WATER ST/NEW QUAY ST CSO",
-    "spill_count": 0.0,
+    "id": 263,
+    "location": "Peckmill Brook Via Sws",
+    "discharge_site_name": "REAR MEADOW LANE CSO",
+    "spill_count": 2.0,
     "reporting_percent": 36.81,
     "excuses": "Comms failure / issue N/A - Ongoing investigation",
-    "lat": 53.480068,
-    "lon": -2.255363,
-    "pcon20nm": "Manchester Central"
+    "lat": 53.22163,
+    "lon": -2.513049,
+    "pcon20nm": "Eddisbury"
   },
   {
     "id": 630,
@@ -8177,7 +8166,7 @@
     "location": "Blackburn Brook",
     "discharge_site_name": "NEWMAN DRIVE CSO",
     "spill_count": 1.0,
-    "reporting_percent": 37.3458904109589,
+    "reporting_percent": 37.3,
     "excuses": "Power failure / issue Resolved - December",
     "lat": 53.419289,
     "lon": -1.429363,
@@ -8188,7 +8177,7 @@
     "location": "Stoke Brook",
     "discharge_site_name": "CLEVE COURT 2 CSO",
     "spill_count": 8.0,
-    "reporting_percent": 37.391324200913246,
+    "reporting_percent": 37.4,
     "excuses": "Sensor failure / issue Scheduled",
     "lat": 51.517367,
     "lon": -2.567197,
@@ -8221,7 +8210,7 @@
     "location": "Bradford Beck",
     "discharge_site_name": "NORTH AVENUE CSO",
     "spill_count": 10.0,
-    "reporting_percent": 37.5342465753424,
+    "reporting_percent": 37.5,
     "excuses": "Sensor failure / issue Scheduled",
     "lat": 53.810163,
     "lon": -1.759266,
@@ -8254,7 +8243,7 @@
     "location": "Black Brook",
     "discharge_site_name": "ROCHDALE ROAD CSO",
     "spill_count": 0.0,
-    "reporting_percent": 37.9623287671232,
+    "reporting_percent": 38.0,
     "excuses": "Comms failure / issue Resolved - August",
     "lat": 53.68862,
     "lon": -1.855808,
@@ -8276,7 +8265,7 @@
     "location": "Brook Dike",
     "discharge_site_name": "YORKSHIRE WATER SERVICES LTD",
     "spill_count": 0.0,
-    "reporting_percent": 38.1735159817351,
+    "reporting_percent": 38.2,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 53.504738,
     "lon": -1.331153,
@@ -8287,7 +8276,7 @@
     "location": "Spital Brook Culverted",
     "discharge_site_name": "VALLEY CRESCENT CSO",
     "spill_count": 22.0,
-    "reporting_percent": 38.4103881278538,
+    "reporting_percent": 38.4,
     "excuses": "Sensor failure / issue Resolved - August",
     "lat": 53.229595,
     "lon": -1.41737,
@@ -8353,7 +8342,7 @@
     "location": "River Swale",
     "discharge_site_name": "COLBURN SEWAGE TREATMENT WORKS",
     "spill_count": 4.0,
-    "reporting_percent": 39.1409817351598,
+    "reporting_percent": 39.1,
     "excuses": "Installation set-up/design issue Resolved - August",
     "lat": 54.3922,
     "lon": -1.685345,
@@ -8419,7 +8408,7 @@
     "location": "Don",
     "discharge_site_name": "TINSLEY CSO",
     "spill_count": 0.0,
-    "reporting_percent": 39.4006849315068,
+    "reporting_percent": 39.4,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 53.414957,
     "lon": -1.401919,
@@ -8430,7 +8419,7 @@
     "location": "Hemsworth Dyke",
     "discharge_site_name": "GROVE LANE STORM TANKS",
     "spill_count": 31.0,
-    "reporting_percent": 39.6289954337899,
+    "reporting_percent": 39.6,
     "excuses": "Sensor failure / issue Resolved - August",
     "lat": 53.60786,
     "lon": -1.335721,
@@ -8448,15 +8437,15 @@
     "pcon20nm": "Newcastle upon Tyne East"
   },
   {
-    "id": 470,
-    "location": "River Inny",
-    "discharge_site_name": "BEALS MILL NO 1 CSO",
-    "spill_count": 93.0,
+    "id": 461,
+    "location": "Derwent",
+    "discharge_site_name": "RECTORY FARM SEWAGE PUMPING STATION",
+    "spill_count": 0.0,
     "reporting_percent": 40.0,
-    "excuses": "Comms failure / issue Resolved - November Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
-    "lat": 50.570697,
-    "lon": -4.319297,
-    "pcon20nm": "North Cornwall"
+    "excuses": "Comms failure / issue Scheduled",
+    "lat": 54.033801,
+    "lon": -0.885253,
+    "pcon20nm": "Thirsk and Malton"
   },
   {
     "id": 596,
@@ -8468,6 +8457,17 @@
     "lat": 51.445691,
     "lon": 0.370251,
     "pcon20nm": "Gravesham"
+  },
+  {
+    "id": 470,
+    "location": "River Inny",
+    "discharge_site_name": "BEALS MILL NO 1 CSO",
+    "spill_count": 93.0,
+    "reporting_percent": 40.0,
+    "excuses": "Comms failure / issue Resolved - November Not asset maintenance - Hydraulic capacity N/A - Hydraulic capacity",
+    "lat": 50.570697,
+    "lon": -4.319297,
+    "pcon20nm": "North Cornwall"
   },
   {
     "id": 549,
@@ -8507,7 +8507,7 @@
     "location": "River Ouse",
     "discharge_site_name": "HOWDEN STW",
     "spill_count": 49.0,
-    "reporting_percent": 40.4992508561643,
+    "reporting_percent": 40.5,
     "excuses": "Installation set-up/design issue Resolved - July",
     "lat": 53.733615,
     "lon": -0.858959,
@@ -8518,7 +8518,7 @@
     "location": "Tanner Beck",
     "discharge_site_name": "SSO AT STAVELEY",
     "spill_count": 23.0,
-    "reporting_percent": 40.5650684931506,
+    "reporting_percent": 40.6,
     "excuses": "Comms failure / issue Resolved - November",
     "lat": 54.063494,
     "lon": -1.448417,
@@ -8529,7 +8529,7 @@
     "location": "Malago",
     "discharge_site_name": "TUGELA ROAD CSO",
     "spill_count": 1.0,
-    "reporting_percent": 40.59322678843227,
+    "reporting_percent": 40.6,
     "excuses": "Telemetry or data archiving failure / issue Resolved - September",
     "lat": 51.42061,
     "lon": -2.623223,
@@ -8540,7 +8540,7 @@
     "location": "Carr Beck",
     "discharge_site_name": "INGLEBY ARNCLIFFE WPC WORKS STORM T",
     "spill_count": 15.0,
-    "reporting_percent": 40.593607305936,
+    "reporting_percent": 40.6,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 54.401588,
     "lon": -1.306801,
@@ -8558,15 +8558,15 @@
     "pcon20nm": "Brecon and Radnorshire"
   },
   {
-    "id": 290,
-    "location": "River Avon",
-    "discharge_site_name": "BROOK ROAD COMBINED SEWER OVERFLOW",
-    "spill_count": 10.0,
-    "reporting_percent": 40.96917808219178,
-    "excuses": "Installation set-up/design issue Resolved - August",
-    "lat": 51.467327,
-    "lon": -2.538791,
-    "pcon20nm": "Bristol East"
+    "id": 649,
+    "location": "Medway Estuary",
+    "discharge_site_name": "FRINDSBURY ROAD STROOD CSO",
+    "spill_count": 0.0,
+    "reporting_percent": 41.0,
+    "excuses": "Power failure / issue Resolved - November",
+    "lat": 51.399068,
+    "lon": 0.497521,
+    "pcon20nm": "Rochester and Strood"
   },
   {
     "id": 491,
@@ -8580,15 +8580,15 @@
     "pcon20nm": "Chatham and Aylesford"
   },
   {
-    "id": 649,
-    "location": "Medway Estuary",
-    "discharge_site_name": "FRINDSBURY ROAD STROOD CSO",
-    "spill_count": 0.0,
+    "id": 290,
+    "location": "River Avon",
+    "discharge_site_name": "BROOK ROAD COMBINED SEWER OVERFLOW",
+    "spill_count": 10.0,
     "reporting_percent": 41.0,
-    "excuses": "Power failure / issue Resolved - November",
-    "lat": 51.399068,
-    "lon": 0.497521,
-    "pcon20nm": "Rochester and Strood"
+    "excuses": "Installation set-up/design issue Resolved - August",
+    "lat": 51.467327,
+    "lon": -2.538791,
+    "pcon20nm": "Bristol East"
   },
   {
     "id": 522,
@@ -8661,7 +8661,7 @@
     "location": "Hinton Meads Brook",
     "discharge_site_name": "HURST COMBINED SEWER OVERFLOW",
     "spill_count": 5.0,
-    "reporting_percent": 42.21499238964992,
+    "reporting_percent": 42.2,
     "excuses": "Comms failure / issue Resolved - August",
     "lat": 50.964443,
     "lon": -2.774137,
@@ -8672,7 +8672,7 @@
     "location": "River Nidd",
     "discharge_site_name": "ABBEY ROAD NO 2 CSO",
     "spill_count": 6.0,
-    "reporting_percent": 42.3801369863013,
+    "reporting_percent": 42.4,
     "excuses": "Sensor failure / issue Scheduled",
     "lat": 54.002276,
     "lon": -1.465702,
@@ -8683,7 +8683,7 @@
     "location": "River Ure",
     "discharge_site_name": "CSO AT CLOCK TOWER/STONEBRIDGE/",
     "spill_count": 0.0,
-    "reporting_percent": 42.4429223744292,
+    "reporting_percent": 42.4,
     "excuses": "Comms failure / issue Resolved - December",
     "lat": 54.14197,
     "lon": -1.514728,
@@ -8749,7 +8749,7 @@
     "location": "Meanwood Beck",
     "discharge_site_name": "CLAREMONT CRESCENT NO.2 CSO",
     "spill_count": 31.0,
-    "reporting_percent": 43.0089421613394,
+    "reporting_percent": 43.0,
     "excuses": "Sensor failure / issue Scheduled",
     "lat": 53.823409,
     "lon": -1.561267,
@@ -8760,18 +8760,29 @@
     "location": "Bourne",
     "discharge_site_name": "SWALLETT GATE PUMPING STATION",
     "spill_count": 6.0,
-    "reporting_percent": 43.29,
+    "reporting_percent": 43.3,
     "excuses": "Telemetry or data archiving failure / issue Scheduled",
     "lat": 51.525419,
     "lon": -2.020673,
     "pcon20nm": "North Wiltshire"
   },
   {
+    "id": 292,
+    "location": "Dyers Brook",
+    "discharge_site_name": "OLD COACH YARD CSO",
+    "spill_count": 12.0,
+    "reporting_percent": 43.4,
+    "excuses": "Sensor failure / issue Resolved - December",
+    "lat": 51.637277,
+    "lon": -2.34885,
+    "pcon20nm": "The Cotswolds"
+  },
+  {
     "id": 800,
     "location": "Culv River Holme",
     "discharge_site_name": "HONLEY EASTGATE CSO",
     "spill_count": 0.0,
-    "reporting_percent": 43.3904109589041,
+    "reporting_percent": 43.4,
     "excuses": "Power failure / issue Resolved - December",
     "lat": 53.604432,
     "lon": -1.791685,
@@ -8789,22 +8800,11 @@
     "pcon20nm": "Arfon"
   },
   {
-    "id": 292,
-    "location": "Dyers Brook",
-    "discharge_site_name": "OLD COACH YARD CSO",
-    "spill_count": 12.0,
-    "reporting_percent": 43.42313546423136,
-    "excuses": "Sensor failure / issue Resolved - December",
-    "lat": 51.637277,
-    "lon": -2.34885,
-    "pcon20nm": "The Cotswolds"
-  },
-  {
     "id": 473,
     "location": "Caulkhill Beck",
     "discharge_site_name": "UPPER DUNSFORTH CSO",
     "spill_count": 2.0,
-    "reporting_percent": 43.4646118721461,
+    "reporting_percent": 43.5,
     "excuses": "Comms failure / issue Resolved - August",
     "lat": 54.061501,
     "lon": -1.323698,
@@ -8848,7 +8848,7 @@
     "location": "Embsay Beck",
     "discharge_site_name": "EMBSAY CSO",
     "spill_count": 67.0,
-    "reporting_percent": 43.7614155251141,
+    "reporting_percent": 43.8,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 53.976129,
     "lon": -1.992818,
@@ -8892,7 +8892,7 @@
     "location": "River Wharfe",
     "discharge_site_name": "CHURCH LANE SEWAGE PUMPING STATION",
     "spill_count": 11.0,
-    "reporting_percent": 43.9840182648401,
+    "reporting_percent": 44.0,
     "excuses": "Comms failure / issue Resolved - August",
     "lat": 54.064756,
     "lon": -1.996913,
@@ -8903,7 +8903,7 @@
     "location": "Red Brook",
     "discharge_site_name": "REDBROOK ROAD CSO",
     "spill_count": 10.0,
-    "reporting_percent": 44.2522831050228,
+    "reporting_percent": 44.3,
     "excuses": "Comms failure / issue Resolved - September",
     "lat": 53.565311,
     "lon": -1.51591,
@@ -8991,7 +8991,7 @@
     "location": "River Rother",
     "discharge_site_name": "POTTERY LANE EAST CSO",
     "spill_count": 23.0,
-    "reporting_percent": 45.1417427701674,
+    "reporting_percent": 45.1,
     "excuses": "Telemetry or data archiving failure / issue Resolved - August",
     "lat": 53.254932,
     "lon": -1.420759,
@@ -9020,17 +9020,6 @@
     "pcon20nm": "Jarrow"
   },
   {
-    "id": 566,
-    "location": "Ebbw River",
-    "discharge_site_name": "Brooklyn Terrace CSO",
-    "spill_count": 4.0,
-    "reporting_percent": 45.36,
-    "excuses": "Communications issue - escalated through business as usual process for communications failures.",
-    "lat": 51.700377,
-    "lon": -3.133939,
-    "pcon20nm": "Blaenau Gwent"
-  },
-  {
     "id": 555,
     "location": "Utray Belstead Brook",
     "discharge_site_name": "ELMSETT WATER RECYCLING CENTRE",
@@ -9040,6 +9029,17 @@
     "lat": 52.072699,
     "lon": 1.021952,
     "pcon20nm": "South Suffolk"
+  },
+  {
+    "id": 566,
+    "location": "Ebbw River",
+    "discharge_site_name": "Brooklyn Terrace CSO",
+    "spill_count": 4.0,
+    "reporting_percent": 45.36,
+    "excuses": "Communications issue - escalated through business as usual process for communications failures.",
+    "lat": 51.700377,
+    "lon": -3.133939,
+    "pcon20nm": "Blaenau Gwent"
   },
   {
     "id": 412,
@@ -9079,7 +9079,7 @@
     "location": "River Esk",
     "discharge_site_name": "IVY HOUSE CSO",
     "spill_count": 7.0,
-    "reporting_percent": 45.779109589041,
+    "reporting_percent": 45.8,
     "excuses": "Comms failure / issue Resolved - July",
     "lat": 54.466775,
     "lon": -0.67251,
@@ -9101,7 +9101,7 @@
     "location": "Batley Carr",
     "discharge_site_name": "MAYMAN LANE TANK CSO",
     "spill_count": 0.0,
-    "reporting_percent": 46.0074200913242,
+    "reporting_percent": 46.0,
     "excuses": "Comms failure / issue Resolved - July",
     "lat": 53.714009,
     "lon": -1.640617,
@@ -9145,7 +9145,7 @@
     "location": "Seven",
     "discharge_site_name": "GREAT BARUGH SEWAGE TREATMENT WORKS",
     "spill_count": 18.0,
-    "reporting_percent": 46.3584474885844,
+    "reporting_percent": 46.4,
     "excuses": "Installation set-up/design issue Resolved - July",
     "lat": 54.200815,
     "lon": -0.858399,
@@ -9163,6 +9163,28 @@
     "pcon20nm": "Meriden"
   },
   {
+    "id": 823,
+    "location": "Calder",
+    "discharge_site_name": "COMBS HILL CSO",
+    "spill_count": 9.0,
+    "reporting_percent": 46.5,
+    "excuses": "Comms failure / issue Resolved - March",
+    "lat": 53.667702,
+    "lon": -1.620382,
+    "pcon20nm": "Dewsbury"
+  },
+  {
+    "id": 861,
+    "location": "Silsden Beck",
+    "discharge_site_name": "CLOG BRIDGE CSO",
+    "spill_count": 9.0,
+    "reporting_percent": 46.5,
+    "excuses": "Comms failure / issue Scheduled",
+    "lat": 53.91195,
+    "lon": -1.937248,
+    "pcon20nm": "Keighley"
+  },
+  {
     "id": 572,
     "location": "Swansea Bay",
     "discharge_site_name": "Storm Overflow at Outfall G via CSO 16",
@@ -9172,28 +9194,6 @@
     "lat": 51.595402,
     "lon": -3.996707,
     "pcon20nm": "Swansea West"
-  },
-  {
-    "id": 861,
-    "location": "Silsden Beck",
-    "discharge_site_name": "CLOG BRIDGE CSO",
-    "spill_count": 9.0,
-    "reporting_percent": 46.509703196347,
-    "excuses": "Comms failure / issue Scheduled",
-    "lat": 53.91195,
-    "lon": -1.937248,
-    "pcon20nm": "Keighley"
-  },
-  {
-    "id": 823,
-    "location": "Calder",
-    "discharge_site_name": "COMBS HILL CSO",
-    "spill_count": 9.0,
-    "reporting_percent": 46.5182648401826,
-    "excuses": "Comms failure / issue Resolved - March",
-    "lat": 53.667702,
-    "lon": -1.620382,
-    "pcon20nm": "Dewsbury"
   },
   {
     "id": 353,
@@ -9207,17 +9207,6 @@
     "pcon20nm": "Hexham"
   },
   {
-    "id": 299,
-    "location": "River Nidd",
-    "discharge_site_name": "PROPOSED SSO NO 14 MANHOLE",
-    "spill_count": 0.0,
-    "reporting_percent": 46.8778538812785,
-    "excuses": "Comms failure / issue Resolved - December",
-    "lat": 54.01561,
-    "lon": -1.615395,
-    "pcon20nm": "Skipton and Ripon"
-  },
-  {
     "id": 106,
     "location": "River Irwell Via Sws",
     "discharge_site_name": "BURY NEW ROAD SALFORD CSO",
@@ -9227,6 +9216,17 @@
     "lat": 53.499115,
     "lon": -2.254753,
     "pcon20nm": "Blackley and Broughton"
+  },
+  {
+    "id": 299,
+    "location": "River Nidd",
+    "discharge_site_name": "PROPOSED SSO NO 14 MANHOLE",
+    "spill_count": 0.0,
+    "reporting_percent": 46.9,
+    "excuses": "Comms failure / issue Resolved - December",
+    "lat": 54.01561,
+    "lon": -1.615395,
+    "pcon20nm": "Skipton and Ripon"
   },
   {
     "id": 755,
@@ -9310,7 +9310,7 @@
     "location": "Bristol Avon",
     "discharge_site_name": "AVONMOUTH 'B' PUMPING STATION",
     "spill_count": 1.0,
-    "reporting_percent": 47.608447488584474,
+    "reporting_percent": 47.6,
     "excuses": "Comms failure / issue Resolved - September",
     "lat": 51.496263,
     "lon": -2.69572,
@@ -9387,7 +9387,7 @@
     "location": "Hunsworth Upper Lane Beck",
     "discharge_site_name": "HUNSWORTH LANE NO 2 CSO",
     "spill_count": 13.0,
-    "reporting_percent": 48.5245433789954,
+    "reporting_percent": 48.5,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 53.752875,
     "lon": -1.70712,
@@ -9405,17 +9405,6 @@
     "pcon20nm": "South Shields"
   },
   {
-    "id": 579,
-    "location": "River Duad",
-    "discharge_site_name": "Cynwyl Elfed WwTW Cynwyl Elfed Carm Settled Storm",
-    "spill_count": 36.0,
-    "reporting_percent": 48.6,
-    "excuses": "Discharge mechanism revised. Reliable data from 08/07/2021.",
-    "lat": 51.91763,
-    "lon": -4.361775,
-    "pcon20nm": "Carmarthen West and South Pembrokeshire"
-  },
-  {
     "id": 228,
     "location": "Ellen Brook Culvert",
     "discharge_site_name": "TYNESBANK",
@@ -9425,6 +9414,17 @@
     "lat": 53.521026,
     "lon": -2.402967,
     "pcon20nm": "Worsley and Eccles South"
+  },
+  {
+    "id": 579,
+    "location": "River Duad",
+    "discharge_site_name": "Cynwyl Elfed WwTW Cynwyl Elfed Carm Settled Storm",
+    "spill_count": 36.0,
+    "reporting_percent": 48.6,
+    "excuses": "Discharge mechanism revised. Reliable data from 08/07/2021.",
+    "lat": 51.91763,
+    "lon": -4.361775,
+    "pcon20nm": "Carmarthen West and South Pembrokeshire"
   },
   {
     "id": 697,
@@ -9449,17 +9449,6 @@
     "pcon20nm": "Wolverhampton North East"
   },
   {
-    "id": 503,
-    "location": "River Rother",
-    "discharge_site_name": "STATION ROAD LISS CSO",
-    "spill_count": 7.0,
-    "reporting_percent": 49.0,
-    "excuses": "Power failure / issue Scheduled",
-    "lat": 51.043593,
-    "lon": -0.894019,
-    "pcon20nm": "East Hampshire"
-  },
-  {
     "id": 508,
     "location": "River Medway",
     "discharge_site_name": "RIDGEWAY BANKS CHATHAM CSO",
@@ -9471,15 +9460,15 @@
     "pcon20nm": "Chatham and Aylesford"
   },
   {
-    "id": 833,
-    "location": "Jackson Bridge Dyke",
-    "discharge_site_name": "JACKSON BRIDGE NO 2 CSO",
-    "spill_count": 14.0,
-    "reporting_percent": 49.0753424657534,
-    "excuses": "Comms failure / issue Scheduled",
-    "lat": 53.563158,
-    "lon": -1.753721,
-    "pcon20nm": "Colne Valley"
+    "id": 503,
+    "location": "River Rother",
+    "discharge_site_name": "STATION ROAD LISS CSO",
+    "spill_count": 7.0,
+    "reporting_percent": 49.0,
+    "excuses": "Power failure / issue Scheduled",
+    "lat": 51.043593,
+    "lon": -0.894019,
+    "pcon20nm": "East Hampshire"
   },
   {
     "id": 730,
@@ -9493,15 +9482,15 @@
     "pcon20nm": "Warley"
   },
   {
-    "id": 525,
-    "location": "River Wye",
-    "discharge_site_name": "JOYFORD MILL PUMPING STATION",
-    "spill_count": 2.0,
-    "reporting_percent": 49.12,
-    "excuses": "Comms failure / issue N/A - Ongoing investigation",
-    "lat": 51.818758,
-    "lon": -2.612744,
-    "pcon20nm": "Forest of Dean"
+    "id": 833,
+    "location": "Jackson Bridge Dyke",
+    "discharge_site_name": "JACKSON BRIDGE NO 2 CSO",
+    "spill_count": 14.0,
+    "reporting_percent": 49.1,
+    "excuses": "Comms failure / issue Scheduled",
+    "lat": 53.563158,
+    "lon": -1.753721,
+    "pcon20nm": "Colne Valley"
   },
   {
     "id": 526,
@@ -9515,6 +9504,28 @@
     "pcon20nm": "Forest of Dean"
   },
   {
+    "id": 525,
+    "location": "River Wye",
+    "discharge_site_name": "JOYFORD MILL PUMPING STATION",
+    "spill_count": 2.0,
+    "reporting_percent": 49.12,
+    "excuses": "Comms failure / issue N/A - Ongoing investigation",
+    "lat": 51.818758,
+    "lon": -2.612744,
+    "pcon20nm": "Forest of Dean"
+  },
+  {
+    "id": 851,
+    "location": "Kirk Bridge Dike",
+    "discharge_site_name": "ATTERCLIFFE HILL CSO",
+    "spill_count": 4.0,
+    "reporting_percent": 49.2,
+    "excuses": "Comms failure / issue Resolved - October",
+    "lat": 53.397349,
+    "lon": -1.427821,
+    "pcon20nm": "Sheffield South East"
+  },
+  {
     "id": 573,
     "location": "Culvert Of Cwm Gelli Stream",
     "discharge_site_name": "CSO 69 TRWYDDFA ROAD SWANSEA",
@@ -9526,22 +9537,11 @@
     "pcon20nm": "Swansea East"
   },
   {
-    "id": 851,
-    "location": "Kirk Bridge Dike",
-    "discharge_site_name": "ATTERCLIFFE HILL CSO",
-    "spill_count": 4.0,
-    "reporting_percent": 49.2265981735159,
-    "excuses": "Comms failure / issue Resolved - October",
-    "lat": 53.397349,
-    "lon": -1.427821,
-    "pcon20nm": "Sheffield South East"
-  },
-  {
     "id": 862,
     "location": "Rakes Dyke",
     "discharge_site_name": "BUTT LANE CSO",
     "spill_count": 1.0,
-    "reporting_percent": 49.3350456621004,
+    "reporting_percent": 49.3,
     "excuses": "Comms failure / issue Scheduled",
     "lat": 53.559955,
     "lon": -1.75214,
@@ -9574,7 +9574,7 @@
     "location": "Culverted Scour Gutter",
     "discharge_site_name": "CHURCH WOOD CSO",
     "spill_count": 12.0,
-    "reporting_percent": 49.8173515981735,
+    "reporting_percent": 49.8,
     "excuses": "Power failure / issue Resolved - December",
     "lat": 54.10727,
     "lon": -1.449855,

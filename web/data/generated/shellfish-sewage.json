@@ -24,7 +24,7 @@
     "total_hours": 11029.01,
     "mean_reporting_pct": 0.9227025,
     "spills_increase": -1054.0,
-    "hours_increase": -430.85999999999996
+    "hours_increase": -430.86
   },
   {
     "company_name": "South West Water",
@@ -33,7 +33,7 @@
     "total_hours": 9579.97,
     "mean_reporting_pct": 0.9308928571428572,
     "spills_increase": 197.0,
-    "hours_increase": 1018.4900000000002
+    "hours_increase": 1018.49
   },
   {
     "company_name": "United Utilities",
@@ -51,7 +51,7 @@
     "total_hours": 9101.05,
     "mean_reporting_pct": 0.9501022727272728,
     "spills_increase": -25.0,
-    "hours_increase": -292.5400000000001
+    "hours_increase": -292.54
   },
   {
     "company_name": "United Utilities",
@@ -69,16 +69,16 @@
     "total_hours": 8159.32,
     "mean_reporting_pct": 0.9891730769230769,
     "spills_increase": -119.0,
-    "hours_increase": 511.1500000000001
+    "hours_increase": 511.15
   },
   {
     "company_name": "South West Water",
     "shellfishery": "Taw/Torridge",
     "total_count": 1290.0,
-    "total_hours": 7870.150000000001,
+    "total_hours": 7870.15,
     "mean_reporting_pct": 0.9776190476190476,
     "spills_increase": -546.0,
-    "hours_increase": -4808.7699999999995
+    "hours_increase": -4808.77
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -159,16 +159,16 @@
     "total_hours": 5182.68,
     "mean_reporting_pct": 0.9762666666666666,
     "spills_increase": -115.0,
-    "hours_increase": -2803.1899999999996
+    "hours_increase": -2803.19
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "CHICHESTER HARBOUR (CHICHESTER",
     "total_count": 233.0,
-    "total_hours": 5153.035000000033,
+    "total_hours": 5153.03,
     "mean_reporting_pct": 0.9975,
     "spills_increase": 233.0,
-    "hours_increase": 5153.035000000033
+    "hours_increase": 5153.03
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -204,7 +204,7 @@
     "total_hours": 4208.59,
     "mean_reporting_pct": 0.9329032258064516,
     "spills_increase": -54.0,
-    "hours_increase": -688.8999999999999
+    "hours_increase": -688.9
   },
   {
     "company_name": "South West Water",
@@ -309,10 +309,10 @@
     "company_name": "Southern Water",
     "shellfishery": "RYDE",
     "total_count": 236.0,
-    "total_hours": 1977.5455555554363,
+    "total_hours": 1977.53,
     "mean_reporting_pct": 0.995,
     "spills_increase": 236.0,
-    "hours_increase": 1977.5455555554363
+    "hours_increase": 1977.53
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -336,10 +336,10 @@
     "company_name": "Southern Water",
     "shellfishery": "COWES, MEDINA",
     "total_count": 208.0,
-    "total_hours": 1804.4991666649003,
+    "total_hours": 1804.5,
     "mean_reporting_pct": 0.9833333333333333,
     "spills_increase": 208.0,
-    "hours_increase": 1804.4991666649003
+    "hours_increase": 1804.5
   },
   {
     "company_name": "United Utilities",
@@ -393,16 +393,16 @@
     "total_hours": 1488.87,
     "mean_reporting_pct": 0.9984,
     "spills_increase": -123.0,
-    "hours_increase": -10.700000000000003
+    "hours_increase": -10.7
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "LYMINGTON AND SOWLEY_M, NEWTOWN_M, PENNINGTON, YARMOUTH",
     "total_count": 209.0,
-    "total_hours": 1477.9127777773538,
+    "total_hours": 1477.92,
     "mean_reporting_pct": 1.0,
     "spills_increase": 209.0,
-    "hours_increase": 1477.9127777773538
+    "hours_increase": 1477.92
   },
   {
     "company_name": "United Utilities",
@@ -411,7 +411,7 @@
     "total_hours": 1471.97,
     "mean_reporting_pct": 0.8875888888888889,
     "spills_increase": 31.0,
-    "hours_increase": 136.54000000000002
+    "hours_increase": 136.54
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -426,28 +426,28 @@
     "company_name": "Southern Water",
     "shellfishery": "SOUTHAMPTON WATER",
     "total_count": 248.0,
-    "total_hours": 1463.424166666693,
+    "total_hours": 1463.41,
     "mean_reporting_pct": 0.9129166666666667,
     "spills_increase": 248.0,
-    "hours_increase": 1463.424166666693
+    "hours_increase": 1463.41
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "COWES, RYDE, SPITHEAD AND STOKES BAY",
     "total_count": 185.0,
-    "total_hours": 1431.078333334357,
+    "total_hours": 1431.08,
     "mean_reporting_pct": 0.875,
     "spills_increase": 185.0,
-    "hours_increase": 1431.078333334357
+    "hours_increase": 1431.08
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "PORTSMOUTH HARBOUR",
     "total_count": 280.0,
-    "total_hours": 1424.4008333357633,
+    "total_hours": 1424.4,
     "mean_reporting_pct": 0.97,
     "spills_increase": 280.0,
-    "hours_increase": 1424.4008333357633
+    "hours_increase": 1424.4
   },
   {
     "company_name": "South West Water",
@@ -498,10 +498,10 @@
     "company_name": "Southern Water",
     "shellfishery": "CENTRAL SOLENT, COWES, LEPE MIDDLE BANK, MEDINA, STANSWOOD BAY",
     "total_count": 241.41,
-    "total_hours": 1232.8727777770837,
+    "total_hours": 1232.87,
     "mean_reporting_pct": 1.0,
     "spills_increase": 241.41,
-    "hours_increase": 1232.8727777770837
+    "hours_increase": 1232.87
   },
   {
     "company_name": "Anglian Water",
@@ -525,10 +525,10 @@
     "company_name": "Southern Water",
     "shellfishery": "SWALE EAST, SWALECLIFFE",
     "total_count": 192.0,
-    "total_hours": 1084.8155555558042,
+    "total_hours": 1084.81,
     "mean_reporting_pct": 0.84,
     "spills_increase": 192.0,
-    "hours_increase": 1084.8155555558042
+    "hours_increase": 1084.81
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -561,10 +561,10 @@
     "company_name": "Southern Water",
     "shellfishery": "LYMINGTON AND SOWLEY_M, PENNINGTON, TOTLAND, YARMOUTH",
     "total_count": 92.0,
-    "total_hours": 1014.3180555572617,
+    "total_hours": 1014.32,
     "mean_reporting_pct": 1.0,
     "spills_increase": 92.0,
-    "hours_increase": 1014.3180555572617
+    "hours_increase": 1014.32
   },
   {
     "company_name": "Anglian Water",
@@ -597,19 +597,19 @@
     "company_name": "Southern Water",
     "shellfishery": "PENNINGTON",
     "total_count": 56.0,
-    "total_hours": 887.6275000002352,
+    "total_hours": 887.63,
     "mean_reporting_pct": 0.995,
     "spills_increase": 56.0,
-    "hours_increase": 887.6275000002352
+    "hours_increase": 887.63
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "NEWTOWN_M",
     "total_count": 51.0,
-    "total_hours": 857.3488888886059,
+    "total_hours": 857.35,
     "mean_reporting_pct": 0.98,
     "spills_increase": 51.0,
-    "hours_increase": 857.3488888886059
+    "hours_increase": 857.35
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -633,19 +633,19 @@
     "company_name": "Southern Water",
     "shellfishery": "CHICHESTER HARBOUR (EMSWORTH C, LANGSTONE HARBOUR, PORTSMOUTH HARBOUR",
     "total_count": 86.0,
-    "total_hours": 820.1399999998393,
+    "total_hours": 820.14,
     "mean_reporting_pct": 0.994,
     "spills_increase": 86.0,
-    "hours_increase": 820.1399999998393
+    "hours_increase": 820.14
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "Morecambe Bay Leven",
     "total_count": 87.0,
-    "total_hours": 817.3000000000001,
+    "total_hours": 817.3,
     "mean_reporting_pct": 1.0,
     "spills_increase": 87.0,
-    "hours_increase": 817.3000000000001
+    "hours_increase": 817.3
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -660,37 +660,37 @@
     "company_name": "Wessex Water",
     "shellfishery": "POOLE HARBOUR BRANDS BAY / POOLE HARBOUR NORTH / ROCKLEY / SW BROWNSEA ISLAND / WAREHAM CHANNEL / WHITLEY LAKE / WYCH LAKE / NORTH HAVEN PONTOON /  LYCHETT BAY / SOUTH DEEP / WEST BROWNSEA RELAY AREA",
     "total_count": 156.0,
-    "total_hours": 691.6256944435535,
-    "mean_reporting_pct": 0.9851417081776671,
+    "total_hours": 691.7,
+    "mean_reporting_pct": 0.9851818181818182,
     "spills_increase": -43.0,
-    "hours_increase": -683.5243055564465
+    "hours_increase": -683.45
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "CHICHESTER HARBOUR (EMSWORTH C, LANGSTONE HARBOUR, PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
     "total_count": 114.0,
-    "total_hours": 690.1719444411574,
+    "total_hours": 690.17,
     "mean_reporting_pct": 1.0,
     "spills_increase": 114.0,
-    "hours_increase": 690.1719444411574
+    "hours_increase": 690.17
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "CHICHESTER HARBOUR (CHICHESTER, CHICHESTER HARBOUR (EMSWORTH C, CHICHESTER HARBOUR (THORNHAM C",
     "total_count": 61.0,
-    "total_hours": 688.5241666679503,
+    "total_hours": 688.53,
     "mean_reporting_pct": 0.9975,
     "spills_increase": 61.0,
-    "hours_increase": 688.5241666679503
+    "hours_increase": 688.53
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "CENTRAL SOLENT, COWES, MEDINA, SPITHEAD AND STOKES BAY, STANSWOOD BAY",
     "total_count": 94.0,
-    "total_hours": 666.3913888892275,
+    "total_hours": 666.39,
     "mean_reporting_pct": 1.0,
     "spills_increase": 94.0,
-    "hours_increase": 666.3913888892275
+    "hours_increase": 666.39
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -723,10 +723,10 @@
     "company_name": "Southern Water",
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, SOUTHAMPTON WATER",
     "total_count": 93.0,
-    "total_hours": 641.2777777774609,
+    "total_hours": 641.28,
     "mean_reporting_pct": 0.97,
     "spills_increase": 93.0,
-    "hours_increase": 641.2777777774609
+    "hours_increase": 641.28
   },
   {
     "company_name": "United Utilities",
@@ -741,19 +741,19 @@
     "company_name": "Southern Water",
     "shellfishery": "CENTRAL SOLENT, COWES, RYDE, SPITHEAD AND STOKES BAY",
     "total_count": 56.0,
-    "total_hours": 589.2272222234169,
+    "total_hours": 589.22,
     "mean_reporting_pct": 1.0,
     "spills_increase": 56.0,
-    "hours_increase": 589.2272222234169
+    "hours_increase": 589.22
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "SHEPPEY, SOUTHEND",
     "total_count": 79.0,
-    "total_hours": 585.5605555561488,
+    "total_hours": 585.56,
     "mean_reporting_pct": 0.9966666666666667,
     "spills_increase": 79.0,
-    "hours_increase": 585.5605555561488
+    "hours_increase": 585.56
   },
   {
     "company_name": "United Utilities",
@@ -768,10 +768,10 @@
     "company_name": "Southern Water",
     "shellfishery": "CENTRAL SOLENT, COWES, MEDINA, SPITHEAD AND STOKES BAY, STANSWOOD BAY, TOTLAND",
     "total_count": 138.0,
-    "total_hours": 556.2094444437535,
+    "total_hours": 556.21,
     "mean_reporting_pct": 0.995,
     "spills_increase": 138.0,
-    "hours_increase": 556.2094444437535
+    "hours_increase": 556.21
   },
   {
     "company_name": "United Utilities",
@@ -789,7 +789,7 @@
     "total_hours": 524.06,
     "mean_reporting_pct": 1.0,
     "spills_increase": 24.0,
-    "hours_increase": 280.47999999999996
+    "hours_increase": 280.48
   },
   {
     "company_name": "United Utilities",
@@ -813,10 +813,10 @@
     "company_name": "Southern Water",
     "shellfishery": "MARGATE, SWALECLIFFE",
     "total_count": 52.0,
-    "total_hours": 499.7283333336236,
+    "total_hours": 499.73,
     "mean_reporting_pct": 1.0,
     "spills_increase": 52.0,
-    "hours_increase": 499.7283333336236
+    "hours_increase": 499.73
   },
   {
     "company_name": "United Utilities",
@@ -840,10 +840,10 @@
     "company_name": "Southern Water",
     "shellfishery": "LYMINGTON AND SOWLEY_M, PENNINGTON, YARMOUTH",
     "total_count": 38.0,
-    "total_hours": 431.71777777868556,
+    "total_hours": 431.72,
     "mean_reporting_pct": 0.985,
     "spills_increase": 38.0,
-    "hours_increase": 431.71777777868556
+    "hours_increase": 431.72
   },
   {
     "company_name": "Anglian Water",
@@ -885,10 +885,10 @@
     "company_name": "Southern Water",
     "shellfishery": "COWES, MEDINA, RYDE",
     "total_count": 88.0,
-    "total_hours": 401.5849999995553,
+    "total_hours": 401.58,
     "mean_reporting_pct": 0.9933333333333333,
     "spills_increase": 88.0,
-    "hours_increase": 401.5849999995553
+    "hours_increase": 401.58
   },
   {
     "company_name": "Anglian Water",
@@ -903,19 +903,19 @@
     "company_name": "Southern Water",
     "shellfishery": "SWALE CENTRAL",
     "total_count": 98.0,
-    "total_hours": 390.46416666707955,
+    "total_hours": 390.47,
     "mean_reporting_pct": 0.78625,
     "spills_increase": 98.0,
-    "hours_increase": 390.46416666707955
+    "hours_increase": 390.47
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "LYMINGTON AND SOWLEY_M, PENNINGTON",
     "total_count": 93.0,
-    "total_hours": 388.21722222247627,
+    "total_hours": 388.23,
     "mean_reporting_pct": 0.925,
     "spills_increase": 93.0,
-    "hours_increase": 388.21722222247627
+    "hours_increase": 388.23
   },
   {
     "company_name": "Anglian Water",
@@ -948,46 +948,46 @@
     "company_name": "Southern Water",
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, CENTRAL SOLENT, COWES, SOUTHAMPTON WATER, STANSWOOD BAY",
     "total_count": 46.0,
-    "total_hours": 347.3247222218779,
+    "total_hours": 347.32,
     "mean_reporting_pct": 0.995,
     "spills_increase": 46.0,
-    "hours_increase": 347.3247222218779
+    "hours_increase": 347.32
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "CHICHESTER HARBOUR (CHICHESTER, CHICHESTER HARBOUR (EMSWORTH C, CHICHESTER HARBOUR (THORNHAM C, LANGSTONE HARBOUR",
     "total_count": 28.0,
-    "total_hours": 302.1308333334164,
+    "total_hours": 302.13,
     "mean_reporting_pct": 1.0,
     "spills_increase": 28.0,
-    "hours_increase": 302.1308333334164
+    "hours_increase": 302.13
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "COWES, RYDE",
     "total_count": 94.0,
-    "total_hours": 293.7663888889365,
+    "total_hours": 293.76,
     "mean_reporting_pct": 0.812,
     "spills_increase": 94.0,
-    "hours_increase": 293.7663888889365
+    "hours_increase": 293.76
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "BEAULIEU RIVER, LYMINGTON AND SOWLEY_M, LEPE MIDDLE BANK",
     "total_count": 15.0,
-    "total_hours": 265.0761111108586,
+    "total_hours": 265.08,
     "mean_reporting_pct": 1.0,
     "spills_increase": 15.0,
-    "hours_increase": 265.0761111108586
+    "hours_increase": 265.08
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "PORTSMOUTH HARBOUR, SPITHEAD AND STOKES BAY",
     "total_count": 119.0,
-    "total_hours": 251.97027777903713,
+    "total_hours": 251.97,
     "mean_reporting_pct": 0.7788888888888889,
     "spills_increase": 119.0,
-    "hours_increase": 251.97027777903713
+    "hours_increase": 251.97
   },
   {
     "company_name": "Anglian Water",
@@ -1011,55 +1011,55 @@
     "company_name": "Southern Water",
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, CENTRAL SOLENT, SOUTHAMPTON WATER, STANSWOOD BAY",
     "total_count": 30.0,
-    "total_hours": 213.9508333329577,
+    "total_hours": 213.95,
     "mean_reporting_pct": 1.0,
     "spills_increase": 30.0,
-    "hours_increase": 213.9508333329577
+    "hours_increase": 213.95
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "BEAULIEU RIVER, LEPE MIDDLE BANK, LYMINGTON & SOWLEY",
     "total_count": 22.0,
-    "total_hours": 207.3763888888643,
+    "total_hours": 207.38,
     "mean_reporting_pct": 1.0,
     "spills_increase": 22.0,
-    "hours_increase": 207.3763888888643
+    "hours_increase": 207.38
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "MEDINA",
     "total_count": 136.0,
-    "total_hours": 194.8052777776611,
+    "total_hours": 194.8,
     "mean_reporting_pct": 0.79,
     "spills_increase": 136.0,
-    "hours_increase": 194.8052777776611
+    "hours_increase": 194.8
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "PENNINGTON, YARMOUTH",
     "total_count": 61.0,
-    "total_hours": 194.61277777788928,
+    "total_hours": 194.62,
     "mean_reporting_pct": 0.84,
     "spills_increase": 61.0,
-    "hours_increase": 194.61277777788928
+    "hours_increase": 194.62
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "CENTRAL SOLENT, COWES, PORTSMOUTH HARBOUR, RYDE, SPITHEAD AND STOKES BAY",
     "total_count": 58.0,
-    "total_hours": 192.80944444437046,
+    "total_hours": 192.81,
     "mean_reporting_pct": 1.0,
     "spills_increase": 58.0,
-    "hours_increase": 192.80944444437046
+    "hours_increase": 192.81
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "OUTER THAMES, SHEPPEY, SWALE EAST, SWALECLIFFE",
     "total_count": 27.0,
-    "total_hours": 191.5763888885267,
+    "total_hours": 191.58,
     "mean_reporting_pct": 1.0,
     "spills_increase": 27.0,
-    "hours_increase": 191.5763888885267
+    "hours_increase": 191.58
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -1083,19 +1083,19 @@
     "company_name": "Southern Water",
     "shellfishery": "COWES, LEPE MIDDLE BANK, LYMINGTON AND SOWLEY_M, MEDINA, NEWTOWN_M",
     "total_count": 25.0,
-    "total_hours": 183.40222222229932,
+    "total_hours": 183.4,
     "mean_reporting_pct": 1.0,
     "spills_increase": 25.0,
-    "hours_increase": 183.40222222229932
+    "hours_increase": 183.4
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "SWALE CENTRAL, SWALE EAST",
     "total_count": 65.0,
-    "total_hours": 183.1186111115967,
+    "total_hours": 183.11,
     "mean_reporting_pct": 0.8522222222222222,
     "spills_increase": 65.0,
-    "hours_increase": 183.1186111115967
+    "hours_increase": 183.11
   },
   {
     "company_name": "United Utilities",
@@ -1119,19 +1119,19 @@
     "company_name": "Southern Water",
     "shellfishery": "COWES, LEPE MIDDLE BANK, LYMINGTON AND SOWLEY_M, NEWTOWN_M",
     "total_count": 28.0,
-    "total_hours": 159.5986111111706,
+    "total_hours": 159.6,
     "mean_reporting_pct": 1.0,
     "spills_increase": 28.0,
-    "hours_increase": 159.5986111111706
+    "hours_increase": 159.6
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "LANGSTONE HARBOUR, PORTSMOUTH HARBOUR, RYDE, SPITHEAD AND STOKES BAY",
     "total_count": 35.0,
-    "total_hours": 151.1769444452366,
+    "total_hours": 151.18,
     "mean_reporting_pct": 1.0,
     "spills_increase": 35.0,
-    "hours_increase": 151.1769444452366
+    "hours_increase": 151.18
   },
   {
     "company_name": "South West Water",
@@ -1146,37 +1146,37 @@
     "company_name": "Southern Water",
     "shellfishery": "FOULNESS, OUTER THAMES, SHEPPEY, SOUTHEND",
     "total_count": 43.0,
-    "total_hours": 143.0113888895139,
+    "total_hours": 143.01,
     "mean_reporting_pct": 0.9933333333333333,
     "spills_increase": 43.0,
-    "hours_increase": 143.0113888895139
+    "hours_increase": 143.01
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "SWALE CENTRAL, SWALE EAST, SWALECLIFFE",
     "total_count": 35.0,
-    "total_hours": 137.20111111050937,
+    "total_hours": 137.2,
     "mean_reporting_pct": 0.95,
     "spills_increase": 35.0,
-    "hours_increase": 137.20111111050937
+    "hours_increase": 137.2
   },
   {
     "company_name": "Wessex Water",
     "shellfishery": "PORTLAND NORTH EASTERN BREAKWATER",
     "total_count": 139.0,
-    "total_hours": 127.47999999988747,
-    "mean_reporting_pct": 0.966478564180619,
+    "total_hours": 127.4,
+    "mean_reporting_pct": 0.9666,
     "spills_increase": 0.0,
-    "hours_increase": -48.91000000011253
+    "hours_increase": -48.99
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "OUTER THAMES, SHEPPEY, SOUTHEND",
     "total_count": 16.0,
-    "total_hours": 118.65527777757961,
+    "total_hours": 118.66,
     "mean_reporting_pct": 0.5,
     "spills_increase": 16.0,
-    "hours_increase": 118.65527777757961
+    "hours_increase": 118.66
   },
   {
     "company_name": "United Utilities",
@@ -1191,10 +1191,10 @@
     "company_name": "Southern Water",
     "shellfishery": "COWES, MEDINA, RYDE, SPITHEAD AND STOKES BAY",
     "total_count": 36.0,
-    "total_hours": 99.92166666680714,
+    "total_hours": 99.92,
     "mean_reporting_pct": 1.0,
     "spills_increase": 36.0,
-    "hours_increase": 99.92166666680714
+    "hours_increase": 99.92
   },
   {
     "company_name": "Anglian Water",
@@ -1209,97 +1209,97 @@
     "company_name": "Southern Water",
     "shellfishery": "PENNINGTON, YARMOUTH, TOTLAND",
     "total_count": 23.0,
-    "total_hours": 82.90249999979278,
+    "total_hours": 82.9,
     "mean_reporting_pct": 1.0,
     "spills_increase": 23.0,
-    "hours_increase": 82.90249999979278
+    "hours_increase": 82.9
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "SWALE EAST, SWALECLIFFE, MARGATE",
     "total_count": 30.0,
-    "total_hours": 81.76666666619712,
+    "total_hours": 81.77,
     "mean_reporting_pct": 1.0,
     "spills_increase": 30.0,
-    "hours_increase": 81.76666666619712
+    "hours_increase": 81.77
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "LYMINGTON AND SOWLEY_M, NEWTOWN_M, YARMOUTH",
     "total_count": 15.0,
-    "total_hours": 79.60444444476161,
+    "total_hours": 79.6,
     "mean_reporting_pct": 1.0,
     "spills_increase": 15.0,
-    "hours_increase": 79.60444444476161
+    "hours_increase": 79.6
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "STOUR ESTUARY (KENT)",
     "total_count": 31.0,
-    "total_hours": 75.12777777813608,
+    "total_hours": 75.12,
     "mean_reporting_pct": 0.9971428571428571,
     "spills_increase": 31.0,
-    "hours_increase": 75.12777777813608
+    "hours_increase": 75.12
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "NEWTOWN_M, YARMOUTH",
     "total_count": 22.0,
-    "total_hours": 74.89222222252283,
+    "total_hours": 74.89,
     "mean_reporting_pct": 1.0,
     "spills_increase": 22.0,
-    "hours_increase": 74.89222222252283
+    "hours_increase": 74.89
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "RYDE, SPITHEAD AND STOKES BAY,COWES",
     "total_count": 16.0,
-    "total_hours": 73.3955555553548,
+    "total_hours": 73.4,
     "mean_reporting_pct": 1.0,
     "spills_increase": 16.0,
-    "hours_increase": 73.3955555553548
+    "hours_increase": 73.4
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "MARGATE",
     "total_count": 36.0,
-    "total_hours": 64.06500000011874,
+    "total_hours": 64.07,
     "mean_reporting_pct": 1.0,
     "spills_increase": 36.0,
-    "hours_increase": 64.06500000011874
+    "hours_increase": 64.07
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "CHICHESTER HARBOUR (CHICHESTER, CHICHESTER HARBOUR (THORNHAM C",
     "total_count": 14.0,
-    "total_hours": 55.430833332880866,
+    "total_hours": 55.43,
     "mean_reporting_pct": 0.995,
     "spills_increase": 14.0,
-    "hours_increase": 55.430833332880866
+    "hours_increase": 55.43
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "RYDE, SPITHEAD AND STOKES BAY",
     "total_count": 19.0,
-    "total_hours": 54.856111110770144,
+    "total_hours": 54.86,
     "mean_reporting_pct": 0.9933333333333333,
     "spills_increase": 19.0,
-    "hours_increase": 54.856111110770144
+    "hours_increase": 54.86
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "APPROACHES TO SOUTHAMPTONWATER, SOUTHAMPTON WATER, STANSWOOD BAY",
     "total_count": 24.0,
-    "total_hours": 47.92694444395602,
+    "total_hours": 47.92,
     "mean_reporting_pct": 1.0,
     "spills_increase": 24.0,
-    "hours_increase": 47.92694444395602
+    "hours_increase": 47.92
   },
   {
     "company_name": "United Utilities",
     "shellfishery": "LUNE (BROADFLEET)",
     "total_count": 10.0,
-    "total_hours": 44.230000000000004,
+    "total_hours": 44.23,
     "mean_reporting_pct": 0.9997,
     "spills_increase": -13.0,
     "hours_increase": -118.64
@@ -1317,37 +1317,37 @@
     "company_name": "Southern Water",
     "shellfishery": "OUTER THAMES, SHEPPEY, SWALE CENTRAL, SWALECLIFFE",
     "total_count": 9.0,
-    "total_hours": 38.8813888891018,
+    "total_hours": 38.88,
     "mean_reporting_pct": 1.0,
     "spills_increase": 9.0,
-    "hours_increase": 38.8813888891018
+    "hours_increase": 38.88
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "LYMINGTON AND SOWLEY_M, NEWTOWN_M, PENNINGTON, TOTLAND, YARMOUTH",
     "total_count": 16.0,
-    "total_hours": 29.824444444093388,
+    "total_hours": 29.83,
     "mean_reporting_pct": 0.96,
     "spills_increase": 16.0,
-    "hours_increase": 29.824444444093388
+    "hours_increase": 29.83
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "LANGSTONE HARBOUR, PORTSMOUTH HARBOUR",
     "total_count": 16.0,
-    "total_hours": 29.65611111104954,
+    "total_hours": 29.66,
     "mean_reporting_pct": 0.8266666666666667,
     "spills_increase": 16.0,
-    "hours_increase": 29.65611111104954
+    "hours_increase": 29.66
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "SHEPPEY, SWALE CENTRAL, SWALE EAST, SWALECLIFFE",
     "total_count": 9.0,
-    "total_hours": 27.966388888657093,
+    "total_hours": 27.97,
     "mean_reporting_pct": 0.97,
     "spills_increase": 9.0,
-    "hours_increase": 27.966388888657093
+    "hours_increase": 27.97
   },
   {
     "company_name": "Anglian Water",
@@ -1371,19 +1371,19 @@
     "company_name": "Southern Water",
     "shellfishery": "SHEPPEY, SWALE EAST, SWALECLIFFE",
     "total_count": 3.0,
-    "total_hours": 19.299999999871943,
+    "total_hours": 19.3,
     "mean_reporting_pct": 1.0,
     "spills_increase": 3.0,
-    "hours_increase": 19.299999999871943
+    "hours_increase": 19.3
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "PENNINGTON, TOTLAND, YARMOUTH",
     "total_count": 5.0,
-    "total_hours": 15.190000000060536,
+    "total_hours": 15.19,
     "mean_reporting_pct": 1.0,
     "spills_increase": 5.0,
-    "hours_increase": 15.190000000060536
+    "hours_increase": 15.19
   },
   {
     "company_name": "United Utilities",
@@ -1398,10 +1398,10 @@
     "company_name": "Southern Water",
     "shellfishery": "CHICHESTER HARBOUR (EMSWORTH C, CHICHESTER HARBOUR (THORNHAM C, LANGSTONE HARBOUR",
     "total_count": 2.0,
-    "total_hours": 11.582222222175915,
+    "total_hours": 11.58,
     "mean_reporting_pct": 1.0,
     "spills_increase": 2.0,
-    "hours_increase": 11.582222222175915
+    "hours_increase": 11.58
   },
   {
     "company_name": "United Utilities",
@@ -1416,28 +1416,37 @@
     "company_name": "Southern Water",
     "shellfishery": "OUTER THAMES, SHEPPEY",
     "total_count": 6.0,
-    "total_hours": 4.740555555734318,
+    "total_hours": 4.74,
     "mean_reporting_pct": 1.0,
     "spills_increase": 6.0,
-    "hours_increase": 4.740555555734318
+    "hours_increase": 4.74
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "CENTRAL SOLENT, PORTSMOUTH HARBOUR, RYDE, SPITHEAD AND STOKES BAY",
     "total_count": 1.0,
-    "total_hours": 2.059999999939464,
+    "total_hours": 2.06,
     "mean_reporting_pct": 1.0,
     "spills_increase": 1.0,
-    "hours_increase": 2.059999999939464
+    "hours_increase": 2.06
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "LANGSTONE HARBOUR, SPITHEAD AND STOKES BAY",
     "total_count": 2.0,
-    "total_hours": 2.016111111093778,
+    "total_hours": 2.02,
     "mean_reporting_pct": 1.0,
     "spills_increase": 2.0,
-    "hours_increase": 2.016111111093778
+    "hours_increase": 2.02
+  },
+  {
+    "company_name": "Southern Water",
+    "shellfishery": "LANGSTONE HARBOUR",
+    "total_count": 3.0,
+    "total_hours": 1.65,
+    "mean_reporting_pct": 1.0,
+    "spills_increase": 3.0,
+    "hours_increase": 1.65
   },
   {
     "company_name": "United Utilities",
@@ -1447,15 +1456,6 @@
     "mean_reporting_pct": 1.0,
     "spills_increase": 0.0,
     "hours_increase": -5.85
-  },
-  {
-    "company_name": "Southern Water",
-    "shellfishery": "LANGSTONE HARBOUR",
-    "total_count": 3.0,
-    "total_hours": 1.6424999997834675,
-    "mean_reporting_pct": 1.0,
-    "spills_increase": 3.0,
-    "hours_increase": 1.6424999997834675
   },
   {
     "company_name": "Anglian Water",
