@@ -10,6 +10,7 @@ const vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeig
 const GeoSpillsMap = () => {
     const optionsFn = (Plot, data) => {
         return {
+            caption: "© CC-BY-SA-4.0 top-of-the-poops.org",
             projection: {
                 type: "mercator",
                 domain: {
