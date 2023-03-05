@@ -559,6 +559,12 @@
       "a": "a-24"
     },
     {
+      "p": "NORTHUMBERLAND STREET, LONDON",
+      "cid": "CSAB.0531",
+      "d": "2023-03-04",
+      "a": "a-24"
+    },
+    {
       "p": "WESTERN PS LOW LEVEL SEWER, LONDON",
       "cid": "CSAB.0538",
       "d": "2022-12-01",
@@ -1117,6 +1123,12 @@
       "a": "a-24"
     },
     {
+      "p": "WESTERN PS LOW LEVEL SEWER, LONDON",
+      "cid": "CSAB.0538",
+      "d": "2023-03-04",
+      "a": "a-24"
+    },
+    {
       "p": "NORFOLK STREET, LONDON",
       "cid": "CSAB.0540",
       "d": "2022-12-01",
@@ -1672,6 +1684,12 @@
       "p": "NORFOLK STREET, LONDON",
       "cid": "CSAB.0540",
       "d": "2023-03-03",
+      "a": "a-24"
+    },
+    {
+      "p": "NORFOLK STREET, LONDON",
+      "cid": "CSAB.0540",
+      "d": "2023-03-04",
       "a": "a-24"
     },
     {
@@ -2233,6 +2251,12 @@
       "a": "z-24"
     },
     {
+      "p": "FLEET MAIN LINE SEWER, LONDON",
+      "cid": "CSAB.0541",
+      "d": "2023-03-04",
+      "a": "z-24"
+    },
+    {
       "p": "LOWER THAMES STREET, BEER LANE, LON",
       "cid": "CSAB.0559",
       "d": "2022-12-01",
@@ -2791,6 +2815,12 @@
       "a": "a-24"
     },
     {
+      "p": "LOWER THAMES STREET, BEER LANE, LON",
+      "cid": "CSAB.0559",
+      "d": "2023-03-04",
+      "a": "a-24"
+    },
+    {
       "p": "HORSEFERRY ROAD SEWER, LONDON",
       "cid": "CSAB.0563",
       "d": "2022-12-01",
@@ -3349,6 +3379,12 @@
       "a": "a-24"
     },
     {
+      "p": "HORSEFERRY ROAD SEWER, LONDON",
+      "cid": "CSAB.0563",
+      "d": "2023-03-04",
+      "a": "a-24"
+    },
+    {
       "p": "WOOD STREET, LONDON",
       "cid": "CSAB.0564",
       "d": "2022-12-01",
@@ -3907,6 +3943,12 @@
       "a": "a-24"
     },
     {
+      "p": "WOOD STREET, LONDON",
+      "cid": "CSAB.0564",
+      "d": "2023-03-04",
+      "a": "a-24"
+    },
+    {
       "p": "REGENT STREET, LONDON",
       "cid": "CSAB.0570",
       "d": "2022-12-01",
@@ -4465,6 +4507,12 @@
       "a": "a-24"
     },
     {
+      "p": "REGENT STREET, LONDON",
+      "cid": "CSAB.0570",
+      "d": "2023-03-04",
+      "a": "a-24"
+    },
+    {
       "p": "Temple Place, Essex Street",
       "cid": "TEMP.2583",
       "d": "2022-12-01",
@@ -5020,6 +5068,12 @@
       "p": "Temple Place, Essex Street",
       "cid": "TEMP.2583",
       "d": "2023-03-03",
+      "a": "a-24"
+    },
+    {
+      "p": "Temple Place, Essex Street",
+      "cid": "TEMP.2583",
+      "d": "2023-03-04",
       "a": "a-24"
     },
     {
@@ -5581,6 +5635,12 @@
       "a": "z-24"
     },
     {
+      "p": "Low Level 1 N, Grosvenor Ditch, Mil",
+      "cid": "TEMP.2752",
+      "d": "2023-03-04",
+      "a": "z-24"
+    },
+    {
       "p": "PAULS PIER COMBINED SEWER OVERFLOW",
       "cid": "TEMP.2968",
       "d": "2022-12-01",
@@ -6137,6 +6197,12 @@
       "cid": "TEMP.2968",
       "d": "2023-03-03",
       "a": "a-24"
+    },
+    {
+      "p": "PAULS PIER COMBINED SEWER OVERFLOW",
+      "cid": "TEMP.2968",
+      "d": "2023-03-04",
+      "a": "a-24"
     }
   ],
   "rainfall": [
@@ -6685,6 +6751,12 @@
       "c": 0.0,
       "r": "r-0",
       "n": 1
+    },
+    {
+      "d": "2023-03-03",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 1
     }
   ],
   "count": 11,
@@ -6781,6 +6853,7 @@
     "2023-02-28",
     "2023-03-01",
     "2023-03-02",
-    "2023-03-03"
+    "2023-03-03",
+    "2023-03-04"
   ]
 }
