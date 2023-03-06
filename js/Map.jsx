@@ -183,7 +183,7 @@ const NavCard = () => {
     return <Card>
         <Card.Header>Explore </Card.Header>
         <Card.Body>
-            <Card.Link href="/">Homepage</Card.Link>
+            For information on pollution by <b><Card.Link href="/">River</Card.Link></b>, <b><Card.Link href="/">Beach</Card.Link></b> or see the worst pollution hot-spots see our <Card.Link href="/">Homepage</Card.Link>
         </Card.Body>
     </Card>
 }
