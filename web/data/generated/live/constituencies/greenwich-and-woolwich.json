@@ -571,6 +571,12 @@
       "a": "a-24"
     },
     {
+      "p": "DEPTFORD STORM RELIEF, LONDON",
+      "cid": "CSAB.0536",
+      "d": "2023-03-06",
+      "a": "a-24"
+    },
+    {
       "p": "GREENWICH PS, GREENWICH, LONDON",
       "cid": "CSAB.0537",
       "d": "2022-12-01",
@@ -1141,6 +1147,12 @@
       "a": "a-24"
     },
     {
+      "p": "GREENWICH PS, GREENWICH, LONDON",
+      "cid": "CSAB.0537",
+      "d": "2023-03-06",
+      "a": "a-24"
+    },
+    {
       "p": "CHARLTON STORM RELIEF, LONDON",
       "cid": "CSAB.0551",
       "d": "2022-12-01",
@@ -1708,6 +1720,12 @@
       "p": "CHARLTON STORM RELIEF, LONDON",
       "cid": "CSAB.0551",
       "d": "2023-03-05",
+      "a": "a-24"
+    },
+    {
+      "p": "CHARLTON STORM RELIEF, LONDON",
+      "cid": "CSAB.0551",
+      "d": "2023-03-06",
       "a": "a-24"
     }
   ],
@@ -2269,6 +2287,12 @@
       "c": 0.0,
       "r": "r-0",
       "n": 5
+    },
+    {
+      "d": "2023-03-05",
+      "c": 0.0,
+      "r": "r-0",
+      "n": 5
     }
   ],
   "count": 3,
@@ -2367,6 +2391,7 @@
     "2023-03-02",
     "2023-03-03",
     "2023-03-04",
-    "2023-03-05"
+    "2023-03-05",
+    "2023-03-06"
   ]
 }
