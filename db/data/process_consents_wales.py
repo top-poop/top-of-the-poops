@@ -2,12 +2,14 @@
 
 import argparse
 import csv
+import dataclasses
 import itertools
 import re
 from collections import namedtuple
 
 from bodges import process_receiving_water
 from process_edms_2021 import ensure_numeric_or_empty, ensure_zero_if_empty, ensure_is_percentage
+from edm_types import EDM, edm_writer
 
 Consent = namedtuple("Consent", [
     "company_name",
@@ -43,20 +45,6 @@ Consent = namedtuple("Consent", [
     "effluent_type",
     "eff_type_description",
     "effluent_grid_ref"
-])
-
-EDM = namedtuple("EDM", [
-    "reporting_year",
-    "company_name",
-    "site_name",
-    "consent_id",
-    "activity_reference",
-    "shellfishery",
-    "bathing",
-    "total_spill_hours",
-    "spill_count",
-    "reporting_pct",
-    "excuses",
 ])
 
 ConsentWales = namedtuple("ConsentWales", [
@@ -98,19 +86,19 @@ ConsentWales = namedtuple("ConsentWales", [
     "limit_3_definition"
 ])
 
-EDMWales = namedtuple("EDMWales", [
-    "site_name",
-    "location_grid_ref",
-    "permit_number",
-    "activity_reference",
-    "total_duration_hours",
-    "total_count",
-    "significant_count",
-    "significant_bathing_count",
-    "monitoring_pct",
-    "edm_operational_years",
-    "spill_frequency_trigger"
-])
+@dataclasses.dataclass
+class EDMWales:
+    site_name: str
+    location_grid_ref: str
+    permit_number: str
+    activity_reference: str
+    total_duration_hours: str
+    total_count: str
+    significant_count: str
+    significant_bathing_count: str
+    monitoring_pct: str
+    edm_operational_years: str
+    spill_frequency_trigger: str
 
 # Looks like this has been extracted from a db, joining a table with permit info
 # to a table of treatment/"determinand" so loads of the rows are mostly duplicated
@@ -221,6 +209,15 @@ def edm_wales_to_standardised(wales):
         spill_count=count,
         reporting_pct=ensure_is_percentage(ensure_zero_if_empty(ensure_numeric_or_empty(wales.monitoring_pct))),
         excuses="",
+
+        wasc_site_name=wales.site_name,
+        # grid_reference="",
+        edm_commissioning_info="",
+        reporting_low_reason="",
+        reporting_low_action="",
+        spill_high_reason="",
+        spill_high_action="",
+        spill_high_planning=""
     )
 
 
@@ -249,9 +246,9 @@ if __name__ == "__main__":
         next(input_csv)
 
         for row in input_csv:
-            edm = EDM._make(row)
+            edm = EDM(*row)
             if edm.company_name == WELSH_WATER:
-                edm = edm._replace(consent_id=bodge_permit(edm.consent_id))
+                edm = dataclasses.replace(edm, consent_id=bodge_permit(edm.consent_id))
                 events_in_england_and_wales_file.add(edm.consent_id)
 
     print(f"Have {len(events_in_england_and_wales_file)} ids from the England & Wales File")
@@ -264,11 +261,9 @@ if __name__ == "__main__":
 
         skipped = 0
 
-        with open(args.to_edms, "w") as ofp:
-            output_csv = csv.writer(ofp)
-
+        with edm_writer(args.to_edms) as output_csv:
             for row in input_csv:
-                wales = EDMWales._make(row)
+                wales = EDMWales(*row)
 
                 edm = edm_wales_to_standardised(wales)
 
@@ -279,7 +274,7 @@ if __name__ == "__main__":
                 if edm.consent_id.startswith("Unpermitted"):
                     synthetic_consent[edm.consent_id] = wales
 
-                output_csv.writerow(edm._asdict().values())
+                output_csv(edm)
 
         print(f"Skipped {skipped} entries already in EDM file")
 

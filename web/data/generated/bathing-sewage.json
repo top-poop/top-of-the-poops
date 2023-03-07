@@ -130,9 +130,9 @@
   {
     "company_name": "Southern Water",
     "bathing": "COWES, GURNARD",
-    "total_count": 498.41,
+    "total_count": 498.0,
     "total_hours": 2638.87,
-    "spills_increase": 498.41,
+    "spills_increase": 498.0,
     "hours_increase": 2638.87
   },
   {
@@ -297,7 +297,7 @@
   },
   {
     "company_name": "United Utilities",
-    "bathing": "St Annes_x000D_\\nSt Annes North_x000D_\\nSouthport_x000D_\\nBlackpool South",
+    "bathing": "St Annes_x000D_St Annes North_x000D_Southport_x000D_Blackpool South",
     "total_count": 87.0,
     "total_hours": 1684.72,
     "spills_increase": 87.0,
@@ -459,9 +459,9 @@
     "company_name": "Northumbrian Water",
     "bathing": "Saltburn Pier",
     "total_count": 131.0,
-    "total_hours": 1173.083611,
+    "total_hours": 1173.084,
     "spills_increase": 17.0,
-    "hours_increase": 179.713611
+    "hours_increase": 179.714
   },
   {
     "company_name": "United Utilities",
@@ -571,9 +571,9 @@
     "company_name": "Yorkshire Water",
     "bathing": "Scarborough South Bay",
     "total_count": 87.0,
-    "total_hours": 957.0833333333334,
+    "total_hours": 957.083,
     "spills_increase": 87.0,
-    "hours_increase": 957.0833333333334
+    "hours_increase": 957.083
   },
   {
     "company_name": "Southern Water",
@@ -635,9 +635,9 @@
     "company_name": "Northumbrian Water",
     "bathing": "Marske",
     "total_count": 177.0,
-    "total_hours": 818.736111,
+    "total_hours": 818.736,
     "spills_increase": 103.0,
-    "hours_increase": 714.276111
+    "hours_increase": 714.276
   },
   {
     "company_name": "Dwr Cymru Welsh Water",
@@ -1513,7 +1513,7 @@
   },
   {
     "company_name": "United Utilities",
-    "bathing": "Allonby_x000D_\\nAllonby South",
+    "bathing": "Allonby_x000D_Allonby South",
     "total_count": 11.0,
     "total_hours": 160.44,
     "spills_increase": 11.0,
@@ -2011,9 +2011,9 @@
     "company_name": "Northumbrian Water",
     "bathing": "Seahouses North",
     "total_count": 6.0,
-    "total_hours": 37.313333,
+    "total_hours": 37.313,
     "spills_increase": -8.0,
-    "hours_increase": 26.393333
+    "hours_increase": 26.393
   },
   {
     "company_name": "Yorkshire Water",
@@ -2049,7 +2049,7 @@
   },
   {
     "company_name": "United Utilities",
-    "bathing": "Morecambe South_x000D_\\nMorecambe North",
+    "bathing": "Morecambe South_x000D_Morecambe North",
     "total_count": 6.0,
     "total_hours": 34.76,
     "spills_increase": 6.0,

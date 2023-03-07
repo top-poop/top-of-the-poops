@@ -2,7 +2,7 @@
   {
     "id": 390,
     "bathing": "Saltburn Pier",
-    "total_spill_hours": 0.003611,
+    "total_spill_hours": 0.004,
     "lat": 54.586828,
     "lon": -0.978861,
     "pcon20nm": "Middlesbrough South and East Cleveland"
@@ -10,7 +10,7 @@
   {
     "id": 394,
     "bathing": "Marske",
-    "total_spill_hours": 0.026111,
+    "total_spill_hours": 0.026,
     "lat": 54.608924,
     "lon": -1.009893,
     "pcon20nm": "Redcar"
@@ -26,7 +26,7 @@
   {
     "id": 965,
     "bathing": "Seahouses North",
-    "total_spill_hours": 0.033333,
+    "total_spill_hours": 0.033,
     "lat": 55.57654,
     "lon": -1.656534,
     "pcon20nm": "Berwick-upon-Tweed"
@@ -50,7 +50,7 @@
   {
     "id": 871,
     "bathing": "Scarborough South Bay",
-    "total_spill_hours": 0.0833333333333333,
+    "total_spill_hours": 0.083,
     "lat": 54.27952,
     "lon": -0.39759,
     "pcon20nm": "Scarborough and Whitby"
@@ -3745,7 +3745,7 @@
   },
   {
     "id": 107,
-    "bathing": "Morecambe South_x000D_\\nMorecambe North",
+    "bathing": "Morecambe South_x000D_Morecambe North",
     "total_spill_hours": 34.76,
     "lat": 54.015746,
     "lon": -2.872896,
@@ -5657,7 +5657,7 @@
   },
   {
     "id": 180,
-    "bathing": "Allonby_x000D_\\nAllonby South",
+    "bathing": "Allonby_x000D_Allonby South",
     "total_spill_hours": 160.44,
     "lat": 54.783454,
     "lon": -3.430334,
@@ -7953,7 +7953,7 @@
   },
   {
     "id": 69,
-    "bathing": "St Annes_x000D_\\nSt Annes North_x000D_\\nSouthport_x000D_\\nBlackpool South",
+    "bathing": "St Annes_x000D_St Annes North_x000D_Southport_x000D_Blackpool South",
     "total_spill_hours": 1684.72,
     "lat": 53.654454,
     "lon": -2.657369,

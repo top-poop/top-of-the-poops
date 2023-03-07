@@ -13,7 +13,7 @@
     "shellfishery": "Menai E",
     "total_count": 1389.0,
     "total_hours": 13097.0,
-    "mean_reporting_pct": 0.9535025,
+    "mean_reporting_pct": 0.95355,
     "spills_increase": 1389.0,
     "hours_increase": 13097.0
   },
@@ -22,7 +22,7 @@
     "shellfishery": "NORTH WIRRAL (EAST)",
     "total_count": 1651.0,
     "total_hours": 11029.01,
-    "mean_reporting_pct": 0.9227025,
+    "mean_reporting_pct": 0.922725,
     "spills_increase": -1054.0,
     "hours_increase": -430.86
   },
@@ -40,7 +40,7 @@
     "shellfishery": "Ribble",
     "total_count": 1085.0,
     "total_hours": 9466.41,
-    "mean_reporting_pct": 0.996925,
+    "mean_reporting_pct": 0.9969375,
     "spills_increase": -628.0,
     "hours_increase": -3640.0
   },
@@ -58,7 +58,7 @@
     "shellfishery": "Morecambe Bay East and Lune (Broadfleet and Plover Scar)",
     "total_count": 583.0,
     "total_hours": 8572.51,
-    "mean_reporting_pct": 0.93745,
+    "mean_reporting_pct": 0.9374285714285714,
     "spills_increase": 261.0,
     "hours_increase": 6719.21
   },
@@ -67,7 +67,7 @@
     "shellfishery": "RIBBLE",
     "total_count": 1126.0,
     "total_hours": 8159.32,
-    "mean_reporting_pct": 0.9891730769230769,
+    "mean_reporting_pct": 0.9893076923076923,
     "spills_increase": -119.0,
     "hours_increase": 511.15
   },
@@ -85,7 +85,7 @@
     "shellfishery": "Conwy",
     "total_count": 1055.0,
     "total_hours": 7737.5,
-    "mean_reporting_pct": 0.9870739130434782,
+    "mean_reporting_pct": 0.9870869565217392,
     "spills_increase": 1055.0,
     "hours_increase": 7737.5
   },
@@ -94,7 +94,7 @@
     "shellfishery": "MORECAMBE BAY (LEVEN)",
     "total_count": 463.0,
     "total_hours": 7193.63,
-    "mean_reporting_pct": 0.99988,
+    "mean_reporting_pct": 0.9998,
     "spills_increase": -128.0,
     "hours_increase": -1167.76
   },
@@ -103,7 +103,7 @@
     "shellfishery": "Menai W",
     "total_count": 866.0,
     "total_hours": 6686.25,
-    "mean_reporting_pct": 0.9070863636363636,
+    "mean_reporting_pct": 0.9072272727272728,
     "spills_increase": 866.0,
     "hours_increase": 6686.25
   },
@@ -112,7 +112,7 @@
     "shellfishery": "Duddon and Walney",
     "total_count": 408.0,
     "total_hours": 6414.24,
-    "mean_reporting_pct": 0.7472625,
+    "mean_reporting_pct": 0.74725,
     "spills_increase": -333.0,
     "hours_increase": -4825.92
   },
@@ -130,7 +130,7 @@
     "shellfishery": "Cleddau",
     "total_count": 588.0,
     "total_hours": 6187.25,
-    "mean_reporting_pct": 0.9787,
+    "mean_reporting_pct": 0.9786363636363636,
     "spills_increase": 588.0,
     "hours_increase": 6187.25
   },
@@ -139,7 +139,7 @@
     "shellfishery": "Solway",
     "total_count": 841.0,
     "total_hours": 5854.59,
-    "mean_reporting_pct": 0.7691846153846154,
+    "mean_reporting_pct": 0.7692307692307693,
     "spills_increase": -339.0,
     "hours_increase": -5193.6
   },
@@ -148,7 +148,7 @@
     "shellfishery": "MORECAMBE BAY EAST",
     "total_count": 382.0,
     "total_hours": 5845.55,
-    "mean_reporting_pct": 0.9986875,
+    "mean_reporting_pct": 0.99875,
     "spills_increase": -336.0,
     "hours_increase": -2812.2
   },
@@ -157,7 +157,7 @@
     "shellfishery": "Morecambe Bay (Leven)",
     "total_count": 371.0,
     "total_hours": 5182.68,
-    "mean_reporting_pct": 0.9762666666666666,
+    "mean_reporting_pct": 0.9765,
     "spills_increase": -115.0,
     "hours_increase": -2803.19
   },
@@ -175,7 +175,7 @@
     "shellfishery": "Dee W",
     "total_count": 680.0,
     "total_hours": 5039.0,
-    "mean_reporting_pct": 0.9881206896551724,
+    "mean_reporting_pct": 0.988103448275862,
     "spills_increase": 267.0,
     "hours_increase": 2351.0
   },
@@ -184,7 +184,7 @@
     "shellfishery": "Mawddach",
     "total_count": 603.0,
     "total_hours": 4863.5,
-    "mean_reporting_pct": 0.99699375,
+    "mean_reporting_pct": 0.9970625,
     "spills_increase": 603.0,
     "hours_increase": 4863.5
   },
@@ -193,7 +193,7 @@
     "shellfishery": "Silloth",
     "total_count": 386.0,
     "total_hours": 4288.5,
-    "mean_reporting_pct": 0.7993,
+    "mean_reporting_pct": 0.7994,
     "spills_increase": -328.0,
     "hours_increase": -1933.68
   },
@@ -220,7 +220,7 @@
     "shellfishery": "Morecambe Bay (Leven) and Roose Beck",
     "total_count": 182.0,
     "total_hours": 3879.81,
-    "mean_reporting_pct": 0.9999,
+    "mean_reporting_pct": 1.0,
     "spills_increase": 162.0,
     "hours_increase": 3876.54
   },
@@ -247,7 +247,7 @@
     "shellfishery": "Swans E",
     "total_count": 421.0,
     "total_hours": 3804.25,
-    "mean_reporting_pct": 0.8844733333333333,
+    "mean_reporting_pct": 0.8846,
     "spills_increase": 421.0,
     "hours_increase": 3804.25
   },
@@ -265,7 +265,7 @@
     "shellfishery": "SILLOTH",
     "total_count": 446.0,
     "total_hours": 3264.04,
-    "mean_reporting_pct": 0.9016181818181818,
+    "mean_reporting_pct": 0.9016363636363637,
     "spills_increase": -408.0,
     "hours_increase": -3879.02
   },
@@ -274,7 +274,7 @@
     "shellfishery": "Walney and Roose Beck",
     "total_count": 362.0,
     "total_hours": 2440.65,
-    "mean_reporting_pct": 0.48536,
+    "mean_reporting_pct": 0.4854,
     "spills_increase": -246.0,
     "hours_increase": 208.64
   },
@@ -292,7 +292,7 @@
     "shellfishery": "WALNEY EAST",
     "total_count": 558.0,
     "total_hours": 2398.49,
-    "mean_reporting_pct": 0.8060454545454545,
+    "mean_reporting_pct": 0.8060909090909091,
     "spills_increase": -114.0,
     "hours_increase": 23.49
   },
@@ -301,7 +301,7 @@
     "shellfishery": "Rhos on S",
     "total_count": 216.0,
     "total_hours": 2106.5,
-    "mean_reporting_pct": 0.8523857142857142,
+    "mean_reporting_pct": 0.8524285714285714,
     "spills_increase": 216.0,
     "hours_increase": 2106.5
   },
@@ -319,7 +319,7 @@
     "shellfishery": "Red Wharf",
     "total_count": 199.0,
     "total_hours": 1954.25,
-    "mean_reporting_pct": 0.99156,
+    "mean_reporting_pct": 0.9914,
     "spills_increase": 199.0,
     "hours_increase": 1954.25
   },
@@ -328,7 +328,7 @@
     "shellfishery": "Menai Strait (East)",
     "total_count": 110.0,
     "total_hours": 1856.25,
-    "mean_reporting_pct": 0.9983,
+    "mean_reporting_pct": 0.998,
     "spills_increase": 110.0,
     "hours_increase": 1856.25
   },
@@ -346,7 +346,7 @@
     "shellfishery": "Meols, Morton",
     "total_count": 243.0,
     "total_hours": 1775.11,
-    "mean_reporting_pct": 0.99965,
+    "mean_reporting_pct": 0.9995,
     "spills_increase": 243.0,
     "hours_increase": 1775.11
   },
@@ -355,7 +355,7 @@
     "shellfishery": "Lune (Wyre)",
     "total_count": 300.0,
     "total_hours": 1610.55,
-    "mean_reporting_pct": 0.79984,
+    "mean_reporting_pct": 0.8,
     "spills_increase": 99.0,
     "hours_increase": 414.0
   },
@@ -364,7 +364,7 @@
     "shellfishery": "Taf",
     "total_count": 240.0,
     "total_hours": 1560.0,
-    "mean_reporting_pct": 0.9701,
+    "mean_reporting_pct": 0.97,
     "spills_increase": 240.0,
     "hours_increase": 1560.0
   },
@@ -391,7 +391,7 @@
     "shellfishery": "North Wirral",
     "total_count": 407.0,
     "total_hours": 1488.87,
-    "mean_reporting_pct": 0.9984,
+    "mean_reporting_pct": 0.9984285714285714,
     "spills_increase": -123.0,
     "hours_increase": -10.7
   },
@@ -409,7 +409,7 @@
     "shellfishery": "Morecambe Bay East",
     "total_count": 307.0,
     "total_hours": 1471.97,
-    "mean_reporting_pct": 0.8875888888888889,
+    "mean_reporting_pct": 0.8876666666666667,
     "spills_increase": 31.0,
     "hours_increase": 136.54
   },
@@ -418,7 +418,7 @@
     "shellfishery": "Swansea Bay (S),(W),(E)",
     "total_count": 185.0,
     "total_hours": 1466.25,
-    "mean_reporting_pct": 0.9999,
+    "mean_reporting_pct": 1.0,
     "spills_increase": 185.0,
     "hours_increase": 1466.25
   },
@@ -472,7 +472,7 @@
     "shellfishery": "Conwy/Conwy Bridge",
     "total_count": 176.0,
     "total_hours": 1303.75,
-    "mean_reporting_pct": 0.9991,
+    "mean_reporting_pct": 0.9993333333333333,
     "spills_increase": 176.0,
     "hours_increase": 1303.75
   },
@@ -481,7 +481,7 @@
     "shellfishery": "Burry S",
     "total_count": 253.0,
     "total_hours": 1284.25,
-    "mean_reporting_pct": 0.9627125,
+    "mean_reporting_pct": 0.96275,
     "spills_increase": 253.0,
     "hours_increase": 1284.25
   },
@@ -490,17 +490,17 @@
     "shellfishery": "Burry N",
     "total_count": 253.0,
     "total_hours": 1263.75,
-    "mean_reporting_pct": 0.9498466666666667,
+    "mean_reporting_pct": 0.9498666666666666,
     "spills_increase": 253.0,
     "hours_increase": 1263.75
   },
   {
     "company_name": "Southern Water",
     "shellfishery": "CENTRAL SOLENT, COWES, LEPE MIDDLE BANK, MEDINA, STANSWOOD BAY",
-    "total_count": 241.41,
+    "total_count": 241.0,
     "total_hours": 1232.87,
     "mean_reporting_pct": 1.0,
-    "spills_increase": 241.41,
+    "spills_increase": 241.0,
     "hours_increase": 1232.87
   },
   {
@@ -535,7 +535,7 @@
     "shellfishery": "Dyfi",
     "total_count": 167.0,
     "total_hours": 1052.5,
-    "mean_reporting_pct": 0.9897199999999999,
+    "mean_reporting_pct": 0.9898,
     "spills_increase": 167.0,
     "hours_increase": 1052.5
   },
@@ -544,7 +544,7 @@
     "shellfishery": "Porthcawl",
     "total_count": 80.0,
     "total_hours": 1050.0,
-    "mean_reporting_pct": 0.79928,
+    "mean_reporting_pct": 0.7994,
     "spills_increase": 80.0,
     "hours_increase": 1050.0
   },
@@ -580,7 +580,7 @@
     "shellfishery": "Gwendrae",
     "total_count": 137.0,
     "total_hours": 921.0,
-    "mean_reporting_pct": 0.6723,
+    "mean_reporting_pct": 0.6722,
     "spills_increase": 137.0,
     "hours_increase": 921.0
   },
@@ -616,7 +616,7 @@
     "shellfishery": "Menai F",
     "total_count": 165.0,
     "total_hours": 856.25,
-    "mean_reporting_pct": 0.99495,
+    "mean_reporting_pct": 0.995,
     "spills_increase": 165.0,
     "hours_increase": 856.25
   },
@@ -625,7 +625,7 @@
     "shellfishery": "Swans S",
     "total_count": 99.0,
     "total_hours": 828.75,
-    "mean_reporting_pct": 0.9841,
+    "mean_reporting_pct": 0.9842,
     "spills_increase": 99.0,
     "hours_increase": 828.75
   },
@@ -652,7 +652,7 @@
     "shellfishery": "Swans W",
     "total_count": 252.0,
     "total_hours": 702.25,
-    "mean_reporting_pct": 0.9433235294117647,
+    "mean_reporting_pct": 0.9433529411764706,
     "spills_increase": 252.0,
     "hours_increase": 702.25
   },
@@ -697,7 +697,7 @@
     "shellfishery": "Dee West",
     "total_count": 78.0,
     "total_hours": 664.25,
-    "mean_reporting_pct": 0.9977333333333334,
+    "mean_reporting_pct": 0.9976666666666667,
     "spills_increase": 78.0,
     "hours_increase": 664.25
   },
@@ -706,7 +706,7 @@
     "shellfishery": "Glaslyn",
     "total_count": 220.0,
     "total_hours": 659.25,
-    "mean_reporting_pct": 0.8567333333333333,
+    "mean_reporting_pct": 0.8568333333333333,
     "spills_increase": 220.0,
     "hours_increase": 659.25
   },
@@ -715,7 +715,7 @@
     "shellfishery": "Lune (Wyre Estuary) Lune (Broadfleet)",
     "total_count": 83.0,
     "total_hours": 655.69,
-    "mean_reporting_pct": 0.9995,
+    "mean_reporting_pct": 1.0,
     "spills_increase": -13.0,
     "hours_increase": 53.19
   },
@@ -733,7 +733,7 @@
     "shellfishery": "RAVENGLASS",
     "total_count": 55.0,
     "total_hours": 606.9,
-    "mean_reporting_pct": 0.9994,
+    "mean_reporting_pct": 0.999,
     "spills_increase": -117.0,
     "hours_increase": -781.28
   },
@@ -760,7 +760,7 @@
     "shellfishery": "Duddon",
     "total_count": 48.0,
     "total_hours": 560.63,
-    "mean_reporting_pct": 0.9998,
+    "mean_reporting_pct": 1.0,
     "spills_increase": -58.0,
     "hours_increase": -1144.5
   },
@@ -778,7 +778,7 @@
     "shellfishery": "SOLWAY",
     "total_count": 92.0,
     "total_hours": 524.44,
-    "mean_reporting_pct": 0.999325,
+    "mean_reporting_pct": 0.99925,
     "spills_increase": -334.0,
     "hours_increase": -1393.78
   },
@@ -823,7 +823,7 @@
     "shellfishery": "ROOSEBECK_E",
     "total_count": 131.0,
     "total_hours": 492.74,
-    "mean_reporting_pct": 0.9995,
+    "mean_reporting_pct": 1.0,
     "spills_increase": 22.0,
     "hours_increase": 195.45
   },
@@ -832,7 +832,7 @@
     "shellfishery": "Tywi",
     "total_count": 91.0,
     "total_hours": 474.5,
-    "mean_reporting_pct": 0.9574499999999999,
+    "mean_reporting_pct": 0.9575,
     "spills_increase": 91.0,
     "hours_increase": 474.5
   },
@@ -850,7 +850,7 @@
     "shellfishery": "South East Wash",
     "total_count": 83.0,
     "total_hours": 428.53,
-    "mean_reporting_pct": 0.999986681887367,
+    "mean_reporting_pct": 1.0,
     "spills_increase": -2.0,
     "hours_increase": 98.47
   },
@@ -868,7 +868,7 @@
     "shellfishery": "NORTH WIRRAL (WEST)",
     "total_count": 92.0,
     "total_hours": 415.21,
-    "mean_reporting_pct": 0.9267285714285715,
+    "mean_reporting_pct": 0.9267142857142857,
     "spills_increase": -378.0,
     "hours_increase": -2770.58
   },
@@ -877,7 +877,7 @@
     "shellfishery": "Menai West",
     "total_count": 34.0,
     "total_hours": 404.0,
-    "mean_reporting_pct": 0.9995999999999999,
+    "mean_reporting_pct": 1.0,
     "spills_increase": 34.0,
     "hours_increase": 404.0
   },
@@ -895,7 +895,7 @@
     "shellfishery": "Deben",
     "total_count": 77.0,
     "total_hours": 400.27,
-    "mean_reporting_pct": 0.999998097412481,
+    "mean_reporting_pct": 1.0,
     "spills_increase": 17.0,
     "hours_increase": 352.47
   },
@@ -921,10 +921,10 @@
     "company_name": "Anglian Water",
     "shellfishery": "West Wash",
     "total_count": 178.0,
-    "total_hours": 386.303333,
-    "mean_reporting_pct": 0.8379481650600372,
+    "total_hours": 386.303,
+    "mean_reporting_pct": 0.838,
     "spills_increase": 88.0,
-    "hours_increase": 126.563333
+    "hours_increase": 126.563
   },
   {
     "company_name": "United Utilities",
@@ -940,7 +940,7 @@
     "shellfishery": "Lune (Plover Scar)",
     "total_count": 64.0,
     "total_hours": 361.57,
-    "mean_reporting_pct": 0.9999,
+    "mean_reporting_pct": 1.0,
     "spills_increase": -4.0,
     "hours_increase": 58.14
   },
@@ -994,7 +994,7 @@
     "shellfishery": "Colne, Pyfleet",
     "total_count": 70.0,
     "total_hours": 247.9,
-    "mean_reporting_pct": 0.637396194824962,
+    "mean_reporting_pct": 0.6373333333333333,
     "spills_increase": -51.0,
     "hours_increase": -1525.56
   },
@@ -1003,7 +1003,7 @@
     "shellfishery": "Foulness",
     "total_count": 57.0,
     "total_hours": 244.5,
-    "mean_reporting_pct": 0.9910816210045662,
+    "mean_reporting_pct": 0.99125,
     "spills_increase": 28.0,
     "hours_increase": 163.24
   },
@@ -1066,7 +1066,7 @@
     "shellfishery": "Llanddulas",
     "total_count": 107.0,
     "total_hours": 189.5,
-    "mean_reporting_pct": 0.9954333333333333,
+    "mean_reporting_pct": 0.9956666666666667,
     "spills_increase": 107.0,
     "hours_increase": 189.5
   },
@@ -1075,7 +1075,7 @@
     "shellfishery": "Colne",
     "total_count": 107.0,
     "total_hours": 189.11,
-    "mean_reporting_pct": 0.9705649543378997,
+    "mean_reporting_pct": 0.9706,
     "spills_increase": -195.0,
     "hours_increase": -4381.79
   },
@@ -1102,7 +1102,7 @@
     "shellfishery": "Lune (Broadfleet and Plover Scar) and Morecambe Bay East",
     "total_count": 36.0,
     "total_hours": 180.86,
-    "mean_reporting_pct": 0.9956,
+    "mean_reporting_pct": 0.996,
     "spills_increase": -9.0,
     "hours_increase": -197.95
   },
@@ -1183,7 +1183,7 @@
     "shellfishery": "LUNE (WYRE ESTUARY)",
     "total_count": 66.0,
     "total_hours": 112.84,
-    "mean_reporting_pct": 0.999725,
+    "mean_reporting_pct": 0.99975,
     "spills_increase": -147.0,
     "hours_increase": -191.28
   },
@@ -1201,7 +1201,7 @@
     "shellfishery": "Walton Backwaters",
     "total_count": 19.0,
     "total_hours": 90.97,
-    "mean_reporting_pct": 0.999969558599696,
+    "mean_reporting_pct": 1.0,
     "spills_increase": -40.0,
     "hours_increase": -78.33
   },
@@ -1300,7 +1300,7 @@
     "shellfishery": "LUNE (BROADFLEET)",
     "total_count": 10.0,
     "total_hours": 44.23,
-    "mean_reporting_pct": 0.9997,
+    "mean_reporting_pct": 0.9995,
     "spills_increase": -13.0,
     "hours_increase": -118.64
   },
@@ -1354,7 +1354,7 @@
     "shellfishery": "Upper Roach",
     "total_count": 17.0,
     "total_hours": 25.93,
-    "mean_reporting_pct": 0.675913242009133,
+    "mean_reporting_pct": 0.676,
     "spills_increase": 0.0,
     "hours_increase": -21.67
   },
@@ -1462,7 +1462,7 @@
     "shellfishery": "Osea Island/Blackwater",
     "total_count": 4.0,
     "total_hours": 0.23,
-    "mean_reporting_pct": 0.921518264840183,
+    "mean_reporting_pct": 0.922,
     "spills_increase": 1.0,
     "hours_increase": 0.13
   },
@@ -1498,7 +1498,7 @@
     "shellfishery": "Dee (East)",
     "total_count": 0.0,
     "total_hours": 0.0,
-    "mean_reporting_pct": 0.0581,
+    "mean_reporting_pct": 0.058,
     "spills_increase": 0.0,
     "hours_increase": 0.0
   },

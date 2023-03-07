@@ -8,7 +8,7 @@
   {
     "reporting_year": 2021,
     "company_name": "Anglian Water",
-    "hours": 194594.006666,
+    "hours": 194594.006,
     "count": 21351.0
   },
   {
@@ -20,8 +20,8 @@
   {
     "reporting_year": 2021,
     "company_name": "Dwr Cymru Welsh Water",
-    "hours": 824672.75,
-    "count": 101513.0
+    "hours": 824675.0,
+    "count": 101522.0
   },
   {
     "reporting_year": 2020,
@@ -32,7 +32,7 @@
   {
     "reporting_year": 2021,
     "company_name": "Northumbrian Water",
-    "hours": 220560.452222,
+    "hours": 220560.454,
     "count": 36483.0
   },
   {
@@ -44,7 +44,7 @@
   {
     "reporting_year": 2021,
     "company_name": "Severn Trent Water",
-    "hours": 461127.689222,
+    "hours": 461127.672,
     "count": 59676.0
   },
   {
@@ -56,8 +56,8 @@
   {
     "reporting_year": 2021,
     "company_name": "South West Water",
-    "hours": 349293.33,
-    "count": 42126.0
+    "hours": 349571.46,
+    "count": 42261.0
   },
   {
     "reporting_year": 2020,
@@ -68,8 +68,8 @@
   {
     "reporting_year": 2021,
     "company_name": "Southern Water",
-    "hours": 160983.930833,
-    "count": 19077.41
+    "hours": 160983.931,
+    "count": 19077.0
   },
   {
     "reporting_year": 2020,
@@ -104,7 +104,7 @@
   {
     "reporting_year": 2021,
     "company_name": "Wessex Water",
-    "hours": 151258.33055555547,
+    "hours": 151258.33,
     "count": 23524.0
   },
   {
@@ -116,7 +116,7 @@
   {
     "reporting_year": 2021,
     "company_name": "Yorkshire Water",
-    "hours": 406125.4113888889,
-    "count": 70062.0
+    "hours": 405876.612,
+    "count": 69906.0
   }
 ]

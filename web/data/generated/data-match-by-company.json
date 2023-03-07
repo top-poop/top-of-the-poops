@@ -123,7 +123,7 @@
     "reporting_year": 2021,
     "company_name": "Anglian Water",
     "type": "matched",
-    "count": 1541
+    "count": 1551
   },
   {
     "reporting_year": 2021,
@@ -135,13 +135,13 @@
     "reporting_year": 2021,
     "company_name": "Dwr Cymru Welsh Water",
     "type": "matched",
-    "count": 2268
+    "count": 2269
   },
   {
     "reporting_year": 2021,
     "company_name": "Dwr Cymru Welsh Water",
     "type": "unmatched",
-    "count": 166
+    "count": 167
   },
   {
     "reporting_year": 2021,
@@ -165,19 +165,19 @@
     "reporting_year": 2021,
     "company_name": "Severn Trent Water",
     "type": "unmatched",
-    "count": 425
+    "count": 426
   },
   {
     "reporting_year": 2021,
     "company_name": "South West Water",
     "type": "matched",
-    "count": 1363
+    "count": 1367
   },
   {
     "reporting_year": 2021,
     "company_name": "South West Water",
     "type": "unmatched",
-    "count": 14
+    "count": 15
   },
   {
     "reporting_year": 2021,
@@ -225,18 +225,18 @@
     "reporting_year": 2021,
     "company_name": "Wessex Water",
     "type": "unmatched",
-    "count": 3
+    "count": 22
   },
   {
     "reporting_year": 2021,
     "company_name": "Yorkshire Water",
     "type": "matched",
-    "count": 2230
+    "count": 2218
   },
   {
     "reporting_year": 2021,
     "company_name": "Yorkshire Water",
     "type": "unmatched",
-    "count": 16
+    "count": 4
   }
 ]

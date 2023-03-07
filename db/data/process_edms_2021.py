@@ -2,8 +2,11 @@
 
 import argparse
 import csv
+import dataclasses
 import os
 import re
+
+from edm_types import EDM, edm_writer
 
 nas = {"n/a", "#n/a", "#na"}
 
@@ -29,6 +32,15 @@ def ensure_numeric_or_empty(thing):
     return thing
 
 
+def ensure_numeric(thing):
+    thing = thing.strip()
+    thing = ensure_not_na(thing)
+    if thing in ("-", ""):
+        thing = 0
+    thing = round(float(thing), 3)
+    return thing
+
+
 def ensure_zero_if_empty(thing):
     if thing == "":
         thing = 0
@@ -38,11 +50,10 @@ def ensure_zero_if_empty(thing):
 def ensure_is_percentage(thing):
     if thing > 1:
         thing /= 100.0
-    return thing
+    return round(thing, 3)
 
 
 def epr_consent(company, provided):
-
     if company == "Wessex Water":
         if re.match(r"^\d{5}$", provided):
             provided = f"0{provided}"
@@ -52,20 +63,35 @@ def epr_consent(company, provided):
     return provided
 
 
-def write_row(writer, row):
-    if len(row) != 11:
-        raise IOError(f"bodge was wrong, got {row}")
-
-    writer.writerow(row)
+def ensure_grid_reference(grid_reference):
+    potential = grid_reference.replace(" ", "").split("/")[0]
+    if potential == "FALSE":
+        return ""
+    return potential
 
 
 def bodge(row):
-    return 2021, row[0], row[1], \
-           epr_consent(row[0], row[3]), row[5], \
-           ensure_bathing_or_shellfish(row[11]), ensure_bathing_or_shellfish(row[12]), \
-           ensure_numeric_or_empty(row[14]), \
-           ensure_numeric_or_empty(row[15]), \
-           ensure_is_percentage(ensure_zero_if_empty(ensure_numeric_or_empty(row[16]))), " ".join(row[17:21]).strip()
+    return EDM(
+        reporting_year=2021,
+        company_name=row[0].replace("\\n", ""),
+        site_name=row[1].replace("\\n", ""),
+        wasc_site_name=row[2].replace("\\n", ""),
+        consent_id=epr_consent(row[0], row[3]),
+        activity_reference=row[5],
+        shellfishery=ensure_bathing_or_shellfish(row[11]).replace("\\n", ""),
+        bathing=ensure_bathing_or_shellfish(row[12]).replace("\\n", ""),
+        total_spill_hours=ensure_numeric(row[14]),
+        spill_count=int(ensure_numeric(row[15])),
+        reporting_pct=ensure_is_percentage(ensure_zero_if_empty(ensure_numeric_or_empty(row[16]))),
+        # grid_reference=ensure_grid_reference(row[7]),
+        excuses=" ".join(row[17:21]).strip(),
+        edm_commissioning_info=row[13],
+        reporting_low_reason=row[17],
+        reporting_low_action=row[18],
+        spill_high_reason=row[19],
+        spill_high_action=row[20].replace("â€“", "-"),
+        spill_high_planning=row[21]
+    )
 
 
 if __name__ == "__main__":
@@ -78,15 +104,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     try:
-        with open(args.output, "w") as out:
-            writer = csv.writer(out)
-            writer.writerow(
-                ["reporting_year", "company", "site", "permit", "activity_reference", "is_shellfishery",
-                 "is_bathing_beach",
-                 "spill_duration",
-                 "spill_count", "reporting_coverage_pct", "comments"]
-            )
-
+        with edm_writer( args.output) as writer:
             for edm in filter(lambda n: n.endswith(".csv"), args.input):
                 seen = set()
                 with open(edm, encoding='windows-1252') as edm_file:
@@ -97,12 +115,16 @@ if __name__ == "__main__":
                     for line in sewage:
                         bodged = bodge(line)
 
-                        s = "".join(str(b) for b in bodged)
+                        if bodged.site_name in ( "FALSE", "Not in Consents Database"):
+                            continue
+
+                        s = str(bodged)
                         if s in seen:
                             print(f"Duplicate row: {bodged}")
                         else:
                             seen.add(s)
-                            write_row(writer, bodged)
+                            if bodged.company_name != "":
+                                writer(bodged)
     except Exception as e:
         os.unlink(args.output)
         raise e from None

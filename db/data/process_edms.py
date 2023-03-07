@@ -5,6 +5,7 @@ import csv
 import os
 import re
 
+from edm_types import edm_writer, EDM
 from process_edms_2021 import ensure_is_percentage, ensure_zero_if_empty, ensure_numeric_or_empty
 
 
@@ -160,14 +161,10 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    with open(args.output, "w") as out:
+    with edm_writer(args.output) as writer:
 
         os.chdir(args.directory)
 
-        writer = csv.writer(out)
-        writer.writerow(
-            ["reporting_year", "company", "site", "permit", "activity_reference", "is_shellfishery", "is_bathing_beach", "spill_duration",
-             "spill_count", "reporting_coverage_pct", "comments"])
         for filename in [f for f in os.listdir() if f.startswith("EAv") and f.endswith(".csv") and not "Summary" in f]:
             print(f"Processing {filename}")
 
@@ -198,6 +195,27 @@ if __name__ == "__main__":
                     bodged[7] = ensure_numeric(bodged[7])
                     bodged[8] = ensure_numeric(bodged[8])
 
-                    bodged.insert(0, 2020)
+                    edm = EDM(
+                        reporting_year=2020,
+                        company_name=bodged[0],
+                        site_name=bodged[1],
+                        consent_id=bodged[2],
+                        activity_reference=bodged[3],
+                        shellfishery=bodged[4],
+                        bathing=bodged[5],
+                        total_spill_hours=bodged[6],
+                        spill_count=bodged[7],
+                        reporting_pct=bodged[8],
+                        excuses=bodged[9],
 
-                    write_row(writer, bodged)
+                        wasc_site_name=bodged[1],
+                        # grid_reference="",
+                        edm_commissioning_info="",
+                        reporting_low_reason="",
+                        reporting_low_action="",
+                        spill_high_reason="",
+                        spill_high_action="",
+                        spill_high_planning=""
+                    )
+
+                    writer(edm)

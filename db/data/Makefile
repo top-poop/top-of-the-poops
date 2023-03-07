@@ -88,8 +88,10 @@ $(DOWNLOAD)/edm.csv: $(DOWNLOAD)/$(EDM_ZIP) process_edms.py
 	./convert-edm-xlsx.sh $(DOWNLOAD)
 	$(PYTHON) process_edms.py $(DOWNLOAD) $@
 
+COMBINE=awk 'FNR==1 && NR!=1{next;}{print}'
+
 $(DOWNLOAD)/edm-consolidated.csv: $(DOWNLOAD)/edm.csv $(DOWNLOAD)/edm-wales-standardised.csv
-	cat $^ > $@
+	$(COMBINE) $^ > $@
 
 
 # EDM 2021
