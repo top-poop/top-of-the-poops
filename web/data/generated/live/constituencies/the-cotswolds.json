@@ -352,7 +352,7 @@
       "p": "FAIRFORD STW, FAIRFORD, GLOS",
       "cid": "CATM.3518",
       "d": "2023-01-28",
-      "a": "o-24"
+      "a": "o-20"
     },
     {
       "p": "FAIRFORD STW, FAIRFORD, GLOS",
@@ -910,13 +910,13 @@
       "p": "KEMPSFORD STW, KEMPSFORD, FAIRFORD,",
       "cid": "CATM.3520",
       "d": "2023-01-23",
-      "a": "a-24"
+      "a": "o-4"
     },
     {
       "p": "KEMPSFORD STW, KEMPSFORD, FAIRFORD,",
       "cid": "CATM.3520",
       "d": "2023-01-24",
-      "a": "a-24"
+      "a": "o-12"
     },
     {
       "p": "KEMPSFORD STW, KEMPSFORD, FAIRFORD,",
@@ -2098,7 +2098,7 @@
       "p": "AMPNEY ST PETER WWTW",
       "cid": "CSSC.2452",
       "d": "2023-01-25",
-      "a": "a-24"
+      "a": "o-4"
     },
     {
       "p": "AMPNEY ST PETER WWTW",
@@ -2704,7 +2704,7 @@
       "p": "CIRENCESTER WWTW",
       "cid": "CTCR.1750",
       "d": "2023-01-28",
-      "a": "o-24"
+      "a": "o-16"
     },
     {
       "p": "CIRENCESTER WWTW",
@@ -3850,13 +3850,13 @@
       "p": "BOURTON-ON-THE-WATER STW",
       "cid": "CTCR.2036",
       "d": "2023-01-23",
-      "a": "a-24"
+      "a": "o-12"
     },
     {
       "p": "BOURTON-ON-THE-WATER STW",
       "cid": "CTCR.2036",
       "d": "2023-01-24",
-      "a": "a-24"
+      "a": "o-4"
     },
     {
       "p": "BOURTON-ON-THE-WATER STW",

@@ -75,6 +75,7 @@ class TWApi:
         if "items" in resp:
             return limit, [map_item(item) for item in resp["items"]]
         else:
+            print(f"Response was: {response.text} {response.headers}")
             return limit, []
 
     def _do_chunks(self, url, params):
@@ -184,7 +185,7 @@ if __name__ == "__main__":
         )
     )
 
-    # events = api.events(datetime.date.fromisoformat("2023-01-01"))
-    events = api.events_by_permit("TEMP.2438")
+    events = api.events(datetime.date.fromisoformat("2023-01-27"))
+    # events = api.events_by_permit("TEMP.2496")
     print("\n".join([str(e) for e in events]))
     print(f"Len = {len(events)}")

@@ -322,19 +322,19 @@
       "p": "NORTHUMBERLAND STREET, LONDON",
       "cid": "CSAB.0531",
       "d": "2023-01-23",
-      "a": "a-24"
+      "a": "o-4"
     },
     {
       "p": "NORTHUMBERLAND STREET, LONDON",
       "cid": "CSAB.0531",
       "d": "2023-01-24",
-      "a": "a-24"
+      "a": "o-4"
     },
     {
       "p": "NORTHUMBERLAND STREET, LONDON",
       "cid": "CSAB.0531",
       "d": "2023-01-25",
-      "a": "a-24"
+      "a": "o-4"
     },
     {
       "p": "NORTHUMBERLAND STREET, LONDON",
@@ -2086,37 +2086,37 @@
       "p": "FLEET MAIN LINE SEWER, LONDON",
       "cid": "CSAB.0541",
       "d": "2023-01-23",
-      "a": "a-24"
+      "a": "o-8"
     },
     {
       "p": "FLEET MAIN LINE SEWER, LONDON",
       "cid": "CSAB.0541",
       "d": "2023-01-24",
-      "a": "a-24"
+      "a": "o-12"
     },
     {
       "p": "FLEET MAIN LINE SEWER, LONDON",
       "cid": "CSAB.0541",
       "d": "2023-01-25",
-      "a": "a-24"
+      "a": "o-8"
     },
     {
       "p": "FLEET MAIN LINE SEWER, LONDON",
       "cid": "CSAB.0541",
       "d": "2023-01-26",
-      "a": "a-24"
+      "a": "o-16"
     },
     {
       "p": "FLEET MAIN LINE SEWER, LONDON",
       "cid": "CSAB.0541",
       "d": "2023-01-27",
-      "a": "a-24"
+      "a": "o-12"
     },
     {
       "p": "FLEET MAIN LINE SEWER, LONDON",
       "cid": "CSAB.0541",
       "d": "2023-01-28",
-      "a": "a-24"
+      "a": "o-8"
     },
     {
       "p": "FLEET MAIN LINE SEWER, LONDON",
@@ -3850,7 +3850,7 @@
       "p": "HORSEFERRY ROAD SEWER, LONDON",
       "cid": "CSAB.0563",
       "d": "2023-01-23",
-      "a": "a-24"
+      "a": "o-4"
     },
     {
       "p": "HORSEFERRY ROAD SEWER, LONDON",
@@ -6220,79 +6220,79 @@
       "p": "Low Level 1 N, Grosvenor Ditch, Mil",
       "cid": "TEMP.2752",
       "d": "2023-01-26",
-      "a": "u-24"
+      "a": "a-24"
     },
     {
       "p": "Low Level 1 N, Grosvenor Ditch, Mil",
       "cid": "TEMP.2752",
       "d": "2023-01-27",
-      "a": "u-24"
+      "a": "a-24"
     },
     {
       "p": "Low Level 1 N, Grosvenor Ditch, Mil",
       "cid": "TEMP.2752",
       "d": "2023-01-28",
-      "a": "u-24"
+      "a": "a-24"
     },
     {
       "p": "Low Level 1 N, Grosvenor Ditch, Mil",
       "cid": "TEMP.2752",
       "d": "2023-01-29",
-      "a": "u-24"
+      "a": "a-24"
     },
     {
       "p": "Low Level 1 N, Grosvenor Ditch, Mil",
       "cid": "TEMP.2752",
       "d": "2023-01-30",
-      "a": "u-24"
+      "a": "a-24"
     },
     {
       "p": "Low Level 1 N, Grosvenor Ditch, Mil",
       "cid": "TEMP.2752",
       "d": "2023-01-31",
-      "a": "u-24"
+      "a": "a-24"
     },
     {
       "p": "Low Level 1 N, Grosvenor Ditch, Mil",
       "cid": "TEMP.2752",
       "d": "2023-02-01",
-      "a": "u-24"
+      "a": "a-24"
     },
     {
       "p": "Low Level 1 N, Grosvenor Ditch, Mil",
       "cid": "TEMP.2752",
       "d": "2023-02-02",
-      "a": "u-24"
+      "a": "a-24"
     },
     {
       "p": "Low Level 1 N, Grosvenor Ditch, Mil",
       "cid": "TEMP.2752",
       "d": "2023-02-03",
-      "a": "u-24"
+      "a": "a-24"
     },
     {
       "p": "Low Level 1 N, Grosvenor Ditch, Mil",
       "cid": "TEMP.2752",
       "d": "2023-02-04",
-      "a": "u-24"
+      "a": "a-24"
     },
     {
       "p": "Low Level 1 N, Grosvenor Ditch, Mil",
       "cid": "TEMP.2752",
       "d": "2023-02-05",
-      "a": "u-24"
+      "a": "a-24"
     },
     {
       "p": "Low Level 1 N, Grosvenor Ditch, Mil",
       "cid": "TEMP.2752",
       "d": "2023-02-06",
-      "a": "u-24"
+      "a": "a-24"
     },
     {
       "p": "Low Level 1 N, Grosvenor Ditch, Mil",
       "cid": "TEMP.2752",
       "d": "2023-02-07",
-      "a": "u-24"
+      "a": "a-24"
     },
     {
       "p": "Low Level 1 N, Grosvenor Ditch, Mil",
@@ -6802,13 +6802,13 @@
       "p": "PAULS PIER COMBINED SEWER OVERFLOW",
       "cid": "TEMP.2968",
       "d": "2023-01-25",
-      "a": "a-24"
+      "a": "o-4"
     },
     {
       "p": "PAULS PIER COMBINED SEWER OVERFLOW",
       "cid": "TEMP.2968",
       "d": "2023-01-26",
-      "a": "a-24"
+      "a": "o-4"
     },
     {
       "p": "PAULS PIER COMBINED SEWER OVERFLOW",
