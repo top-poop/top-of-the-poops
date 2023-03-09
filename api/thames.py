@@ -129,12 +129,15 @@ class ThamesMonitorState(StateMachine):
     overflowing = State("Overflowing")
     potentially_overflowing = State("Potentially Overflowing")
 
-    do_online = unknown.to(online) | offline.to(online) | potentially_overflowing.to(online) | online.to(online,
-                                                                                                         cond="online_to_online")
+    do_online = unknown.to(online) | offline.to(online) | potentially_overflowing.to(online) \
+                | online.to(online, cond="online_to_online") | overflowing.to(online, cond="overflowing_to_online")
     do_offline = unknown.to(offline) | online.to(offline) | overflowing.to(potentially_overflowing) | offline.to(
         offline, cond="offline_to_offline") | potentially_overflowing.to(potentially_overflowing,
                                                                          cond="offline_to_offline")
-    do_start = unknown.to(overflowing) | online.to(overflowing) | potentially_overflowing.to(overflowing)
+    do_start = unknown.to(overflowing) | online.to(overflowing) | potentially_overflowing.to(overflowing) \
+                | overflowing.to(overflowing, cond="overflowing_to_overflowing") \
+                | offline.to(overflowing, cond="offline_to_overflowing")
+
     do_stop = unknown.to(online) | online.to(online) | potentially_overflowing.to(online,
                                                                                   cond="synthetic_stop") | potentially_overflowing.to(
         potentially_overflowing) | overflowing.to(online) | offline.to(offline)
@@ -160,6 +163,18 @@ class ThamesMonitorState(StateMachine):
     def online_to_online(self, event):
         return True
 
+    def overflowing_to_online(self, event):
+        print(f"Going online from overflowing? {event}")
+        return True
+
+    def overflowing_to_overflowing(self, event):
+        print(f"Going overflowing when overflowing? {event}")
+        return True
+
+    def offline_to_overflowing(self, event):
+        print(f"Going overflowing when offline? {event}")
+        return True
+
 
 if __name__ == "__main__":
     api = TWApi(
@@ -170,6 +185,6 @@ if __name__ == "__main__":
     )
 
     # events = api.events(datetime.date.fromisoformat("2023-01-01"))
-    events = api.events_by_permit("TEMP.3036")
+    events = api.events_by_permit("TEMP.2438")
     print("\n".join([str(e) for e in events]))
     print(f"Len = {len(events)}")

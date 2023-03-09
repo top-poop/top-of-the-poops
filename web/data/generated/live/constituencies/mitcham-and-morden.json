@@ -334,7 +334,7 @@
       "p": "Streatham & Balham Storm Relief",
       "cid": "TEMP.2920",
       "d": "2023-01-25",
-      "a": "o-4"
+      "a": "a-24"
     },
     {
       "p": "Streatham & Balham Storm Relief",
@@ -575,6 +575,18 @@
       "cid": "TEMP.2920",
       "d": "2023-03-06",
       "a": "o-4"
+    },
+    {
+      "p": "Streatham & Balham Storm Relief",
+      "cid": "TEMP.2920",
+      "d": "2023-03-07",
+      "a": "o-4"
+    },
+    {
+      "p": "Streatham & Balham Storm Relief",
+      "cid": "TEMP.2920",
+      "d": "2023-03-08",
+      "a": "a-24"
     },
     {
       "p": "Streatham Storm Relief",
@@ -910,7 +922,7 @@
       "p": "Streatham Storm Relief",
       "cid": "TEMP.2921",
       "d": "2023-01-25",
-      "a": "o-4"
+      "a": "a-24"
     },
     {
       "p": "Streatham Storm Relief",
@@ -1151,6 +1163,18 @@
       "cid": "TEMP.2921",
       "d": "2023-03-06",
       "a": "a-24"
+    },
+    {
+      "p": "Streatham Storm Relief",
+      "cid": "TEMP.2921",
+      "d": "2023-03-07",
+      "a": "o-4"
+    },
+    {
+      "p": "Streatham Storm Relief",
+      "cid": "TEMP.2921",
+      "d": "2023-03-08",
+      "a": "o-4"
     }
   ],
   "rainfall": [
@@ -1717,6 +1741,18 @@
       "c": 0.0,
       "r": "r-0",
       "n": 4
+    },
+    {
+      "d": "2023-03-06",
+      "c": 1.7,
+      "r": "r-1",
+      "n": 4
+    },
+    {
+      "d": "2023-03-07",
+      "c": 6.9,
+      "r": "r-4",
+      "n": 4
     }
   ],
   "count": 2,
@@ -1816,6 +1852,8 @@
     "2023-03-03",
     "2023-03-04",
     "2023-03-05",
-    "2023-03-06"
+    "2023-03-06",
+    "2023-03-07",
+    "2023-03-08"
   ]
 }

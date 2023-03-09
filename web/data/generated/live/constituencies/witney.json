@@ -577,6 +577,18 @@
       "a": "a-24"
     },
     {
+      "p": "WITNEY SEWAGE TREATMENT WORKS",
+      "cid": "CATM.3134",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "WITNEY SEWAGE TREATMENT WORKS",
+      "cid": "CATM.3134",
+      "d": "2023-03-08",
+      "a": "a-24"
+    },
+    {
       "p": "CARTERTON STW",
       "cid": "CATM.3521",
       "d": "2022-12-01",
@@ -1153,6 +1165,18 @@
       "a": "a-24"
     },
     {
+      "p": "CARTERTON STW",
+      "cid": "CATM.3521",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "CARTERTON STW",
+      "cid": "CATM.3521",
+      "d": "2023-03-08",
+      "a": "a-24"
+    },
+    {
       "p": "WOODSTOCK STW, OXON",
       "cid": "CSSC.2321",
       "d": "2022-12-01",
@@ -1474,49 +1498,49 @@
       "p": "WOODSTOCK STW, OXON",
       "cid": "CSSC.2321",
       "d": "2023-01-23",
-      "a": "o-4"
+      "a": "o-24"
     },
     {
       "p": "WOODSTOCK STW, OXON",
       "cid": "CSSC.2321",
       "d": "2023-01-24",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "WOODSTOCK STW, OXON",
       "cid": "CSSC.2321",
       "d": "2023-01-25",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "WOODSTOCK STW, OXON",
       "cid": "CSSC.2321",
       "d": "2023-01-26",
-      "a": "z-24"
+      "a": "o-24"
     },
     {
       "p": "WOODSTOCK STW, OXON",
       "cid": "CSSC.2321",
       "d": "2023-01-27",
-      "a": "z-24"
+      "a": "o-24"
     },
     {
       "p": "WOODSTOCK STW, OXON",
       "cid": "CSSC.2321",
       "d": "2023-01-28",
-      "a": "z-24"
+      "a": "o-24"
     },
     {
       "p": "WOODSTOCK STW, OXON",
       "cid": "CSSC.2321",
       "d": "2023-01-29",
-      "a": "z-24"
+      "a": "o-24"
     },
     {
       "p": "WOODSTOCK STW, OXON",
       "cid": "CSSC.2321",
       "d": "2023-01-30",
-      "a": "z-24"
+      "a": "o-24"
     },
     {
       "p": "WOODSTOCK STW, OXON",
@@ -1726,6 +1750,18 @@
       "p": "WOODSTOCK STW, OXON",
       "cid": "CSSC.2321",
       "d": "2023-03-06",
+      "a": "a-24"
+    },
+    {
+      "p": "WOODSTOCK STW, OXON",
+      "cid": "CSSC.2321",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "WOODSTOCK STW, OXON",
+      "cid": "CSSC.2321",
+      "d": "2023-03-08",
       "a": "a-24"
     },
     {
@@ -2302,6 +2338,18 @@
       "p": "CHURCH HANBOROUGH STW, CHURCH HANBO",
       "cid": "CSSC.5783",
       "d": "2023-03-06",
+      "a": "a-24"
+    },
+    {
+      "p": "CHURCH HANBOROUGH STW, CHURCH HANBO",
+      "cid": "CSSC.5783",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "CHURCH HANBOROUGH STW, CHURCH HANBO",
+      "cid": "CSSC.5783",
+      "d": "2023-03-08",
       "a": "a-24"
     },
     {
@@ -2881,6 +2929,18 @@
       "a": "a-24"
     },
     {
+      "p": "CHIPPING NORTON STW",
+      "cid": "CTCR.1767",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "CHIPPING NORTON STW",
+      "cid": "CTCR.1767",
+      "d": "2023-03-08",
+      "a": "a-24"
+    },
+    {
       "p": "MIDDLE BARTON WWTW",
       "cid": "CTCR.1850",
       "d": "2022-12-01",
@@ -3457,6 +3517,18 @@
       "a": "a-24"
     },
     {
+      "p": "MIDDLE BARTON WWTW",
+      "cid": "CTCR.1850",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "MIDDLE BARTON WWTW",
+      "cid": "CTCR.1850",
+      "d": "2023-03-08",
+      "a": "a-24"
+    },
+    {
       "p": "KINGHAM SPS",
       "cid": "CTCR.1981",
       "d": "2022-12-01",
@@ -3784,109 +3856,109 @@
       "p": "KINGHAM SPS",
       "cid": "CTCR.1981",
       "d": "2023-01-24",
-      "a": "a-24"
+      "a": "u-24"
     },
     {
       "p": "KINGHAM SPS",
       "cid": "CTCR.1981",
       "d": "2023-01-25",
-      "a": "a-24"
+      "a": "u-24"
     },
     {
       "p": "KINGHAM SPS",
       "cid": "CTCR.1981",
       "d": "2023-01-26",
-      "a": "a-24"
+      "a": "u-24"
     },
     {
       "p": "KINGHAM SPS",
       "cid": "CTCR.1981",
       "d": "2023-01-27",
-      "a": "a-24"
+      "a": "u-24"
     },
     {
       "p": "KINGHAM SPS",
       "cid": "CTCR.1981",
       "d": "2023-01-28",
-      "a": "a-24"
+      "a": "u-24"
     },
     {
       "p": "KINGHAM SPS",
       "cid": "CTCR.1981",
       "d": "2023-01-29",
-      "a": "a-24"
+      "a": "u-24"
     },
     {
       "p": "KINGHAM SPS",
       "cid": "CTCR.1981",
       "d": "2023-01-30",
-      "a": "a-24"
+      "a": "u-24"
     },
     {
       "p": "KINGHAM SPS",
       "cid": "CTCR.1981",
       "d": "2023-01-31",
-      "a": "a-24"
+      "a": "u-24"
     },
     {
       "p": "KINGHAM SPS",
       "cid": "CTCR.1981",
       "d": "2023-02-01",
-      "a": "a-24"
+      "a": "u-24"
     },
     {
       "p": "KINGHAM SPS",
       "cid": "CTCR.1981",
       "d": "2023-02-02",
-      "a": "a-24"
+      "a": "u-24"
     },
     {
       "p": "KINGHAM SPS",
       "cid": "CTCR.1981",
       "d": "2023-02-03",
-      "a": "a-24"
+      "a": "u-24"
     },
     {
       "p": "KINGHAM SPS",
       "cid": "CTCR.1981",
       "d": "2023-02-04",
-      "a": "a-24"
+      "a": "u-24"
     },
     {
       "p": "KINGHAM SPS",
       "cid": "CTCR.1981",
       "d": "2023-02-05",
-      "a": "a-24"
+      "a": "u-24"
     },
     {
       "p": "KINGHAM SPS",
       "cid": "CTCR.1981",
       "d": "2023-02-06",
-      "a": "a-24"
+      "a": "u-24"
     },
     {
       "p": "KINGHAM SPS",
       "cid": "CTCR.1981",
       "d": "2023-02-07",
-      "a": "a-24"
+      "a": "u-24"
     },
     {
       "p": "KINGHAM SPS",
       "cid": "CTCR.1981",
       "d": "2023-02-08",
-      "a": "a-24"
+      "a": "u-24"
     },
     {
       "p": "KINGHAM SPS",
       "cid": "CTCR.1981",
       "d": "2023-02-09",
-      "a": "a-24"
+      "a": "u-24"
     },
     {
       "p": "KINGHAM SPS",
       "cid": "CTCR.1981",
       "d": "2023-02-10",
-      "a": "a-24"
+      "a": "u-24"
     },
     {
       "p": "KINGHAM SPS",
@@ -4033,6 +4105,18 @@
       "a": "a-24"
     },
     {
+      "p": "KINGHAM SPS",
+      "cid": "CTCR.1981",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "KINGHAM SPS",
+      "cid": "CTCR.1981",
+      "d": "2023-03-08",
+      "a": "a-24"
+    },
+    {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2022-12-01",
@@ -4354,7 +4438,7 @@
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-01-23",
-      "a": "o-16"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
@@ -4366,247 +4450,259 @@
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-01-25",
-      "a": "o-16"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-01-26",
-      "a": "o-8"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-01-27",
-      "a": "o-12"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-01-28",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-01-29",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-01-30",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-01-31",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-01",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-02",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-03",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-04",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-05",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-06",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-07",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-08",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-09",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-10",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-11",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-12",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-13",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-14",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-15",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-16",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-17",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-18",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-19",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-20",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-21",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-22",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-23",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-24",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-25",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-26",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-27",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-02-28",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-03-01",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-03-02",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-03-03",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-03-04",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-03-05",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2023-03-06",
-      "a": "a-24"
+      "a": "o-24"
+    },
+    {
+      "p": "BAMPTON WWTW",
+      "cid": "TEMP.2373",
+      "d": "2023-03-07",
+      "a": "o-24"
+    },
+    {
+      "p": "BAMPTON WWTW",
+      "cid": "TEMP.2373",
+      "d": "2023-03-08",
+      "a": "o-24"
     },
     {
       "p": "Cassington (New)",
@@ -5185,6 +5281,18 @@
       "a": "a-24"
     },
     {
+      "p": "Cassington (New)",
+      "cid": "TEMP.2457",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "Cassington (New)",
+      "cid": "TEMP.2457",
+      "d": "2023-03-08",
+      "a": "a-24"
+    },
+    {
       "p": "CHADLINGTON WWTW",
       "cid": "TEMP.2461",
       "d": "2022-12-01",
@@ -5761,6 +5869,18 @@
       "a": "a-24"
     },
     {
+      "p": "CHADLINGTON WWTW",
+      "cid": "TEMP.2461",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "CHADLINGTON WWTW",
+      "cid": "TEMP.2461",
+      "d": "2023-03-08",
+      "a": "a-24"
+    },
+    {
       "p": "CHARLBURY WWTW",
       "cid": "TEMP.2466",
       "d": "2022-12-01",
@@ -6337,6 +6457,18 @@
       "a": "a-24"
     },
     {
+      "p": "CHARLBURY WWTW",
+      "cid": "TEMP.2466",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "CHARLBURY WWTW",
+      "cid": "TEMP.2466",
+      "d": "2023-03-08",
+      "a": "a-24"
+    },
+    {
       "p": "CLANFIELD WWTW",
       "cid": "TEMP.2488",
       "d": "2022-12-01",
@@ -6670,25 +6802,25 @@
       "p": "CLANFIELD WWTW",
       "cid": "TEMP.2488",
       "d": "2023-01-25",
-      "a": "o-20"
+      "a": "o-24"
     },
     {
       "p": "CLANFIELD WWTW",
       "cid": "TEMP.2488",
       "d": "2023-01-26",
-      "a": "o-20"
+      "a": "o-24"
     },
     {
       "p": "CLANFIELD WWTW",
       "cid": "TEMP.2488",
       "d": "2023-01-27",
-      "a": "o-20"
+      "a": "o-24"
     },
     {
       "p": "CLANFIELD WWTW",
       "cid": "TEMP.2488",
       "d": "2023-01-28",
-      "a": "o-20"
+      "a": "o-24"
     },
     {
       "p": "CLANFIELD WWTW",
@@ -6910,6 +7042,18 @@
       "p": "CLANFIELD WWTW",
       "cid": "TEMP.2488",
       "d": "2023-03-06",
+      "a": "a-24"
+    },
+    {
+      "p": "CLANFIELD WWTW",
+      "cid": "TEMP.2488",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "CLANFIELD WWTW",
+      "cid": "TEMP.2488",
+      "d": "2023-03-08",
       "a": "a-24"
     },
     {
@@ -7234,7 +7378,7 @@
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-01-23",
-      "a": "o-20"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
@@ -7252,241 +7396,253 @@
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-01-26",
-      "a": "o-20"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-01-27",
-      "a": "o-12"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-01-28",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-01-29",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-01-30",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-01-31",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-01",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-02",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-03",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-04",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-05",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-06",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-07",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-08",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-09",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-10",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-11",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-12",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-13",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-14",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-15",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-16",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-17",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-18",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-19",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-20",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-21",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-22",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-23",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-24",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-25",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-26",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-27",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-02-28",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-03-01",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-03-02",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-03-03",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-03-04",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-03-05",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2023-03-06",
-      "a": "a-24"
+      "a": "o-24"
+    },
+    {
+      "p": "COMBE WWTW",
+      "cid": "TEMP.2496",
+      "d": "2023-03-07",
+      "a": "o-24"
+    },
+    {
+      "p": "COMBE WWTW",
+      "cid": "TEMP.2496",
+      "d": "2023-03-08",
+      "a": "o-24"
     },
     {
       "p": "FINSTOCK WWTW",
@@ -8062,6 +8218,18 @@
       "p": "FINSTOCK WWTW",
       "cid": "TEMP.2594",
       "d": "2023-03-06",
+      "a": "a-24"
+    },
+    {
+      "p": "FINSTOCK WWTW",
+      "cid": "TEMP.2594",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "FINSTOCK WWTW",
+      "cid": "TEMP.2594",
+      "d": "2023-03-08",
       "a": "a-24"
     },
     {
@@ -8641,6 +8809,18 @@
       "a": "a-24"
     },
     {
+      "p": "Milton-under-Wychwood",
+      "cid": "TEMP.2776",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "Milton-under-Wychwood",
+      "cid": "TEMP.2776",
+      "d": "2023-03-08",
+      "a": "a-24"
+    },
+    {
       "p": "SOUTH LEIGH WWTW",
       "cid": "TEMP.2899",
       "d": "2022-12-01",
@@ -9217,6 +9397,18 @@
       "a": "a-24"
     },
     {
+      "p": "SOUTH LEIGH WWTW",
+      "cid": "TEMP.2899",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "SOUTH LEIGH WWTW",
+      "cid": "TEMP.2899",
+      "d": "2023-03-08",
+      "a": "a-24"
+    },
+    {
       "p": "Standlake",
       "cid": "TEMP.2906",
       "d": "2022-12-01",
@@ -9550,7 +9742,7 @@
       "p": "Standlake",
       "cid": "TEMP.2906",
       "d": "2023-01-25",
-      "a": "o-4"
+      "a": "o-24"
     },
     {
       "p": "Standlake",
@@ -9793,6 +9985,18 @@
       "a": "a-24"
     },
     {
+      "p": "Standlake",
+      "cid": "TEMP.2906",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "Standlake",
+      "cid": "TEMP.2906",
+      "d": "2023-03-08",
+      "a": "a-24"
+    },
+    {
       "p": "STANTON HARCOURT WWTW",
       "cid": "TEMP.2912",
       "d": "2022-12-01",
@@ -10114,13 +10318,13 @@
       "p": "STANTON HARCOURT WWTW",
       "cid": "TEMP.2912",
       "d": "2023-01-23",
-      "a": "o-8"
+      "a": "a-24"
     },
     {
       "p": "STANTON HARCOURT WWTW",
       "cid": "TEMP.2912",
       "d": "2023-01-24",
-      "a": "o-4"
+      "a": "a-24"
     },
     {
       "p": "STANTON HARCOURT WWTW",
@@ -10366,6 +10570,18 @@
       "p": "STANTON HARCOURT WWTW",
       "cid": "TEMP.2912",
       "d": "2023-03-06",
+      "a": "a-24"
+    },
+    {
+      "p": "STANTON HARCOURT WWTW",
+      "cid": "TEMP.2912",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "STANTON HARCOURT WWTW",
+      "cid": "TEMP.2912",
+      "d": "2023-03-08",
       "a": "a-24"
     }
   ],
@@ -10933,6 +11149,18 @@
       "c": 0.0,
       "r": "r-0",
       "n": 4
+    },
+    {
+      "d": "2023-03-06",
+      "c": 1.0,
+      "r": "r-1",
+      "n": 4
+    },
+    {
+      "d": "2023-03-07",
+      "c": 6.2,
+      "r": "r-4",
+      "n": 4
     }
   ],
   "count": 18,
@@ -11032,6 +11260,8 @@
     "2023-03-03",
     "2023-03-04",
     "2023-03-05",
-    "2023-03-06"
+    "2023-03-06",
+    "2023-03-07",
+    "2023-03-08"
   ]
 }

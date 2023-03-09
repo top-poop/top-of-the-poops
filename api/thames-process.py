@@ -8,6 +8,7 @@ from collections import defaultdict
 from typing import Mapping, Optional
 
 import psycopg2
+import statemachine.exceptions
 from statemachine.contrib.diagram import DotGraphMachine
 
 from calendar_bucket import Calendar, at_midnight, Summariser
@@ -68,14 +69,17 @@ class ThamesEventStream:
         if monitor(event) != self.monitor:
             self._next(event)
 
-        if event.alert_type == OFFLINE_START:
-            self.state.do_offline(event_time=event.date_time)
-        elif event.alert_type == OFFLINE_STOP:
-            self.state.do_online(event_time=event.date_time)
-        elif event.alert_type == START:
-            self.state.do_start(event_time=event.date_time)
-        elif event.alert_type == STOP:
-            self.state.do_stop(event_time=event.date_time)
+        try:
+            if event.alert_type == OFFLINE_START:
+                self.state.do_offline(event_time=event.date_time)
+            elif event.alert_type == OFFLINE_STOP:
+                self.state.do_online(event_time=event.date_time)
+            elif event.alert_type == START:
+                self.state.do_start(event_time=event.date_time)
+            elif event.alert_type == STOP:
+                self.state.do_stop(event_time=event.date_time)
+        except statemachine.exceptions.TransitionNotAllowed:
+            raise IOError(f"Illegal state transition processing {event}")
 
     def on_enter_state(self, event, target, source, event_time):
         self.cb.transition(target.id, event_time)

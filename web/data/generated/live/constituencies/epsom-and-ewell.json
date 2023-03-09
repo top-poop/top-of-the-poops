@@ -577,6 +577,18 @@
       "a": "a-24"
     },
     {
+      "p": "MANOR DRIVE STORM TANKS",
+      "cid": "CTCR.0519",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "MANOR DRIVE STORM TANKS",
+      "cid": "CTCR.0519",
+      "d": "2023-03-08",
+      "a": "a-24"
+    },
+    {
       "p": "Epsom Storm Tanks, Longmead Road",
       "cid": "TEMP.2567",
       "d": "2022-12-01",
@@ -1072,25 +1084,25 @@
       "p": "Epsom Storm Tanks, Longmead Road",
       "cid": "TEMP.2567",
       "d": "2023-02-21",
-      "a": "a-24"
+      "a": "z-4"
     },
     {
       "p": "Epsom Storm Tanks, Longmead Road",
       "cid": "TEMP.2567",
       "d": "2023-02-22",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Epsom Storm Tanks, Longmead Road",
       "cid": "TEMP.2567",
       "d": "2023-02-23",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Epsom Storm Tanks, Longmead Road",
       "cid": "TEMP.2567",
       "d": "2023-02-24",
-      "a": "a-24"
+      "a": "z-8"
     },
     {
       "p": "Epsom Storm Tanks, Longmead Road",
@@ -1102,54 +1114,66 @@
       "p": "Epsom Storm Tanks, Longmead Road",
       "cid": "TEMP.2567",
       "d": "2023-02-26",
-      "a": "a-24"
+      "a": "z-16"
     },
     {
       "p": "Epsom Storm Tanks, Longmead Road",
       "cid": "TEMP.2567",
       "d": "2023-02-27",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Epsom Storm Tanks, Longmead Road",
       "cid": "TEMP.2567",
       "d": "2023-02-28",
-      "a": "a-24"
+      "a": "z-12"
     },
     {
       "p": "Epsom Storm Tanks, Longmead Road",
       "cid": "TEMP.2567",
       "d": "2023-03-01",
-      "a": "a-24"
+      "a": "z-20"
     },
     {
       "p": "Epsom Storm Tanks, Longmead Road",
       "cid": "TEMP.2567",
       "d": "2023-03-02",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Epsom Storm Tanks, Longmead Road",
       "cid": "TEMP.2567",
       "d": "2023-03-03",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Epsom Storm Tanks, Longmead Road",
       "cid": "TEMP.2567",
       "d": "2023-03-04",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Epsom Storm Tanks, Longmead Road",
       "cid": "TEMP.2567",
       "d": "2023-03-05",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Epsom Storm Tanks, Longmead Road",
       "cid": "TEMP.2567",
       "d": "2023-03-06",
+      "a": "z-24"
+    },
+    {
+      "p": "Epsom Storm Tanks, Longmead Road",
+      "cid": "TEMP.2567",
+      "d": "2023-03-07",
+      "a": "z-4"
+    },
+    {
+      "p": "Epsom Storm Tanks, Longmead Road",
+      "cid": "TEMP.2567",
+      "d": "2023-03-08",
       "a": "a-24"
     }
   ],
@@ -1717,6 +1741,18 @@
       "c": 0.0,
       "r": "r-0",
       "n": 3
+    },
+    {
+      "d": "2023-03-06",
+      "c": 0.5,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-03-07",
+      "c": 7.0,
+      "r": "r-4",
+      "n": 3
     }
   ],
   "count": 2,
@@ -1816,6 +1852,8 @@
     "2023-03-03",
     "2023-03-04",
     "2023-03-05",
-    "2023-03-06"
+    "2023-03-06",
+    "2023-03-07",
+    "2023-03-08"
   ]
 }

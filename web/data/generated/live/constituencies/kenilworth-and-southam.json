@@ -577,6 +577,18 @@
       "a": "a-24"
     },
     {
+      "p": "FARNBOROUGH (WARKS) WWTW",
+      "cid": "CSSC.1369",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "FARNBOROUGH (WARKS) WWTW",
+      "cid": "CSSC.1369",
+      "d": "2023-03-08",
+      "a": "a-24"
+    },
+    {
       "p": "AVON DASSETT WWTW",
       "cid": "TEMP.2362",
       "d": "2022-12-01",
@@ -1150,6 +1162,18 @@
       "p": "AVON DASSETT WWTW",
       "cid": "TEMP.2362",
       "d": "2023-03-06",
+      "a": "a-24"
+    },
+    {
+      "p": "AVON DASSETT WWTW",
+      "cid": "TEMP.2362",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "AVON DASSETT WWTW",
+      "cid": "TEMP.2362",
+      "d": "2023-03-08",
       "a": "a-24"
     },
     {
@@ -1726,6 +1750,18 @@
       "p": "SHOTTESWELL WWTW",
       "cid": "TEMP.2892",
       "d": "2023-03-06",
+      "a": "a-24"
+    },
+    {
+      "p": "SHOTTESWELL WWTW",
+      "cid": "TEMP.2892",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "SHOTTESWELL WWTW",
+      "cid": "TEMP.2892",
+      "d": "2023-03-08",
       "a": "a-24"
     },
     {
@@ -2050,85 +2086,85 @@
       "p": "WARMINGTON WWTW",
       "cid": "TEMP.2991",
       "d": "2023-01-23",
-      "a": "o-20"
+      "a": "o-24"
     },
     {
       "p": "WARMINGTON WWTW",
       "cid": "TEMP.2991",
       "d": "2023-01-24",
-      "a": "o-16"
+      "a": "o-24"
     },
     {
       "p": "WARMINGTON WWTW",
       "cid": "TEMP.2991",
       "d": "2023-01-25",
-      "a": "o-4"
+      "a": "o-24"
     },
     {
       "p": "WARMINGTON WWTW",
       "cid": "TEMP.2991",
       "d": "2023-01-26",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "WARMINGTON WWTW",
       "cid": "TEMP.2991",
       "d": "2023-01-27",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "WARMINGTON WWTW",
       "cid": "TEMP.2991",
       "d": "2023-01-28",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "WARMINGTON WWTW",
       "cid": "TEMP.2991",
       "d": "2023-01-29",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "WARMINGTON WWTW",
       "cid": "TEMP.2991",
       "d": "2023-01-30",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "WARMINGTON WWTW",
       "cid": "TEMP.2991",
       "d": "2023-01-31",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "WARMINGTON WWTW",
       "cid": "TEMP.2991",
       "d": "2023-02-01",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "WARMINGTON WWTW",
       "cid": "TEMP.2991",
       "d": "2023-02-02",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "WARMINGTON WWTW",
       "cid": "TEMP.2991",
       "d": "2023-02-03",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "WARMINGTON WWTW",
       "cid": "TEMP.2991",
       "d": "2023-02-04",
-      "a": "a-24"
+      "a": "o-24"
     },
     {
       "p": "WARMINGTON WWTW",
       "cid": "TEMP.2991",
       "d": "2023-02-05",
-      "a": "o-4"
+      "a": "o-12"
     },
     {
       "p": "WARMINGTON WWTW",
@@ -2303,6 +2339,18 @@
       "cid": "TEMP.2991",
       "d": "2023-03-06",
       "a": "a-24"
+    },
+    {
+      "p": "WARMINGTON WWTW",
+      "cid": "TEMP.2991",
+      "d": "2023-03-07",
+      "a": "o-8"
+    },
+    {
+      "p": "WARMINGTON WWTW",
+      "cid": "TEMP.2991",
+      "d": "2023-03-08",
+      "a": "o-4"
     }
   ],
   "rainfall": [
@@ -2869,6 +2917,18 @@
       "c": 0.0,
       "r": "r-0",
       "n": 10
+    },
+    {
+      "d": "2023-03-06",
+      "c": 2.4,
+      "r": "r-2",
+      "n": 10
+    },
+    {
+      "d": "2023-03-07",
+      "c": 1.2,
+      "r": "r-1",
+      "n": 10
     }
   ],
   "count": 4,
@@ -2968,6 +3028,8 @@
     "2023-03-03",
     "2023-03-04",
     "2023-03-05",
-    "2023-03-06"
+    "2023-03-06",
+    "2023-03-07",
+    "2023-03-08"
   ]
 }

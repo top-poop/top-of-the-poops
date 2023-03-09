@@ -577,6 +577,18 @@
       "a": "a-24"
     },
     {
+      "p": "CROOKED BILLET SPS",
+      "cid": "CATM.3173",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "CROOKED BILLET SPS",
+      "cid": "CATM.3173",
+      "d": "2023-03-08",
+      "a": "a-24"
+    },
+    {
       "p": "EVERSLEY (LOWER COMMON) WWTW",
       "cid": "CNTD.0078",
       "d": "2022-12-01",
@@ -1153,6 +1165,18 @@
       "a": "a-24"
     },
     {
+      "p": "EVERSLEY (LOWER COMMON) WWTW",
+      "cid": "CNTD.0078",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "EVERSLEY (LOWER COMMON) WWTW",
+      "cid": "CNTD.0078",
+      "d": "2023-03-08",
+      "a": "a-24"
+    },
+    {
       "p": "SILCHESTER WWTW",
       "cid": "CNTW.0737",
       "d": "2022-12-01",
@@ -1492,7 +1516,7 @@
       "p": "SILCHESTER WWTW",
       "cid": "CNTW.0737",
       "d": "2023-01-26",
-      "a": "o-8"
+      "a": "a-24"
     },
     {
       "p": "SILCHESTER WWTW",
@@ -1726,6 +1750,18 @@
       "p": "SILCHESTER WWTW",
       "cid": "CNTW.0737",
       "d": "2023-03-06",
+      "a": "a-24"
+    },
+    {
+      "p": "SILCHESTER WWTW",
+      "cid": "CNTW.0737",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "SILCHESTER WWTW",
+      "cid": "CNTW.0737",
+      "d": "2023-03-08",
       "a": "a-24"
     },
     {
@@ -2305,6 +2341,18 @@
       "a": "a-24"
     },
     {
+      "p": "CRONDALL WWTW",
+      "cid": "CSSC.2450",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "CRONDALL WWTW",
+      "cid": "CSSC.2450",
+      "d": "2023-03-08",
+      "a": "a-24"
+    },
+    {
       "p": "FLEET STW, FLEET, HANTS",
       "cid": "CTCR.1836",
       "d": "2022-12-01",
@@ -2638,25 +2686,25 @@
       "p": "FLEET STW, FLEET, HANTS",
       "cid": "CTCR.1836",
       "d": "2023-01-25",
-      "a": "o-4"
+      "a": "a-24"
     },
     {
       "p": "FLEET STW, FLEET, HANTS",
       "cid": "CTCR.1836",
       "d": "2023-01-26",
-      "a": "o-12"
+      "a": "a-24"
     },
     {
       "p": "FLEET STW, FLEET, HANTS",
       "cid": "CTCR.1836",
       "d": "2023-01-27",
-      "a": "o-16"
+      "a": "a-24"
     },
     {
       "p": "FLEET STW, FLEET, HANTS",
       "cid": "CTCR.1836",
       "d": "2023-01-28",
-      "a": "o-4"
+      "a": "a-24"
     },
     {
       "p": "FLEET STW, FLEET, HANTS",
@@ -2879,6 +2927,18 @@
       "cid": "CTCR.1836",
       "d": "2023-03-06",
       "a": "a-24"
+    },
+    {
+      "p": "FLEET STW, FLEET, HANTS",
+      "cid": "CTCR.1836",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "FLEET STW, FLEET, HANTS",
+      "cid": "CTCR.1836",
+      "d": "2023-03-08",
+      "a": "o-8"
     },
     {
       "p": "HARTLEY WINTNEY STW, HARTLEY WINTNE",
@@ -3457,6 +3517,18 @@
       "a": "a-24"
     },
     {
+      "p": "HARTLEY WINTNEY STW, HARTLEY WINTNE",
+      "cid": "CTCR.1865",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "HARTLEY WINTNEY STW, HARTLEY WINTNE",
+      "cid": "CTCR.1865",
+      "d": "2023-03-08",
+      "a": "a-24"
+    },
+    {
       "p": "WEST HEATH RAMSDELL PUMPING STATION",
       "cid": "NPSWQD001561",
       "d": "2022-12-01",
@@ -4033,6 +4105,18 @@
       "a": "a-24"
     },
     {
+      "p": "WEST HEATH RAMSDELL PUMPING STATION",
+      "cid": "NPSWQD001561",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "WEST HEATH RAMSDELL PUMPING STATION",
+      "cid": "NPSWQD001561",
+      "d": "2023-03-08",
+      "a": "a-24"
+    },
+    {
       "p": "Elvetham Close",
       "cid": "TEMP.0917",
       "d": "2022-12-01",
@@ -4609,6 +4693,18 @@
       "a": "a-24"
     },
     {
+      "p": "Elvetham Close",
+      "cid": "TEMP.0917",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "Elvetham Close",
+      "cid": "TEMP.0917",
+      "d": "2023-03-08",
+      "a": "a-24"
+    },
+    {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2022-12-01",
@@ -4954,235 +5050,247 @@
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-01-27",
-      "a": "z-12"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-01-28",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-01-29",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-01-30",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-01-31",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-01",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-02",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-03",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-04",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-05",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-06",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-07",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-08",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-09",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-10",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-11",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-12",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-13",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-14",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-15",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-16",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-17",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-18",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-19",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-20",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-21",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-22",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-23",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-24",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-25",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-26",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-27",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-02-28",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-03-01",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-03-02",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-03-03",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-03-04",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-03-05",
-      "a": "a-24"
+      "a": "z-24"
     },
     {
       "p": "Opposite St Stephen's Hall",
       "cid": "TEMP.1644",
       "d": "2023-03-06",
-      "a": "a-24"
+      "a": "z-24"
+    },
+    {
+      "p": "Opposite St Stephen's Hall",
+      "cid": "TEMP.1644",
+      "d": "2023-03-07",
+      "a": "z-24"
+    },
+    {
+      "p": "Opposite St Stephen's Hall",
+      "cid": "TEMP.1644",
+      "d": "2023-03-08",
+      "a": "z-24"
     },
     {
       "p": "Rotherwick",
@@ -5761,6 +5869,18 @@
       "a": "a-24"
     },
     {
+      "p": "Rotherwick",
+      "cid": "TEMP.1825",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "Rotherwick",
+      "cid": "TEMP.1825",
+      "d": "2023-03-08",
+      "a": "a-24"
+    },
+    {
       "p": "SHERFIELD-ON-LODDON WWTW",
       "cid": "TEMP.2891",
       "d": "2022-12-01",
@@ -6334,6 +6454,18 @@
       "p": "SHERFIELD-ON-LODDON WWTW",
       "cid": "TEMP.2891",
       "d": "2023-03-06",
+      "a": "a-24"
+    },
+    {
+      "p": "SHERFIELD-ON-LODDON WWTW",
+      "cid": "TEMP.2891",
+      "d": "2023-03-07",
+      "a": "a-24"
+    },
+    {
+      "p": "SHERFIELD-ON-LODDON WWTW",
+      "cid": "TEMP.2891",
+      "d": "2023-03-08",
       "a": "a-24"
     }
   ],
@@ -6901,6 +7033,18 @@
       "c": 0.0,
       "r": "r-0",
       "n": 4
+    },
+    {
+      "d": "2023-03-06",
+      "c": 0.7,
+      "r": "r-1",
+      "n": 4
+    },
+    {
+      "d": "2023-03-07",
+      "c": 5.2,
+      "r": "r-3",
+      "n": 4
     }
   ],
   "count": 11,
@@ -7000,6 +7144,8 @@
     "2023-03-03",
     "2023-03-04",
     "2023-03-05",
-    "2023-03-06"
+    "2023-03-06",
+    "2023-03-07",
+    "2023-03-08"
   ]
 }
