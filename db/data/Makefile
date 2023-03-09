@@ -239,6 +239,15 @@ load-grid-references: grid_references.sql load_grid_references.sql update_grid_r
 
 ##
 
+
+.PHONY: events-thames
+events-thames:
+	$(PSQL) -f events_thames.sql
+
+.PHONY: summary-thames
+	$(PSQL) -f summary_thames.sql
+
+
 load-edm-consent-view: edm_consent_view.sql load-edm load-consents
 	$(PSQL) -f $<
 

@@ -158,6 +158,19 @@ def rainfall_by_constituency(connection, constituency):
     }
 
 
+def insert_thames_summary(connection, permit_id, calendar):
+    with connection.cursor() as cursor:
+        for date, totals in calendar.allocations():
+            cursor.execute(
+                """insert into summary_thames ( permit_id, date, unknown, online, overflowing, potentially_overflowing, offline) 
+                values ( %s, %s, %s, %s, %s, %s, %s) 
+                on conflict (permit_id, date) 
+                do update set unknown = excluded.unknown, online = excluded.online, overflowing = excluded.overflowing, 
+                potentially_overflowing = excluded.potentially_overflowing, offline = excluded.offline""",
+                ( permit_id, date, totals.unknown, totals.online, totals.overflowing, totals.potentially_overflowing, totals.offline) )
+    connection.commit()
+
+
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="Take latest Thames API Results and turn into summary for web")
@@ -201,6 +214,8 @@ if __name__ == "__main__":
             constituency = site_consent[1]
             by_constituency[constituency]["count"] += 1
 
+            insert_thames_summary(conn, permit_id, calendar)
+
             for date, totals in calendar.allocations():
                 if not date in dates:
                     dates[date] = None
@@ -208,6 +223,7 @@ if __name__ == "__main__":
                 by_constituency[constituency]["cso"].append(
                     {"p": site, "cid": permit_id, "d": date, "a": summariser.summarise(totals)}
                 )
+
 
         available_constituencies = list(sorted(by_constituency.keys()))
 
