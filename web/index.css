@@ -69,7 +69,7 @@ h2 {
 
 @media screen and (min-width: 600px) {
     .sewage-map {
-        height: 800px
+        height: 750px
     }
     .plot-chart {
         height: 600px;
@@ -172,6 +172,20 @@ table.top-10 {
 .delta-positive:before {
     content: "↑ "
 }
+
+.spill-hours-large {
+    font-weight: bold;
+}
+
+.spill-hours-huge {
+    font-weight: bolder;
+    color: #a62e30;
+}
+
+.spill-hours-zero:before {
+    content: "✓ "
+}
+
 
 .leaflet-container {
     min-height: 500px;

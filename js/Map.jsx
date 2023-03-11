@@ -136,25 +136,28 @@ const SewageMarkers = ({dumps}) => {
 const hoursInMonth = 730;
 const hoursInWeek = 168;
 
-const renderHoursCell = ({value}) => {
+const SpillHours = ({value}) => {
     const text = renderNumericCell({value: value});
     const clazz = classNames({
-        "spill-hours-huge": value >= 2 * hoursInMonth,
+        "spill-hours-huge": value >= hoursInMonth,
         "spill-hours-large": value >= 0.5 * hoursInMonth,
-        "spill-hours-zero": value < 1 && value > -1,
+        "spill-hours-zero": value < 0.5,
         "spill-hours": true
     })
 
     if ( value > hoursInMonth * 1.5 ) {
-        return <span className={clazz}>{text} ({formatNumber(value / hoursInMonth, 1 )} months)</span>
+        return <span className={clazz}>{text} h ({formatNumber(value / hoursInMonth, 1 )} months)</span>
     }
     if ( value > hoursInMonth / 2) {
-        return <span className={clazz}>{text} ({formatNumber(value / hoursInWeek, 1 )} weeks)</span>
+        return <span className={clazz}>{text} h ({formatNumber(value / hoursInWeek, 1 )} weeks)</span>
     }
     else {
-        return <span className={clazz}>{text}</span>
+        return <span className={clazz}>{text} h</span>
     }
+}
 
+const renderHoursCell = ({value}) => {
+    return <SpillHours value={value}/>
 }
 
 const DumpTable = ({dumps}) => {
@@ -164,7 +167,7 @@ const DumpTable = ({dumps}) => {
         {title: "Waterway", accessor: "receiving_water"},
         {title: "Site", accessor: "site_name"},
         {title: "Sewage Dumps", accessor: "spill_count", Cell: renderNumericCell},
-        {title: "Hours", accessor: "total_spill_hours", Cell: renderHoursCell},
+        {title: "Duration", accessor: "total_spill_hours", Cell: renderHoursCell},
         {title: "Reporting Active %", accessor: "reporting_percent", Cell: renderPercentCell},
     ]
 
@@ -177,10 +180,10 @@ const TotalsCard = ({constituency, sites, companies, spills, hours}) => {
     return <Card>
         <Card.Header>Totals for {constituency} in 2021</Card.Header>
         <Card.Body>
-            <Card.Title>{sites} Sites polluted by {companies.join(",")}</Card.Title>
+            <Card.Title>{formatNumber(sites)} Sites polluted by {companies.join(", ")}</Card.Title>
             <Card.Text>
-                {spills} sewage dumps<br/>
-                {hours} hours duration<br/>
+                {formatNumber(spills)} sewage dumps<br/>
+                <SpillHours value={hours}/> duration<br/>
             </Card.Text>
         </Card.Body>
     </Card>
@@ -190,7 +193,7 @@ const ActionCard = ({constituency, sites, companies, spills, hours}) => {
 
     const company_twitters = companies.map(it => companiesMap.get(it).twitter).join(" ");
 
-    const text = `${constituency} polluted by ${company_twitters} for ${hours} hours in 2021. Take action.`
+    const text = `${constituency} polluted by ${company_twitters} for ${formatNumber(hours)} hours in 2021. Take action.`
 
     return <Card>
         <Card.Header>Take Action </Card.Header>
@@ -217,9 +220,9 @@ const Totals = ({constituency, rows}) => {
         return null;
     }
 
-    const sites = formatNumber(rows.length)
-    const spills = formatNumber(rows.reduce((acc, it) => acc + it.spill_count, 0))
-    const hours = formatNumber(rows.reduce((acc, it) => acc + it.total_spill_hours, 0))
+    const sites = rows.filter(it => it.spill_count > 0).length
+    const spills = rows.reduce((acc, it) => acc + it.spill_count, 0)
+    const hours = rows.reduce((acc, it) => acc + it.total_spill_hours, 0)
 
     const companies = [...new Set(rows.map(it => it.company_name))]
 

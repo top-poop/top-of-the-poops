@@ -20,4 +20,4 @@ with cons as (
         group by pcon20nm, company_name, discharge_site_name, receiving_water, lat, lon
     )
 select * from agg where spill_count > 0 or reporting_percent < 90
-order by constituency, company_name, total_spill_hours desc
+order by constituency, total_spill_hours desc
