@@ -8,7 +8,7 @@ with cons as (
         select
             pcon20nm as constituency,
             company_name,
-            site_name,
+            discharge_site_name as site_name,
             receiving_water,
             lat,
             lon,
@@ -17,7 +17,7 @@ with cons as (
             coalesce(avg(reporting_pct), 0) * 100 as reporting_percent
         from cons
         where pcon20nm is not null
-        group by pcon20nm, company_name, site_name, receiving_water, lat, lon
+        group by pcon20nm, company_name, discharge_site_name, receiving_water, lat, lon
     )
 select * from agg where spill_count > 0 or reporting_percent < 90
 order by constituency, company_name, receiving_water
