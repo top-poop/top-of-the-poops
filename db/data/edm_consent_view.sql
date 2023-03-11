@@ -9,7 +9,8 @@ drop view if exists consents_unique_view;
 
 
 create view consents_unique_view as
-with duplicate_consents as (select count(*) over (partition by consents.permit_number)                                  as count,
+with duplicate_consents as (
+select count(*) over (partition by consents.permit_number)                                  as count,
                                    row_number()
                                    over (partition by consents.permit_number order by revocation_date desc nulls first) as rn,
                                    consents.*
