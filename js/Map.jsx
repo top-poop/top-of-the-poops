@@ -123,7 +123,7 @@ const SewageMarkers = ({dumps}) => {
         {dumps.map(it => <Marker
                 key={`${it.lat}-${it.lon}-${it.site_name}`}
                 position={[it.lat, it.lon]}
-                icon={it.reporting_percent < 50 ? redIcon : blueIcon}
+                icon={it.total_spill_hours > hoursInMonth ? redIcon : blueIcon}
             >
                 <Tooltip>{it.site_name}<br/>{it.receiving_water}<br/>{formatNumber(it.spill_count)} Dumps
                     / {formatNumber(it.total_spill_hours)} Hours /
@@ -133,6 +133,30 @@ const SewageMarkers = ({dumps}) => {
     </React.Fragment>
 }
 
+const hoursInMonth = 730;
+const hoursInWeek = 168;
+
+const renderHoursCell = ({value}) => {
+    const text = renderNumericCell({value: value});
+    const clazz = classNames({
+        "spill-hours-huge": value >= 2 * hoursInMonth,
+        "spill-hours-large": value >= 0.5 * hoursInMonth,
+        "spill-hours-zero": value < 1 && value > -1,
+        "spill-hours": true
+    })
+
+    if ( value > hoursInMonth * 1.5 ) {
+        return <span className={clazz}>{text} ({formatNumber(value / hoursInMonth, 1 )} months)</span>
+    }
+    if ( value > hoursInMonth / 2) {
+        return <span className={clazz}>{text} ({formatNumber(value / hoursInWeek, 1 )} weeks)</span>
+    }
+    else {
+        return <span className={clazz}>{text}</span>
+    }
+
+}
+
 const DumpTable = ({dumps}) => {
 
     const columns = [
@@ -140,7 +164,7 @@ const DumpTable = ({dumps}) => {
         {title: "Waterway", accessor: "receiving_water"},
         {title: "Site", accessor: "site_name"},
         {title: "Sewage Dumps", accessor: "spill_count", Cell: renderNumericCell},
-        {title: "Hours", accessor: "total_spill_hours", Cell: renderNumericCell},
+        {title: "Hours", accessor: "total_spill_hours", Cell: renderHoursCell},
         {title: "Reporting Active %", accessor: "reporting_percent", Cell: renderPercentCell},
     ]
 
@@ -296,6 +320,12 @@ const What = ({initial, data}) => {
 
         <Row><Col>&nbsp;</Col></Row>
         <Row><Col><h3 id="table">Pollution Summary 2021</h3></Col></Row>
+
+        <Row>
+            <Col>
+                <p>Here are all the reported sewage overflow totals for {constituency} in 2021. Sometimes sewage can be being dumped for <b>months</b> at a time.</p>
+            </Col>
+        </Row>
 
         <Row className="mt-3">
             <Col>
