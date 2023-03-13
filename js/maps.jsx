@@ -28,8 +28,8 @@ const Debug = () => {
 }
 
 const ewBounds = [
-    [49.95121990866204, -5.7788],
-    [56.0474995832989, 1.7138671875000002]
+    [49.674737880665994, -6.064453125000001],
+    [ 56.029087419764366, 1.9555664062500002 ]
 ]
 
 const Scrolly = () => {
@@ -44,7 +44,8 @@ const Scrolly = () => {
             });
 
             map.on("moveend", () => {
-                setDragging(false)
+                setDragging(false);
+                // console.log(map.getBounds())
             });
 
             map.on('focus', function() { map.scrollWheelZoom.enable(); });
