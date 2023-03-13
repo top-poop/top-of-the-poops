@@ -607,6 +607,12 @@
       "a": "a-24"
     },
     {
+      "p": "CORBET ROAD / REDBRIDGE LANE, WANST",
+      "cid": "CEHR.0019",
+      "d": "2023-03-12",
+      "a": "a-24"
+    },
+    {
       "p": "WALTHAMSTOW, LOW HALL FARM STORM TA",
       "cid": "CSBC.0084",
       "d": "2022-12-01",
@@ -1210,6 +1216,12 @@
       "p": "WALTHAMSTOW, LOW HALL FARM STORM TA",
       "cid": "CSBC.0084",
       "d": "2023-03-11",
+      "a": "a-24"
+    },
+    {
+      "p": "WALTHAMSTOW, LOW HALL FARM STORM TA",
+      "cid": "CSBC.0084",
+      "d": "2023-03-12",
       "a": "a-24"
     },
     {
@@ -1817,6 +1829,12 @@
       "cid": "TEMP.2937",
       "d": "2023-03-11",
       "a": "a-24"
+    },
+    {
+      "p": "St Andrews Road, Black Horse Lane",
+      "cid": "TEMP.2937",
+      "d": "2023-03-12",
+      "a": "a-24"
     }
   ],
   "rainfall": [
@@ -2413,6 +2431,12 @@
       "c": 3.8,
       "r": "r-2",
       "n": 1
+    },
+    {
+      "d": "2023-03-11",
+      "c": 0.8,
+      "r": "r-1",
+      "n": 1
     }
   ],
   "count": 3,
@@ -2517,6 +2541,7 @@
     "2023-03-08",
     "2023-03-09",
     "2023-03-10",
-    "2023-03-11"
+    "2023-03-11",
+    "2023-03-12"
   ]
 }

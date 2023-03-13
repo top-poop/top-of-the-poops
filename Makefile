@@ -62,10 +62,15 @@ web/data/generated/chloropleth/chloro.json: generate/constituencies/cloropleth.p
 	$(PYTHON) $< $@
 
 
-.PHONY: live-data
-live-data:
+.PHONY: live-data-update
+live-data-update:
 	$(PYTHON) api/thames-populate.py --update
 	$(PYTHON) api/rainfall-populate.py --update
+	@touch generate/thames-water-spills-daily.sql
+
+
+.PHONY: live-data
+live-data: live-data-update web/data/generated/thames-water-spills-daily.json
 	$(PYTHON) api/thames-process.py
 
 
