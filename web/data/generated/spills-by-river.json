@@ -13032,14 +13032,6 @@
     "hours_increase": -641.67
   },
   {
-    "company_name": "Wessex Water",
-    "river_name": "Semington Brook",
-    "total_count": 51.0,
-    "total_hours": 413.5,
-    "spills_increase": -60.0,
-    "hours_increase": -730.75
-  },
-  {
     "company_name": "Anglian Water",
     "river_name": "Benfleet Creek",
     "total_count": 55.0,
@@ -13886,6 +13878,14 @@
     "total_hours": 373.2,
     "spills_increase": 35.0,
     "hours_increase": 373.2
+  },
+  {
+    "company_name": "Wessex Water",
+    "river_name": "Semington Brook",
+    "total_count": 46.0,
+    "total_hours": 372.4,
+    "spills_increase": -48.0,
+    "hours_increase": -593.68
   },
   {
     "company_name": "South West Water",
@@ -15744,14 +15744,6 @@
     "hours_increase": 184.52
   },
   {
-    "company_name": "Wessex Water",
-    "river_name": "Horfield Brook Via Sws",
-    "total_count": 120.0,
-    "total_hours": 286.9,
-    "spills_increase": 111.0,
-    "hours_increase": 279.0
-  },
-  {
     "company_name": "Southern Water",
     "river_name": "Tidal River Arun",
     "total_count": 41.0,
@@ -15782,6 +15774,14 @@
     "total_hours": 285.75,
     "spills_increase": 7.0,
     "hours_increase": 131.25
+  },
+  {
+    "company_name": "Wessex Water",
+    "river_name": "Horfield Brook Via Sws",
+    "total_count": 114.0,
+    "total_hours": 285.4,
+    "spills_increase": 110.0,
+    "hours_increase": 279.8
   },
   {
     "company_name": "South West Water",
@@ -27264,6 +27264,14 @@
     "hours_increase": -206.71
   },
   {
+    "company_name": "Wessex Water",
+    "river_name": "Main Dyke",
+    "total_count": 5.0,
+    "total_hours": 41.1,
+    "spills_increase": -12.0,
+    "hours_increase": -137.07
+  },
+  {
     "company_name": "United Utilities",
     "river_name": "Birk Sike",
     "total_count": 29.0,
@@ -37174,6 +37182,14 @@
     "total_hours": 1.5,
     "spills_increase": -16.0,
     "hours_increase": -3.0
+  },
+  {
+    "company_name": "Wessex Water",
+    "river_name": "Woodplumton Brook",
+    "total_count": 6.0,
+    "total_hours": 1.5,
+    "spills_increase": 1.0,
+    "hours_increase": -0.8
   },
   {
     "company_name": "Severn Trent Water",

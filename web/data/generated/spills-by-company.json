@@ -3,120 +3,160 @@
     "reporting_year": 2020,
     "company_name": "Anglian Water",
     "hours": 170546.61,
-    "count": 17428.0
+    "count": 17428.0,
+    "location_count": 609,
+    "consent_count": 2890
   },
   {
     "reporting_year": 2021,
     "company_name": "Anglian Water",
     "hours": 194594.006,
-    "count": 21351.0
+    "count": 21351.0,
+    "location_count": 746,
+    "consent_count": 2890
   },
   {
     "reporting_year": 2020,
     "company_name": "Dwr Cymru Welsh Water",
     "hours": 889631.75,
-    "count": 108462.0
+    "count": 108462.0,
+    "location_count": 1884,
+    "consent_count": 3334
   },
   {
     "reporting_year": 2021,
     "company_name": "Dwr Cymru Welsh Water",
     "hours": 824675.0,
-    "count": 101522.0
+    "count": 101522.0,
+    "location_count": 2090,
+    "consent_count": 3334
   },
   {
     "reporting_year": 2020,
     "company_name": "Northumbrian Water",
     "hours": 178229.59,
-    "count": 32497.0
+    "count": 32497.0,
+    "location_count": 1219,
+    "consent_count": 1817
   },
   {
     "reporting_year": 2021,
     "company_name": "Northumbrian Water",
     "hours": 220560.454,
-    "count": 36483.0
+    "count": 36483.0,
+    "location_count": 1261,
+    "consent_count": 1817
   },
   {
     "reporting_year": 2020,
     "company_name": "Severn Trent Water",
     "hours": 558699.36,
-    "count": 60982.0
+    "count": 60982.0,
+    "location_count": 1920,
+    "consent_count": 3089
   },
   {
     "reporting_year": 2021,
     "company_name": "Severn Trent Water",
     "hours": 461127.672,
-    "count": 59676.0
+    "count": 59676.0,
+    "location_count": 1981,
+    "consent_count": 3089
   },
   {
     "reporting_year": 2020,
     "company_name": "South West Water",
     "hours": 375372.31,
-    "count": 42053.0
+    "count": 42053.0,
+    "location_count": 932,
+    "consent_count": 1715
   },
   {
     "reporting_year": 2021,
     "company_name": "South West Water",
     "hours": 349571.46,
-    "count": 42261.0
+    "count": 42261.0,
+    "location_count": 916,
+    "consent_count": 1715
   },
   {
     "reporting_year": 2020,
     "company_name": "Southern Water",
     "hours": 201003.14,
-    "count": 20313.0
+    "count": 20313.0,
+    "location_count": 939,
+    "consent_count": 1081
   },
   {
     "reporting_year": 2021,
     "company_name": "Southern Water",
     "hours": 160983.931,
-    "count": 19077.0
+    "count": 19077.0,
+    "location_count": 768,
+    "consent_count": 1081
   },
   {
     "reporting_year": 2020,
     "company_name": "Thames Water",
     "hours": 215886.57,
-    "count": 18443.0
+    "count": 18443.0,
+    "location_count": 419,
+    "consent_count": 873
   },
   {
     "reporting_year": 2021,
     "company_name": "Thames Water",
     "hours": 163089.82,
-    "count": 14713.0
+    "count": 14713.0,
+    "location_count": 420,
+    "consent_count": 873
   },
   {
     "reporting_year": 2020,
     "company_name": "United Utilities",
     "hours": 726450.26,
-    "count": 113940.0
+    "count": 113940.0,
+    "location_count": 1852,
+    "consent_count": 2931
   },
   {
     "reporting_year": 2021,
     "company_name": "United Utilities",
     "hours": 540753.06,
-    "count": 81588.0
+    "count": 81588.0,
+    "location_count": 1745,
+    "consent_count": 2931
   },
   {
     "reporting_year": 2020,
     "company_name": "Wessex Water",
     "hours": 236908.6,
-    "count": 29014.0
+    "count": 29014.0,
+    "location_count": 843,
+    "consent_count": 1409
   },
   {
     "reporting_year": 2021,
     "company_name": "Wessex Water",
     "hours": 151258.33,
-    "count": 23524.0
+    "count": 23524.0,
+    "location_count": 923,
+    "consent_count": 1409
   },
   {
     "reporting_year": 2020,
     "company_name": "Yorkshire Water",
     "hours": 420419.42,
-    "count": 65083.0
+    "count": 65083.0,
+    "location_count": 1777,
+    "consent_count": 1522
   },
   {
     "reporting_year": 2021,
     "company_name": "Yorkshire Water",
     "hours": 405876.612,
-    "count": 69906.0
+    "count": 69906.0,
+    "location_count": 1790,
+    "consent_count": 1522
   }
 ]

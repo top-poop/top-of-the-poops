@@ -27,6 +27,7 @@ python: $(PYTHON)
 $(PYTHON): .python_uptodate
 
 web/data/generated/%.json: generate/$(basename $(notdir %)).sql $(PYTHON) $(GENERATE) $(FILES)
+	@mkdir -p $(dir $@)
 	$(PYTHON) $(GENERATE) $< $@
 
 .PHONY: clean

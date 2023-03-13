@@ -18,6 +18,7 @@ import {FacebookShare, TwitterShare} from "./share";
 import {BeachMap, ReportingMap, ShellfishMap} from "./sewage-maps";
 import {GeoConstituencyMap, GeoSpillsMap} from "./plot-maps";
 import {PlotSpillsDuration, PlotSpillsCumulative, PlotSpillsByCompany} from "./plot-charts";
+import {SectionTitle} from "./components";
 
 
 const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0)
@@ -129,8 +130,6 @@ const DataMatch = () => {
 const FeaturedItem = ({where, title, href}) => {
     return <li><a href={href}>{where}</a> "{title}"</li>
 }
-
-const SectionTitle = ({children, ...props}) => <h2 className="border-bottom" {...props}>{children}</h2>
 
 class App extends React.Component {
     render() {

@@ -7,8 +7,13 @@ const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth
 const vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0)
 
 
-const GeoSpillsMap = () => {
+const GeoSpillsMap = ({company}) => {
     const optionsFn = (Plot, data) => {
+
+        if ( company != null ) {
+            data = data.filter(d => d["company_name"] == company)
+        }
+
         return {
             caption: "© CC-BY-SA-4.0 top-of-the-poops.org",
             projection: {

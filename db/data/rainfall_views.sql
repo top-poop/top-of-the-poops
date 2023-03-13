@@ -2,7 +2,7 @@
 drop view if exists rainfall_daily;
 
 create or replace view rainfall_daily as
-    select station_id, date_time::date as date, sum(reading_mm) as rainfall_mm from rainfall_readings
+    select station_id, date_time::date as date, sum(case when reading_mm > 120 then null else reading_mm end) as rainfall_mm from rainfall_readings
     group by station_id, date_time::date
     order by station_id, date_time::date;
 

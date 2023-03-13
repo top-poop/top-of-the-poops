@@ -1,17 +1,60 @@
 #!/usr/bin/env python
 import argparse
 import contextlib
+import datetime
 import json
 import sys
 from decimal import Decimal
+from typing import Any
 
 import psycopg2
+
+
+class MultipleJsonEncoders:
+    """
+    Combine multiple JSON encoders
+    """
+
+    def __init__(self, *encoders):
+        self.encoders = encoders
+        self.args = ()
+        self.kwargs = {}
+
+    def default(self, obj):
+        for encoder in self.encoders:
+            try:
+                return encoder(*self.args, **self.kwargs).default(obj)
+            except TypeError:
+                pass
+        raise TypeError(f'Object of type {obj.__class__.__name__} is not JSON serializable')
+
+    def __call__(self, *args, **kwargs):
+        self.args = args
+        self.kwargs = kwargs
+        enc = json.JSONEncoder(*args, **kwargs)
+        enc.default = self.default
+        return enc
 
 
 class DecimalEncoder(json.JSONEncoder):
     def default(self, obj):
         if isinstance(obj, Decimal):
             return float(str(obj))
+        return json.JSONEncoder.default(self, obj)
+
+
+class DateEncoder(json.JSONEncoder):
+
+    def default(self, obj: Any) -> Any:
+        if isinstance(obj, datetime.date):
+            return obj.isoformat()
+        return json.JSONEncoder.default(self, obj)
+
+
+class TimeDeltaEncoder(json.JSONEncoder):
+    def default(self, obj: Any) -> Any:
+        if isinstance(obj, datetime.timedelta):
+            return obj.total_seconds()
         return json.JSONEncoder.default(self, obj)
 
 
@@ -55,4 +98,4 @@ if __name__ == "__main__":
                 result = result[0]
 
             with smart_open(args.output) as fp:
-                json.dump(result, cls=DecimalEncoder, indent=2, fp=fp)
+                json.dump(result, cls=MultipleJsonEncoders(DecimalEncoder, DateEncoder, TimeDeltaEncoder), indent=2, fp=fp)
