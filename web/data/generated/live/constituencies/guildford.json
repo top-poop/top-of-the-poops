@@ -613,6 +613,12 @@
       "a": "a-24"
     },
     {
+      "p": "GUILDFORD STW",
+      "cid": "CTCR.1107",
+      "d": "2023-03-13",
+      "a": "a-24"
+    },
+    {
       "p": "CRANLEIGH STW, CRANLEIGH, SURREY",
       "cid": "CTCR.1838",
       "d": "2022-12-01",
@@ -1222,6 +1228,12 @@
       "p": "CRANLEIGH STW, CRANLEIGH, SURREY",
       "cid": "CTCR.1838",
       "d": "2023-03-12",
+      "a": "a-24"
+    },
+    {
+      "p": "CRANLEIGH STW, CRANLEIGH, SURREY",
+      "cid": "CTCR.1838",
+      "d": "2023-03-13",
       "a": "a-24"
     },
     {
@@ -1837,6 +1849,12 @@
       "a": "a-24"
     },
     {
+      "p": "LITTLEMEAD INDUSTRIAL ESTATE CSO",
+      "cid": "CTCR.1941",
+      "d": "2023-03-13",
+      "a": "a-24"
+    },
+    {
       "p": "Canfold Wood",
       "cid": "TEMP.0597",
       "d": "2022-12-01",
@@ -2446,6 +2464,12 @@
       "p": "Canfold Wood",
       "cid": "TEMP.0597",
       "d": "2023-03-12",
+      "a": "a-24"
+    },
+    {
+      "p": "Canfold Wood",
+      "cid": "TEMP.0597",
+      "d": "2023-03-13",
       "a": "a-24"
     },
     {
@@ -3061,6 +3085,12 @@
       "a": "a-24"
     },
     {
+      "p": "Ockley Road",
+      "cid": "TEMP.1627",
+      "d": "2023-03-13",
+      "a": "a-24"
+    },
+    {
       "p": "GODALMING WASTEWATER TREATMENT WORK",
       "cid": "TEMP.2614",
       "d": "2022-12-01",
@@ -3673,6 +3703,12 @@
       "a": "a-24"
     },
     {
+      "p": "GODALMING WASTEWATER TREATMENT WORK",
+      "cid": "TEMP.2614",
+      "d": "2023-03-13",
+      "a": "a-24"
+    },
+    {
       "p": "CSO AT KNOWLE LANE",
       "cid": "TEMP.2711",
       "d": "2022-12-01",
@@ -4285,6 +4321,12 @@
       "a": "a-24"
     },
     {
+      "p": "CSO AT KNOWLE LANE",
+      "cid": "TEMP.2711",
+      "d": "2023-03-13",
+      "a": "a-24"
+    },
+    {
       "p": "Taylors Crescent, Cranleigh",
       "cid": "TEMP.2966",
       "d": "2022-12-01",
@@ -4894,6 +4936,12 @@
       "p": "Taylors Crescent, Cranleigh",
       "cid": "TEMP.2966",
       "d": "2023-03-12",
+      "a": "a-24"
+    },
+    {
+      "p": "Taylors Crescent, Cranleigh",
+      "cid": "TEMP.2966",
+      "d": "2023-03-13",
       "a": "a-24"
     }
   ],
@@ -5497,6 +5545,12 @@
       "c": 2.2,
       "r": "r-2",
       "n": 4
+    },
+    {
+      "d": "2023-03-12",
+      "c": 2.6,
+      "r": "r-2",
+      "n": 4
     }
   ],
   "count": 8,
@@ -5602,6 +5656,7 @@
     "2023-03-09",
     "2023-03-10",
     "2023-03-11",
-    "2023-03-12"
+    "2023-03-12",
+    "2023-03-13"
   ]
 }
