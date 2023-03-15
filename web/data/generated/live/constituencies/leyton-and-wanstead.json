@@ -619,6 +619,12 @@
       "a": "a-24"
     },
     {
+      "p": "NUTTER LANE / PRESTON DRIVE CSO",
+      "cid": "CEVR.0138",
+      "d": "2023-03-14",
+      "a": "a-24"
+    },
+    {
       "p": "AUCKLAND ROAD PUMPING STATION TANKS",
       "cid": "CSBC.0085",
       "d": "2022-12-01",
@@ -1237,6 +1243,12 @@
       "a": "a-24"
     },
     {
+      "p": "AUCKLAND ROAD PUMPING STATION TANKS",
+      "cid": "CSBC.0085",
+      "d": "2023-03-14",
+      "a": "a-24"
+    },
+    {
       "p": "Mulberry Court, Hall Road",
       "cid": "TEMP.2801",
       "d": "2022-12-01",
@@ -1852,6 +1864,12 @@
       "p": "Mulberry Court, Hall Road",
       "cid": "TEMP.2801",
       "d": "2023-03-13",
+      "a": "a-24"
+    },
+    {
+      "p": "Mulberry Court, Hall Road",
+      "cid": "TEMP.2801",
+      "d": "2023-03-14",
       "a": "a-24"
     }
   ],
@@ -2461,6 +2479,12 @@
       "c": 1.8,
       "r": "r-1",
       "n": 3
+    },
+    {
+      "d": "2023-03-13",
+      "c": 0.4,
+      "r": "r-1",
+      "n": 3
     }
   ],
   "count": 3,
@@ -2567,6 +2591,7 @@
     "2023-03-10",
     "2023-03-11",
     "2023-03-12",
-    "2023-03-13"
+    "2023-03-13",
+    "2023-03-14"
   ]
 }

@@ -619,6 +619,12 @@
       "a": "a-24"
     },
     {
+      "p": "BELL WHARF OUTLET, LONDON",
+      "cid": "CSAB.0526",
+      "d": "2023-03-14",
+      "a": "a-24"
+    },
+    {
       "p": "HOLLOWAY STORM SEWER, LONDON",
       "cid": "CSAB.0527",
       "d": "2022-12-01",
@@ -1237,6 +1243,12 @@
       "a": "a-24"
     },
     {
+      "p": "HOLLOWAY STORM SEWER, LONDON",
+      "cid": "CSAB.0527",
+      "d": "2023-03-14",
+      "a": "a-24"
+    },
+    {
       "p": "IRONGATE SEWER, LONDON",
       "cid": "CSAB.0580",
       "d": "2022-12-01",
@@ -1852,6 +1864,12 @@
       "p": "IRONGATE SEWER, LONDON",
       "cid": "CSAB.0580",
       "d": "2023-03-13",
+      "a": "a-24"
+    },
+    {
+      "p": "IRONGATE SEWER, LONDON",
+      "cid": "CSAB.0580",
+      "d": "2023-03-14",
       "a": "a-24"
     },
     {
@@ -2473,6 +2491,12 @@
       "a": "a-24"
     },
     {
+      "p": "N E Sr Shadwell, King Edward Mem Pa",
+      "cid": "TEMP.2804",
+      "d": "2023-03-14",
+      "a": "a-24"
+    },
+    {
       "p": "RATCLIFFE HIGHWAY LIMEKILN CSO",
       "cid": "TEMP.2864",
       "d": "2022-12-01",
@@ -3088,6 +3112,12 @@
       "p": "RATCLIFFE HIGHWAY LIMEKILN CSO",
       "cid": "TEMP.2864",
       "d": "2023-03-13",
+      "a": "a-24"
+    },
+    {
+      "p": "RATCLIFFE HIGHWAY LIMEKILN CSO",
+      "cid": "TEMP.2864",
+      "d": "2023-03-14",
       "a": "a-24"
     }
   ],
@@ -3697,6 +3727,12 @@
       "c": 0.8,
       "r": "r-1",
       "n": 1
+    },
+    {
+      "d": "2023-03-13",
+      "c": 0.2,
+      "r": "r-1",
+      "n": 1
     }
   ],
   "count": 5,
@@ -3803,6 +3839,7 @@
     "2023-03-10",
     "2023-03-11",
     "2023-03-12",
-    "2023-03-13"
+    "2023-03-13",
+    "2023-03-14"
   ]
 }
