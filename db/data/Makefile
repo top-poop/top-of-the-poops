@@ -237,8 +237,7 @@ load-grid-references: grid_references.sql load_grid_references.sql update_grid_r
 	$(PSQL) -f $(word 2,$^)
 	$(PSQL) -f $(word 3,$^)
 
-##
-
+## Thames Water Live Data
 
 .PHONY: events-thames
 events-thames:
@@ -246,6 +245,13 @@ events-thames:
 
 .PHONY: summary-thames
 	$(PSQL) -f summary_thames.sql
+
+# Southern Water "Beachbouy" data
+
+.PHONY: bb-events
+bb-events:  bb_events.sql bb_events_load.sql
+	$(PSQL) -f bb_events.sql
+	$(PSQL) -f bb_events_load.sql
 
 
 load-edm-consent-view: edm_consent_view.sql load-edm load-consents
