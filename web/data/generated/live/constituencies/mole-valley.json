@@ -625,6 +625,24 @@
       "a": "a-24"
     },
     {
+      "p": "DORKING STW (STORM)",
+      "cid": "CASM.1027",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "DORKING STW (STORM)",
+      "cid": "CASM.1027",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "DORKING STW (STORM)",
+      "cid": "CASM.1027",
+      "d": "2023-03-17",
+      "a": "o-4"
+    },
+    {
       "p": "CASTLE GARDENS SPS",
       "cid": "CTCR.0392",
       "d": "2022-12-01",
@@ -1249,6 +1267,24 @@
       "a": "a-24"
     },
     {
+      "p": "CASTLE GARDENS SPS",
+      "cid": "CTCR.0392",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "CASTLE GARDENS SPS",
+      "cid": "CTCR.0392",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "CASTLE GARDENS SPS",
+      "cid": "CTCR.0392",
+      "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
       "p": "HOLMWOOD SEWAGE TREATMENT WORKS",
       "cid": "CTCR.1189",
       "d": "2022-12-01",
@@ -1871,6 +1907,666 @@
       "cid": "CTCR.1189",
       "d": "2023-03-14",
       "a": "o-24"
+    },
+    {
+      "p": "HOLMWOOD SEWAGE TREATMENT WORKS",
+      "cid": "CTCR.1189",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "HOLMWOOD SEWAGE TREATMENT WORKS",
+      "cid": "CTCR.1189",
+      "d": "2023-03-16",
+      "a": "o-16"
+    },
+    {
+      "p": "HOLMWOOD SEWAGE TREATMENT WORKS",
+      "cid": "CTCR.1189",
+      "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-01",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-02",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-03",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-04",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-05",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-06",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-07",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-08",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-09",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-10",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-11",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-12",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-13",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-14",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-15",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-16",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-17",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-18",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-19",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-20",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-21",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-22",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-23",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-24",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-25",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-26",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-27",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-28",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-29",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-30",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2022-12-31",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-01",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-02",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-03",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-04",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-05",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-06",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-07",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-08",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-09",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-10",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-11",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-12",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-13",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-14",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-15",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-16",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-17",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-18",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-19",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-20",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-21",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-22",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-23",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-24",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-25",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-26",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-27",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-28",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-29",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-30",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-01-31",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-01",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-02",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-03",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-04",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-05",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-06",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-07",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-08",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-09",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-10",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-11",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-12",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-13",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-14",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-15",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-16",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-17",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-18",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-19",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-20",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-21",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-22",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-23",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-24",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-25",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-26",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-27",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-02-28",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-03-01",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-03-02",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-03-03",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-03-04",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-03-05",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-03-06",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-03-07",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-03-08",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-03-09",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-03-10",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-03-11",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-03-12",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-03-13",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-03-14",
+      "a": "u-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-03-15",
+      "a": "o-16"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-03-17",
+      "a": "a-24"
     },
     {
       "p": "LEATHERHEAD WWTW",
@@ -2497,6 +3193,24 @@
       "a": "a-24"
     },
     {
+      "p": "LEATHERHEAD WWTW",
+      "cid": "CTCR.1780",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "LEATHERHEAD WWTW",
+      "cid": "CTCR.1780",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "LEATHERHEAD WWTW",
+      "cid": "CTCR.1780",
+      "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
       "p": "SPOOKS HILL, NORTH HOLMWOOD, SURREY",
       "cid": "CTCR.1922",
       "d": "2022-12-01",
@@ -3118,6 +3832,24 @@
       "p": "SPOOKS HILL, NORTH HOLMWOOD, SURREY",
       "cid": "CTCR.1922",
       "d": "2023-03-14",
+      "a": "a-24"
+    },
+    {
+      "p": "SPOOKS HILL, NORTH HOLMWOOD, SURREY",
+      "cid": "CTCR.1922",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "SPOOKS HILL, NORTH HOLMWOOD, SURREY",
+      "cid": "CTCR.1922",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "SPOOKS HILL, NORTH HOLMWOOD, SURREY",
+      "cid": "CTCR.1922",
+      "d": "2023-03-17",
       "a": "a-24"
     },
     {
@@ -3745,6 +4477,24 @@
       "a": "a-24"
     },
     {
+      "p": "CHARLWOOD, SURREY",
+      "cid": "CTCR.1926",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "CHARLWOOD, SURREY",
+      "cid": "CTCR.1926",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "CHARLWOOD, SURREY",
+      "cid": "CTCR.1926",
+      "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
       "p": "RIPLEY WWTW",
       "cid": "CTCR.2150",
       "d": "2022-12-01",
@@ -4366,6 +5116,24 @@
       "p": "RIPLEY WWTW",
       "cid": "CTCR.2150",
       "d": "2023-03-14",
+      "a": "a-24"
+    },
+    {
+      "p": "RIPLEY WWTW",
+      "cid": "CTCR.2150",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "RIPLEY WWTW",
+      "cid": "CTCR.2150",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "RIPLEY WWTW",
+      "cid": "CTCR.2150",
+      "d": "2023-03-17",
       "a": "a-24"
     },
     {
@@ -4993,6 +5761,24 @@
       "a": "z-24"
     },
     {
+      "p": "Box Hill",
+      "cid": "TEMP.0505",
+      "d": "2023-03-15",
+      "a": "z-24"
+    },
+    {
+      "p": "Box Hill",
+      "cid": "TEMP.0505",
+      "d": "2023-03-16",
+      "a": "z-24"
+    },
+    {
+      "p": "Box Hill",
+      "cid": "TEMP.0505",
+      "d": "2023-03-17",
+      "a": "z-24"
+    },
+    {
       "p": "Brockham Bridge",
       "cid": "TEMP.0545",
       "d": "2022-12-01",
@@ -5614,6 +6400,24 @@
       "p": "Brockham Bridge",
       "cid": "TEMP.0545",
       "d": "2023-03-14",
+      "a": "a-24"
+    },
+    {
+      "p": "Brockham Bridge",
+      "cid": "TEMP.0545",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "Brockham Bridge",
+      "cid": "TEMP.0545",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "Brockham Bridge",
+      "cid": "TEMP.0545",
+      "d": "2023-03-17",
       "a": "a-24"
     },
     {
@@ -6241,6 +7045,24 @@
       "a": "a-24"
     },
     {
+      "p": "Commonside",
+      "cid": "TEMP.0730",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "Commonside",
+      "cid": "TEMP.0730",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "Commonside",
+      "cid": "TEMP.0730",
+      "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
       "p": "Dean Oak Lane",
       "cid": "TEMP.0822",
       "d": "2022-12-01",
@@ -6865,6 +7687,24 @@
       "a": "a-24"
     },
     {
+      "p": "Dean Oak Lane",
+      "cid": "TEMP.0822",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "Dean Oak Lane",
+      "cid": "TEMP.0822",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "Dean Oak Lane",
+      "cid": "TEMP.0822",
+      "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
       "p": "Wisley",
       "cid": "TEMP.3017",
       "d": "2022-12-01",
@@ -7486,6 +8326,24 @@
       "p": "Wisley",
       "cid": "TEMP.3017",
       "d": "2023-03-14",
+      "a": "a-24"
+    },
+    {
+      "p": "Wisley",
+      "cid": "TEMP.3017",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "Wisley",
+      "cid": "TEMP.3017",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "Wisley",
+      "cid": "TEMP.3017",
+      "d": "2023-03-17",
       "a": "a-24"
     }
   ],
@@ -8101,9 +8959,27 @@
       "c": 3.8,
       "r": "r-2",
       "n": 5
+    },
+    {
+      "d": "2023-03-14",
+      "c": 2.0,
+      "r": "r-1",
+      "n": 5
+    },
+    {
+      "d": "2023-03-15",
+      "c": 4.1,
+      "r": "r-3",
+      "n": 5
+    },
+    {
+      "d": "2023-03-16",
+      "c": 0.5,
+      "r": "r-1",
+      "n": 5
     }
   ],
-  "count": 12,
+  "count": 13,
   "dates": [
     "2022-12-01",
     "2022-12-02",
@@ -8208,6 +9084,9 @@
     "2023-03-11",
     "2023-03-12",
     "2023-03-13",
-    "2023-03-14"
+    "2023-03-14",
+    "2023-03-15",
+    "2023-03-16",
+    "2023-03-17"
   ]
 }

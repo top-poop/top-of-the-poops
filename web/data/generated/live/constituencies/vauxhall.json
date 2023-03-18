@@ -625,6 +625,24 @@
       "a": "o-8"
     },
     {
+      "p": "BRIXTON STORM RELIEF SEWER, LONDON",
+      "cid": "CSAB.0554",
+      "d": "2023-03-15",
+      "a": "o-4"
+    },
+    {
+      "p": "BRIXTON STORM RELIEF SEWER, LONDON",
+      "cid": "CSAB.0554",
+      "d": "2023-03-16",
+      "a": "o-8"
+    },
+    {
+      "p": "BRIXTON STORM RELIEF SEWER, LONDON",
+      "cid": "CSAB.0554",
+      "d": "2023-03-17",
+      "a": "o-12"
+    },
+    {
       "p": "CLAPHAM STORM RELIEF SEWER, LONDON",
       "cid": "CSSB.7809",
       "d": "2022-12-01",
@@ -1247,6 +1265,24 @@
       "cid": "CSSB.7809",
       "d": "2023-03-14",
       "a": "a-24"
+    },
+    {
+      "p": "CLAPHAM STORM RELIEF SEWER, LONDON",
+      "cid": "CSSB.7809",
+      "d": "2023-03-15",
+      "a": "o-4"
+    },
+    {
+      "p": "CLAPHAM STORM RELIEF SEWER, LONDON",
+      "cid": "CSSB.7809",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "CLAPHAM STORM RELIEF SEWER, LONDON",
+      "cid": "CSSB.7809",
+      "d": "2023-03-17",
+      "a": "o-4"
     }
   ],
   "rainfall": [
@@ -1861,6 +1897,24 @@
       "c": 0.7,
       "r": "r-1",
       "n": 2
+    },
+    {
+      "d": "2023-03-14",
+      "c": 2.6,
+      "r": "r-2",
+      "n": 2
+    },
+    {
+      "d": "2023-03-15",
+      "c": 2.7,
+      "r": "r-2",
+      "n": 2
+    },
+    {
+      "d": "2023-03-16",
+      "c": 0.1,
+      "r": "r-1",
+      "n": 2
     }
   ],
   "count": 2,
@@ -1968,6 +2022,9 @@
     "2023-03-11",
     "2023-03-12",
     "2023-03-13",
-    "2023-03-14"
+    "2023-03-14",
+    "2023-03-15",
+    "2023-03-16",
+    "2023-03-17"
   ]
 }

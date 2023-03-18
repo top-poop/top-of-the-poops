@@ -625,6 +625,24 @@
       "a": "a-24"
     },
     {
+      "p": "REIGATE (EARLSWOOD) WWTW",
+      "cid": "CASM.0827",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "REIGATE (EARLSWOOD) WWTW",
+      "cid": "CASM.0827",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "REIGATE (EARLSWOOD) WWTW",
+      "cid": "CASM.0827",
+      "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
       "p": "SALFORDS SPS",
       "cid": "CNTW.0279",
       "d": "2022-12-01",
@@ -1246,6 +1264,24 @@
       "p": "SALFORDS SPS",
       "cid": "CNTW.0279",
       "d": "2023-03-14",
+      "a": "a-24"
+    },
+    {
+      "p": "SALFORDS SPS",
+      "cid": "CNTW.0279",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "SALFORDS SPS",
+      "cid": "CNTW.0279",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "SALFORDS SPS",
+      "cid": "CNTW.0279",
+      "d": "2023-03-17",
       "a": "a-24"
     },
     {
@@ -1873,6 +1909,24 @@
       "a": "a-24"
     },
     {
+      "p": "MERSTHAM STW, ALBURY ROAD, SOUTH ME",
+      "cid": "CTCR.1782",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "MERSTHAM STW, ALBURY ROAD, SOUTH ME",
+      "cid": "CTCR.1782",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "MERSTHAM STW, ALBURY ROAD, SOUTH ME",
+      "cid": "CTCR.1782",
+      "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
       "p": "Earlswood Common, S of Pendleton Ro",
       "cid": "TEMP.2575",
       "d": "2022-12-01",
@@ -2495,6 +2549,24 @@
       "cid": "TEMP.2575",
       "d": "2023-03-14",
       "a": "a-24"
+    },
+    {
+      "p": "Earlswood Common, S of Pendleton Ro",
+      "cid": "TEMP.2575",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "Earlswood Common, S of Pendleton Ro",
+      "cid": "TEMP.2575",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "Earlswood Common, S of Pendleton Ro",
+      "cid": "TEMP.2575",
+      "d": "2023-03-17",
+      "a": "a-24"
     }
   ],
   "rainfall": [
@@ -3109,6 +3181,24 @@
       "c": 2.2,
       "r": "r-2",
       "n": 3
+    },
+    {
+      "d": "2023-03-14",
+      "c": 3.3,
+      "r": "r-2",
+      "n": 3
+    },
+    {
+      "d": "2023-03-15",
+      "c": 3.4,
+      "r": "r-2",
+      "n": 3
+    },
+    {
+      "d": "2023-03-16",
+      "c": 1.0,
+      "r": "r-1",
+      "n": 3
     }
   ],
   "count": 4,
@@ -3216,6 +3306,9 @@
     "2023-03-11",
     "2023-03-12",
     "2023-03-13",
-    "2023-03-14"
+    "2023-03-14",
+    "2023-03-15",
+    "2023-03-16",
+    "2023-03-17"
   ]
 }

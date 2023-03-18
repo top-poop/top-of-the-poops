@@ -746,5 +746,38 @@
     "rainfall_mm_95": 6.96,
     "station_count": 137,
     "offline_count": 16
+  },
+  {
+    "date": "2023-03-14",
+    "overflowing_count": 41,
+    "overflowing_duration": 2189700.0,
+    "rainfall_mm_min": 0.2,
+    "rainfall_mm_avg": 3.1402262773722627,
+    "rainfall_mm_max": 11.0,
+    "rainfall_mm_95": 7.0,
+    "station_count": 137,
+    "offline_count": 16
+  },
+  {
+    "date": "2023-03-15",
+    "overflowing_count": 29,
+    "overflowing_duration": 1160460.0,
+    "rainfall_mm_min": 0.9,
+    "rainfall_mm_avg": 3.354087591240876,
+    "rainfall_mm_max": 8.5,
+    "rainfall_mm_95": 6.4,
+    "station_count": 137,
+    "offline_count": 15
+  },
+  {
+    "date": "2023-03-16",
+    "overflowing_count": 34,
+    "overflowing_duration": 1727700.0,
+    "rainfall_mm_min": 0.0,
+    "rainfall_mm_avg": 0.9942481751824818,
+    "rainfall_mm_max": 5.3,
+    "rainfall_mm_95": 2.6,
+    "station_count": 137,
+    "offline_count": 17
   }
 ]

@@ -625,6 +625,24 @@
       "a": "a-24"
     },
     {
+      "p": "BLACKNEST SPS",
+      "cid": "CTCP.0428",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "BLACKNEST SPS",
+      "cid": "CTCP.0428",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "BLACKNEST SPS",
+      "cid": "CTCP.0428",
+      "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
       "p": "BRACKNELL WATER TREATMENT WORKS",
       "cid": "CTCR.1973",
       "d": "2022-12-01",
@@ -1249,6 +1267,24 @@
       "a": "a-24"
     },
     {
+      "p": "BRACKNELL WATER TREATMENT WORKS",
+      "cid": "CTCR.1973",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "BRACKNELL WATER TREATMENT WORKS",
+      "cid": "CTCR.1973",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "BRACKNELL WATER TREATMENT WORKS",
+      "cid": "CTCR.1973",
+      "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
       "p": "FOUL SEWER OVERFLOW, COPPICE GREEN,",
       "cid": "CTCR.1999",
       "d": "2022-12-01",
@@ -1870,6 +1906,24 @@
       "p": "FOUL SEWER OVERFLOW, COPPICE GREEN,",
       "cid": "CTCR.1999",
       "d": "2023-03-14",
+      "a": "a-24"
+    },
+    {
+      "p": "FOUL SEWER OVERFLOW, COPPICE GREEN,",
+      "cid": "CTCR.1999",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "FOUL SEWER OVERFLOW, COPPICE GREEN,",
+      "cid": "CTCR.1999",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "FOUL SEWER OVERFLOW, COPPICE GREEN,",
+      "cid": "CTCR.1999",
+      "d": "2023-03-17",
       "a": "a-24"
     },
     {
@@ -2497,6 +2551,24 @@
       "a": "a-24"
     },
     {
+      "p": "ASCOT WWTW",
+      "cid": "CTCR.2048",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "ASCOT WWTW",
+      "cid": "CTCR.2048",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "ASCOT WWTW",
+      "cid": "CTCR.2048",
+      "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
       "p": "Windsor",
       "cid": "TEMP.3014",
       "d": "2022-12-01",
@@ -3119,6 +3191,24 @@
       "cid": "TEMP.3014",
       "d": "2023-03-14",
       "a": "a-24"
+    },
+    {
+      "p": "Windsor",
+      "cid": "TEMP.3014",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "Windsor",
+      "cid": "TEMP.3014",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "Windsor",
+      "cid": "TEMP.3014",
+      "d": "2023-03-17",
+      "a": "a-24"
     }
   ],
   "rainfall": [
@@ -3733,6 +3823,24 @@
       "c": 1.1,
       "r": "r-1",
       "n": 7
+    },
+    {
+      "d": "2023-03-14",
+      "c": 2.2,
+      "r": "r-2",
+      "n": 7
+    },
+    {
+      "d": "2023-03-15",
+      "c": 4.1,
+      "r": "r-3",
+      "n": 7
+    },
+    {
+      "d": "2023-03-16",
+      "c": 0.8,
+      "r": "r-1",
+      "n": 7
     }
   ],
   "count": 5,
@@ -3840,6 +3948,9 @@
     "2023-03-11",
     "2023-03-12",
     "2023-03-13",
-    "2023-03-14"
+    "2023-03-14",
+    "2023-03-15",
+    "2023-03-16",
+    "2023-03-17"
   ]
 }

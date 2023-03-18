@@ -625,6 +625,24 @@
       "a": "a-24"
     },
     {
+      "p": "WITNEY SEWAGE TREATMENT WORKS",
+      "cid": "CATM.3134",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "WITNEY SEWAGE TREATMENT WORKS",
+      "cid": "CATM.3134",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "WITNEY SEWAGE TREATMENT WORKS",
+      "cid": "CATM.3134",
+      "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
       "p": "CARTERTON STW",
       "cid": "CATM.3521",
       "d": "2022-12-01",
@@ -1246,6 +1264,24 @@
       "p": "CARTERTON STW",
       "cid": "CATM.3521",
       "d": "2023-03-14",
+      "a": "a-24"
+    },
+    {
+      "p": "CARTERTON STW",
+      "cid": "CATM.3521",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "CARTERTON STW",
+      "cid": "CATM.3521",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "CARTERTON STW",
+      "cid": "CATM.3521",
+      "d": "2023-03-17",
       "a": "a-24"
     },
     {
@@ -1873,6 +1909,24 @@
       "a": "a-24"
     },
     {
+      "p": "WOODSTOCK STW, OXON",
+      "cid": "CSSC.2321",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "WOODSTOCK STW, OXON",
+      "cid": "CSSC.2321",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "WOODSTOCK STW, OXON",
+      "cid": "CSSC.2321",
+      "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
       "p": "CHURCH HANBOROUGH STW, CHURCH HANBO",
       "cid": "CSSC.5783",
       "d": "2022-12-01",
@@ -2497,6 +2551,24 @@
       "a": "o-16"
     },
     {
+      "p": "CHURCH HANBOROUGH STW, CHURCH HANBO",
+      "cid": "CSSC.5783",
+      "d": "2023-03-15",
+      "a": "o-8"
+    },
+    {
+      "p": "CHURCH HANBOROUGH STW, CHURCH HANBO",
+      "cid": "CSSC.5783",
+      "d": "2023-03-16",
+      "a": "o-20"
+    },
+    {
+      "p": "CHURCH HANBOROUGH STW, CHURCH HANBO",
+      "cid": "CSSC.5783",
+      "d": "2023-03-17",
+      "a": "o-4"
+    },
+    {
       "p": "CHIPPING NORTON STW",
       "cid": "CTCR.1767",
       "d": "2022-12-01",
@@ -3121,6 +3193,24 @@
       "a": "a-24"
     },
     {
+      "p": "CHIPPING NORTON STW",
+      "cid": "CTCR.1767",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "CHIPPING NORTON STW",
+      "cid": "CTCR.1767",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "CHIPPING NORTON STW",
+      "cid": "CTCR.1767",
+      "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
       "p": "MIDDLE BARTON WWTW",
       "cid": "CTCR.1850",
       "d": "2022-12-01",
@@ -3742,6 +3832,24 @@
       "p": "MIDDLE BARTON WWTW",
       "cid": "CTCR.1850",
       "d": "2023-03-14",
+      "a": "a-24"
+    },
+    {
+      "p": "MIDDLE BARTON WWTW",
+      "cid": "CTCR.1850",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "MIDDLE BARTON WWTW",
+      "cid": "CTCR.1850",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "MIDDLE BARTON WWTW",
+      "cid": "CTCR.1850",
+      "d": "2023-03-17",
       "a": "a-24"
     },
     {
@@ -4369,6 +4477,24 @@
       "a": "a-24"
     },
     {
+      "p": "KINGHAM SPS",
+      "cid": "CTCR.1981",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "KINGHAM SPS",
+      "cid": "CTCR.1981",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "KINGHAM SPS",
+      "cid": "CTCR.1981",
+      "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
       "p": "BAMPTON WWTW",
       "cid": "TEMP.2373",
       "d": "2022-12-01",
@@ -4993,6 +5119,24 @@
       "a": "a-24"
     },
     {
+      "p": "BAMPTON WWTW",
+      "cid": "TEMP.2373",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "BAMPTON WWTW",
+      "cid": "TEMP.2373",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "BAMPTON WWTW",
+      "cid": "TEMP.2373",
+      "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
       "p": "Cassington (New)",
       "cid": "TEMP.2457",
       "d": "2022-12-01",
@@ -5617,6 +5761,24 @@
       "a": "a-24"
     },
     {
+      "p": "Cassington (New)",
+      "cid": "TEMP.2457",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "Cassington (New)",
+      "cid": "TEMP.2457",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "Cassington (New)",
+      "cid": "TEMP.2457",
+      "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
       "p": "CHADLINGTON WWTW",
       "cid": "TEMP.2461",
       "d": "2022-12-01",
@@ -6241,6 +6403,24 @@
       "a": "a-24"
     },
     {
+      "p": "CHADLINGTON WWTW",
+      "cid": "TEMP.2461",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "CHADLINGTON WWTW",
+      "cid": "TEMP.2461",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "CHADLINGTON WWTW",
+      "cid": "TEMP.2461",
+      "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
       "p": "CHARLBURY WWTW",
       "cid": "TEMP.2466",
       "d": "2022-12-01",
@@ -6865,6 +7045,24 @@
       "a": "a-24"
     },
     {
+      "p": "CHARLBURY WWTW",
+      "cid": "TEMP.2466",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "CHARLBURY WWTW",
+      "cid": "TEMP.2466",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "CHARLBURY WWTW",
+      "cid": "TEMP.2466",
+      "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
       "p": "CLANFIELD WWTW",
       "cid": "TEMP.2488",
       "d": "2022-12-01",
@@ -7489,6 +7687,24 @@
       "a": "a-24"
     },
     {
+      "p": "CLANFIELD WWTW",
+      "cid": "TEMP.2488",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "CLANFIELD WWTW",
+      "cid": "TEMP.2488",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "CLANFIELD WWTW",
+      "cid": "TEMP.2488",
+      "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
       "p": "COMBE WWTW",
       "cid": "TEMP.2496",
       "d": "2022-12-01",
@@ -8113,6 +8329,24 @@
       "a": "o-16"
     },
     {
+      "p": "COMBE WWTW",
+      "cid": "TEMP.2496",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "COMBE WWTW",
+      "cid": "TEMP.2496",
+      "d": "2023-03-16",
+      "a": "o-12"
+    },
+    {
+      "p": "COMBE WWTW",
+      "cid": "TEMP.2496",
+      "d": "2023-03-17",
+      "a": "o-8"
+    },
+    {
       "p": "FINSTOCK WWTW",
       "cid": "TEMP.2594",
       "d": "2022-12-01",
@@ -8734,6 +8968,24 @@
       "p": "FINSTOCK WWTW",
       "cid": "TEMP.2594",
       "d": "2023-03-14",
+      "a": "a-24"
+    },
+    {
+      "p": "FINSTOCK WWTW",
+      "cid": "TEMP.2594",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "FINSTOCK WWTW",
+      "cid": "TEMP.2594",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "FINSTOCK WWTW",
+      "cid": "TEMP.2594",
+      "d": "2023-03-17",
       "a": "a-24"
     },
     {
@@ -9361,6 +9613,24 @@
       "a": "o-8"
     },
     {
+      "p": "Milton-under-Wychwood",
+      "cid": "TEMP.2776",
+      "d": "2023-03-15",
+      "a": "o-4"
+    },
+    {
+      "p": "Milton-under-Wychwood",
+      "cid": "TEMP.2776",
+      "d": "2023-03-16",
+      "a": "o-24"
+    },
+    {
+      "p": "Milton-under-Wychwood",
+      "cid": "TEMP.2776",
+      "d": "2023-03-17",
+      "a": "o-24"
+    },
+    {
       "p": "SOUTH LEIGH WWTW",
       "cid": "TEMP.2899",
       "d": "2022-12-01",
@@ -9983,6 +10253,24 @@
       "cid": "TEMP.2899",
       "d": "2023-03-14",
       "a": "a-24"
+    },
+    {
+      "p": "SOUTH LEIGH WWTW",
+      "cid": "TEMP.2899",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "SOUTH LEIGH WWTW",
+      "cid": "TEMP.2899",
+      "d": "2023-03-16",
+      "a": "o-16"
+    },
+    {
+      "p": "SOUTH LEIGH WWTW",
+      "cid": "TEMP.2899",
+      "d": "2023-03-17",
+      "a": "o-24"
     },
     {
       "p": "Standlake",
@@ -10609,6 +10897,24 @@
       "a": "a-24"
     },
     {
+      "p": "Standlake",
+      "cid": "TEMP.2906",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "Standlake",
+      "cid": "TEMP.2906",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "Standlake",
+      "cid": "TEMP.2906",
+      "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
       "p": "STANTON HARCOURT WWTW",
       "cid": "TEMP.2912",
       "d": "2022-12-01",
@@ -11230,6 +11536,24 @@
       "p": "STANTON HARCOURT WWTW",
       "cid": "TEMP.2912",
       "d": "2023-03-14",
+      "a": "a-24"
+    },
+    {
+      "p": "STANTON HARCOURT WWTW",
+      "cid": "TEMP.2912",
+      "d": "2023-03-15",
+      "a": "a-24"
+    },
+    {
+      "p": "STANTON HARCOURT WWTW",
+      "cid": "TEMP.2912",
+      "d": "2023-03-16",
+      "a": "a-24"
+    },
+    {
+      "p": "STANTON HARCOURT WWTW",
+      "cid": "TEMP.2912",
+      "d": "2023-03-17",
       "a": "a-24"
     }
   ],
@@ -11845,6 +12169,24 @@
       "c": 5.3,
       "r": "r-3",
       "n": 4
+    },
+    {
+      "d": "2023-03-14",
+      "c": 1.1,
+      "r": "r-1",
+      "n": 4
+    },
+    {
+      "d": "2023-03-15",
+      "c": 6.6,
+      "r": "r-4",
+      "n": 4
+    },
+    {
+      "d": "2023-03-16",
+      "c": 1.2,
+      "r": "r-1",
+      "n": 4
     }
   ],
   "count": 18,
@@ -11952,6 +12294,9 @@
     "2023-03-11",
     "2023-03-12",
     "2023-03-13",
-    "2023-03-14"
+    "2023-03-14",
+    "2023-03-15",
+    "2023-03-16",
+    "2023-03-17"
   ]
 }
