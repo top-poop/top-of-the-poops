@@ -67,11 +67,12 @@ live-data-update:
 	$(PYTHON) api/thames-populate.py --update
 	$(PYTHON) api/rainfall-populate.py --update
 	@touch generate/thames-water-spills-daily.sql
+	$(PYTHON) api/thames-process.py
 
 
 .PHONY: live-data
 live-data: live-data-update web/data/generated/thames-water-spills-daily.json
-	$(PYTHON) api/thames-process.py
+
 
 
 .PHONY: prod

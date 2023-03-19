@@ -779,5 +779,16 @@
     "rainfall_mm_95": 2.6,
     "station_count": 137,
     "offline_count": 17
+  },
+  {
+    "date": "2023-03-17",
+    "overflowing_count": 33,
+    "overflowing_duration": 1649940.0,
+    "rainfall_mm_min": 0.0,
+    "rainfall_mm_avg": 3.3874598540145984,
+    "rainfall_mm_max": 12.8,
+    "rainfall_mm_95": 7.0,
+    "station_count": 137,
+    "offline_count": 16
   }
 ]

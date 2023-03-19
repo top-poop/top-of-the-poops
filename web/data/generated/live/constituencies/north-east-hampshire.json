@@ -643,6 +643,12 @@
       "a": "a-24"
     },
     {
+      "p": "CROOKED BILLET SPS",
+      "cid": "CATM.3173",
+      "d": "2023-03-18",
+      "a": "a-24"
+    },
+    {
       "p": "EVERSLEY (LOWER COMMON) WWTW",
       "cid": "CNTD.0078",
       "d": "2022-12-01",
@@ -1285,6 +1291,12 @@
       "a": "a-24"
     },
     {
+      "p": "EVERSLEY (LOWER COMMON) WWTW",
+      "cid": "CNTD.0078",
+      "d": "2023-03-18",
+      "a": "a-24"
+    },
+    {
       "p": "SILCHESTER WWTW",
       "cid": "CNTW.0737",
       "d": "2022-12-01",
@@ -1927,6 +1939,12 @@
       "a": "a-24"
     },
     {
+      "p": "SILCHESTER WWTW",
+      "cid": "CNTW.0737",
+      "d": "2023-03-18",
+      "a": "o-12"
+    },
+    {
       "p": "CRONDALL WWTW",
       "cid": "CSSC.2450",
       "d": "2022-12-01",
@@ -2569,6 +2587,12 @@
       "a": "a-24"
     },
     {
+      "p": "CRONDALL WWTW",
+      "cid": "CSSC.2450",
+      "d": "2023-03-18",
+      "a": "a-24"
+    },
+    {
       "p": "FLEET STW, FLEET, HANTS",
       "cid": "CTCR.1836",
       "d": "2022-12-01",
@@ -3211,6 +3235,12 @@
       "a": "a-24"
     },
     {
+      "p": "FLEET STW, FLEET, HANTS",
+      "cid": "CTCR.1836",
+      "d": "2023-03-18",
+      "a": "a-24"
+    },
+    {
       "p": "HARTLEY WINTNEY STW, HARTLEY WINTNE",
       "cid": "CTCR.1865",
       "d": "2022-12-01",
@@ -3853,6 +3883,12 @@
       "a": "a-24"
     },
     {
+      "p": "HARTLEY WINTNEY STW, HARTLEY WINTNE",
+      "cid": "CTCR.1865",
+      "d": "2023-03-18",
+      "a": "a-24"
+    },
+    {
       "p": "WEST HEATH RAMSDELL PUMPING STATION",
       "cid": "NPSWQD001561",
       "d": "2022-12-01",
@@ -4495,6 +4531,12 @@
       "a": "a-24"
     },
     {
+      "p": "WEST HEATH RAMSDELL PUMPING STATION",
+      "cid": "NPSWQD001561",
+      "d": "2023-03-18",
+      "a": "o-4"
+    },
+    {
       "p": "Elvetham Close",
       "cid": "TEMP.0917",
       "d": "2022-12-01",
@@ -5134,6 +5176,12 @@
       "p": "Elvetham Close",
       "cid": "TEMP.0917",
       "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
+      "p": "Elvetham Close",
+      "cid": "TEMP.0917",
+      "d": "2023-03-18",
       "a": "a-24"
     },
     {
@@ -5779,6 +5827,12 @@
       "a": "a-24"
     },
     {
+      "p": "Opposite St Stephen's Hall",
+      "cid": "TEMP.1644",
+      "d": "2023-03-18",
+      "a": "o-4"
+    },
+    {
       "p": "Rotherwick",
       "cid": "TEMP.1825",
       "d": "2022-12-01",
@@ -6418,6 +6472,12 @@
       "p": "Rotherwick",
       "cid": "TEMP.1825",
       "d": "2023-03-17",
+      "a": "a-24"
+    },
+    {
+      "p": "Rotherwick",
+      "cid": "TEMP.1825",
+      "d": "2023-03-18",
       "a": "a-24"
     },
     {
@@ -7061,6 +7121,12 @@
       "cid": "TEMP.2891",
       "d": "2023-03-17",
       "a": "a-24"
+    },
+    {
+      "p": "SHERFIELD-ON-LODDON WWTW",
+      "cid": "TEMP.2891",
+      "d": "2023-03-18",
+      "a": "a-24"
     }
   ],
   "rainfall": [
@@ -7693,6 +7759,12 @@
       "c": 0.7,
       "r": "r-1",
       "n": 4
+    },
+    {
+      "d": "2023-03-17",
+      "c": 1.5,
+      "r": "r-1",
+      "n": 4
     }
   ],
   "count": 11,
@@ -7803,6 +7875,7 @@
     "2023-03-14",
     "2023-03-15",
     "2023-03-16",
-    "2023-03-17"
+    "2023-03-17",
+    "2023-03-18"
   ]
 }
