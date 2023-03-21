@@ -649,6 +649,18 @@
       "a": "o-4"
     },
     {
+      "p": "ARBORFIELD WWTW",
+      "cid": "CNTD.0020",
+      "d": "2023-03-19",
+      "a": "a-24"
+    },
+    {
+      "p": "ARBORFIELD WWTW",
+      "cid": "CNTD.0020",
+      "d": "2023-03-20",
+      "a": "a-24"
+    },
+    {
       "p": "BEENHAM (KEALES COPSE) WWTW",
       "cid": "TEMP.2382",
       "d": "2022-12-01",
@@ -1294,6 +1306,18 @@
       "p": "BEENHAM (KEALES COPSE) WWTW",
       "cid": "TEMP.2382",
       "d": "2023-03-18",
+      "a": "a-24"
+    },
+    {
+      "p": "BEENHAM (KEALES COPSE) WWTW",
+      "cid": "TEMP.2382",
+      "d": "2023-03-19",
+      "a": "a-24"
+    },
+    {
+      "p": "BEENHAM (KEALES COPSE) WWTW",
+      "cid": "TEMP.2382",
+      "d": "2023-03-20",
       "a": "a-24"
     },
     {
@@ -1945,6 +1969,18 @@
       "a": "o-16"
     },
     {
+      "p": "BURGHFIELD WWTW",
+      "cid": "TEMP.2425",
+      "d": "2023-03-19",
+      "a": "o-24"
+    },
+    {
+      "p": "BURGHFIELD WWTW",
+      "cid": "TEMP.2425",
+      "d": "2023-03-20",
+      "a": "o-24"
+    },
+    {
       "p": "MORTIMER (STRATFIELD MORTIMER) WWTW",
       "cid": "TEMP.2783",
       "d": "2022-12-01",
@@ -2590,6 +2626,18 @@
       "p": "MORTIMER (STRATFIELD MORTIMER) WWTW",
       "cid": "TEMP.2783",
       "d": "2023-03-18",
+      "a": "o-24"
+    },
+    {
+      "p": "MORTIMER (STRATFIELD MORTIMER) WWTW",
+      "cid": "TEMP.2783",
+      "d": "2023-03-19",
+      "a": "o-24"
+    },
+    {
+      "p": "MORTIMER (STRATFIELD MORTIMER) WWTW",
+      "cid": "TEMP.2783",
+      "d": "2023-03-20",
       "a": "o-24"
     },
     {
@@ -3239,6 +3287,18 @@
       "cid": "TEMP.3020",
       "d": "2023-03-18",
       "a": "a-24"
+    },
+    {
+      "p": "Wokingham (Ash Ridge)",
+      "cid": "TEMP.3020",
+      "d": "2023-03-19",
+      "a": "a-24"
+    },
+    {
+      "p": "Wokingham (Ash Ridge)",
+      "cid": "TEMP.3020",
+      "d": "2023-03-20",
+      "a": "a-24"
     }
   ],
   "rainfall": [
@@ -3877,6 +3937,18 @@
       "c": 2.5,
       "r": "r-2",
       "n": 1
+    },
+    {
+      "d": "2023-03-18",
+      "c": 5.1,
+      "r": "r-3",
+      "n": 1
+    },
+    {
+      "d": "2023-03-19",
+      "c": 0.9,
+      "r": "r-1",
+      "n": 1
     }
   ],
   "count": 5,
@@ -3988,6 +4060,8 @@
     "2023-03-15",
     "2023-03-16",
     "2023-03-17",
-    "2023-03-18"
+    "2023-03-18",
+    "2023-03-19",
+    "2023-03-20"
   ]
 }

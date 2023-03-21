@@ -649,6 +649,18 @@
       "a": "a-24"
     },
     {
+      "p": "STAMFORD BROOK, HAMMERSMITH, LONDON",
+      "cid": "CSAB.0534",
+      "d": "2023-03-19",
+      "a": "a-24"
+    },
+    {
+      "p": "STAMFORD BROOK, HAMMERSMITH, LONDON",
+      "cid": "CSAB.0534",
+      "d": "2023-03-20",
+      "a": "a-24"
+    },
+    {
       "p": "NW. RELIEF SEWER, LOWER MALL, LONDO",
       "cid": "CSAB.0571",
       "d": "2022-12-01",
@@ -1297,6 +1309,18 @@
       "a": "a-24"
     },
     {
+      "p": "NW. RELIEF SEWER, LOWER MALL, LONDO",
+      "cid": "CSAB.0571",
+      "d": "2023-03-19",
+      "a": "a-24"
+    },
+    {
+      "p": "NW. RELIEF SEWER, LOWER MALL, LONDO",
+      "cid": "CSAB.0571",
+      "d": "2023-03-20",
+      "a": "a-24"
+    },
+    {
       "p": "HAMMERSMITH PS, LONDON",
       "cid": "CSAB.0572",
       "d": "2022-12-01",
@@ -1942,6 +1966,18 @@
       "p": "HAMMERSMITH PS, LONDON",
       "cid": "CSAB.0572",
       "d": "2023-03-18",
+      "a": "a-24"
+    },
+    {
+      "p": "HAMMERSMITH PS, LONDON",
+      "cid": "CSAB.0572",
+      "d": "2023-03-19",
+      "a": "a-24"
+    },
+    {
+      "p": "HAMMERSMITH PS, LONDON",
+      "cid": "CSAB.0572",
+      "d": "2023-03-20",
       "a": "a-24"
     }
   ],
@@ -2581,6 +2617,18 @@
       "c": 5.0,
       "r": "r-3",
       "n": 2
+    },
+    {
+      "d": "2023-03-18",
+      "c": 5.3,
+      "r": "r-3",
+      "n": 2
+    },
+    {
+      "d": "2023-03-19",
+      "c": 1.3,
+      "r": "r-1",
+      "n": 2
     }
   ],
   "count": 3,
@@ -2692,6 +2740,8 @@
     "2023-03-15",
     "2023-03-16",
     "2023-03-17",
-    "2023-03-18"
+    "2023-03-18",
+    "2023-03-19",
+    "2023-03-20"
   ]
 }

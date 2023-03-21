@@ -790,5 +790,27 @@
     "rainfall_mm_95": 7.0,
     "station_count": 137,
     "offline_count": 16
+  },
+  {
+    "date": "2023-03-18",
+    "overflowing_count": 44,
+    "overflowing_duration": 2118420.0,
+    "rainfall_mm_min": 0.2,
+    "rainfall_mm_avg": 3.889065693430657,
+    "rainfall_mm_max": 11.4,
+    "rainfall_mm_95": 8.2,
+    "station_count": 137,
+    "offline_count": 15
+  },
+  {
+    "date": "2023-03-19",
+    "overflowing_count": 39,
+    "overflowing_duration": 2505720.0,
+    "rainfall_mm_min": 0.0,
+    "rainfall_mm_avg": 0.7469708029197081,
+    "rainfall_mm_max": 2.6,
+    "rainfall_mm_95": 1.8,
+    "station_count": 137,
+    "offline_count": 16
   }
 ]
