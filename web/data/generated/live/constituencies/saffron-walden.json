@@ -661,6 +661,30 @@
       "a": "o-24"
     },
     {
+      "p": "HATFIELD HEATH WWTW",
+      "cid": "CSSC.0261",
+      "d": "2023-03-21",
+      "a": "o-12"
+    },
+    {
+      "p": "HATFIELD HEATH WWTW",
+      "cid": "CSSC.0261",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "HATFIELD HEATH WWTW",
+      "cid": "CSSC.0261",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "HATFIELD HEATH WWTW",
+      "cid": "CSSC.0261",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "LITTLE HALLINGBURY WWTW",
       "cid": "CSSC.0263",
       "d": "2022-12-01",
@@ -1321,6 +1345,30 @@
       "a": "a-24"
     },
     {
+      "p": "LITTLE HALLINGBURY WWTW",
+      "cid": "CSSC.0263",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "LITTLE HALLINGBURY WWTW",
+      "cid": "CSSC.0263",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "LITTLE HALLINGBURY WWTW",
+      "cid": "CSSC.0263",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "LITTLE HALLINGBURY WWTW",
+      "cid": "CSSC.0263",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "LEADEN RODING WWTW",
       "cid": "CSSC.1400",
       "d": "2022-12-01",
@@ -1981,6 +2029,30 @@
       "a": "a-24"
     },
     {
+      "p": "LEADEN RODING WWTW",
+      "cid": "CSSC.1400",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "LEADEN RODING WWTW",
+      "cid": "CSSC.1400",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "LEADEN RODING WWTW",
+      "cid": "CSSC.1400",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "LEADEN RODING WWTW",
+      "cid": "CSSC.1400",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "WHITE RODING WWTW",
       "cid": "CSSC.1455",
       "d": "2022-12-01",
@@ -2641,6 +2713,30 @@
       "a": "o-4"
     },
     {
+      "p": "WHITE RODING WWTW",
+      "cid": "CSSC.1455",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "WHITE RODING WWTW",
+      "cid": "CSSC.1455",
+      "d": "2023-03-22",
+      "a": "o-4"
+    },
+    {
+      "p": "WHITE RODING WWTW",
+      "cid": "CSSC.1455",
+      "d": "2023-03-23",
+      "a": "o-4"
+    },
+    {
+      "p": "WHITE RODING WWTW",
+      "cid": "CSSC.1455",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "Canfield End, Little Canfield",
       "cid": "TEMP.0596",
       "d": "2022-12-01",
@@ -3301,6 +3397,30 @@
       "a": "o-24"
     },
     {
+      "p": "Canfield End, Little Canfield",
+      "cid": "TEMP.0596",
+      "d": "2023-03-21",
+      "a": "o-24"
+    },
+    {
+      "p": "Canfield End, Little Canfield",
+      "cid": "TEMP.0596",
+      "d": "2023-03-22",
+      "a": "o-12"
+    },
+    {
+      "p": "Canfield End, Little Canfield",
+      "cid": "TEMP.0596",
+      "d": "2023-03-23",
+      "a": "p-24"
+    },
+    {
+      "p": "Canfield End, Little Canfield",
+      "cid": "TEMP.0596",
+      "d": "2023-03-24",
+      "a": "p-24"
+    },
+    {
       "p": "STANSTED MOUNTFITCHET WWTW",
       "cid": "TEMP.2910",
       "d": "2022-12-01",
@@ -3961,6 +4081,30 @@
       "a": "a-24"
     },
     {
+      "p": "STANSTED MOUNTFITCHET WWTW",
+      "cid": "TEMP.2910",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "STANSTED MOUNTFITCHET WWTW",
+      "cid": "TEMP.2910",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "STANSTED MOUNTFITCHET WWTW",
+      "cid": "TEMP.2910",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "STANSTED MOUNTFITCHET WWTW",
+      "cid": "TEMP.2910",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "Takeley",
       "cid": "TEMP.2948",
       "d": "2022-12-01",
@@ -4619,6 +4763,30 @@
       "cid": "TEMP.2948",
       "d": "2023-03-20",
       "a": "a-24"
+    },
+    {
+      "p": "Takeley",
+      "cid": "TEMP.2948",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "Takeley",
+      "cid": "TEMP.2948",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "Takeley",
+      "cid": "TEMP.2948",
+      "d": "2023-03-23",
+      "a": "o-12"
+    },
+    {
+      "p": "Takeley",
+      "cid": "TEMP.2948",
+      "d": "2023-03-24",
+      "a": "o-20"
     }
   ],
   "rainfall": [
@@ -5269,6 +5437,30 @@
       "c": 1.4,
       "r": "r-1",
       "n": 14
+    },
+    {
+      "d": "2023-03-20",
+      "c": 1.0,
+      "r": "r-1",
+      "n": 14
+    },
+    {
+      "d": "2023-03-21",
+      "c": 0.6,
+      "r": "r-1",
+      "n": 14
+    },
+    {
+      "d": "2023-03-22",
+      "c": 2.6,
+      "r": "r-2",
+      "n": 14
+    },
+    {
+      "d": "2023-03-23",
+      "c": 5.4,
+      "r": "r-3",
+      "n": 14
     }
   ],
   "count": 7,
@@ -5382,6 +5574,10 @@
     "2023-03-17",
     "2023-03-18",
     "2023-03-19",
-    "2023-03-20"
+    "2023-03-20",
+    "2023-03-21",
+    "2023-03-22",
+    "2023-03-23",
+    "2023-03-24"
   ]
 }

@@ -661,6 +661,30 @@
       "a": "o-16"
     },
     {
+      "p": "WADDESDON WWTW",
+      "cid": "CNTD.0052",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "WADDESDON WWTW",
+      "cid": "CNTD.0052",
+      "d": "2023-03-22",
+      "a": "o-4"
+    },
+    {
+      "p": "WADDESDON WWTW",
+      "cid": "CNTD.0052",
+      "d": "2023-03-23",
+      "a": "o-24"
+    },
+    {
+      "p": "WADDESDON WWTW",
+      "cid": "CNTD.0052",
+      "d": "2023-03-24",
+      "a": "o-24"
+    },
+    {
       "p": "LUDGERSHALL WWTW",
       "cid": "CSSC.1406",
       "d": "2022-12-01",
@@ -1321,6 +1345,30 @@
       "a": "a-24"
     },
     {
+      "p": "LUDGERSHALL WWTW",
+      "cid": "CSSC.1406",
+      "d": "2023-03-21",
+      "a": "o-4"
+    },
+    {
+      "p": "LUDGERSHALL WWTW",
+      "cid": "CSSC.1406",
+      "d": "2023-03-22",
+      "a": "o-16"
+    },
+    {
+      "p": "LUDGERSHALL WWTW",
+      "cid": "CSSC.1406",
+      "d": "2023-03-23",
+      "a": "o-24"
+    },
+    {
+      "p": "LUDGERSHALL WWTW",
+      "cid": "CSSC.1406",
+      "d": "2023-03-24",
+      "a": "o-24"
+    },
+    {
       "p": "ROWSHAM WWTW",
       "cid": "CSSC.1419",
       "d": "2022-12-01",
@@ -1978,6 +2026,30 @@
       "p": "ROWSHAM WWTW",
       "cid": "CSSC.1419",
       "d": "2023-03-20",
+      "a": "a-24"
+    },
+    {
+      "p": "ROWSHAM WWTW",
+      "cid": "CSSC.1419",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "ROWSHAM WWTW",
+      "cid": "CSSC.1419",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "ROWSHAM WWTW",
+      "cid": "CSSC.1419",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "ROWSHAM WWTW",
+      "cid": "CSSC.1419",
+      "d": "2023-03-24",
       "a": "a-24"
     },
     {
@@ -2638,6 +2710,30 @@
       "p": "SHABBINGTON WWTW",
       "cid": "CSSC.1429",
       "d": "2023-03-20",
+      "a": "a-24"
+    },
+    {
+      "p": "SHABBINGTON WWTW",
+      "cid": "CSSC.1429",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "SHABBINGTON WWTW",
+      "cid": "CSSC.1429",
+      "d": "2023-03-22",
+      "a": "o-4"
+    },
+    {
+      "p": "SHABBINGTON WWTW",
+      "cid": "CSSC.1429",
+      "d": "2023-03-23",
+      "a": "o-12"
+    },
+    {
+      "p": "SHABBINGTON WWTW",
+      "cid": "CSSC.1429",
+      "d": "2023-03-24",
       "a": "a-24"
     },
     {
@@ -3301,6 +3397,30 @@
       "a": "a-24"
     },
     {
+      "p": "HADDENHAM WWTW",
+      "cid": "CSSC.2316",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "HADDENHAM WWTW",
+      "cid": "CSSC.2316",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "HADDENHAM WWTW",
+      "cid": "CSSC.2316",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "HADDENHAM WWTW",
+      "cid": "CSSC.2316",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "STONE WWTW",
       "cid": "CSSC.2319",
       "d": "2022-12-01",
@@ -3959,6 +4079,30 @@
       "cid": "CSSC.2319",
       "d": "2023-03-20",
       "a": "a-24"
+    },
+    {
+      "p": "STONE WWTW",
+      "cid": "CSSC.2319",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "STONE WWTW",
+      "cid": "CSSC.2319",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "STONE WWTW",
+      "cid": "CSSC.2319",
+      "d": "2023-03-23",
+      "a": "o-4"
+    },
+    {
+      "p": "STONE WWTW",
+      "cid": "CSSC.2319",
+      "d": "2023-03-24",
+      "a": "o-24"
     },
     {
       "p": "WINGRAVE WWTW",
@@ -4621,6 +4765,30 @@
       "a": "o-12"
     },
     {
+      "p": "WINGRAVE WWTW",
+      "cid": "CSSC.2320",
+      "d": "2023-03-21",
+      "a": "o-4"
+    },
+    {
+      "p": "WINGRAVE WWTW",
+      "cid": "CSSC.2320",
+      "d": "2023-03-22",
+      "a": "o-12"
+    },
+    {
+      "p": "WINGRAVE WWTW",
+      "cid": "CSSC.2320",
+      "d": "2023-03-23",
+      "a": "o-24"
+    },
+    {
+      "p": "WINGRAVE WWTW",
+      "cid": "CSSC.2320",
+      "d": "2023-03-24",
+      "a": "o-24"
+    },
+    {
       "p": "STEWKLEY WWTW",
       "cid": "CSSC.2368",
       "d": "2022-12-01",
@@ -5281,6 +5449,30 @@
       "a": "o-24"
     },
     {
+      "p": "STEWKLEY WWTW",
+      "cid": "CSSC.2368",
+      "d": "2023-03-21",
+      "a": "o-24"
+    },
+    {
+      "p": "STEWKLEY WWTW",
+      "cid": "CSSC.2368",
+      "d": "2023-03-22",
+      "a": "o-24"
+    },
+    {
+      "p": "STEWKLEY WWTW",
+      "cid": "CSSC.2368",
+      "d": "2023-03-23",
+      "a": "o-24"
+    },
+    {
+      "p": "STEWKLEY WWTW",
+      "cid": "CSSC.2368",
+      "d": "2023-03-24",
+      "a": "o-24"
+    },
+    {
       "p": "CUDDINGTON WWTW",
       "cid": "CSSC.2446",
       "d": "2022-12-01",
@@ -5941,6 +6133,30 @@
       "a": "a-24"
     },
     {
+      "p": "CUDDINGTON WWTW",
+      "cid": "CSSC.2446",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "CUDDINGTON WWTW",
+      "cid": "CSSC.2446",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "CUDDINGTON WWTW",
+      "cid": "CSSC.2446",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "CUDDINGTON WWTW",
+      "cid": "CSSC.2446",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "PRINCES RISBOROUGH STW, SUMMERLEYS",
       "cid": "CTCR.1642",
       "d": "2022-12-01",
@@ -6598,6 +6814,30 @@
       "p": "PRINCES RISBOROUGH STW, SUMMERLEYS",
       "cid": "CTCR.1642",
       "d": "2023-03-20",
+      "a": "a-24"
+    },
+    {
+      "p": "PRINCES RISBOROUGH STW, SUMMERLEYS",
+      "cid": "CTCR.1642",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "PRINCES RISBOROUGH STW, SUMMERLEYS",
+      "cid": "CTCR.1642",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "PRINCES RISBOROUGH STW, SUMMERLEYS",
+      "cid": "CTCR.1642",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "PRINCES RISBOROUGH STW, SUMMERLEYS",
+      "cid": "CTCR.1642",
+      "d": "2023-03-24",
       "a": "a-24"
     },
     {
@@ -7259,6 +7499,30 @@
       "cid": "CTCR.1975",
       "d": "2023-03-20",
       "a": "a-24"
+    },
+    {
+      "p": "WORMINGHALL STW, WORMINGHALL, BUCKS",
+      "cid": "CTCR.1975",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "WORMINGHALL STW, WORMINGHALL, BUCKS",
+      "cid": "CTCR.1975",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "WORMINGHALL STW, WORMINGHALL, BUCKS",
+      "cid": "CTCR.1975",
+      "d": "2023-03-23",
+      "a": "o-12"
+    },
+    {
+      "p": "WORMINGHALL STW, WORMINGHALL, BUCKS",
+      "cid": "CTCR.1975",
+      "d": "2023-03-24",
+      "a": "o-8"
     },
     {
       "p": "DAGNALL WWTW",
@@ -7921,6 +8185,30 @@
       "a": "a-24"
     },
     {
+      "p": "DAGNALL WWTW",
+      "cid": "CTCU.0375",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "DAGNALL WWTW",
+      "cid": "CTCU.0375",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "DAGNALL WWTW",
+      "cid": "CTCU.0375",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "DAGNALL WWTW",
+      "cid": "CTCU.0375",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "DORTON WWTW",
       "cid": "TEMP.2544",
       "d": "2022-12-01",
@@ -8579,6 +8867,30 @@
       "cid": "TEMP.2544",
       "d": "2023-03-20",
       "a": "a-24"
+    },
+    {
+      "p": "DORTON WWTW",
+      "cid": "TEMP.2544",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "DORTON WWTW",
+      "cid": "TEMP.2544",
+      "d": "2023-03-22",
+      "a": "o-4"
+    },
+    {
+      "p": "DORTON WWTW",
+      "cid": "TEMP.2544",
+      "d": "2023-03-23",
+      "a": "o-12"
+    },
+    {
+      "p": "DORTON WWTW",
+      "cid": "TEMP.2544",
+      "d": "2023-03-24",
+      "a": "o-8"
     },
     {
       "p": "GRENDON UNDERWOOD WWTW",
@@ -9241,6 +9553,30 @@
       "a": "a-24"
     },
     {
+      "p": "GRENDON UNDERWOOD WWTW",
+      "cid": "TEMP.2626",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "GRENDON UNDERWOOD WWTW",
+      "cid": "TEMP.2626",
+      "d": "2023-03-22",
+      "a": "o-4"
+    },
+    {
+      "p": "GRENDON UNDERWOOD WWTW",
+      "cid": "TEMP.2626",
+      "d": "2023-03-23",
+      "a": "o-24"
+    },
+    {
+      "p": "GRENDON UNDERWOOD WWTW",
+      "cid": "TEMP.2626",
+      "d": "2023-03-24",
+      "a": "o-24"
+    },
+    {
       "p": "LONG CRENDON WWTW",
       "cid": "TEMP.2727",
       "d": "2022-12-01",
@@ -9898,6 +10234,30 @@
       "p": "LONG CRENDON WWTW",
       "cid": "TEMP.2727",
       "d": "2023-03-20",
+      "a": "a-24"
+    },
+    {
+      "p": "LONG CRENDON WWTW",
+      "cid": "TEMP.2727",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "LONG CRENDON WWTW",
+      "cid": "TEMP.2727",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "LONG CRENDON WWTW",
+      "cid": "TEMP.2727",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "LONG CRENDON WWTW",
+      "cid": "TEMP.2727",
+      "d": "2023-03-24",
       "a": "a-24"
     },
     {
@@ -10559,6 +10919,30 @@
       "cid": "TEMP.2765",
       "d": "2023-03-20",
       "a": "o-8"
+    },
+    {
+      "p": "Marsh Gibbon",
+      "cid": "TEMP.2765",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "Marsh Gibbon",
+      "cid": "TEMP.2765",
+      "d": "2023-03-22",
+      "a": "o-4"
+    },
+    {
+      "p": "Marsh Gibbon",
+      "cid": "TEMP.2765",
+      "d": "2023-03-23",
+      "a": "o-24"
+    },
+    {
+      "p": "Marsh Gibbon",
+      "cid": "TEMP.2765",
+      "d": "2023-03-24",
+      "a": "o-24"
     }
   ],
   "rainfall": [
@@ -11209,6 +11593,30 @@
       "c": 1.8,
       "r": "r-1",
       "n": 7
+    },
+    {
+      "d": "2023-03-20",
+      "c": 2.1,
+      "r": "r-2",
+      "n": 7
+    },
+    {
+      "d": "2023-03-21",
+      "c": 1.2,
+      "r": "r-1",
+      "n": 7
+    },
+    {
+      "d": "2023-03-22",
+      "c": 12.4,
+      "r": "r-7",
+      "n": 7
+    },
+    {
+      "d": "2023-03-23",
+      "c": 5.4,
+      "r": "r-3",
+      "n": 7
     }
   ],
   "count": 16,
@@ -11322,6 +11730,10 @@
     "2023-03-17",
     "2023-03-18",
     "2023-03-19",
-    "2023-03-20"
+    "2023-03-20",
+    "2023-03-21",
+    "2023-03-22",
+    "2023-03-23",
+    "2023-03-24"
   ]
 }

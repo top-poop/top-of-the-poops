@@ -661,6 +661,30 @@
       "a": "a-24"
     },
     {
+      "p": "NUTTER LANE / PRESTON DRIVE CSO",
+      "cid": "CEVR.0138",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "NUTTER LANE / PRESTON DRIVE CSO",
+      "cid": "CEVR.0138",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "NUTTER LANE / PRESTON DRIVE CSO",
+      "cid": "CEVR.0138",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "NUTTER LANE / PRESTON DRIVE CSO",
+      "cid": "CEVR.0138",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "AUCKLAND ROAD PUMPING STATION TANKS",
       "cid": "CSBC.0085",
       "d": "2022-12-01",
@@ -1321,6 +1345,30 @@
       "a": "a-24"
     },
     {
+      "p": "AUCKLAND ROAD PUMPING STATION TANKS",
+      "cid": "CSBC.0085",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "AUCKLAND ROAD PUMPING STATION TANKS",
+      "cid": "CSBC.0085",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "AUCKLAND ROAD PUMPING STATION TANKS",
+      "cid": "CSBC.0085",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "AUCKLAND ROAD PUMPING STATION TANKS",
+      "cid": "CSBC.0085",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "Mulberry Court, Hall Road",
       "cid": "TEMP.2801",
       "d": "2022-12-01",
@@ -1979,6 +2027,30 @@
       "cid": "TEMP.2801",
       "d": "2023-03-20",
       "a": "a-24"
+    },
+    {
+      "p": "Mulberry Court, Hall Road",
+      "cid": "TEMP.2801",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "Mulberry Court, Hall Road",
+      "cid": "TEMP.2801",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "Mulberry Court, Hall Road",
+      "cid": "TEMP.2801",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "Mulberry Court, Hall Road",
+      "cid": "TEMP.2801",
+      "d": "2023-03-24",
+      "a": "o-4"
     }
   ],
   "rainfall": [
@@ -2629,6 +2701,30 @@
       "c": 1.6,
       "r": "r-1",
       "n": 3
+    },
+    {
+      "d": "2023-03-20",
+      "c": 0.4,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-03-21",
+      "c": 0.4,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-03-22",
+      "c": 1.0,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-03-23",
+      "c": 2.5,
+      "r": "r-2",
+      "n": 3
     }
   ],
   "count": 3,
@@ -2742,6 +2838,10 @@
     "2023-03-17",
     "2023-03-18",
     "2023-03-19",
-    "2023-03-20"
+    "2023-03-20",
+    "2023-03-21",
+    "2023-03-22",
+    "2023-03-23",
+    "2023-03-24"
   ]
 }

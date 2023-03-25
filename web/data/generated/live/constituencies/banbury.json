@@ -661,6 +661,30 @@
       "a": "a-24"
     },
     {
+      "p": "BICESTER WWTW",
+      "cid": "CNTD.0023",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "BICESTER WWTW",
+      "cid": "CNTD.0023",
+      "d": "2023-03-22",
+      "a": "o-4"
+    },
+    {
+      "p": "BICESTER WWTW",
+      "cid": "CNTD.0023",
+      "d": "2023-03-23",
+      "a": "o-24"
+    },
+    {
+      "p": "BICESTER WWTW",
+      "cid": "CNTD.0023",
+      "d": "2023-03-24",
+      "a": "o-24"
+    },
+    {
       "p": "SHUTFORD WWTW",
       "cid": "CSSC.1434",
       "d": "2022-12-01",
@@ -1321,6 +1345,30 @@
       "a": "a-24"
     },
     {
+      "p": "SHUTFORD WWTW",
+      "cid": "CSSC.1434",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "SHUTFORD WWTW",
+      "cid": "CSSC.1434",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "SHUTFORD WWTW",
+      "cid": "CSSC.1434",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "SHUTFORD WWTW",
+      "cid": "CSSC.1434",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "BLOXHAM STW, BLOXHAM, OXON",
       "cid": "CSSC.2458",
       "d": "2022-12-01",
@@ -1981,6 +2029,30 @@
       "a": "o-4"
     },
     {
+      "p": "BLOXHAM STW, BLOXHAM, OXON",
+      "cid": "CSSC.2458",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "BLOXHAM STW, BLOXHAM, OXON",
+      "cid": "CSSC.2458",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "BLOXHAM STW, BLOXHAM, OXON",
+      "cid": "CSSC.2458",
+      "d": "2023-03-23",
+      "a": "o-8"
+    },
+    {
+      "p": "BLOXHAM STW, BLOXHAM, OXON",
+      "cid": "CSSC.2458",
+      "d": "2023-03-24",
+      "a": "o-24"
+    },
+    {
       "p": "HOOK NORTON STW, HOOK NORTON, OXON",
       "cid": "CTCR.1796",
       "d": "2022-12-01",
@@ -2641,6 +2713,30 @@
       "a": "a-24"
     },
     {
+      "p": "HOOK NORTON STW, HOOK NORTON, OXON",
+      "cid": "CTCR.1796",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "HOOK NORTON STW, HOOK NORTON, OXON",
+      "cid": "CTCR.1796",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "HOOK NORTON STW, HOOK NORTON, OXON",
+      "cid": "CTCR.1796",
+      "d": "2023-03-23",
+      "a": "o-4"
+    },
+    {
+      "p": "HOOK NORTON STW, HOOK NORTON, OXON",
+      "cid": "CTCR.1796",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
       "d": "2022-12-01",
@@ -3298,6 +3394,30 @@
       "p": "WARDINGTON SPS",
       "cid": "CTCR.1833",
       "d": "2023-03-20",
+      "a": "a-24"
+    },
+    {
+      "p": "WARDINGTON SPS",
+      "cid": "CTCR.1833",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "WARDINGTON SPS",
+      "cid": "CTCR.1833",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "WARDINGTON SPS",
+      "cid": "CTCR.1833",
+      "d": "2023-03-23",
+      "a": "o-4"
+    },
+    {
+      "p": "WARDINGTON SPS",
+      "cid": "CTCR.1833",
+      "d": "2023-03-24",
       "a": "a-24"
     },
     {
@@ -3961,6 +4081,30 @@
       "a": "a-24"
     },
     {
+      "p": "BANBURY WWTW",
+      "cid": "CTCR.1867",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "BANBURY WWTW",
+      "cid": "CTCR.1867",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "BANBURY WWTW",
+      "cid": "CTCR.1867",
+      "d": "2023-03-23",
+      "a": "o-4"
+    },
+    {
+      "p": "BANBURY WWTW",
+      "cid": "CTCR.1867",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
       "d": "2022-12-01",
@@ -4618,6 +4762,30 @@
       "p": "CLIFTON WWTW",
       "cid": "TEMP.0707",
       "d": "2023-03-20",
+      "a": "a-24"
+    },
+    {
+      "p": "CLIFTON WWTW",
+      "cid": "TEMP.0707",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "CLIFTON WWTW",
+      "cid": "TEMP.0707",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "CLIFTON WWTW",
+      "cid": "TEMP.0707",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "CLIFTON WWTW",
+      "cid": "TEMP.0707",
+      "d": "2023-03-24",
       "a": "a-24"
     },
     {
@@ -5279,6 +5447,30 @@
       "cid": "TEMP.2506",
       "d": "2023-03-20",
       "a": "a-24"
+    },
+    {
+      "p": "CROPREDY WWTW",
+      "cid": "TEMP.2506",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "CROPREDY WWTW",
+      "cid": "TEMP.2506",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "CROPREDY WWTW",
+      "cid": "TEMP.2506",
+      "d": "2023-03-23",
+      "a": "o-4"
+    },
+    {
+      "p": "CROPREDY WWTW",
+      "cid": "TEMP.2506",
+      "d": "2023-03-24",
+      "a": "o-24"
     },
     {
       "p": "Fergusson Road, Banbury",
@@ -5938,6 +6130,30 @@
       "p": "Fergusson Road, Banbury",
       "cid": "TEMP.2606",
       "d": "2023-03-20",
+      "a": "a-24"
+    },
+    {
+      "p": "Fergusson Road, Banbury",
+      "cid": "TEMP.2606",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "Fergusson Road, Banbury",
+      "cid": "TEMP.2606",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "Fergusson Road, Banbury",
+      "cid": "TEMP.2606",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "Fergusson Road, Banbury",
+      "cid": "TEMP.2606",
+      "d": "2023-03-24",
       "a": "a-24"
     },
     {
@@ -6601,6 +6817,30 @@
       "a": "a-24"
     },
     {
+      "p": "HANWELL WWTW",
+      "cid": "TEMP.2648",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "HANWELL WWTW",
+      "cid": "TEMP.2648",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "HANWELL WWTW",
+      "cid": "TEMP.2648",
+      "d": "2023-03-23",
+      "a": "o-4"
+    },
+    {
+      "p": "HANWELL WWTW",
+      "cid": "TEMP.2648",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "HEYFORD WWTW",
       "cid": "TEMP.2658",
       "d": "2022-12-01",
@@ -7261,6 +7501,30 @@
       "a": "a-24"
     },
     {
+      "p": "HEYFORD WWTW",
+      "cid": "TEMP.2658",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "HEYFORD WWTW",
+      "cid": "TEMP.2658",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "HEYFORD WWTW",
+      "cid": "TEMP.2658",
+      "d": "2023-03-23",
+      "a": "o-4"
+    },
+    {
+      "p": "HEYFORD WWTW",
+      "cid": "TEMP.2658",
+      "d": "2023-03-24",
+      "a": "o-4"
+    },
+    {
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
       "d": "2022-12-01",
@@ -7918,6 +8182,30 @@
       "p": "HORLEY (OXON) WWTW",
       "cid": "TEMP.2667",
       "d": "2023-03-20",
+      "a": "a-24"
+    },
+    {
+      "p": "HORLEY (OXON) WWTW",
+      "cid": "TEMP.2667",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "HORLEY (OXON) WWTW",
+      "cid": "TEMP.2667",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "HORLEY (OXON) WWTW",
+      "cid": "TEMP.2667",
+      "d": "2023-03-23",
+      "a": "o-4"
+    },
+    {
+      "p": "HORLEY (OXON) WWTW",
+      "cid": "TEMP.2667",
+      "d": "2023-03-24",
       "a": "a-24"
     },
     {
@@ -8579,6 +8867,30 @@
       "cid": "TEMP.2773",
       "d": "2023-03-20",
       "a": "a-24"
+    },
+    {
+      "p": "MIDDLETON STONEY WWTW",
+      "cid": "TEMP.2773",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "MIDDLETON STONEY WWTW",
+      "cid": "TEMP.2773",
+      "d": "2023-03-22",
+      "a": "o-4"
+    },
+    {
+      "p": "MIDDLETON STONEY WWTW",
+      "cid": "TEMP.2773",
+      "d": "2023-03-23",
+      "a": "o-8"
+    },
+    {
+      "p": "MIDDLETON STONEY WWTW",
+      "cid": "TEMP.2773",
+      "d": "2023-03-24",
+      "a": "o-8"
     }
   ],
   "rainfall": [
@@ -9229,6 +9541,30 @@
       "c": 2.5,
       "r": "r-2",
       "n": 3
+    },
+    {
+      "d": "2023-03-20",
+      "c": 1.8,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-03-21",
+      "c": 1.2,
+      "r": "r-1",
+      "n": 3
+    },
+    {
+      "d": "2023-03-22",
+      "c": 10.7,
+      "r": "r-6",
+      "n": 3
+    },
+    {
+      "d": "2023-03-23",
+      "c": 10.93,
+      "r": "r-6",
+      "n": 3
     }
   ],
   "count": 13,
@@ -9342,6 +9678,10 @@
     "2023-03-17",
     "2023-03-18",
     "2023-03-19",
-    "2023-03-20"
+    "2023-03-20",
+    "2023-03-21",
+    "2023-03-22",
+    "2023-03-23",
+    "2023-03-24"
   ]
 }

@@ -661,6 +661,30 @@
       "a": "a-24"
     },
     {
+      "p": "READING SEWAGE TREATMENT WORKS",
+      "cid": "CAWM.0942",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "READING SEWAGE TREATMENT WORKS",
+      "cid": "CAWM.0942",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "READING SEWAGE TREATMENT WORKS",
+      "cid": "CAWM.0942",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "READING SEWAGE TREATMENT WORKS",
+      "cid": "CAWM.0942",
+      "d": "2023-03-24",
+      "a": "o-8"
+    },
+    {
       "p": "PANGBOURNE WWTW",
       "cid": "CTCR.2078",
       "d": "2022-12-01",
@@ -1319,6 +1343,30 @@
       "cid": "CTCR.2078",
       "d": "2023-03-20",
       "a": "z-24"
+    },
+    {
+      "p": "PANGBOURNE WWTW",
+      "cid": "CTCR.2078",
+      "d": "2023-03-21",
+      "a": "z-24"
+    },
+    {
+      "p": "PANGBOURNE WWTW",
+      "cid": "CTCR.2078",
+      "d": "2023-03-22",
+      "a": "z-24"
+    },
+    {
+      "p": "PANGBOURNE WWTW",
+      "cid": "CTCR.2078",
+      "d": "2023-03-23",
+      "a": "z-24"
+    },
+    {
+      "p": "PANGBOURNE WWTW",
+      "cid": "CTCR.2078",
+      "d": "2023-03-24",
+      "a": "z-24"
     }
   ],
   "rainfall": [],
@@ -1433,6 +1481,10 @@
     "2023-03-17",
     "2023-03-18",
     "2023-03-19",
-    "2023-03-20"
+    "2023-03-20",
+    "2023-03-21",
+    "2023-03-22",
+    "2023-03-23",
+    "2023-03-24"
   ]
 }

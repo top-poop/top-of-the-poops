@@ -661,6 +661,30 @@
       "a": "a-24"
     },
     {
+      "p": "BLACKNEST SPS",
+      "cid": "CTCP.0428",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "BLACKNEST SPS",
+      "cid": "CTCP.0428",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "BLACKNEST SPS",
+      "cid": "CTCP.0428",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "BLACKNEST SPS",
+      "cid": "CTCP.0428",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "BRACKNELL WATER TREATMENT WORKS",
       "cid": "CTCR.1973",
       "d": "2022-12-01",
@@ -1321,6 +1345,30 @@
       "a": "a-24"
     },
     {
+      "p": "BRACKNELL WATER TREATMENT WORKS",
+      "cid": "CTCR.1973",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "BRACKNELL WATER TREATMENT WORKS",
+      "cid": "CTCR.1973",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "BRACKNELL WATER TREATMENT WORKS",
+      "cid": "CTCR.1973",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "BRACKNELL WATER TREATMENT WORKS",
+      "cid": "CTCR.1973",
+      "d": "2023-03-24",
+      "a": "o-4"
+    },
+    {
       "p": "FOUL SEWER OVERFLOW, COPPICE GREEN,",
       "cid": "CTCR.1999",
       "d": "2022-12-01",
@@ -1978,6 +2026,30 @@
       "p": "FOUL SEWER OVERFLOW, COPPICE GREEN,",
       "cid": "CTCR.1999",
       "d": "2023-03-20",
+      "a": "a-24"
+    },
+    {
+      "p": "FOUL SEWER OVERFLOW, COPPICE GREEN,",
+      "cid": "CTCR.1999",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "FOUL SEWER OVERFLOW, COPPICE GREEN,",
+      "cid": "CTCR.1999",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "FOUL SEWER OVERFLOW, COPPICE GREEN,",
+      "cid": "CTCR.1999",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "FOUL SEWER OVERFLOW, COPPICE GREEN,",
+      "cid": "CTCR.1999",
+      "d": "2023-03-24",
       "a": "a-24"
     },
     {
@@ -2641,6 +2713,30 @@
       "a": "a-24"
     },
     {
+      "p": "ASCOT WWTW",
+      "cid": "CTCR.2048",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "ASCOT WWTW",
+      "cid": "CTCR.2048",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "ASCOT WWTW",
+      "cid": "CTCR.2048",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "ASCOT WWTW",
+      "cid": "CTCR.2048",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "Windsor",
       "cid": "TEMP.3014",
       "d": "2022-12-01",
@@ -3299,6 +3395,30 @@
       "cid": "TEMP.3014",
       "d": "2023-03-20",
       "a": "a-24"
+    },
+    {
+      "p": "Windsor",
+      "cid": "TEMP.3014",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "Windsor",
+      "cid": "TEMP.3014",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "Windsor",
+      "cid": "TEMP.3014",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "Windsor",
+      "cid": "TEMP.3014",
+      "d": "2023-03-24",
+      "a": "o-4"
     }
   ],
   "rainfall": [
@@ -3949,6 +4069,30 @@
       "c": 0.9,
       "r": "r-1",
       "n": 7
+    },
+    {
+      "d": "2023-03-20",
+      "c": 1.8,
+      "r": "r-1",
+      "n": 7
+    },
+    {
+      "d": "2023-03-21",
+      "c": 1.0,
+      "r": "r-1",
+      "n": 7
+    },
+    {
+      "d": "2023-03-22",
+      "c": 2.9,
+      "r": "r-2",
+      "n": 7
+    },
+    {
+      "d": "2023-03-23",
+      "c": 3.6,
+      "r": "r-2",
+      "n": 7
     }
   ],
   "count": 5,
@@ -4062,6 +4206,10 @@
     "2023-03-17",
     "2023-03-18",
     "2023-03-19",
-    "2023-03-20"
+    "2023-03-20",
+    "2023-03-21",
+    "2023-03-22",
+    "2023-03-23",
+    "2023-03-24"
   ]
 }

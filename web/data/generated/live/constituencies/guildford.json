@@ -661,6 +661,30 @@
       "a": "a-24"
     },
     {
+      "p": "GUILDFORD STW",
+      "cid": "CTCR.1107",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "GUILDFORD STW",
+      "cid": "CTCR.1107",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "GUILDFORD STW",
+      "cid": "CTCR.1107",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "GUILDFORD STW",
+      "cid": "CTCR.1107",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "CRANLEIGH STW, CRANLEIGH, SURREY",
       "cid": "CTCR.1838",
       "d": "2022-12-01",
@@ -1318,6 +1342,30 @@
       "p": "CRANLEIGH STW, CRANLEIGH, SURREY",
       "cid": "CTCR.1838",
       "d": "2023-03-20",
+      "a": "a-24"
+    },
+    {
+      "p": "CRANLEIGH STW, CRANLEIGH, SURREY",
+      "cid": "CTCR.1838",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "CRANLEIGH STW, CRANLEIGH, SURREY",
+      "cid": "CTCR.1838",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "CRANLEIGH STW, CRANLEIGH, SURREY",
+      "cid": "CTCR.1838",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "CRANLEIGH STW, CRANLEIGH, SURREY",
+      "cid": "CTCR.1838",
+      "d": "2023-03-24",
       "a": "a-24"
     },
     {
@@ -1981,6 +2029,30 @@
       "a": "a-24"
     },
     {
+      "p": "LITTLEMEAD INDUSTRIAL ESTATE CSO",
+      "cid": "CTCR.1941",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "LITTLEMEAD INDUSTRIAL ESTATE CSO",
+      "cid": "CTCR.1941",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "LITTLEMEAD INDUSTRIAL ESTATE CSO",
+      "cid": "CTCR.1941",
+      "d": "2023-03-23",
+      "a": "o-8"
+    },
+    {
+      "p": "LITTLEMEAD INDUSTRIAL ESTATE CSO",
+      "cid": "CTCR.1941",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "Canfold Wood",
       "cid": "TEMP.0597",
       "d": "2022-12-01",
@@ -2638,6 +2710,30 @@
       "p": "Canfold Wood",
       "cid": "TEMP.0597",
       "d": "2023-03-20",
+      "a": "a-24"
+    },
+    {
+      "p": "Canfold Wood",
+      "cid": "TEMP.0597",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "Canfold Wood",
+      "cid": "TEMP.0597",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "Canfold Wood",
+      "cid": "TEMP.0597",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "Canfold Wood",
+      "cid": "TEMP.0597",
+      "d": "2023-03-24",
       "a": "a-24"
     },
     {
@@ -3301,6 +3397,30 @@
       "a": "a-24"
     },
     {
+      "p": "Ockley Road",
+      "cid": "TEMP.1627",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "Ockley Road",
+      "cid": "TEMP.1627",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "Ockley Road",
+      "cid": "TEMP.1627",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "Ockley Road",
+      "cid": "TEMP.1627",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "GODALMING WASTEWATER TREATMENT WORK",
       "cid": "TEMP.2614",
       "d": "2022-12-01",
@@ -3961,6 +4081,30 @@
       "a": "a-24"
     },
     {
+      "p": "GODALMING WASTEWATER TREATMENT WORK",
+      "cid": "TEMP.2614",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "GODALMING WASTEWATER TREATMENT WORK",
+      "cid": "TEMP.2614",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "GODALMING WASTEWATER TREATMENT WORK",
+      "cid": "TEMP.2614",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "GODALMING WASTEWATER TREATMENT WORK",
+      "cid": "TEMP.2614",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "CSO AT KNOWLE LANE",
       "cid": "TEMP.2711",
       "d": "2022-12-01",
@@ -4621,6 +4765,30 @@
       "a": "a-24"
     },
     {
+      "p": "CSO AT KNOWLE LANE",
+      "cid": "TEMP.2711",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "CSO AT KNOWLE LANE",
+      "cid": "TEMP.2711",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "CSO AT KNOWLE LANE",
+      "cid": "TEMP.2711",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "CSO AT KNOWLE LANE",
+      "cid": "TEMP.2711",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "Taylors Crescent, Cranleigh",
       "cid": "TEMP.2966",
       "d": "2022-12-01",
@@ -5278,6 +5446,30 @@
       "p": "Taylors Crescent, Cranleigh",
       "cid": "TEMP.2966",
       "d": "2023-03-20",
+      "a": "a-24"
+    },
+    {
+      "p": "Taylors Crescent, Cranleigh",
+      "cid": "TEMP.2966",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "Taylors Crescent, Cranleigh",
+      "cid": "TEMP.2966",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "Taylors Crescent, Cranleigh",
+      "cid": "TEMP.2966",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "Taylors Crescent, Cranleigh",
+      "cid": "TEMP.2966",
+      "d": "2023-03-24",
       "a": "a-24"
     }
   ],
@@ -5929,6 +6121,30 @@
       "c": 1.0,
       "r": "r-1",
       "n": 4
+    },
+    {
+      "d": "2023-03-20",
+      "c": 2.1,
+      "r": "r-2",
+      "n": 4
+    },
+    {
+      "d": "2023-03-21",
+      "c": 1.2,
+      "r": "r-1",
+      "n": 4
+    },
+    {
+      "d": "2023-03-22",
+      "c": 4.6,
+      "r": "r-3",
+      "n": 4
+    },
+    {
+      "d": "2023-03-23",
+      "c": 9.6,
+      "r": "r-5",
+      "n": 4
     }
   ],
   "count": 8,
@@ -6042,6 +6258,10 @@
     "2023-03-17",
     "2023-03-18",
     "2023-03-19",
-    "2023-03-20"
+    "2023-03-20",
+    "2023-03-21",
+    "2023-03-22",
+    "2023-03-23",
+    "2023-03-24"
   ]
 }

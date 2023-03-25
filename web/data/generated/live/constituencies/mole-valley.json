@@ -661,6 +661,30 @@
       "a": "o-24"
     },
     {
+      "p": "DORKING STW (STORM)",
+      "cid": "CASM.1027",
+      "d": "2023-03-21",
+      "a": "o-24"
+    },
+    {
+      "p": "DORKING STW (STORM)",
+      "cid": "CASM.1027",
+      "d": "2023-03-22",
+      "a": "o-24"
+    },
+    {
+      "p": "DORKING STW (STORM)",
+      "cid": "CASM.1027",
+      "d": "2023-03-23",
+      "a": "o-24"
+    },
+    {
+      "p": "DORKING STW (STORM)",
+      "cid": "CASM.1027",
+      "d": "2023-03-24",
+      "a": "o-12"
+    },
+    {
       "p": "CASTLE GARDENS SPS",
       "cid": "CTCR.0392",
       "d": "2022-12-01",
@@ -1321,6 +1345,30 @@
       "a": "a-24"
     },
     {
+      "p": "CASTLE GARDENS SPS",
+      "cid": "CTCR.0392",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "CASTLE GARDENS SPS",
+      "cid": "CTCR.0392",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "CASTLE GARDENS SPS",
+      "cid": "CTCR.0392",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "CASTLE GARDENS SPS",
+      "cid": "CTCR.0392",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "HOLMWOOD SEWAGE TREATMENT WORKS",
       "cid": "CTCR.1189",
       "d": "2022-12-01",
@@ -1981,6 +2029,30 @@
       "a": "a-24"
     },
     {
+      "p": "HOLMWOOD SEWAGE TREATMENT WORKS",
+      "cid": "CTCR.1189",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "HOLMWOOD SEWAGE TREATMENT WORKS",
+      "cid": "CTCR.1189",
+      "d": "2023-03-22",
+      "a": "o-16"
+    },
+    {
+      "p": "HOLMWOOD SEWAGE TREATMENT WORKS",
+      "cid": "CTCR.1189",
+      "d": "2023-03-23",
+      "a": "o-12"
+    },
+    {
+      "p": "HOLMWOOD SEWAGE TREATMENT WORKS",
+      "cid": "CTCR.1189",
+      "d": "2023-03-24",
+      "a": "o-24"
+    },
+    {
       "p": "RIVER LANE PUMPING STATION, FETCHAM",
       "cid": "CTCR.1644",
       "d": "2022-12-01",
@@ -2638,6 +2710,30 @@
       "p": "RIVER LANE PUMPING STATION, FETCHAM",
       "cid": "CTCR.1644",
       "d": "2023-03-20",
+      "a": "a-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "RIVER LANE PUMPING STATION, FETCHAM",
+      "cid": "CTCR.1644",
+      "d": "2023-03-24",
       "a": "a-24"
     },
     {
@@ -3301,6 +3397,30 @@
       "a": "a-24"
     },
     {
+      "p": "LEATHERHEAD WWTW",
+      "cid": "CTCR.1780",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "LEATHERHEAD WWTW",
+      "cid": "CTCR.1780",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "LEATHERHEAD WWTW",
+      "cid": "CTCR.1780",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "LEATHERHEAD WWTW",
+      "cid": "CTCR.1780",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "SPOOKS HILL, NORTH HOLMWOOD, SURREY",
       "cid": "CTCR.1922",
       "d": "2022-12-01",
@@ -3961,6 +4081,30 @@
       "a": "a-24"
     },
     {
+      "p": "SPOOKS HILL, NORTH HOLMWOOD, SURREY",
+      "cid": "CTCR.1922",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "SPOOKS HILL, NORTH HOLMWOOD, SURREY",
+      "cid": "CTCR.1922",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "SPOOKS HILL, NORTH HOLMWOOD, SURREY",
+      "cid": "CTCR.1922",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "SPOOKS HILL, NORTH HOLMWOOD, SURREY",
+      "cid": "CTCR.1922",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "CHARLWOOD, SURREY",
       "cid": "CTCR.1926",
       "d": "2022-12-01",
@@ -4618,6 +4762,30 @@
       "p": "CHARLWOOD, SURREY",
       "cid": "CTCR.1926",
       "d": "2023-03-20",
+      "a": "a-24"
+    },
+    {
+      "p": "CHARLWOOD, SURREY",
+      "cid": "CTCR.1926",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "CHARLWOOD, SURREY",
+      "cid": "CTCR.1926",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "CHARLWOOD, SURREY",
+      "cid": "CTCR.1926",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "CHARLWOOD, SURREY",
+      "cid": "CTCR.1926",
+      "d": "2023-03-24",
       "a": "a-24"
     },
     {
@@ -5278,6 +5446,30 @@
       "p": "RIPLEY WWTW",
       "cid": "CTCR.2150",
       "d": "2023-03-20",
+      "a": "a-24"
+    },
+    {
+      "p": "RIPLEY WWTW",
+      "cid": "CTCR.2150",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "RIPLEY WWTW",
+      "cid": "CTCR.2150",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "RIPLEY WWTW",
+      "cid": "CTCR.2150",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "RIPLEY WWTW",
+      "cid": "CTCR.2150",
+      "d": "2023-03-24",
       "a": "a-24"
     },
     {
@@ -5941,6 +6133,30 @@
       "a": "z-24"
     },
     {
+      "p": "Box Hill",
+      "cid": "TEMP.0505",
+      "d": "2023-03-21",
+      "a": "z-24"
+    },
+    {
+      "p": "Box Hill",
+      "cid": "TEMP.0505",
+      "d": "2023-03-22",
+      "a": "z-24"
+    },
+    {
+      "p": "Box Hill",
+      "cid": "TEMP.0505",
+      "d": "2023-03-23",
+      "a": "z-24"
+    },
+    {
+      "p": "Box Hill",
+      "cid": "TEMP.0505",
+      "d": "2023-03-24",
+      "a": "z-24"
+    },
+    {
       "p": "Brockham Bridge",
       "cid": "TEMP.0545",
       "d": "2022-12-01",
@@ -6598,6 +6814,30 @@
       "p": "Brockham Bridge",
       "cid": "TEMP.0545",
       "d": "2023-03-20",
+      "a": "a-24"
+    },
+    {
+      "p": "Brockham Bridge",
+      "cid": "TEMP.0545",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "Brockham Bridge",
+      "cid": "TEMP.0545",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "Brockham Bridge",
+      "cid": "TEMP.0545",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "Brockham Bridge",
+      "cid": "TEMP.0545",
+      "d": "2023-03-24",
       "a": "a-24"
     },
     {
@@ -7261,6 +7501,30 @@
       "a": "a-24"
     },
     {
+      "p": "Commonside",
+      "cid": "TEMP.0730",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "Commonside",
+      "cid": "TEMP.0730",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "Commonside",
+      "cid": "TEMP.0730",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "Commonside",
+      "cid": "TEMP.0730",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "Dean Oak Lane",
       "cid": "TEMP.0822",
       "d": "2022-12-01",
@@ -7921,6 +8185,30 @@
       "a": "a-24"
     },
     {
+      "p": "Dean Oak Lane",
+      "cid": "TEMP.0822",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "Dean Oak Lane",
+      "cid": "TEMP.0822",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "Dean Oak Lane",
+      "cid": "TEMP.0822",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "Dean Oak Lane",
+      "cid": "TEMP.0822",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "Wisley",
       "cid": "TEMP.3017",
       "d": "2022-12-01",
@@ -8578,6 +8866,30 @@
       "p": "Wisley",
       "cid": "TEMP.3017",
       "d": "2023-03-20",
+      "a": "a-24"
+    },
+    {
+      "p": "Wisley",
+      "cid": "TEMP.3017",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "Wisley",
+      "cid": "TEMP.3017",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "Wisley",
+      "cid": "TEMP.3017",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "Wisley",
+      "cid": "TEMP.3017",
+      "d": "2023-03-24",
       "a": "a-24"
     }
   ],
@@ -9229,6 +9541,30 @@
       "c": 0.9,
       "r": "r-1",
       "n": 5
+    },
+    {
+      "d": "2023-03-20",
+      "c": 2.1,
+      "r": "r-2",
+      "n": 5
+    },
+    {
+      "d": "2023-03-21",
+      "c": 0.6,
+      "r": "r-1",
+      "n": 5
+    },
+    {
+      "d": "2023-03-22",
+      "c": 4.8,
+      "r": "r-3",
+      "n": 5
+    },
+    {
+      "d": "2023-03-23",
+      "c": 9.6,
+      "r": "r-5",
+      "n": 5
     }
   ],
   "count": 13,
@@ -9342,6 +9678,10 @@
     "2023-03-17",
     "2023-03-18",
     "2023-03-19",
-    "2023-03-20"
+    "2023-03-20",
+    "2023-03-21",
+    "2023-03-22",
+    "2023-03-23",
+    "2023-03-24"
   ]
 }

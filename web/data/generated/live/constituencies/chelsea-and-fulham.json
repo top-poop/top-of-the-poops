@@ -661,6 +661,30 @@
       "a": "a-24"
     },
     {
+      "p": "COUNTERS CREEK, LOTS ROAD PS, LONDO",
+      "cid": "CSAB.0573",
+      "d": "2023-03-21",
+      "a": "a-24"
+    },
+    {
+      "p": "COUNTERS CREEK, LOTS ROAD PS, LONDO",
+      "cid": "CSAB.0573",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "COUNTERS CREEK, LOTS ROAD PS, LONDO",
+      "cid": "CSAB.0573",
+      "d": "2023-03-23",
+      "a": "a-24"
+    },
+    {
+      "p": "COUNTERS CREEK, LOTS ROAD PS, LONDO",
+      "cid": "CSAB.0573",
+      "d": "2023-03-24",
+      "a": "a-24"
+    },
+    {
       "p": "SLOANE STREET, RANELAGH GDNS, LONDO",
       "cid": "CSAB.0577",
       "d": "2022-12-01",
@@ -1319,6 +1343,30 @@
       "cid": "CSAB.0577",
       "d": "2023-03-20",
       "a": "z-24"
+    },
+    {
+      "p": "SLOANE STREET, RANELAGH GDNS, LONDO",
+      "cid": "CSAB.0577",
+      "d": "2023-03-21",
+      "a": "z-24"
+    },
+    {
+      "p": "SLOANE STREET, RANELAGH GDNS, LONDO",
+      "cid": "CSAB.0577",
+      "d": "2023-03-22",
+      "a": "z-24"
+    },
+    {
+      "p": "SLOANE STREET, RANELAGH GDNS, LONDO",
+      "cid": "CSAB.0577",
+      "d": "2023-03-23",
+      "a": "z-24"
+    },
+    {
+      "p": "SLOANE STREET, RANELAGH GDNS, LONDO",
+      "cid": "CSAB.0577",
+      "d": "2023-03-24",
+      "a": "o-4"
     },
     {
       "p": "SMITH STREET, LONDON",
@@ -1978,6 +2026,30 @@
       "p": "SMITH STREET, LONDON",
       "cid": "CSAB.0578",
       "d": "2023-03-20",
+      "a": "z-24"
+    },
+    {
+      "p": "SMITH STREET, LONDON",
+      "cid": "CSAB.0578",
+      "d": "2023-03-21",
+      "a": "z-24"
+    },
+    {
+      "p": "SMITH STREET, LONDON",
+      "cid": "CSAB.0578",
+      "d": "2023-03-22",
+      "a": "z-24"
+    },
+    {
+      "p": "SMITH STREET, LONDON",
+      "cid": "CSAB.0578",
+      "d": "2023-03-23",
+      "a": "z-24"
+    },
+    {
+      "p": "SMITH STREET, LONDON",
+      "cid": "CSAB.0578",
+      "d": "2023-03-24",
       "a": "z-24"
     },
     {
@@ -2639,6 +2711,30 @@
       "cid": "CSSA.0403",
       "d": "2023-03-20",
       "a": "o-4"
+    },
+    {
+      "p": "CHELSEA, LONDON SW10",
+      "cid": "CSSA.0403",
+      "d": "2023-03-21",
+      "a": "o-4"
+    },
+    {
+      "p": "CHELSEA, LONDON SW10",
+      "cid": "CSSA.0403",
+      "d": "2023-03-22",
+      "a": "a-24"
+    },
+    {
+      "p": "CHELSEA, LONDON SW10",
+      "cid": "CSSA.0403",
+      "d": "2023-03-23",
+      "a": "o-8"
+    },
+    {
+      "p": "CHELSEA, LONDON SW10",
+      "cid": "CSSA.0403",
+      "d": "2023-03-24",
+      "a": "a-24"
     }
   ],
   "rainfall": [
@@ -3289,6 +3385,30 @@
       "c": 1.3,
       "r": "r-1",
       "n": 2
+    },
+    {
+      "d": "2023-03-20",
+      "c": 1.0,
+      "r": "r-1",
+      "n": 2
+    },
+    {
+      "d": "2023-03-21",
+      "c": 0.6,
+      "r": "r-1",
+      "n": 2
+    },
+    {
+      "d": "2023-03-22",
+      "c": 1.2,
+      "r": "r-1",
+      "n": 2
+    },
+    {
+      "d": "2023-03-23",
+      "c": 2.6,
+      "r": "r-2",
+      "n": 2
     }
   ],
   "count": 4,
@@ -3402,6 +3522,10 @@
     "2023-03-17",
     "2023-03-18",
     "2023-03-19",
-    "2023-03-20"
+    "2023-03-20",
+    "2023-03-21",
+    "2023-03-22",
+    "2023-03-23",
+    "2023-03-24"
   ]
 }
