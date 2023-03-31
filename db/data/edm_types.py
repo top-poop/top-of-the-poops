@@ -2,6 +2,7 @@ import contextlib
 import csv
 import dataclasses
 from dataclasses import dataclass
+from typing import Optional
 
 
 @dataclass(frozen=True)
@@ -17,6 +18,7 @@ class EDM:
     total_spill_hours: float
     spill_count: int
     reporting_pct: float
+    wfd_waterbody_id: Optional[str]
     excuses: str
     edm_commissioning_info: str
     reporting_low_reason: str
@@ -39,6 +41,7 @@ def edm_writer(output):
                                       "total_spill_hours",
                                       "spill_count",
                                       "reporting_pct",
+                                      "wfd_waterbody_id",
                                       "excuses",
                                       "edm_commissioning_info",
                                       "reporting_low_reason",

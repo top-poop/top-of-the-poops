@@ -102,6 +102,10 @@ https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac
 https://environment.data.gov.uk/portalstg/home/item.html?id=045af51b3be545b79b0c219811d3d243
 https://environment.data.gov.uk/portalstg/sharing/rest/content/items/045af51b3be545b79b0c219811d3d243/data
 
+# 2022
+
+https://environment.data.gov.uk/portalstg/home/item.html?id=2f8d9b7628dd4f60a30fb1a8483fc2ae
+
 Consented Discharges with Conditions
 
 https://environment.data.gov.uk/dataset/5fe5ab2e-d465-11e4-8a42-f0def148f590

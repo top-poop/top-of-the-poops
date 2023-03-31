@@ -209,7 +209,7 @@ def edm_wales_to_standardised(wales):
         spill_count=count,
         reporting_pct=ensure_is_percentage(ensure_zero_if_empty(ensure_numeric_or_empty(wales.monitoring_pct))),
         excuses="",
-
+        wfd_waterbody_id=None,
         wasc_site_name=wales.site_name,
         # grid_reference="",
         edm_commissioning_info="",

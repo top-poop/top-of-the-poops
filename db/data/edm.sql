@@ -12,6 +12,7 @@ create table edm (
                          total_spill_hours numeric not null,
                          spill_count numeric not null,
                          reporting_pct numeric not null,
+                         wfd_waterbody_id text,
                          excuses text,
                          edm_commissioning_info text,
                          reporting_low_reason text,

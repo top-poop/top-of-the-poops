@@ -78,7 +78,7 @@ def ensure_waterbody_id(maybe_waterbody_id: str):
 
 def bodge(row):
     return EDM(
-        reporting_year=2021,
+        reporting_year=2022,
         company_name=row[0].replace("\\n", ""),
         site_name=row[1].replace("\\n", ""),
         wasc_site_name=row[2].replace("\\n", ""),
@@ -86,17 +86,17 @@ def bodge(row):
         activity_reference=row[5],
         shellfishery=ensure_bathing_or_shellfish(row[11]).replace("\\n", ""),
         bathing=ensure_bathing_or_shellfish(row[12]).replace("\\n", ""),
-        total_spill_hours=ensure_numeric(row[14]),
-        spill_count=int(ensure_numeric(row[15])),
-        reporting_pct=ensure_is_percentage(ensure_zero_if_empty(ensure_numeric_or_empty(row[16]))),
+        total_spill_hours=ensure_numeric(row[15]),
+        spill_count=int(ensure_numeric(row[16])),
+        reporting_pct=ensure_is_percentage(ensure_zero_if_empty(ensure_numeric_or_empty(row[19]))),
         wfd_waterbody_id=ensure_waterbody_id(row[8]),
-        excuses=" ".join(row[17:21]).strip(),
-        edm_commissioning_info=row[13],
-        reporting_low_reason=row[17],
-        reporting_low_action=row[18],
-        spill_high_reason=row[19],
-        spill_high_action=row[20].replace("â€“", "-"),
-        spill_high_planning=row[21]
+        excuses=" ".join(row[28:]).strip(),
+        edm_commissioning_info=row[14],
+        reporting_low_reason=row[20],
+        reporting_low_action=row[21],
+        spill_high_reason=row[22],
+        spill_high_action=row[23].replace("â€“", "-"),
+        spill_high_planning=row[24]
     )
 
 

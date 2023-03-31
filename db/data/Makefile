@@ -43,6 +43,7 @@ $(DOWNLOAD)/PCON_DEC_2020_UK_BFC.shp: $(DOWNLOAD)/$(CONSTITUENCIES_NAME)
 	unzip -o -d $(DOWNLOAD) $<
 	touch $@
 
+
 $(DOWNLOAD)/PCON_DEC_2020_UK_BFC.sql: $(DOWNLOAD)/PCON_DEC_2020_UK_BFC.shp
 	ogr2ogr -nlt PROMOTE_TO_MULTI -f PGDump -t_srs "EPSG:4326" $@ $<
 	sed -i -e 's/NUMERIC(24,15)/NUMERIC/' $@
@@ -155,8 +156,73 @@ $(DOWNLOAD)/edm-2021/company/yorkshire.csv: $(DOWNLOAD)/edm-2021/all.xslx
 $(DOWNLOAD)/edm-2021/edm-consolidated.csv: process_edms_2021.py $(EDM_2021_RETURNS)
 		$(PYTHON) process_edms_2021.py $@ $^
 
+########## EDM 2022 ####################
+
+# EDM 2022
+
+EDM_ZIP_2022=EDM_2022_Storm_Overflow_Annual_Return.zip
+
+$(DOWNLOAD)/$(EDM_ZIP_2022):
+	$(CURL) -o $@ 'https://environment.data.gov.uk/portalstg/sharing/rest/content/items/2f8d9b7628dd4f60a30fb1a8483fc2ae/data'
+
+
+# jump through hoops to make a filename with no spaces
+$(DOWNLOAD)/edm-2022/all.xslx: $(DOWNLOAD)/$(EDM_ZIP_2022)
+	mkdir -p $(dir $@)
+	unzip -o -d $(DOWNLOAD)/edm-2022 $<
+	cp "$(dir $@)/EDM_2022_Storm_Overflow_Annual_Return/EDM 2022 Storm Overflow Annual Return - all water and sewerage companies.xlsx" $@
+
+
+EDM_2022_NAMES=anglian dcww northumbrian severn-trent south-west southern thames united wessex yorkshire
+EDM_2022_RETURNS=$(foreach name,$(EDM_2022_NAMES),$(DOWNLOAD)/edm-2022/company/$(name).csv)
+
+$(DOWNLOAD)/edm-2022/company/anglian.csv: $(DOWNLOAD)/edm-2022/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 1 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2022/company/dcww.csv: $(DOWNLOAD)/edm-2022/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 2 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2022/company/northumbrian.csv: $(DOWNLOAD)/edm-2022/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 3 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2022/company/severn-trent.csv: $(DOWNLOAD)/edm-2022/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 4 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2022/company/south-west.csv: $(DOWNLOAD)/edm-2022/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 5 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2022/company/southern.csv: $(DOWNLOAD)/edm-2022/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 6 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2022/company/thames.csv: $(DOWNLOAD)/edm-2022/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 7 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2022/company/united.csv: $(DOWNLOAD)/edm-2022/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 8 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2022/company/wessex.csv: $(DOWNLOAD)/edm-2022/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 9 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2022/company/yorkshire.csv: $(DOWNLOAD)/edm-2022/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 10 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2022/edm-consolidated.csv: process_edms_2022.py $(EDM_2022_RETURNS)
+		$(PYTHON) process_edms_2022.py $@ $^
+
+######################
+
 .PHONY: load-edm
-load-edm: edm.sql load_edm.sql $(DOWNLOAD)/edm-consolidated.csv $(DOWNLOAD)/edm-2021/edm-consolidated.csv $(DOWNLOAD)/edm-wales-2021/edm-consolidated.csv
+load-edm: edm.sql load_edm.sql $(DOWNLOAD)/edm-consolidated.csv $(DOWNLOAD)/edm-2021/edm-consolidated.csv $(DOWNLOAD)/edm-2022/edm-consolidated.csv $(DOWNLOAD)/edm-wales-2021/edm-consolidated.csv $(DOWNLOAD)/edm-wales-2022/edm-consolidated.csv
 	$(PSQL) -f $<
 	$(PSQL) -f $(word 2,$^)
 
@@ -217,10 +283,86 @@ $(EDM_WALES_2021)/edm-consolidated.csv: process_edms_2021_wales.py $(EDM_WALES_2
 	$(PYTHON) process_edms_2021_wales.py --storm $(EDM_WALES_2021)/edm-storm.csv --emergency $(EDM_WALES_2021)/edm-emergency.csv --annual $(EDM_WALES_2021)/edm-annual.csv $@
 
 
+########### WALES EDM 2022 ##################
+
+# CURL commands do not work due to SSL config of Dwr Cmyru site... 'unsafe legacy renegotiation disabled'
+
+EDM_WALES_2022=$(DOWNLOAD)/edm-wales-2022
+
+$(EDM_WALES_2022)/edm-emergency.xlsx:
+	mkdir -p $(dir $@)
+	$(CURL) -o $@ 'https://corporate.dwrcymru.com/-/media/Project/Files/Page-Documents/Corporate/Environment/Combined-Storm-Overflows/Annual-Emergency-Overflow-Annual-EDM-return---DCWW-2022.ashx'
+
+$(EDM_WALES_2022)/edm-emergency.csv: $(EDM_WALES_2022)/edm-emergency.xlsx
+	$(XLSX2CSV) -s 2 $< $@ 2> /dev/null
+
+$(EDM_WALES_2022)/edm-storm.xlsx:
+	mkdir -p $(dir $@)
+	$(CURL) -o $@ 'https://corporate.dwrcymru.com/-/media/Project/Files/Page-Documents/Corporate/Environment/Combined-Storm-Overflows/Annual-Storm-Overflow-EDM-return---DCWW-2022.ashx'
+
+$(EDM_WALES_2022)/edm-storm.csv: $(EDM_WALES_2022)/edm-storm.xlsx
+	$(XLSX2CSV) -s 1 $< $@ 2> /dev/null
+
+$(EDM_WALES_2022)/edm-annual.xlsx:
+	mkdir -p $(dir $@)
+	$(CURL) -o $@ 'https://corporate.dwrcymru.com/-/media/Project/Files/Page-Documents/Corporate/Environment/Combined-Storm-Overflows/NRW-Annual-incl-Shellfish-Waters-Storm-Overflow-EDM-return--DCWW-2022.ashx'
+
+$(EDM_WALES_2022)/edm-annual.csv: $(EDM_WALES_2022)/edm-annual.xlsx
+	$(XLSX2CSV) -s 1 $< $@ 2> /dev/null
+
+EDM_WALES_2022_FILES=$(EDM_WALES_2022)/edm-emergency.csv $(EDM_WALES_2022)/edm-storm.csv $(EDM_WALES_2022)/edm-annual.csv
+
+$(EDM_WALES_2022)/edm-consolidated.csv: process_edms_2022_wales.py $(EDM_WALES_2022_FILES)
+	$(PYTHON) process_edms_2022_wales.py --storm $(EDM_WALES_2022)/edm-storm.csv --emergency $(EDM_WALES_2022)/edm-emergency.csv --annual $(EDM_WALES_2022)/edm-annual.csv $@
+
+
+#####################
+
+
 ## Grid References
 
 $(DOWNLOAD)/grid-references.csv: $(DOWNLOAD)/consents-consolidated.csv convert-grid-references.py
 	$(PYTHON) convert-grid-references.py $< $@
+
+
+## Rivers England
+$(DOWNLOAD)/rivers-england.zip:
+	$(CURL) -o $(DOWNLOAD)/rivers-england.zip https://environment.data.gov.uk/UserDownloads/interactive/bee3b5ce379b49e7a07723b317369fac105788/EA_WFDRiverWaterBodiesCycle1_SHP_Full.zip
+
+$(DOWNLOAD)/data/WFD_River_Water_Bodies_Cycle_1.shp: $(DOWNLOAD)/rivers-england.zip
+	unzip -o -d $(DOWNLOAD) $<
+	touch $@
+
+$(DOWNLOAD)/rivers-england.sql:  $(DOWNLOAD)/data/WFD_River_Water_Bodies_Cycle_1.shp
+	ogr2ogr -nlt PROMOTE_TO_MULTI -f PGDump -t_srs "EPSG:4326" $@ $<
+	sed -i -e 's/NUMERIC(24,15)/NUMERIC/' $@
+
+load-rivers-england: $(DOWNLOAD)/rivers-england.sql
+	$(PSQL) -f $<
+
+# Rivers Wales
+$(DOWNLOAD)/rivers-wales.zip:
+	$(CURL) -o $(DOWNLOAD)/rivers-wales.zip 'https://datamap.gov.wales/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=inspire-nrw%3ANRW_WFD_RIVERWATERBODIES_C1&outputFormat=SHAPE-ZIP&srs=EPSG%3A27700&format_options=charset%3AUTF-8'
+
+$(DOWNLOAD)/NRW_WFD_RIVERWATERBODIES_C1Line.shp: $(DOWNLOAD)/rivers-wales.zip
+	unzip -o -d $(DOWNLOAD) $<
+	touch $@
+
+$(DOWNLOAD)/rivers-wales.sql: $(DOWNLOAD)/NRW_WFD_RIVERWATERBODIES_C1Line.shp
+	ogr2ogr -nlt PROMOTE_TO_MULTI -f PGDump -t_srs "EPSG:4326" $@ $<
+	sed -i -e 's/NUMERIC(24,15)/NUMERIC/' $@
+
+load-rivers-wales: $(DOWNLOAD)/rivers-wales.sql
+	$(PSQL) -f $<
+
+
+.PHONY: load-river-views
+load-river-views: load_river_views.sql
+	$(PSQL) -f $<
+
+
+.PHONY: load-rivers
+load-rivers: load-rivers-england load-rivers-wales load-river-views
 
 
 ## Rainfall

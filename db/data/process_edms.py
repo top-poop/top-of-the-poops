@@ -207,7 +207,7 @@ if __name__ == "__main__":
                         spill_count=bodged[7],
                         reporting_pct=bodged[8],
                         excuses=bodged[9],
-
+                        wfd_waterbody_id=None,
                         wasc_site_name=bodged[1],
                         # grid_reference="",
                         edm_commissioning_info="",
