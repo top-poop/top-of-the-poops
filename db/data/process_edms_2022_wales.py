@@ -111,6 +111,7 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="process EDM 2021 files")
 
+    parser.add_argument("--england", help="england file")
     parser.add_argument("--storm", help="storm file")
     parser.add_argument("--emergency", help="emergency file")
     parser.add_argument("--annual", help="annual file")
@@ -124,10 +125,26 @@ if __name__ == "__main__":
         parse_annual_edms(args.annual)
     )
 
+    dedup = {}
+
+    def edm_key(e):
+        return "-".join([e.consent_id])
+
+    with open(args.england) as fp:
+        reader = csv.DictReader(fp)
+        for row in reader:
+            edm = EDM(**row)
+            dedup[edm_key(edm)]=edm
+
     try:
         with edm_writer(args.output) as writer:
             for edm in all_edms:
-                writer(edm)
+                key = edm_key(edm)
+                if key in dedup:
+                    print(f"Duplicate: {edm}")
+                    print(f"Duplicate: {dedup[key]}")
+                else:
+                    writer(edm)
 
     except Exception as e:
         os.unlink(args.output)

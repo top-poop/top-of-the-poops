@@ -312,8 +312,8 @@ $(EDM_WALES_2022)/edm-annual.csv: $(EDM_WALES_2022)/edm-annual.xlsx
 
 EDM_WALES_2022_FILES=$(EDM_WALES_2022)/edm-emergency.csv $(EDM_WALES_2022)/edm-storm.csv $(EDM_WALES_2022)/edm-annual.csv
 
-$(EDM_WALES_2022)/edm-consolidated.csv: process_edms_2022_wales.py $(EDM_WALES_2022_FILES)
-	$(PYTHON) process_edms_2022_wales.py --storm $(EDM_WALES_2022)/edm-storm.csv --emergency $(EDM_WALES_2022)/edm-emergency.csv --annual $(EDM_WALES_2022)/edm-annual.csv $@
+$(EDM_WALES_2022)/edm-consolidated.csv: process_edms_2022_wales.py $(EDM_WALES_2022_FILES) $(DOWNLOAD)/edm-2022/edm-consolidated.csv
+	$(PYTHON) process_edms_2022_wales.py --storm $(EDM_WALES_2022)/edm-storm.csv --emergency $(EDM_WALES_2022)/edm-emergency.csv --annual $(EDM_WALES_2022)/edm-annual.csv --england $(DOWNLOAD)/edm-2022/edm-consolidated.csv $@
 
 
 #####################
@@ -386,6 +386,7 @@ events-thames:
 	$(PSQL) -f events_thames.sql
 
 .PHONY: summary-thames
+summary-thames:
 	$(PSQL) -f summary_thames.sql
 
 # Southern Water "Beachbouy" data
