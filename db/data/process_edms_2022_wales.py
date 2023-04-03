@@ -7,7 +7,7 @@ import os
 
 from edm_types import EDM, edm_writer
 from process_consents_wales import WELSH_WATER
-from process_edms_2021 import ensure_zero_if_empty, ensure_numeric_or_empty, ensure_is_percentage
+from process_edms_2021 import ensure_zero_if_empty, ensure_numeric_or_empty, ensure_is_percentage, ensure_not_na
 
 
 def reading_csv(filepath, skip=0):
@@ -107,6 +107,34 @@ def parse_annual_edms(filepath):
     return edms
 
 
+def parse_emergency_edms2(filepath):
+    edms = []
+    for dump in reading_csv(filepath, skip=4):
+        edms.append(EDM(
+            reporting_year=2022,
+            company_name=WELSH_WATER,
+            site_name=dump[1],
+            consent_id=dump[0],
+            activity_reference="",
+            shellfishery=ensure_not_na(dump[13]),
+            bathing="",
+            total_spill_hours=ensure_zero_if_empty(ensure_numeric_or_empty(dump[16])),
+            spill_count=ensure_zero_if_empty(ensure_numeric_or_empty(dump[14])),
+            reporting_pct=ensure_is_percentage(ensure_zero_if_empty(ensure_numeric_or_empty(dump[21]))),
+            excuses=dump[21],
+            wfd_waterbody_id=dump[10],
+            wasc_site_name="",
+            # grid_reference="",
+            edm_commissioning_info="",
+            reporting_low_reason="",
+            reporting_low_action="",
+            spill_high_reason="",
+            spill_high_action="",
+            spill_high_planning=""
+        ))
+    return edms
+
+
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="process EDM 2021 files")
@@ -114,6 +142,7 @@ if __name__ == "__main__":
     parser.add_argument("--england", help="england file")
     parser.add_argument("--storm", help="storm file")
     parser.add_argument("--emergency", help="emergency file")
+    parser.add_argument("--emergency-2", help="more emergency file")
     parser.add_argument("--annual", help="annual file")
     parser.add_argument("output", help="output file")
 
@@ -122,6 +151,7 @@ if __name__ == "__main__":
     all_edms = itertools.chain(
         parse_storm_edms(args.storm),
         parse_emergency_edms(args.emergency),
+        parse_emergency_edms2(args.emergency_2),
         parse_annual_edms(args.annual)
     )
 

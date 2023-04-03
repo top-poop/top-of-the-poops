@@ -296,6 +296,16 @@ $(EDM_WALES_2022)/edm-emergency.xlsx:
 $(EDM_WALES_2022)/edm-emergency.csv: $(EDM_WALES_2022)/edm-emergency.xlsx
 	$(XLSX2CSV) -s 2 $< $@ 2> /dev/null
 
+$(EDM_WALES_2022)/edm-emergency-2.xlsx:
+	mkdir -p $(dir $@)
+	$(CURL) -o $@ 'https://corporate.dwrcymru.com/-/media/Project/Files/Page-Documents/Corporate/Environment/Combined-Storm-Overflows/NRW-Annual-Emergency-Overflow--Unpermitted-Storm-Overflow-EDM-return---DCWW-2022.ashx'
+
+$(EDM_WALES_2022)/edm-emergency-2.csv: $(EDM_WALES_2022)/edm-emergency-and-unpermitted.xlsx
+	$(XLSX2CSV) -s 1 $< $@ 2> /dev/null
+
+$(EDM_WALES_2022)/edm-unpermitted.csv: $(EDM_WALES_2022)/edm-emergency-and-unpermitted.xlsx
+	$(XLSX2CSV) -s 2 $< $@ 2> /dev/null
+
 $(EDM_WALES_2022)/edm-storm.xlsx:
 	mkdir -p $(dir $@)
 	$(CURL) -o $@ 'https://corporate.dwrcymru.com/-/media/Project/Files/Page-Documents/Corporate/Environment/Combined-Storm-Overflows/Annual-Storm-Overflow-EDM-return---DCWW-2022.ashx'
@@ -313,7 +323,12 @@ $(EDM_WALES_2022)/edm-annual.csv: $(EDM_WALES_2022)/edm-annual.xlsx
 EDM_WALES_2022_FILES=$(EDM_WALES_2022)/edm-emergency.csv $(EDM_WALES_2022)/edm-storm.csv $(EDM_WALES_2022)/edm-annual.csv
 
 $(EDM_WALES_2022)/edm-consolidated.csv: process_edms_2022_wales.py $(EDM_WALES_2022_FILES) $(DOWNLOAD)/edm-2022/edm-consolidated.csv
-	$(PYTHON) process_edms_2022_wales.py --storm $(EDM_WALES_2022)/edm-storm.csv --emergency $(EDM_WALES_2022)/edm-emergency.csv --annual $(EDM_WALES_2022)/edm-annual.csv --england $(DOWNLOAD)/edm-2022/edm-consolidated.csv $@
+	$(PYTHON) process_edms_2022_wales.py \
+			--storm $(EDM_WALES_2022)/edm-storm.csv \
+			--emergency $(EDM_WALES_2022)/edm-emergency.csv \
+			--emergency-2 $(EDM_WALES_2022)/edm-emergency-2.csv \
+			--annual $(EDM_WALES_2022)/edm-annual.csv \
+			--england $(DOWNLOAD)/edm-2022/edm-consolidated.csv $@
 
 
 #####################
@@ -397,8 +412,9 @@ bb-events:  bb_events.sql bb_events_load.sql
 	$(PSQL) -f bb_events_load.sql
 
 
-load-edm-consent-view: edm_consent_view.sql load-edm load-consents
+load-edm-consent-view: edm_consent_view.sql bathing_views.sql load-edm load-consents
 	$(PSQL) -f $<
+	$(PSQL) -f $(word 2,$^)
 
 .PHONY: load-sewage
 load-sewage: load-consents load-edm load-edm-consent-view
