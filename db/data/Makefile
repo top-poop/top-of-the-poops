@@ -383,8 +383,10 @@ load-rivers: load-rivers-england load-rivers-wales load-river-views
 ## Rainfall
 
 .PHONY: rainfall
-rainfall:  rainfall.sql
+rainfall:  rainfall.sql rainfall_views.sql
 	$(PSQL) -f $<
+	$(PSQL) -f $(word 2,$^)
+
 
 # must run after load-constituencies and load-edm-consent-view
 # but can't be bothered to make the dependencies work right now, just run it after.
