@@ -1,6 +1,4 @@
 import argparse
-import dataclasses
-import math
 import os
 import pathlib
 import re
@@ -119,15 +117,6 @@ def kebabcase(s):
     ))
 
 
-@dataclasses.dataclass
-class Rainfall:
-    r_min: float
-    r_max: float
-    r_pct_50: float
-    r_pct_75: float
-    stations: int
-
-
 def aggregate_thames_events(connection):
     listener = CalendaringListener(start_date)
     stream = ThamesEventStream(listener)
@@ -141,23 +130,6 @@ def aggregate_thames_events(connection):
     return listener
 
 
-def rainfall_by_constituency(connection, constituency):
-    return {
-        r[0]: r[1]
-        for r in select_many(connection,
-                             sql="select date, min, avg, max, pct_75, count from rainfall_daily_consitituency where pcon20nm = %s",
-                             params=(constituency,),
-                             f=lambda r: (
-                                 r[0], Rainfall(
-                                     r_min=float(r[1]),
-                                     r_pct_50=float(r[2]),
-                                     r_max=float(r[3]),
-                                     r_pct_75=float(r[4]),
-                                     stations=r[5]))
-                             )
-    }
-
-
 def insert_thames_summary(connection, permit_id, calendar):
     with connection.cursor() as cursor:
         for date, totals in calendar.allocations():
@@ -167,7 +139,8 @@ def insert_thames_summary(connection, permit_id, calendar):
                 on conflict (permit_id, date) 
                 do update set unknown = excluded.unknown, online = excluded.online, overflowing = excluded.overflowing, 
                 potentially_overflowing = excluded.potentially_overflowing, offline = excluded.offline""",
-                ( permit_id, date, totals.unknown, totals.online, totals.overflowing, totals.potentially_overflowing, totals.offline) )
+                (permit_id, date, totals.unknown, totals.online, totals.overflowing, totals.potentially_overflowing,
+                 totals.offline))
     connection.commit()
 
 
@@ -215,49 +188,6 @@ if __name__ == "__main__":
             by_constituency[constituency]["count"] += 1
 
             insert_thames_summary(conn, permit_id, calendar)
-
-            for date, totals in calendar.allocations():
-                if not date in dates:
-                    dates[date] = None
-
-                by_constituency[constituency]["cso"].append(
-                    {"p": site, "cid": permit_id, "d": date, "a": summariser.summarise(totals)}
-                )
-
-
-        available_constituencies = list(sorted(by_constituency.keys()))
-
-        for constituency in available_constituencies:
-            for date, rainfall in rainfall_by_constituency(connection=conn, constituency=constituency).items():
-                by_constituency[constituency]["rainfall"].append(
-                    {
-                        "d": date,
-                        "c": rainfall.r_pct_75 ,
-                        "r" : f"r-{ min(10, int(math.ceil(rainfall.r_pct_75 / 2))) }",
-                        "n" : rainfall.stations,
-                    }
-                )
-
-        for constituency, stuff in by_constituency.items():
-            with open(args.output / f"{kebabcase(constituency)}.json", "w") as bob:
-                json.dump(
-                    fp=bob,
-                    indent=2,
-                    cls=MultipleJsonEncoders(DateTimeEncoder, TimeDeltaMinutesEncoder),
-                    obj={
-                        "cso": stuff["cso"],
-                        "rainfall": stuff["rainfall"],
-                        "count": stuff["count"],
-                        "dates": list(dates.keys())
-                    },
-                )
-
-    with open(args.output / "available.json", "w") as bob:
-        json.dump(
-            fp=bob,
-            indent=2,
-            obj=available_constituencies
-        )
 
     graph = DotGraphMachine(ThamesMonitorState)
     dot = graph()
