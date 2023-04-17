@@ -11,6 +11,7 @@ PSQL=psql -v ON_ERROR_STOP=1 -h localhost -d gis -U docker -q --pset=pager=off
 CURL=curl --fail --silent
 PYTHON=../../venv/bin/python3
 XLSX2CSV=../../venv/bin/xlsx2csv -e -i
+OGR2OGR=ogr2ogr -nlt PROMOTE_TO_MULTI -f PGDump -t_srs "EPSG:4326"
 
 ## MPs Twitter
 
@@ -43,9 +44,8 @@ $(DOWNLOAD)/PCON_DEC_2020_UK_BFC.shp: $(DOWNLOAD)/$(CONSTITUENCIES_NAME)
 	unzip -o -d $(DOWNLOAD) $<
 	touch $@
 
-
-$(DOWNLOAD)/PCON_DEC_2020_UK_BFC.sql: $(DOWNLOAD)/PCON_DEC_2020_UK_BFC.shp
-	ogr2ogr -nlt PROMOTE_TO_MULTI -f PGDump -t_srs "EPSG:4326" $@ $<
+%.sql: %.shp
+	$(OGR2OGR) $@ $<
 	sed -i -e 's/NUMERIC(24,15)/NUMERIC/' $@
 
 .PHONY: load-constituencies
@@ -349,7 +349,7 @@ $(DOWNLOAD)/data/WFD_River_Water_Bodies_Cycle_1.shp: $(DOWNLOAD)/rivers-england.
 	touch $@
 
 $(DOWNLOAD)/rivers-england.sql:  $(DOWNLOAD)/data/WFD_River_Water_Bodies_Cycle_1.shp
-	ogr2ogr -nlt PROMOTE_TO_MULTI -f PGDump -t_srs "EPSG:4326" $@ $<
+	$(OGR2OGR) $@ $<
 	sed -i -e 's/NUMERIC(24,15)/NUMERIC/' $@
 
 load-rivers-england: $(DOWNLOAD)/rivers-england.sql
@@ -364,7 +364,7 @@ $(DOWNLOAD)/NRW_WFD_RIVERWATERBODIES_C1Line.shp: $(DOWNLOAD)/rivers-wales.zip
 	touch $@
 
 $(DOWNLOAD)/rivers-wales.sql: $(DOWNLOAD)/NRW_WFD_RIVERWATERBODIES_C1Line.shp
-	ogr2ogr -nlt PROMOTE_TO_MULTI -f PGDump -t_srs "EPSG:4326" $@ $<
+	$(OGR2OGR) $@ $<
 	sed -i -e 's/NUMERIC(24,15)/NUMERIC/' $@
 
 load-rivers-wales: $(DOWNLOAD)/rivers-wales.sql
@@ -411,6 +411,45 @@ bb-events:  bb_events.sql bb_events_load.sql
 	$(PSQL) -f bb_events.sql
 	$(PSQL) -f bb_events_load.sql
 
+
+# Bathing water shapes
+
+$(DOWNLOAD)/bathing/bathing-england.zip:
+	@mkdir -p $(dir $@)
+	$(CURL) -o $@ https://environment.data.gov.uk/UserDownloads/interactive/86537efb2f184490bdc216e9c4ca27e067728/EA_SensitiveAreasBathingWaters_SHP_Full.zip
+
+$(DOWNLOAD)/bathing/data/Sensitive_Areas_Bathing_Waters.shp: $(DOWNLOAD)/bathing/bathing-england.zip
+	unzip -o -d $(DOWNLOAD)/bathing $<
+	touch $@
+
+$(DOWNLOAD)/bathing/bathing-wales.zip:
+	@mkdir -p $(dir $@)
+	$(CURL) -o $@ 'https://datamap.gov.wales/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=inspire-nrw%3ANRW_UWWTD_SA_BATHING_WATERS&outputFormat=SHAPE-ZIP&srs=EPSG%3A27700&format_options=charset%3AUTF-8'
+
+$(DOWNLOAD)/bathing/data/NRW_UWWTD_SA_BATHING_WATERSPolygon.shp: $(DOWNLOAD)/bathing/bathing-wales.zip
+	@mkdir -p $(dir $@)
+	unzip -o -d $(DOWNLOAD)/bathing/data $<
+	touch $@
+
+.PHONY:
+load-bathing-classification: bathing_classification_create.sql bathing_classification_load.sql
+	$(PSQL) -f $<
+	$(PSQL) -f $(word 2,$^)
+
+
+.PHONY: load-beach-mappings
+load-beach-mappings: beach_mapping.sql beach_mapping_load.sql load-bathing-classification
+	$(PSQL) -f $<
+	$(PSQL) -f $(word 2,$^)
+
+
+.PHONY: load-bathing-areas
+load-bathing-areas: $(DOWNLOAD)/bathing/data/Sensitive_Areas_Bathing_Waters.sql $(DOWNLOAD)/bathing/data/NRW_UWWTD_SA_BATHING_WATERSPolygon.sql
+	$(PSQL) -f $<
+	$(PSQL) -f $(word 2,$^)
+
+
+load-bathing: load-bathing-areas load-beach-mappings
 
 load-edm-consent-view: edm_consent_view.sql bathing_views.sql load-edm load-consents
 	$(PSQL) -f $<

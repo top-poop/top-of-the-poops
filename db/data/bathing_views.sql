@@ -6,6 +6,7 @@ create or replace view bathing_view as
 select reporting_year,
         edm.bathing,
        company_name,
+       count(*) as cso_count,
        sum(edm.total_spill_hours) as total_spill_hours,
        sum(edm.spill_count) as total_spill_count,
        st_x(st_centroid(st_collect(point))) as lon,
