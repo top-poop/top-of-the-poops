@@ -97,7 +97,10 @@ if __name__ == "__main__":
 
 
             while current_date < end_date:
-                process_date(conn, api, current_date, known_stations)
+                try:
+                    process_date(conn, api, current_date, known_stations)
+                except requests.exceptions.HTTPError as e:
+                    print(f"Response: {e.response.text}")
                 current_date = current_date + a_day
                 sleep(2)
         except requests.exceptions.HTTPError as e:

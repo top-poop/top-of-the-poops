@@ -57,7 +57,7 @@ def to_reading(row) -> RainfallReading:
 
 class EnvironmentAgencyAPI:
 
-    def __init__(self, cache_dir: pathlib.Path, baseurl="https://environment.data.gov.uk/flood-monitoring/"):
+    def __init__(self, cache_dir: pathlib.Path, baseurl="https://environment.data.gov.uk/flood-monitoring"):
         self.baseurl = baseurl
         self.cache_dir = cache_dir
         self.session = requests.Session()

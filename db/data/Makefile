@@ -388,6 +388,12 @@ rainfall:  rainfall.sql rainfall_views.sql
 	$(PSQL) -f $(word 2,$^)
 
 
+.PHONY: load-beach-mappings
+load-beach-mappings: bathing-classification-load.sql edm-bathing-to-beach-mapping.sql edm-bathing-to-beach-mapping-load.sql
+	$(PSQL) -f $<
+	$(PSQL) -f $(word 2,$^)
+	$(PSQL) -f $(word 3,$^)
+
 # must run after load-constituencies and load-edm-consent-view
 # but can't be bothered to make the dependencies work right now, just run it after.
 .PHONY: load-grid-references
@@ -418,7 +424,11 @@ bb-events:  bb_events.sql bb_events_load.sql
 
 $(DOWNLOAD)/bathing/bathing-england.zip:
 	@mkdir -p $(dir $@)
-	$(CURL) -o $@ https://environment.data.gov.uk/UserDownloads/interactive/86537efb2f184490bdc216e9c4ca27e067728/EA_SensitiveAreasBathingWaters_SHP_Full.zip
+	$(CURL) -o $@ 'https://environment.data.gov.uk/UserDownloads/interactive/738d0fe520a545d49aae4903bfbe4b3a124716/EA_SensitiveAreasBathingWaters_SHP_Full.zip'
+
+$(DOWNLOAD)/bathing/data/Areas_Affecting_Bathing_Waters.shp: provided/EA_AreasAffectingBathingWaters_SHP.zip
+	unzip -o -d $(DOWNLOAD)/bathing $<
+	touch $@
 
 $(DOWNLOAD)/bathing/data/Sensitive_Areas_Bathing_Waters.shp: $(DOWNLOAD)/bathing/bathing-england.zip
 	unzip -o -d $(DOWNLOAD)/bathing $<
@@ -446,9 +456,11 @@ load-beach-mappings: beach_mapping.sql beach_mapping_load.sql load-bathing-class
 
 
 .PHONY: load-bathing-areas
-load-bathing-areas: $(DOWNLOAD)/bathing/data/Sensitive_Areas_Bathing_Waters.sql $(DOWNLOAD)/bathing/data/NRW_UWWTD_SA_BATHING_WATERSPolygon.sql
+load-bathing-areas: $(DOWNLOAD)/bathing/data/Sensitive_Areas_Bathing_Waters.sql $(DOWNLOAD)/bathing/data/NRW_UWWTD_SA_BATHING_WATERSPolygon.sql $(DOWNLOAD)/bathing/data/Areas_Affecting_Bathing_Waters.sql bathing_locations_view.sql
 	$(PSQL) -f $<
 	$(PSQL) -f $(word 2,$^)
+	$(PSQL) -f $(word 3,$^)
+	$(PSQL) -f $(word 4,$^)
 
 
 load-bathing: load-bathing-areas load-beach-mappings

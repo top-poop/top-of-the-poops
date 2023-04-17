@@ -130,6 +130,20 @@ Event Duration Monitoring
  - https://www.dwrcymru.com/-/media/Project/Files/Page-Documents/Our-Services/Wastewater/CSO/EDM-Return-DCWW_Wales-Water-Annual-2021.ashx
 
 
+# Bathing 
+
+Bathing Water Monitoring Locations
+https://www.data.gov.uk/dataset/dcb8bd46-c4cf-4749-bad0-7663da96845c/bathing-waters-monitoring-locations
+ Name + Classification by year
+
+Sensitive Areas Bathing
+https://www.data.gov.uk/dataset/4e2bbdb4-15d3-49dc-ba22-904045b091fb/sensitive-areas-bathing-waters
+https://datamap.gov.wales/layers/inspire-nrw:NRW_UWWTD_SA_BATHING_WATERS
+
+
+
+
+
 ### Postcodes
 
 https://geoportal.statistics.gov.uk/datasets/ons-postcode-directory-february-2020/about

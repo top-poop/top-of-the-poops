@@ -1,8 +1,8 @@
 [
   {
     "date": "2023-01-01",
-    "overflowing_count": 144,
-    "overflowing_duration": 9414180.0,
+    "overflowing_count": 142,
+    "overflowing_duration": 9241380.0,
     "rainfall_mm_min": 0.3,
     "rainfall_mm_avg": 4.715382352941177,
     "rainfall_mm_max": 13.7,
@@ -12,8 +12,8 @@
   },
   {
     "date": "2023-01-02",
-    "overflowing_count": 117,
-    "overflowing_duration": 7645680.0,
+    "overflowing_count": 115,
+    "overflowing_duration": 7471980.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 0.2180294117647059,
     "rainfall_mm_max": 6.4,
@@ -23,8 +23,8 @@
   },
   {
     "date": "2023-01-03",
-    "overflowing_count": 116,
-    "overflowing_duration": 6573180.0,
+    "overflowing_count": 114,
+    "overflowing_duration": 6400380.0,
     "rainfall_mm_min": 1.3,
     "rainfall_mm_avg": 6.213316176470588,
     "rainfall_mm_max": 18.4,
@@ -34,8 +34,8 @@
   },
   {
     "date": "2023-01-04",
-    "overflowing_count": 106,
-    "overflowing_duration": 7162740.0,
+    "overflowing_count": 104,
+    "overflowing_duration": 6988140.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 1.04407299270073,
     "rainfall_mm_max": 7.6,
@@ -45,8 +45,8 @@
   },
   {
     "date": "2023-01-05",
-    "overflowing_count": 70,
-    "overflowing_duration": 4642740.0,
+    "overflowing_count": 68,
+    "overflowing_duration": 4551840.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 0.453014598540146,
     "rainfall_mm_max": 3.7,
@@ -56,8 +56,8 @@
   },
   {
     "date": "2023-01-06",
-    "overflowing_count": 65,
-    "overflowing_duration": 4343940.0,
+    "overflowing_count": 64,
+    "overflowing_duration": 4257540.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 2.1893868613138685,
     "rainfall_mm_max": 7.1,
@@ -67,8 +67,8 @@
   },
   {
     "date": "2023-01-07",
-    "overflowing_count": 107,
-    "overflowing_duration": 5248320.0,
+    "overflowing_count": 106,
+    "overflowing_duration": 5159220.0,
     "rainfall_mm_min": 0.8,
     "rainfall_mm_avg": 5.583467153284672,
     "rainfall_mm_max": 12.5,
@@ -79,7 +79,7 @@
   {
     "date": "2023-01-08",
     "overflowing_count": 175,
-    "overflowing_duration": 8577180.0,
+    "overflowing_duration": 8505180.0,
     "rainfall_mm_min": 0.1,
     "rainfall_mm_avg": 9.649474452554745,
     "rainfall_mm_max": 21.4,
@@ -89,8 +89,8 @@
   },
   {
     "date": "2023-01-09",
-    "overflowing_count": 116,
-    "overflowing_duration": 7383420.0,
+    "overflowing_count": 115,
+    "overflowing_duration": 7295220.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 0.22663503649635036,
     "rainfall_mm_max": 5.189,
@@ -100,8 +100,8 @@
   },
   {
     "date": "2023-01-10",
-    "overflowing_count": 132,
-    "overflowing_duration": 7140960.0,
+    "overflowing_count": 131,
+    "overflowing_duration": 7026660.0,
     "rainfall_mm_min": 1.9,
     "rainfall_mm_avg": 7.917029197080292,
     "rainfall_mm_max": 14.8,
@@ -111,8 +111,8 @@
   },
   {
     "date": "2023-01-11",
-    "overflowing_count": 132,
-    "overflowing_duration": 7902960.0,
+    "overflowing_count": 131,
+    "overflowing_duration": 7784160.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 5.142905109489051,
     "rainfall_mm_max": 17.656,
@@ -122,8 +122,8 @@
   },
   {
     "date": "2023-01-12",
-    "overflowing_count": 176,
-    "overflowing_duration": 11739120.0,
+    "overflowing_count": 175,
+    "overflowing_duration": 11646420.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 7.418678832116789,
     "rainfall_mm_max": 17.0,
@@ -133,8 +133,8 @@
   },
   {
     "date": "2023-01-13",
-    "overflowing_count": 130,
-    "overflowing_duration": 8962020.0,
+    "overflowing_count": 129,
+    "overflowing_duration": 8808120.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 0.12097058823529412,
     "rainfall_mm_max": 5.4,
@@ -145,7 +145,7 @@
   {
     "date": "2023-01-14",
     "overflowing_count": 213,
-    "overflowing_duration": 12906600.0,
+    "overflowing_duration": 12816600.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 13.41272794117647,
     "rainfall_mm_max": 28.0,
@@ -155,8 +155,8 @@
   },
   {
     "date": "2023-01-15",
-    "overflowing_count": 141,
-    "overflowing_duration": 10335180.0,
+    "overflowing_count": 140,
+    "overflowing_duration": 10224480.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 0.34054074074074075,
     "rainfall_mm_max": 4.528,
@@ -167,7 +167,7 @@
   {
     "date": "2023-01-16",
     "overflowing_count": 187,
-    "overflowing_duration": 11215440.0,
+    "overflowing_duration": 11155140.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 7.713385185185185,
     "rainfall_mm_max": 18.6,
@@ -177,8 +177,8 @@
   },
   {
     "date": "2023-01-17",
-    "overflowing_count": 119,
-    "overflowing_duration": 7476420.0,
+    "overflowing_count": 118,
+    "overflowing_duration": 7327920.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 0.04148148148148148,
     "rainfall_mm_max": 0.4,
@@ -188,8 +188,8 @@
   },
   {
     "date": "2023-01-18",
-    "overflowing_count": 82,
-    "overflowing_duration": 5064120.0,
+    "overflowing_count": 81,
+    "overflowing_duration": 4975920.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 0.1393037037037037,
     "rainfall_mm_max": 1.4,
@@ -199,8 +199,8 @@
   },
   {
     "date": "2023-01-19",
-    "overflowing_count": 70,
-    "overflowing_duration": 3839520.0,
+    "overflowing_count": 69,
+    "overflowing_duration": 3782820.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 0.1433259259259259,
     "rainfall_mm_max": 3.0,
@@ -448,7 +448,7 @@
     "rainfall_mm_max": 0.2,
     "rainfall_mm_95": 0.2,
     "station_count": 137,
-    "offline_count": 17
+    "offline_count": 16
   },
   {
     "date": "2023-02-11",
@@ -459,7 +459,7 @@
     "rainfall_mm_max": 0.3,
     "rainfall_mm_95": 0.0,
     "station_count": 136,
-    "offline_count": 19
+    "offline_count": 18
   },
   {
     "date": "2023-02-12",
@@ -470,7 +470,7 @@
     "rainfall_mm_max": 0.3,
     "rainfall_mm_95": 0.1,
     "station_count": 137,
-    "offline_count": 19
+    "offline_count": 18
   },
   {
     "date": "2023-02-13",
@@ -481,7 +481,7 @@
     "rainfall_mm_max": 0.2,
     "rainfall_mm_95": 0.0,
     "station_count": 137,
-    "offline_count": 19
+    "offline_count": 18
   },
   {
     "date": "2023-02-14",
@@ -492,7 +492,7 @@
     "rainfall_mm_max": 6.8,
     "rainfall_mm_95": 0.3,
     "station_count": 136,
-    "offline_count": 15
+    "offline_count": 14
   },
   {
     "date": "2023-02-15",
@@ -503,7 +503,7 @@
     "rainfall_mm_max": 16.1,
     "rainfall_mm_95": 0.7,
     "station_count": 137,
-    "offline_count": 18
+    "offline_count": 17
   },
   {
     "date": "2023-02-17",
@@ -514,7 +514,7 @@
     "rainfall_mm_max": 0.6,
     "rainfall_mm_95": 0.3,
     "station_count": 137,
-    "offline_count": 17
+    "offline_count": 16
   },
   {
     "date": "2023-02-18",
@@ -525,7 +525,7 @@
     "rainfall_mm_max": 2.0,
     "rainfall_mm_95": 0.8,
     "station_count": 137,
-    "offline_count": 19
+    "offline_count": 18
   },
   {
     "date": "2023-02-19",
@@ -536,7 +536,7 @@
     "rainfall_mm_max": 1.7,
     "rainfall_mm_95": 0.0,
     "station_count": 137,
-    "offline_count": 20
+    "offline_count": 19
   },
   {
     "date": "2023-02-20",
@@ -547,7 +547,7 @@
     "rainfall_mm_max": 1.0,
     "rainfall_mm_95": 0.1,
     "station_count": 138,
-    "offline_count": 20
+    "offline_count": 19
   },
   {
     "date": "2023-02-21",
@@ -558,7 +558,7 @@
     "rainfall_mm_max": 1.9,
     "rainfall_mm_95": 0.6,
     "station_count": 137,
-    "offline_count": 20
+    "offline_count": 19
   },
   {
     "date": "2023-02-22",
@@ -569,7 +569,7 @@
     "rainfall_mm_max": 6.2,
     "rainfall_mm_95": 5.5,
     "station_count": 137,
-    "offline_count": 21
+    "offline_count": 20
   },
   {
     "date": "2023-02-23",
@@ -580,18 +580,7 @@
     "rainfall_mm_max": 4.0,
     "rainfall_mm_95": 2.8,
     "station_count": 137,
-    "offline_count": 21
-  },
-  {
-    "date": "2023-02-24",
-    "overflowing_count": 1,
-    "overflowing_duration": 3960.0,
-    "rainfall_mm_min": 0.0,
-    "rainfall_mm_avg": 0.343963503649635,
-    "rainfall_mm_max": 1.8,
-    "rainfall_mm_95": 1.2,
-    "station_count": 137,
-    "offline_count": 21
+    "offline_count": 20
   },
   {
     "date": "2023-02-25",
@@ -602,7 +591,7 @@
     "rainfall_mm_max": 1.0,
     "rainfall_mm_95": 0.4,
     "station_count": 137,
-    "offline_count": 20
+    "offline_count": 19
   },
   {
     "date": "2023-02-26",
@@ -613,7 +602,7 @@
     "rainfall_mm_max": 0.7,
     "rainfall_mm_95": 0.2,
     "station_count": 137,
-    "offline_count": 21
+    "offline_count": 20
   },
   {
     "date": "2023-02-27",
@@ -624,78 +613,111 @@
     "rainfall_mm_max": 1.16,
     "rainfall_mm_95": 0.6,
     "station_count": 137,
-    "offline_count": 23
+    "offline_count": 22
   },
   {
     "date": "2023-02-28",
     "overflowing_count": 2,
-    "overflowing_duration": 21780.0,
+    "overflowing_duration": 53460.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 0.09225547445255475,
     "rainfall_mm_max": 1.2,
     "rainfall_mm_95": 0.6,
     "station_count": 137,
-    "offline_count": 24
+    "offline_count": 23
   },
   {
     "date": "2023-03-01",
-    "overflowing_count": 1,
-    "overflowing_duration": 4800.0,
+    "overflowing_count": 2,
+    "overflowing_duration": 39120.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 0.4248029197080292,
     "rainfall_mm_max": 2.2,
     "rainfall_mm_95": 1.6,
     "station_count": 137,
-    "offline_count": 24
+    "offline_count": 23
   },
   {
     "date": "2023-03-02",
-    "overflowing_count": 1,
-    "overflowing_duration": 14400.0,
+    "overflowing_count": 2,
+    "overflowing_duration": 40920.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 0.010306569343065694,
     "rainfall_mm_max": 0.2,
     "rainfall_mm_95": 0.1,
     "station_count": 137,
-    "offline_count": 22
+    "offline_count": 21
+  },
+  {
+    "date": "2023-03-03",
+    "overflowing_count": 1,
+    "overflowing_duration": 29880.0,
+    "rainfall_mm_min": 0.0,
+    "rainfall_mm_avg": 0.010218978102189781,
+    "rainfall_mm_max": 1.0,
+    "rainfall_mm_95": 0.0,
+    "station_count": 137,
+    "offline_count": 20
+  },
+  {
+    "date": "2023-03-04",
+    "overflowing_count": 1,
+    "overflowing_duration": 32280.0,
+    "rainfall_mm_min": 0.0,
+    "rainfall_mm_avg": 0.016176470588235296,
+    "rainfall_mm_max": 0.3,
+    "rainfall_mm_95": 0.2,
+    "station_count": 136,
+    "offline_count": 20
+  },
+  {
+    "date": "2023-03-05",
+    "overflowing_count": 1,
+    "overflowing_duration": 31440.0,
+    "rainfall_mm_min": 0.0,
+    "rainfall_mm_avg": 0.0051094890510948905,
+    "rainfall_mm_max": 0.3,
+    "rainfall_mm_95": 0.0,
+    "station_count": 137,
+    "offline_count": 20
   },
   {
     "date": "2023-03-06",
-    "overflowing_count": 2,
-    "overflowing_duration": 26280.0,
+    "overflowing_count": 3,
+    "overflowing_duration": 59640.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 1.4272773722627736,
     "rainfall_mm_max": 6.0,
     "rainfall_mm_95": 3.6,
     "station_count": 137,
-    "offline_count": 21
+    "offline_count": 20
   },
   {
     "date": "2023-03-07",
-    "overflowing_count": 6,
-    "overflowing_duration": 102960.0,
+    "overflowing_count": 7,
+    "overflowing_duration": 140160.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 3.848912408759124,
     "rainfall_mm_max": 9.9,
     "rainfall_mm_95": 7.0,
     "station_count": 137,
-    "offline_count": 19
+    "offline_count": 18
   },
   {
     "date": "2023-03-08",
-    "overflowing_count": 35,
-    "overflowing_duration": 848580.0,
+    "overflowing_count": 37,
+    "overflowing_duration": 925380.0,
     "rainfall_mm_min": 1.6,
     "rainfall_mm_avg": 10.608389705882352,
     "rainfall_mm_max": 23.5,
     "rainfall_mm_95": 19.0,
     "station_count": 136,
-    "offline_count": 19
+    "offline_count": 18
   },
   {
     "date": "2023-03-09",
-    "overflowing_count": 100,
-    "overflowing_duration": 3398580.0,
+    "overflowing_count": 101,
+    "overflowing_duration": 3418020.0,
     "rainfall_mm_min": 1.7,
     "rainfall_mm_avg": 11.643890510948905,
     "rainfall_mm_max": 29.4,
@@ -705,8 +727,8 @@
   },
   {
     "date": "2023-03-10",
-    "overflowing_count": 121,
-    "overflowing_duration": 7070160.0,
+    "overflowing_count": 123,
+    "overflowing_duration": 7049460.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 4.70189705882353,
     "rainfall_mm_max": 27.6,
@@ -716,8 +738,8 @@
   },
   {
     "date": "2023-03-11",
-    "overflowing_count": 68,
-    "overflowing_duration": 3502080.0,
+    "overflowing_count": 67,
+    "overflowing_duration": 3446220.0,
     "rainfall_mm_min": 0.3,
     "rainfall_mm_avg": 1.4808235294117646,
     "rainfall_mm_max": 4.1,
@@ -727,8 +749,8 @@
   },
   {
     "date": "2023-03-12",
-    "overflowing_count": 44,
-    "overflowing_duration": 1681620.0,
+    "overflowing_count": 45,
+    "overflowing_duration": 1712940.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 1.9685,
     "rainfall_mm_max": 5.8,
@@ -739,7 +761,7 @@
   {
     "date": "2023-03-13",
     "overflowing_count": 42,
-    "overflowing_duration": 2185200.0,
+    "overflowing_duration": 2146320.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 2.072664233576642,
     "rainfall_mm_max": 20.1,
@@ -750,111 +772,353 @@
   {
     "date": "2023-03-14",
     "overflowing_count": 41,
-    "overflowing_duration": 2189700.0,
+    "overflowing_duration": 2137980.0,
     "rainfall_mm_min": 0.2,
     "rainfall_mm_avg": 3.1402262773722627,
     "rainfall_mm_max": 11.0,
     "rainfall_mm_95": 7.0,
     "station_count": 137,
-    "offline_count": 16
+    "offline_count": 18
   },
   {
     "date": "2023-03-15",
     "overflowing_count": 29,
-    "overflowing_duration": 1160460.0,
+    "overflowing_duration": 1125360.0,
     "rainfall_mm_min": 0.9,
     "rainfall_mm_avg": 3.354087591240876,
     "rainfall_mm_max": 8.5,
     "rainfall_mm_95": 6.4,
     "station_count": 137,
-    "offline_count": 15
+    "offline_count": 17
   },
   {
     "date": "2023-03-16",
     "overflowing_count": 34,
-    "overflowing_duration": 1727700.0,
+    "overflowing_duration": 1668540.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 0.9942481751824818,
     "rainfall_mm_max": 5.3,
     "rainfall_mm_95": 2.6,
     "station_count": 137,
-    "offline_count": 17
+    "offline_count": 18
   },
   {
     "date": "2023-03-17",
     "overflowing_count": 33,
-    "overflowing_duration": 1649940.0,
+    "overflowing_duration": 1597020.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 3.3874598540145984,
     "rainfall_mm_max": 12.8,
     "rainfall_mm_95": 7.0,
     "station_count": 137,
-    "offline_count": 16
+    "offline_count": 17
   },
   {
     "date": "2023-03-18",
     "overflowing_count": 44,
-    "overflowing_duration": 2118420.0,
+    "overflowing_duration": 2092560.0,
     "rainfall_mm_min": 0.2,
     "rainfall_mm_avg": 3.889065693430657,
     "rainfall_mm_max": 11.4,
     "rainfall_mm_95": 8.2,
     "station_count": 137,
-    "offline_count": 15
+    "offline_count": 16
   },
   {
     "date": "2023-03-19",
     "overflowing_count": 39,
-    "overflowing_duration": 2505720.0,
+    "overflowing_duration": 2447040.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 0.7469708029197081,
     "rainfall_mm_max": 2.6,
     "rainfall_mm_95": 1.8,
     "station_count": 137,
-    "offline_count": 16
+    "offline_count": 15
   },
   {
     "date": "2023-03-20",
     "overflowing_count": 28,
-    "overflowing_duration": 1499400.0,
+    "overflowing_duration": 1519440.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 1.4043941605839416,
     "rainfall_mm_max": 5.1,
     "rainfall_mm_95": 2.701,
     "station_count": 137,
-    "offline_count": 16
+    "offline_count": 15
   },
   {
     "date": "2023-03-21",
     "overflowing_count": 24,
-    "overflowing_duration": 1180800.0,
+    "overflowing_duration": 1128360.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 0.8854705882352941,
     "rainfall_mm_max": 17.6,
     "rainfall_mm_95": 2.2,
     "station_count": 136,
-    "offline_count": 16
+    "offline_count": 15
   },
   {
     "date": "2023-03-22",
     "overflowing_count": 41,
-    "overflowing_duration": 1578600.0,
+    "overflowing_duration": 1531500.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 5.675058823529412,
     "rainfall_mm_max": 33.217,
     "rainfall_mm_95": 15.7,
     "station_count": 136,
-    "offline_count": 16
+    "offline_count": 15
   },
   {
     "date": "2023-03-23",
     "overflowing_count": 94,
-    "overflowing_duration": 4501920.0,
+    "overflowing_duration": 4448520.0,
     "rainfall_mm_min": 0.0,
     "rainfall_mm_avg": 6.183529411764706,
     "rainfall_mm_max": 15.1,
     "rainfall_mm_95": 11.9,
     "station_count": 136,
+    "offline_count": 14
+  },
+  {
+    "date": "2023-03-24",
+    "overflowing_count": 111,
+    "overflowing_duration": 5706720.0,
+    "rainfall_mm_min": 0.2,
+    "rainfall_mm_avg": 3.8993777777777776,
+    "rainfall_mm_max": 21.615,
+    "rainfall_mm_95": 9.9,
+    "station_count": 135,
+    "offline_count": 14
+  },
+  {
+    "date": "2023-03-25",
+    "overflowing_count": 75,
+    "overflowing_duration": 4326480.0,
+    "rainfall_mm_min": 0.0,
+    "rainfall_mm_avg": 0.856625,
+    "rainfall_mm_max": 4.5,
+    "rainfall_mm_95": 2.599,
+    "station_count": 136,
+    "offline_count": 12
+  },
+  {
+    "date": "2023-03-26",
+    "overflowing_count": 125,
+    "overflowing_duration": 6749820.0,
+    "rainfall_mm_min": 0.3,
+    "rainfall_mm_avg": 8.890455882352942,
+    "rainfall_mm_max": 18.7,
+    "rainfall_mm_95": 14.1,
+    "station_count": 136,
+    "offline_count": 13
+  },
+  {
+    "date": "2023-03-27",
+    "overflowing_count": 75,
+    "overflowing_duration": 4443900.0,
+    "rainfall_mm_min": 0.0,
+    "rainfall_mm_avg": 0.03897058823529412,
+    "rainfall_mm_max": 1.7,
+    "rainfall_mm_95": 0.1,
+    "station_count": 136,
+    "offline_count": 14
+  },
+  {
+    "date": "2023-03-28",
+    "overflowing_count": 59,
+    "overflowing_duration": 3030240.0,
+    "rainfall_mm_min": 0.3,
+    "rainfall_mm_avg": 3.4246,
+    "rainfall_mm_max": 6.3,
+    "rainfall_mm_95": 5.2,
+    "station_count": 135,
+    "offline_count": 14
+  },
+  {
+    "date": "2023-03-29",
+    "overflowing_count": 108,
+    "overflowing_duration": 3453360.0,
+    "rainfall_mm_min": 0.1,
+    "rainfall_mm_avg": 5.482096296296296,
+    "rainfall_mm_max": 13.0,
+    "rainfall_mm_95": 11.2,
+    "station_count": 135,
     "offline_count": 16
+  },
+  {
+    "date": "2023-03-30",
+    "overflowing_count": 84,
+    "overflowing_duration": 4578120.0,
+    "rainfall_mm_min": 0.0,
+    "rainfall_mm_avg": 4.391109489051095,
+    "rainfall_mm_max": 15.8,
+    "rainfall_mm_95": 11.9,
+    "station_count": 137,
+    "offline_count": 14
+  },
+  {
+    "date": "2023-03-31",
+    "overflowing_count": 244,
+    "overflowing_duration": 11158500.0,
+    "rainfall_mm_min": 0.0,
+    "rainfall_mm_avg": 20.000226277372263,
+    "rainfall_mm_max": 47.5,
+    "rainfall_mm_95": 33.5,
+    "station_count": 137,
+    "offline_count": 14
+  },
+  {
+    "date": "2023-04-01",
+    "overflowing_count": 192,
+    "overflowing_duration": 13148640.0,
+    "rainfall_mm_min": 0.0,
+    "rainfall_mm_avg": 2.841897810218978,
+    "rainfall_mm_max": 19.798,
+    "rainfall_mm_95": 12.0,
+    "station_count": 137,
+    "offline_count": 14
+  },
+  {
+    "date": "2023-04-02",
+    "overflowing_count": 131,
+    "overflowing_duration": 8241120.0,
+    "rainfall_mm_min": 0.0,
+    "rainfall_mm_avg": 0.13672058823529412,
+    "rainfall_mm_max": 1.3,
+    "rainfall_mm_95": 0.6,
+    "station_count": 136,
+    "offline_count": 14
+  },
+  {
+    "date": "2023-04-03",
+    "overflowing_count": 90,
+    "overflowing_duration": 5632260.0,
+    "rainfall_mm_min": 0.0,
+    "rainfall_mm_avg": 0.06985294117647059,
+    "rainfall_mm_max": 7.4,
+    "rainfall_mm_95": 0.1,
+    "station_count": 136,
+    "offline_count": 14
+  },
+  {
+    "date": "2023-04-05",
+    "overflowing_count": 58,
+    "overflowing_duration": 3349140.0,
+    "rainfall_mm_min": 0.0,
+    "rainfall_mm_avg": 0.22982835820895522,
+    "rainfall_mm_max": 4.1,
+    "rainfall_mm_95": 1.2,
+    "station_count": 134,
+    "offline_count": 15
+  },
+  {
+    "date": "2023-04-06",
+    "overflowing_count": 62,
+    "overflowing_duration": 3588780.0,
+    "rainfall_mm_min": 0.2,
+    "rainfall_mm_avg": 2.6242941176470587,
+    "rainfall_mm_max": 11.502,
+    "rainfall_mm_95": 6.7,
+    "station_count": 136,
+    "offline_count": 13
+  },
+  {
+    "date": "2023-04-07",
+    "overflowing_count": 45,
+    "overflowing_duration": 2565960.0,
+    "rainfall_mm_min": 0.0,
+    "rainfall_mm_avg": 0.05085925925925926,
+    "rainfall_mm_max": 0.7,
+    "rainfall_mm_95": 0.4,
+    "station_count": 135,
+    "offline_count": 13
+  },
+  {
+    "date": "2023-04-08",
+    "overflowing_count": 37,
+    "overflowing_duration": 1965840.0,
+    "rainfall_mm_min": 0.0,
+    "rainfall_mm_avg": 0.013333333333333334,
+    "rainfall_mm_max": 0.2,
+    "rainfall_mm_95": 0.1,
+    "station_count": 135,
+    "offline_count": 13
+  },
+  {
+    "date": "2023-04-09",
+    "overflowing_count": 29,
+    "overflowing_duration": 1711800.0,
+    "rainfall_mm_min": 0.0,
+    "rainfall_mm_avg": 0.032410447761194026,
+    "rainfall_mm_max": 0.6,
+    "rainfall_mm_95": 0.2,
+    "station_count": 134,
+    "offline_count": 13
+  },
+  {
+    "date": "2023-04-10",
+    "overflowing_count": 81,
+    "overflowing_duration": 3115320.0,
+    "rainfall_mm_min": 0.0,
+    "rainfall_mm_avg": 9.140466666666667,
+    "rainfall_mm_max": 20.9,
+    "rainfall_mm_95": 13.256,
+    "station_count": 135,
+    "offline_count": 13
+  },
+  {
+    "date": "2023-04-11",
+    "overflowing_count": 109,
+    "overflowing_duration": 3370440.0,
+    "rainfall_mm_min": 0.3,
+    "rainfall_mm_avg": 8.787860294117648,
+    "rainfall_mm_max": 19.0,
+    "rainfall_mm_95": 16.1,
+    "station_count": 136,
+    "offline_count": 15
+  },
+  {
+    "date": "2023-04-12",
+    "overflowing_count": 117,
+    "overflowing_duration": 6683820.0,
+    "rainfall_mm_min": 0.4,
+    "rainfall_mm_avg": 5.459007407407407,
+    "rainfall_mm_max": 20.6,
+    "rainfall_mm_95": 15.072,
+    "station_count": 135,
+    "offline_count": 16
+  },
+  {
+    "date": "2023-04-13",
+    "overflowing_count": 88,
+    "overflowing_duration": 4926720.0,
+    "rainfall_mm_min": 0.0,
+    "rainfall_mm_avg": 0.5436666666666666,
+    "rainfall_mm_max": 8.5,
+    "rainfall_mm_95": 2.1,
+    "station_count": 135,
+    "offline_count": 13
+  },
+  {
+    "date": "2023-04-14",
+    "overflowing_count": 99,
+    "overflowing_duration": 3671760.0,
+    "rainfall_mm_min": 0.5,
+    "rainfall_mm_avg": 7.335444444444445,
+    "rainfall_mm_max": 14.7,
+    "rainfall_mm_95": 10.8,
+    "station_count": 135,
+    "offline_count": 14
+  },
+  {
+    "date": "2023-04-15",
+    "overflowing_count": 80,
+    "overflowing_duration": 4758720.0,
+    "rainfall_mm_min": 0.0,
+    "rainfall_mm_avg": 0.9260444444444444,
+    "rainfall_mm_max": 9.6,
+    "rainfall_mm_95": 3.2,
+    "station_count": 135,
+    "offline_count": 14
   }
 ]
