@@ -449,12 +449,6 @@ load-bathing-classification: bathing_classification_create.sql bathing_classific
 	$(PSQL) -f $(word 2,$^)
 
 
-.PHONY: load-beach-mappings
-load-beach-mappings: beach_mapping.sql beach_mapping_load.sql load-bathing-classification
-	$(PSQL) -f $<
-	$(PSQL) -f $(word 2,$^)
-
-
 .PHONY: load-bathing-areas
 load-bathing-areas: $(DOWNLOAD)/bathing/data/Sensitive_Areas_Bathing_Waters.sql $(DOWNLOAD)/bathing/data/NRW_UWWTD_SA_BATHING_WATERSPolygon.sql $(DOWNLOAD)/bathing/data/Areas_Affecting_Bathing_Waters.sql bathing_locations_view.sql
 	$(PSQL) -f $<
