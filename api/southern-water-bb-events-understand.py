@@ -56,6 +56,9 @@ class Incident:
         if self.updated:
             self.events = sorted(self.events, key=lambda e: e.when)
 
+    def count(self):
+        return len(self.events)
+
     def event_id(self) -> str:
         self._sort()
         return self.events[-1].eventId
@@ -142,7 +145,7 @@ if __name__ == "__main__":
 
     with (folder / "summary.csv").open("w") as fh:
         csvfile = csv.DictWriter(fh, fieldnames=[
-            "event_id", "outfall", "site", "first_seen", "last_seen", "start", "end", "duration_minutes", "duration_hours",
+            "event_id", "event_count", "outfall", "site", "first_seen", "last_seen", "start", "end", "duration_minutes", "duration_hours",
             "is_reviewed", "is_genuine", "is_non_genuine", "is_impacting", "is_non_impacting"
         ])
         csvfile.writeheader()
@@ -150,6 +153,7 @@ if __name__ == "__main__":
         for incident in incidents:
             csvfile.writerow({
                 "event_id": incident.event_id(),
+                "event_count": incident.count(),
                 "outfall": incident.outfall(),
                 "site": incident.bathing(),
                 "first_seen": incident.first_seen(),
