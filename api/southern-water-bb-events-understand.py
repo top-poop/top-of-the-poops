@@ -54,6 +54,7 @@ class Incident:
 
     def _sort(self):
         if self.updated:
+            self.updated = False
             self.events = sorted(self.events, key=lambda e: e.when)
 
     def count(self):
