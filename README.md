@@ -52,6 +52,32 @@ Contributions are welcome - especially CSS / Javascript improvements! But please
 
 This has been developed on Linux, the makefiles may or may not work on a Mac.
 
+### Pre-requisites
+
+**Ensure you have python3 venv installed**:
+
+```shell
+sudo apt install python3.10-venv
+```
+
+**Install GDAL/OGR packages**:
+
+https://mothergeo-py.readthedocs.io/en/latest/development/how-to/gdal-ubuntu-pkg.html
+
+**Install  mdbtools**:
+
+```shell
+apt-get install mdbtools
+```
+
+**Start the PostgreSQL database**:
+
+```shell
+docker compose up
+```
+
+_If you have postgreSQL installed, you may need to stop your postgreSQL service_
+
 ### Setting up the database
 
 ```shell
