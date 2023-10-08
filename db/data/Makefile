@@ -2,6 +2,7 @@
 DOWNLOAD=download
 
 CONSTITUENCIES_NAME=Westminster_Parliamentary_Constituencies_December_2020_UK_BFC.zip
+NEW_CONSTITUENCIES_NAME=parl_constituencies_2025.gpkg
 
 ROOT_DIR:=$(shell dirname $(realpath $(firstword $(MAKEFILE_LIST))))
 
@@ -34,7 +35,7 @@ load-mps: mps.sql load_mps.sql $(DOWNLOAD)/mps.csv
 	$(PSQL) -f $(word 2,$^)
 
 
-## Constituencies
+## Pre-boundary review Constituencies
 
 $(DOWNLOAD)/$(CONSTITUENCIES_NAME):
 	@mkdir -p $(DOWNLOAD)
@@ -50,6 +51,21 @@ $(DOWNLOAD)/PCON_DEC_2020_UK_BFC.shp: $(DOWNLOAD)/$(CONSTITUENCIES_NAME)
 
 .PHONY: load-constituencies
 load-constituencies: $(DOWNLOAD)/PCON_DEC_2020_UK_BFC.sql
+	$(PSQL) -f $<
+
+
+## Post-boundary review Constituencies
+
+$(DOWNLOAD)/$(NEW_CONSTITUENCIES_NAME):
+	@mkdir -p $(DOWNLOAD)
+	$(CURL) -o $@ 'https://pages.mysociety.org/2025-constituencies/data/parliament_con_2025/latest/parl_constituencies_2025.gpkg'
+
+$(DOWNLOAD)/parl_constituencies_2025.sql: $(DOWNLOAD)/$(NEW_CONSTITUENCIES_NAME)
+	$(OGR2OGR) $@ $<
+	sed -i -e 's/NUMERIC(24,15)/NUMERIC/' $@
+
+.PHONY: load-new-constituencies-eng
+load-new-constituencies: $(DOWNLOAD)/parl_constituencies_2025.sql
 	$(PSQL) -f $<
 
 
@@ -467,7 +483,7 @@ load-edm-consent-view: edm_consent_view.sql bathing_views.sql load-edm load-cons
 load-sewage: load-consents load-edm load-edm-consent-view
 
 .PHONY: load-politics
-load-politics: load-constituencies load-mps load-mps-twitter
+load-politics: load-new-constituencies load-mps
 
 .PHONY: load-all
 load-all: load-politics load-sewage load-grid-references
