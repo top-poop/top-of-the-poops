@@ -12,7 +12,7 @@ create materialized view consents_unique_view as
 with duplicate_consents as (
 select count(*) over (partition by consents.permit_number)                                  as count,
                                    row_number()
-                                   over (partition by consents.permit_number order by revocation_date desc nulls first) as rn,
+                                   over (partition by consents.permit_number order by outlet_type_description desc, revocation_date desc nulls first) as rn,
                                    consents.*
                             from consents)
          select *
