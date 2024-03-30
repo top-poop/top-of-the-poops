@@ -1,48 +1,50 @@
 #!/usr/bin/env python
 import argparse
-import contextlib
 import csv
 import re
 import sys
+from typing import Callable, Iterable, Tuple
+from typing import TypeVar
 
 import osgb
+import psycopg2
+
+T = TypeVar('T')
 
 
-@contextlib.contextmanager
-def smart_open(filename=None):
-    if filename and filename != '-':
-        fh = open(filename, 'w')
-    else:
-        fh = sys.stdout
+def iter_row(cursor, size=10, f: Callable[[Tuple], T] = lambda t: t) -> Iterable[T]:
+    while True:
+        rows = cursor.fetchmany(size)
+        if not rows:
+            break
+        for row in rows:
+            yield f(row)
 
-    try:
-        yield fh
-    finally:
-        if fh is not sys.stdout:
-            fh.close()
 
+def select_many(connection, sql, params=None, f: Callable[[Tuple], T] = lambda t: t) -> Iterable[T]:
+    with connection.cursor() as cursor:
+        cursor.execute(sql, params)
+        yield from iter_row(cursor, size=100, f=f)
+
+
+select_sql = """
+    select outlet_grid_ref, effluent_grid_ref from consents
+"""
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="run sql script and make json")
-    parser.add_argument("input", help="consents file")
     parser.add_argument("output", default="-", nargs="?", help="output file")
 
     args = parser.parse_args()
 
-    with open(args.input) as ifp:
+    references = set()
 
-        input_csv = csv.reader(ifp)
-        next(input_csv)
+    with psycopg2.connect(host="localhost", database="gis", user="docker", password="docker") as conn:
+        for o, r in select_many(conn, select_sql, f=lambda row: (row[0], row[1])):
+            references.add(o)
+            references.add(r)
 
-        references = set()
-
-        for row in input_csv:
-            outlet_grid_reference = row[28]
-            references.add(outlet_grid_reference)
-            effluent_grid_ref = row[32]
-            references.add(effluent_grid_ref)
-
-    with smart_open(args.output) as fp:
+    with open(args.output, "w") as fp:
 
         writer = csv.writer(fp)
 
@@ -68,4 +70,4 @@ if __name__ == "__main__":
 
             (lat, lon) = osgb.grid_to_ll(easting=easting, northing=northing)
 
-            writer.writerow([grid_reference, lat, lon])
+            writer.writerow([grid_reference, lat, lon, '', ''])

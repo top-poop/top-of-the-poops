@@ -219,12 +219,91 @@ $(DOWNLOAD)/edm-2022/company/yorkshire.csv: $(DOWNLOAD)/edm-2022/all.xslx
 $(DOWNLOAD)/edm-2022/edm-consolidated.csv: process_edms_2022.py $(EDM_2022_RETURNS)
 		$(PYTHON) process_edms_2022.py $@ $^
 
+
+
+
+########## EDM 2023 ####################
+
+# EDM 2023
+
+EDM_ZIP_2023=EDM_2023_Storm_Overflow_Annual_Return.zip
+
+# jump through hoops to make a filename with no spaces
+$(DOWNLOAD)/edm-2023/all.xslx: $(DOWNLOAD)/$(EDM_ZIP_2023)
+	mkdir -p $(dir $@)
+	unzip -o -d $(DOWNLOAD)/edm-2023 $<
+	cp "$(dir $@)/EDM_2023_Storm_Overflow_Annual_Return/EDM 2023 Storm Overflow Annual Return - all water and sewerage companies.xlsx" $@
+
+
+EDM_2023_NAMES=anglian dcww northumbrian severn-trent south-west southern thames united wessex yorkshire
+EDM_2023_RETURNS=$(foreach name,$(EDM_2023_NAMES),$(DOWNLOAD)/edm-2023/company/$(name).csv)
+
+$(DOWNLOAD)/edm-2023/company/anglian.csv: $(DOWNLOAD)/edm-2023/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 1 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2023/company/dcww.csv: $(DOWNLOAD)/edm-2023/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 2 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2023/company/northumbrian.csv: $(DOWNLOAD)/edm-2023/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 3 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2023/company/severn-trent.csv: $(DOWNLOAD)/edm-2023/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 4 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2023/company/south-west.csv: $(DOWNLOAD)/edm-2023/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 5 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2023/company/southern.csv: $(DOWNLOAD)/edm-2023/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 6 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2023/company/thames.csv: $(DOWNLOAD)/edm-2023/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 7 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2023/company/united.csv: $(DOWNLOAD)/edm-2023/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 8 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2023/company/wessex.csv: $(DOWNLOAD)/edm-2023/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 9 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2023/company/yorkshire.csv: $(DOWNLOAD)/edm-2023/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 10 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2023/edm-consolidated.csv: process_edms_2023.py $(EDM_2023_RETURNS)
+		$(PYTHON) process_edms_2023.py $@ $^
+
+
+.PHONY: load-edm-2023
+load-edm-2023: load_edm_2023.sql $(DOWNLOAD)/edm-2023/edm-consolidated.csv
+	$(PSQL) -f $<
+
+
 ######################
 
+
+.PHONY: load-edm-2022
+load-edm-2022: load_edm_2022.sql $(DOWNLOAD)/edm-2022/edm-consolidated.csv $(DOWNLOAD)/edm-wales-2022/edm-consolidated.csv
+	$(PSQL) -f $<
+
+
 .PHONY: load-edm
-load-edm: edm.sql load_edm.sql $(DOWNLOAD)/edm-consolidated.csv $(DOWNLOAD)/edm-2021/edm-consolidated.csv $(DOWNLOAD)/edm-2022/edm-consolidated.csv $(DOWNLOAD)/edm-wales-2021/edm-consolidated.csv $(DOWNLOAD)/edm-wales-2022/edm-consolidated.csv
+load-edm: edm.sql load_edm.sql $(DOWNLOAD)/edm-consolidated.csv $(DOWNLOAD)/edm-2021/edm-consolidated.csv  $(DOWNLOAD)/edm-wales-2021/edm-consolidated.csv
 	$(PSQL) -f $<
 	$(PSQL) -f $(word 2,$^)
+
+.PHONY: load-scotland
+load-scotland: load_scotland.sql
+	$(PSQL) -f $<
+
 
 ## Welsh Water Consents & EDMs
 
@@ -293,12 +372,21 @@ $(EDM_WALES_2022)/edm-emergency.xlsx:
 	mkdir -p $(dir $@)
 	$(CURL) -o $@ 'https://corporate.dwrcymru.com/-/media/Project/Files/Page-Documents/Corporate/Environment/Combined-Storm-Overflows/Annual-Emergency-Overflow-Annual-EDM-return---DCWW-2022.ashx'
 
-$(EDM_WALES_2022)/edm-emergency.csv: $(EDM_WALES_2022)/edm-emergency.xlsx
-	$(XLSX2CSV) -s 2 $< $@ 2> /dev/null
-
 $(EDM_WALES_2022)/edm-emergency-2.xlsx:
 	mkdir -p $(dir $@)
 	$(CURL) -o $@ 'https://corporate.dwrcymru.com/-/media/Project/Files/Page-Documents/Corporate/Environment/Combined-Storm-Overflows/NRW-Annual-Emergency-Overflow--Unpermitted-Storm-Overflow-EDM-return---DCWW-2022.ashx'
+
+$(EDM_WALES_2022)/edm-storm.xlsx:
+	mkdir -p $(dir $@)
+	$(CURL) -o $@ 'https://corporate.dwrcymru.com/-/media/Project/Files/Page-Documents/Corporate/Environment/Combined-Storm-Overflows/Annual-Storm-Overflow-EDM-return---DCWW-2022.ashx'
+
+$(EDM_WALES_2022)/edm-annual.xlsx:
+	mkdir -p $(dir $@)
+	$(CURL) -o $@ 'https://corporate.dwrcymru.com/-/media/Project/Files/Page-Documents/Corporate/Environment/Combined-Storm-Overflows/NRW-Annual-incl-Shellfish-Waters-Storm-Overflow-EDM-return--DCWW-2022.ashx'
+
+
+$(EDM_WALES_2022)/edm-emergency.csv: $(EDM_WALES_2022)/edm-emergency.xlsx
+	$(XLSX2CSV) -s 2 $< $@ 2> /dev/null
 
 $(EDM_WALES_2022)/edm-emergency-2.csv: $(EDM_WALES_2022)/edm-emergency-and-unpermitted.xlsx
 	$(XLSX2CSV) -s 1 $< $@ 2> /dev/null
@@ -306,16 +394,8 @@ $(EDM_WALES_2022)/edm-emergency-2.csv: $(EDM_WALES_2022)/edm-emergency-and-unper
 $(EDM_WALES_2022)/edm-unpermitted.csv: $(EDM_WALES_2022)/edm-emergency-and-unpermitted.xlsx
 	$(XLSX2CSV) -s 2 $< $@ 2> /dev/null
 
-$(EDM_WALES_2022)/edm-storm.xlsx:
-	mkdir -p $(dir $@)
-	$(CURL) -o $@ 'https://corporate.dwrcymru.com/-/media/Project/Files/Page-Documents/Corporate/Environment/Combined-Storm-Overflows/Annual-Storm-Overflow-EDM-return---DCWW-2022.ashx'
-
 $(EDM_WALES_2022)/edm-storm.csv: $(EDM_WALES_2022)/edm-storm.xlsx
 	$(XLSX2CSV) -s 1 $< $@ 2> /dev/null
-
-$(EDM_WALES_2022)/edm-annual.xlsx:
-	mkdir -p $(dir $@)
-	$(CURL) -o $@ 'https://corporate.dwrcymru.com/-/media/Project/Files/Page-Documents/Corporate/Environment/Combined-Storm-Overflows/NRW-Annual-incl-Shellfish-Waters-Storm-Overflow-EDM-return--DCWW-2022.ashx'
 
 $(EDM_WALES_2022)/edm-annual.csv: $(EDM_WALES_2022)/edm-annual.xlsx
 	$(XLSX2CSV) -s 1 $< $@ 2> /dev/null
@@ -331,13 +411,47 @@ $(EDM_WALES_2022)/edm-consolidated.csv: process_edms_2022_wales.py $(EDM_WALES_2
 			--england $(DOWNLOAD)/edm-2022/edm-consolidated.csv $@
 
 
+########### WALES EDM 2023 ##################
+
+# CURL commands do not work due to SSL config of Dwr Cmyru site... 'unsafe legacy renegotiation disabled'
+
+EDM_WALES_2023=$(DOWNLOAD)/edm-wales-2023
+EDM_WALES_2023_XLS=$(wildcard $(EDM_WALES_2023)/*.xlsx)
+EDM_WALES_2023_CSVS=$(EDM_WALES_2023_XLS:.xlsx=.csv)
+
+wales-2023-clean:
+	rm $(EDM_WALES_2023)/*.csv
+
+$(EDM_WALES_2023)/edm-emergency.csv: $(EDM_WALES_2023)/edm-emergency.xlsx
+	$(XLSX2CSV) -s 1 $< $@ 2> /dev/null
+
+$(EDM_WALES_2023)/edm-emergency-2.csv: $(EDM_WALES_2023)/edm-emergency-2.xlsx
+	$(XLSX2CSV) -s 1 $< $@ 2> /dev/null
+
+$(EDM_WALES_2023)/edm-unpermitted.csv: $(EDM_WALES_2023)/edm-unpermitted.xlsx
+	$(XLSX2CSV) -s 1 $< $@ 2> /dev/null
+
+$(EDM_WALES_2023)/edm-storm.csv: $(EDM_WALES_2023)/edm-storm.xlsx
+	$(XLSX2CSV) -s 1 $< $@ 2> /dev/null
+
+$(EDM_WALES_2023)/edm-annual.csv: $(EDM_WALES_2023)/edm-annual.xlsx
+	$(XLSX2CSV) -s 1 $< $@ 2> /dev/null
+
+$(EDM_WALES_2023)/edm-consolidated.csv: process_edms_2023_wales.py $(EDM_WALES_2023_CSVS)
+	echo $(EDM_WALES_2023_CSVS)
+
+	$(PYTHON) process_edms_2023_wales.py \
+			--storm $(EDM_WALES_2023)/edm-storm.csv \
+			--emergency $(EDM_WALES_2023)/edm-emergency.csv \
+			--emergency-2 $(EDM_WALES_2023)/edm-emergency-2.csv \
+			--annual $(EDM_WALES_2023)/edm-annual.csv \
+			--england $(DOWNLOAD)/edm-2023/edm-consolidated.csv $@
+
+
+
 #####################
 
-
-## Grid References
-
-$(DOWNLOAD)/grid-references.csv: $(DOWNLOAD)/consents-consolidated.csv convert-grid-references.py
-	$(PYTHON) convert-grid-references.py $< $@
+.FORCE:
 
 
 ## Rivers England
@@ -396,11 +510,18 @@ load-beach-mappings: bathing-classification-load.sql edm-bathing-to-beach-mappin
 
 # must run after load-constituencies and load-edm-consent-view
 # but can't be bothered to make the dependencies work right now, just run it after.
-.PHONY: load-grid-references
-load-grid-references: grid_references.sql load_grid_references.sql update_grid_references.sql $(DOWNLOAD)/grid-references.csv
+
+## Grid References
+
+$(DOWNLOAD)/grid-references.csv: convert-grid-references.py .FORCE
+	$(PYTHON) convert-grid-references.py $@
+
+grid-references: grid_references.sql
 	$(PSQL) -f $<
-	$(PSQL) -f $(word 2,$^)
-	$(PSQL) -f $(word 3,$^)
+
+.PHONY: load-grid-references
+load-grid-references: load_grid_references.sql $(DOWNLOAD)/grid-references.csv
+	$(PSQL) -f $<
 
 ## Thames Water Live Data
 

@@ -1,6 +1,7 @@
 import contextlib
 import csv
 import dataclasses
+import pathlib
 from dataclasses import dataclass
 from typing import Optional
 
@@ -28,8 +29,45 @@ class EDM:
     spill_high_planning: str
 
 
+@dataclass(frozen=True)
+class Consent:
+    company_name: str
+    discharge_site_name: str
+    discharge_site_type_code: str
+    dsi_type_description: str
+    add_of_discharge_site_line_1: str
+    add_of_discharge_site_line_2: str
+    add_of_discharge_site_line_3: str
+    add_of_discharge_site_line_4: str
+    add_of_discharge_site_pcode: str
+    district_council: str
+    discharge_ngr: str
+    catc_name: str
+    catchment_code: str
+    ea_region: str
+    source: str
+    permit_number: str
+    permit_version: str
+    receiving_water: str
+    receiving_environ_type_code: str
+    rec_env_code_description: str
+    issued_date: str
+    effective_date: str
+    revocation_date: str
+    status_of_permit: str
+    status_description: str
+    outlet_number: str
+    outlet_type_code: str
+    outlet_type_description: str
+    outlet_grid_ref: str
+    effluent_number: str
+    effluent_type: str
+    eff_type_description: str
+    effluent_grid_ref: str
+
+
 @contextlib.contextmanager
-def edm_writer(output):
+def edm_writer(output: pathlib.Path):
     with open(output, "w") as out:
         writer = csv.DictWriter(out, ["reporting_year", "company_name",
                                       "site_name",
@@ -54,5 +92,11 @@ def edm_writer(output):
         writer.writeheader()
         yield lambda edm: writer.writerow(dataclasses.asdict(edm))
 
+@contextlib.contextmanager
+def consent_writer(output: pathlib.Path):
+    with open(output, "w") as out:
 
+        writer = csv.DictWriter(out, [f.name for f in dataclasses.fields(Consent)])
+        writer.writeheader()
 
+        yield lambda consent: writer.writerow(dataclasses.asdict(consent))

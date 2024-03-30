@@ -9,43 +9,7 @@ from collections import namedtuple
 
 from bodges import process_receiving_water
 from process_edms_2021 import ensure_numeric_or_empty, ensure_zero_if_empty, ensure_is_percentage
-from edm_types import EDM, edm_writer
-
-Consent = namedtuple("Consent", [
-    "company_name",
-    "discharge_site_name",
-    "discharge_site_type_code",
-    "dsi_type_description",
-    "add_of_discharge_site_line_1",
-    "add_of_discharge_site_line_2",
-    "add_of_discharge_site_line_3",
-    "add_of_discharge_site_line_4",
-    "add_of_discharge_site_pcode",
-    "district_council",
-    "discharge_ngr",
-    "catc_name",
-    "catchment_code",
-    "ea_region",
-    "source",
-    "permit_number",
-    "permit_version",
-    "receiving_water",
-    "receiving_environ_type_code",
-    "rec_env_code_description",
-    "issued_date",
-    "effective_date",
-    "revocation_date",
-    "status_of_permit",
-    "status_description",
-    "outlet_number",
-    "outlet_type_code",
-    "outlet_type_description",
-    "outlet_grid_ref",
-    "effluent_number",
-    "effluent_type",
-    "eff_type_description",
-    "effluent_grid_ref"
-])
+from edm_types import EDM, edm_writer, Consent
 
 ConsentWales = namedtuple("ConsentWales", [
     "permit_holder",
