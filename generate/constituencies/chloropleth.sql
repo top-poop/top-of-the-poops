@@ -37,5 +37,4 @@ from pcon_dec_2020_uk_bfc con
          left join reports_2020 on reports_2021.constituency = reports_2020.constituency
          left join mps on reports_2021.constituency = mps.constituency
          left join mps_twitter on mps.constituency = mps_twitter.constituency
-where con.pcon20cd like 'E%' or con.pcon20cd like 'W%'
 order by constituency

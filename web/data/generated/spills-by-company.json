@@ -5,7 +5,7 @@
     "hours": 170546.61,
     "count": 17428.0,
     "location_count": 609,
-    "consent_count": 2890
+    "consent_count": 2886
   },
   {
     "reporting_year": 2021,
@@ -13,7 +13,23 @@
     "hours": 194594.006,
     "count": 21351.0,
     "location_count": 746,
-    "consent_count": 2890
+    "consent_count": 2886
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Anglian Water",
+    "hours": 89513.841,
+    "count": 16082.0,
+    "location_count": 916,
+    "consent_count": 2886
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Anglian Water",
+    "hours": 273162.76,
+    "count": 31623.0,
+    "location_count": 1170,
+    "consent_count": 2886
   },
   {
     "reporting_year": 2020,
@@ -21,7 +37,7 @@
     "hours": 889631.75,
     "count": 108462.0,
     "location_count": 1884,
-    "consent_count": 3334
+    "consent_count": 3335
   },
   {
     "reporting_year": 2021,
@@ -29,7 +45,23 @@
     "hours": 824675.0,
     "count": 101522.0,
     "location_count": 2090,
-    "consent_count": 3334
+    "consent_count": 3335
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Dwr Cymru Welsh Water",
+    "hours": 573201.25,
+    "count": 81937.0,
+    "location_count": 1831,
+    "consent_count": 3335
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Dwr Cymru Welsh Water",
+    "hours": 971403.75,
+    "count": 113538.0,
+    "location_count": 1982,
+    "consent_count": 3335
   },
   {
     "reporting_year": 2020,
@@ -48,12 +80,44 @@
     "consent_count": 1817
   },
   {
+    "reporting_year": 2022,
+    "company_name": "Northumbrian Water",
+    "hours": 107536.12,
+    "count": 29697.0,
+    "location_count": 1255,
+    "consent_count": 1817
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Northumbrian Water",
+    "hours": 280029.235,
+    "count": 46492.0,
+    "location_count": 1382,
+    "consent_count": 1817
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Scottish Water",
+    "hours": 192169.97916666666,
+    "count": 19720.0,
+    "location_count": 209,
+    "consent_count": 673
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Scottish Water",
+    "hours": 221002.37916666668,
+    "count": 21660.0,
+    "location_count": 210,
+    "consent_count": 673
+  },
+  {
     "reporting_year": 2020,
     "company_name": "Severn Trent Water",
     "hours": 558699.36,
     "count": 60982.0,
     "location_count": 1920,
-    "consent_count": 3089
+    "consent_count": 3087
   },
   {
     "reporting_year": 2021,
@@ -61,7 +125,23 @@
     "hours": 461127.672,
     "count": 59676.0,
     "location_count": 1981,
-    "consent_count": 3089
+    "consent_count": 3087
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Severn Trent Water",
+    "hours": 249115.569,
+    "count": 44765.0,
+    "location_count": 1948,
+    "consent_count": 3087
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Severn Trent Water",
+    "hours": 440446.19,
+    "count": 60253.0,
+    "location_count": 2071,
+    "consent_count": 3087
   },
   {
     "reporting_year": 2020,
@@ -74,9 +154,25 @@
   {
     "reporting_year": 2021,
     "company_name": "South West Water",
-    "hours": 349571.46,
-    "count": 42261.0,
-    "location_count": 916,
+    "hours": 349637.21,
+    "count": 42306.0,
+    "location_count": 917,
+    "consent_count": 1715
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "South West Water",
+    "hours": 289507.93,
+    "count": 37587.0,
+    "location_count": 1009,
+    "consent_count": 1715
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "South West Water",
+    "hours": 530736.94,
+    "count": 58249.0,
+    "location_count": 1117,
     "consent_count": 1715
   },
   {
@@ -96,12 +192,28 @@
     "consent_count": 1081
   },
   {
+    "reporting_year": 2022,
+    "company_name": "Southern Water",
+    "hours": 146819.491,
+    "count": 16688.0,
+    "location_count": 755,
+    "consent_count": 1081
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Southern Water",
+    "hours": 317284.9,
+    "count": 29494.0,
+    "location_count": 816,
+    "consent_count": 1081
+  },
+  {
     "reporting_year": 2020,
     "company_name": "Thames Water",
     "hours": 215886.57,
     "count": 18443.0,
     "location_count": 419,
-    "consent_count": 873
+    "consent_count": 871
   },
   {
     "reporting_year": 2021,
@@ -109,7 +221,23 @@
     "hours": 163089.82,
     "count": 14713.0,
     "location_count": 420,
-    "consent_count": 873
+    "consent_count": 871
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Thames Water",
+    "hours": 74693.265,
+    "count": 8014.0,
+    "location_count": 378,
+    "consent_count": 871
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Thames Water",
+    "hours": 196414.05,
+    "count": 16990.0,
+    "location_count": 494,
+    "consent_count": 871
   },
   {
     "reporting_year": 2020,
@@ -117,7 +245,7 @@
     "hours": 726450.26,
     "count": 113940.0,
     "location_count": 1852,
-    "consent_count": 2931
+    "consent_count": 2928
   },
   {
     "reporting_year": 2021,
@@ -125,7 +253,23 @@
     "hours": 540753.06,
     "count": 81588.0,
     "location_count": 1745,
-    "consent_count": 2931
+    "consent_count": 2928
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "United Utilities",
+    "hours": 425490.63,
+    "count": 69245.0,
+    "location_count": 1670,
+    "consent_count": 2928
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "United Utilities",
+    "hours": 656014.27,
+    "count": 97537.0,
+    "location_count": 1944,
+    "consent_count": 2928
   },
   {
     "reporting_year": 2020,
@@ -133,7 +277,7 @@
     "hours": 236908.6,
     "count": 29014.0,
     "location_count": 843,
-    "consent_count": 1409
+    "consent_count": 1370
   },
   {
     "reporting_year": 2021,
@@ -141,7 +285,23 @@
     "hours": 151258.33,
     "count": 23524.0,
     "location_count": 923,
-    "consent_count": 1409
+    "consent_count": 1370
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Wessex Water",
+    "hours": 129957.335,
+    "count": 21878.0,
+    "location_count": 994,
+    "consent_count": 1370
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Wessex Water",
+    "hours": 372340.814,
+    "count": 41453.0,
+    "location_count": 1118,
+    "consent_count": 1370
   },
   {
     "reporting_year": 2020,
@@ -149,7 +309,7 @@
     "hours": 420419.42,
     "count": 65083.0,
     "location_count": 1777,
-    "consent_count": 1522
+    "consent_count": 1523
   },
   {
     "reporting_year": 2021,
@@ -157,6 +317,22 @@
     "hours": 405876.612,
     "count": 69906.0,
     "location_count": 1790,
-    "consent_count": 1522
+    "consent_count": 1523
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Yorkshire Water",
+    "hours": 231873.456,
+    "count": 54158.0,
+    "location_count": 1757,
+    "consent_count": 1523
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Yorkshire Water",
+    "hours": 516386.47,
+    "count": 77761.0,
+    "location_count": 1861,
+    "consent_count": 1523
   }
 ]

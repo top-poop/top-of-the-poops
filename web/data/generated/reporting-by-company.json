@@ -1731,7 +1731,7 @@
     "reporting_year": 2021,
     "bin": 100.0,
     "company_name": "South West Water",
-    "count": 843
+    "count": 844
   },
   {
     "reporting_year": 2021,
@@ -2278,5 +2278,2555 @@
     "bin": 100.0,
     "company_name": "Yorkshire Water",
     "count": 342
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 0.0,
+    "company_name": "Anglian Water",
+    "count": 498
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 5.0,
+    "company_name": "Anglian Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 10.0,
+    "company_name": "Anglian Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 20.0,
+    "company_name": "Anglian Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 35.0,
+    "company_name": "Anglian Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 40.0,
+    "company_name": "Anglian Water",
+    "count": 5
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 45.0,
+    "company_name": "Anglian Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 50.0,
+    "company_name": "Anglian Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 55.0,
+    "company_name": "Anglian Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 60.0,
+    "company_name": "Anglian Water",
+    "count": 5
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 65.0,
+    "company_name": "Anglian Water",
+    "count": 6
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 70.0,
+    "company_name": "Anglian Water",
+    "count": 7
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 75.0,
+    "company_name": "Anglian Water",
+    "count": 11
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 80.0,
+    "company_name": "Anglian Water",
+    "count": 12
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 85.0,
+    "company_name": "Anglian Water",
+    "count": 25
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 90.0,
+    "company_name": "Anglian Water",
+    "count": 32
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 95.0,
+    "company_name": "Anglian Water",
+    "count": 128
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 100.0,
+    "company_name": "Anglian Water",
+    "count": 807
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 0.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 90
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 5.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 8
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 10.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 5
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 15.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 8
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 20.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 6
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 25.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 14
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 30.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 11
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 35.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 6
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 40.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 9
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 45.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 9
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 50.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 9
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 55.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 12
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 60.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 17
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 65.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 14
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 70.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 20
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 75.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 20
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 80.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 32
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 85.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 35
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 90.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 72
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 95.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 849
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 100.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 942
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 0.0,
+    "company_name": "Northumbrian Water",
+    "count": 107
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 5.0,
+    "company_name": "Northumbrian Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 10.0,
+    "company_name": "Northumbrian Water",
+    "count": 5
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 15.0,
+    "company_name": "Northumbrian Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 20.0,
+    "company_name": "Northumbrian Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 25.0,
+    "company_name": "Northumbrian Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 30.0,
+    "company_name": "Northumbrian Water",
+    "count": 7
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 35.0,
+    "company_name": "Northumbrian Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 40.0,
+    "company_name": "Northumbrian Water",
+    "count": 5
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 45.0,
+    "company_name": "Northumbrian Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 50.0,
+    "company_name": "Northumbrian Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 55.0,
+    "company_name": "Northumbrian Water",
+    "count": 9
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 60.0,
+    "company_name": "Northumbrian Water",
+    "count": 9
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 65.0,
+    "company_name": "Northumbrian Water",
+    "count": 12
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 70.0,
+    "company_name": "Northumbrian Water",
+    "count": 12
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 75.0,
+    "company_name": "Northumbrian Water",
+    "count": 24
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 80.0,
+    "company_name": "Northumbrian Water",
+    "count": 31
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 85.0,
+    "company_name": "Northumbrian Water",
+    "count": 59
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 90.0,
+    "company_name": "Northumbrian Water",
+    "count": 99
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 95.0,
+    "company_name": "Northumbrian Water",
+    "count": 568
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 100.0,
+    "company_name": "Northumbrian Water",
+    "count": 598
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 0.0,
+    "company_name": "Scottish Water",
+    "count": 457
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 15.0,
+    "company_name": "Scottish Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 30.0,
+    "company_name": "Scottish Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 35.0,
+    "company_name": "Scottish Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 45.0,
+    "company_name": "Scottish Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 50.0,
+    "company_name": "Scottish Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 55.0,
+    "company_name": "Scottish Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 60.0,
+    "company_name": "Scottish Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 65.0,
+    "company_name": "Scottish Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 70.0,
+    "company_name": "Scottish Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 75.0,
+    "company_name": "Scottish Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 80.0,
+    "company_name": "Scottish Water",
+    "count": 8
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 85.0,
+    "company_name": "Scottish Water",
+    "count": 11
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 90.0,
+    "company_name": "Scottish Water",
+    "count": 15
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 95.0,
+    "company_name": "Scottish Water",
+    "count": 97
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 100.0,
+    "company_name": "Scottish Water",
+    "count": 92
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 0.0,
+    "company_name": "Severn Trent Water",
+    "count": 39
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 5.0,
+    "company_name": "Severn Trent Water",
+    "count": 8
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 10.0,
+    "company_name": "Severn Trent Water",
+    "count": 16
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 15.0,
+    "company_name": "Severn Trent Water",
+    "count": 14
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 20.0,
+    "company_name": "Severn Trent Water",
+    "count": 19
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 25.0,
+    "company_name": "Severn Trent Water",
+    "count": 23
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 30.0,
+    "company_name": "Severn Trent Water",
+    "count": 14
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 35.0,
+    "company_name": "Severn Trent Water",
+    "count": 13
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 40.0,
+    "company_name": "Severn Trent Water",
+    "count": 26
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 45.0,
+    "company_name": "Severn Trent Water",
+    "count": 27
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 50.0,
+    "company_name": "Severn Trent Water",
+    "count": 45
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 55.0,
+    "company_name": "Severn Trent Water",
+    "count": 48
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 60.0,
+    "company_name": "Severn Trent Water",
+    "count": 54
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 65.0,
+    "company_name": "Severn Trent Water",
+    "count": 54
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 70.0,
+    "company_name": "Severn Trent Water",
+    "count": 71
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 75.0,
+    "company_name": "Severn Trent Water",
+    "count": 82
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 80.0,
+    "company_name": "Severn Trent Water",
+    "count": 78
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 85.0,
+    "company_name": "Severn Trent Water",
+    "count": 95
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 90.0,
+    "company_name": "Severn Trent Water",
+    "count": 300
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 95.0,
+    "company_name": "Severn Trent Water",
+    "count": 776
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 100.0,
+    "company_name": "Severn Trent Water",
+    "count": 664
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 0.0,
+    "company_name": "South West Water",
+    "count": 19
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 5.0,
+    "company_name": "South West Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 10.0,
+    "company_name": "South West Water",
+    "count": 5
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 15.0,
+    "company_name": "South West Water",
+    "count": 5
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 20.0,
+    "company_name": "South West Water",
+    "count": 6
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 25.0,
+    "company_name": "South West Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 30.0,
+    "company_name": "South West Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 35.0,
+    "company_name": "South West Water",
+    "count": 6
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 40.0,
+    "company_name": "South West Water",
+    "count": 5
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 45.0,
+    "company_name": "South West Water",
+    "count": 8
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 50.0,
+    "company_name": "South West Water",
+    "count": 11
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 55.0,
+    "company_name": "South West Water",
+    "count": 8
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 60.0,
+    "company_name": "South West Water",
+    "count": 9
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 65.0,
+    "company_name": "South West Water",
+    "count": 13
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 70.0,
+    "company_name": "South West Water",
+    "count": 20
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 75.0,
+    "company_name": "South West Water",
+    "count": 25
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 80.0,
+    "company_name": "South West Water",
+    "count": 25
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 85.0,
+    "company_name": "South West Water",
+    "count": 37
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 90.0,
+    "company_name": "South West Water",
+    "count": 52
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 95.0,
+    "company_name": "South West Water",
+    "count": 103
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 100.0,
+    "company_name": "South West Water",
+    "count": 975
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 0.0,
+    "company_name": "Southern Water",
+    "count": 41
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 5.0,
+    "company_name": "Southern Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 10.0,
+    "company_name": "Southern Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 15.0,
+    "company_name": "Southern Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 20.0,
+    "company_name": "Southern Water",
+    "count": 7
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 25.0,
+    "company_name": "Southern Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 30.0,
+    "company_name": "Southern Water",
+    "count": 5
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 35.0,
+    "company_name": "Southern Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 40.0,
+    "company_name": "Southern Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 45.0,
+    "company_name": "Southern Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 50.0,
+    "company_name": "Southern Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 55.0,
+    "company_name": "Southern Water",
+    "count": 8
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 60.0,
+    "company_name": "Southern Water",
+    "count": 6
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 65.0,
+    "company_name": "Southern Water",
+    "count": 7
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 70.0,
+    "company_name": "Southern Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 75.0,
+    "company_name": "Southern Water",
+    "count": 8
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 80.0,
+    "company_name": "Southern Water",
+    "count": 17
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 85.0,
+    "company_name": "Southern Water",
+    "count": 15
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 90.0,
+    "company_name": "Southern Water",
+    "count": 29
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 95.0,
+    "company_name": "Southern Water",
+    "count": 410
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 100.0,
+    "company_name": "Southern Water",
+    "count": 401
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 0.0,
+    "company_name": "Thames Water",
+    "count": 299
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 10.0,
+    "company_name": "Thames Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 15.0,
+    "company_name": "Thames Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 20.0,
+    "company_name": "Thames Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 25.0,
+    "company_name": "Thames Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 30.0,
+    "company_name": "Thames Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 35.0,
+    "company_name": "Thames Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 40.0,
+    "company_name": "Thames Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 45.0,
+    "company_name": "Thames Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 50.0,
+    "company_name": "Thames Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 55.0,
+    "company_name": "Thames Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 60.0,
+    "company_name": "Thames Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 65.0,
+    "company_name": "Thames Water",
+    "count": 7
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 70.0,
+    "company_name": "Thames Water",
+    "count": 8
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 75.0,
+    "company_name": "Thames Water",
+    "count": 5
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 80.0,
+    "company_name": "Thames Water",
+    "count": 6
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 85.0,
+    "company_name": "Thames Water",
+    "count": 13
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 90.0,
+    "company_name": "Thames Water",
+    "count": 26
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 95.0,
+    "company_name": "Thames Water",
+    "count": 198
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 100.0,
+    "company_name": "Thames Water",
+    "count": 187
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 0.0,
+    "company_name": "United Utilities",
+    "count": 392
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 10.0,
+    "company_name": "United Utilities",
+    "count": 1
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 20.0,
+    "company_name": "United Utilities",
+    "count": 1
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 30.0,
+    "company_name": "United Utilities",
+    "count": 1
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 40.0,
+    "company_name": "United Utilities",
+    "count": 4
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 45.0,
+    "company_name": "United Utilities",
+    "count": 4
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 50.0,
+    "company_name": "United Utilities",
+    "count": 4
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 55.0,
+    "company_name": "United Utilities",
+    "count": 3
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 60.0,
+    "company_name": "United Utilities",
+    "count": 3
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 65.0,
+    "company_name": "United Utilities",
+    "count": 3
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 70.0,
+    "company_name": "United Utilities",
+    "count": 6
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 75.0,
+    "company_name": "United Utilities",
+    "count": 12
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 80.0,
+    "company_name": "United Utilities",
+    "count": 10
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 85.0,
+    "company_name": "United Utilities",
+    "count": 24
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 90.0,
+    "company_name": "United Utilities",
+    "count": 90
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 95.0,
+    "company_name": "United Utilities",
+    "count": 486
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 100.0,
+    "company_name": "United Utilities",
+    "count": 1208
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 0.0,
+    "company_name": "Wessex Water",
+    "count": 118
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 15.0,
+    "company_name": "Wessex Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 25.0,
+    "company_name": "Wessex Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 35.0,
+    "company_name": "Wessex Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 45.0,
+    "company_name": "Wessex Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 50.0,
+    "company_name": "Wessex Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 55.0,
+    "company_name": "Wessex Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 60.0,
+    "company_name": "Wessex Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 65.0,
+    "company_name": "Wessex Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 70.0,
+    "company_name": "Wessex Water",
+    "count": 5
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 75.0,
+    "company_name": "Wessex Water",
+    "count": 8
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 80.0,
+    "company_name": "Wessex Water",
+    "count": 12
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 85.0,
+    "company_name": "Wessex Water",
+    "count": 33
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 90.0,
+    "company_name": "Wessex Water",
+    "count": 39
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 95.0,
+    "company_name": "Wessex Water",
+    "count": 335
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 100.0,
+    "company_name": "Wessex Water",
+    "count": 734
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 0.0,
+    "company_name": "Yorkshire Water",
+    "count": 118
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 5.0,
+    "company_name": "Yorkshire Water",
+    "count": 18
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 10.0,
+    "company_name": "Yorkshire Water",
+    "count": 14
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 15.0,
+    "company_name": "Yorkshire Water",
+    "count": 9
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 20.0,
+    "company_name": "Yorkshire Water",
+    "count": 12
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 25.0,
+    "company_name": "Yorkshire Water",
+    "count": 13
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 30.0,
+    "company_name": "Yorkshire Water",
+    "count": 9
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 35.0,
+    "company_name": "Yorkshire Water",
+    "count": 9
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 40.0,
+    "company_name": "Yorkshire Water",
+    "count": 16
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 45.0,
+    "company_name": "Yorkshire Water",
+    "count": 15
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 50.0,
+    "company_name": "Yorkshire Water",
+    "count": 22
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 55.0,
+    "company_name": "Yorkshire Water",
+    "count": 17
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 60.0,
+    "company_name": "Yorkshire Water",
+    "count": 29
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 65.0,
+    "company_name": "Yorkshire Water",
+    "count": 35
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 70.0,
+    "company_name": "Yorkshire Water",
+    "count": 35
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 75.0,
+    "company_name": "Yorkshire Water",
+    "count": 46
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 80.0,
+    "company_name": "Yorkshire Water",
+    "count": 43
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 85.0,
+    "company_name": "Yorkshire Water",
+    "count": 86
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 90.0,
+    "company_name": "Yorkshire Water",
+    "count": 124
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 95.0,
+    "company_name": "Yorkshire Water",
+    "count": 859
+  },
+  {
+    "reporting_year": 2022,
+    "bin": 100.0,
+    "company_name": "Yorkshire Water",
+    "count": 681
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 0.0,
+    "company_name": "Anglian Water",
+    "count": 141
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 5.0,
+    "company_name": "Anglian Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 15.0,
+    "company_name": "Anglian Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 20.0,
+    "company_name": "Anglian Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 25.0,
+    "company_name": "Anglian Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 30.0,
+    "company_name": "Anglian Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 35.0,
+    "company_name": "Anglian Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 40.0,
+    "company_name": "Anglian Water",
+    "count": 7
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 45.0,
+    "company_name": "Anglian Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 50.0,
+    "company_name": "Anglian Water",
+    "count": 7
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 55.0,
+    "company_name": "Anglian Water",
+    "count": 5
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 60.0,
+    "company_name": "Anglian Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 65.0,
+    "company_name": "Anglian Water",
+    "count": 7
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 70.0,
+    "company_name": "Anglian Water",
+    "count": 5
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 75.0,
+    "company_name": "Anglian Water",
+    "count": 5
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 80.0,
+    "company_name": "Anglian Water",
+    "count": 13
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 85.0,
+    "company_name": "Anglian Water",
+    "count": 21
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 90.0,
+    "company_name": "Anglian Water",
+    "count": 31
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 95.0,
+    "company_name": "Anglian Water",
+    "count": 189
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 100.0,
+    "company_name": "Anglian Water",
+    "count": 1115
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 0.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 82
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 5.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 8
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 10.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 8
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 15.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 10
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 20.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 25.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 6
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 30.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 8
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 35.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 10
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 40.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 14
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 45.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 13
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 50.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 14
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 55.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 20
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 60.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 13
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 65.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 6
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 70.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 18
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 75.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 18
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 80.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 20
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 85.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 34
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 90.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 75
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 95.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 1005
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 100.0,
+    "company_name": "Dwr Cymru Welsh Water",
+    "count": 847
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 0.0,
+    "company_name": "Northumbrian Water",
+    "count": 25
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 5.0,
+    "company_name": "Northumbrian Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 10.0,
+    "company_name": "Northumbrian Water",
+    "count": 6
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 15.0,
+    "company_name": "Northumbrian Water",
+    "count": 5
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 20.0,
+    "company_name": "Northumbrian Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 25.0,
+    "company_name": "Northumbrian Water",
+    "count": 7
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 30.0,
+    "company_name": "Northumbrian Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 35.0,
+    "company_name": "Northumbrian Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 40.0,
+    "company_name": "Northumbrian Water",
+    "count": 10
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 45.0,
+    "company_name": "Northumbrian Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 50.0,
+    "company_name": "Northumbrian Water",
+    "count": 5
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 55.0,
+    "company_name": "Northumbrian Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 60.0,
+    "company_name": "Northumbrian Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 65.0,
+    "company_name": "Northumbrian Water",
+    "count": 6
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 70.0,
+    "company_name": "Northumbrian Water",
+    "count": 8
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 75.0,
+    "company_name": "Northumbrian Water",
+    "count": 18
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 80.0,
+    "company_name": "Northumbrian Water",
+    "count": 34
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 85.0,
+    "company_name": "Northumbrian Water",
+    "count": 58
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 90.0,
+    "company_name": "Northumbrian Water",
+    "count": 119
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 95.0,
+    "company_name": "Northumbrian Water",
+    "count": 695
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 100.0,
+    "company_name": "Northumbrian Water",
+    "count": 547
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 0.0,
+    "company_name": "Scottish Water",
+    "count": 457
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 15.0,
+    "company_name": "Scottish Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 30.0,
+    "company_name": "Scottish Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 35.0,
+    "company_name": "Scottish Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 45.0,
+    "company_name": "Scottish Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 50.0,
+    "company_name": "Scottish Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 55.0,
+    "company_name": "Scottish Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 60.0,
+    "company_name": "Scottish Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 65.0,
+    "company_name": "Scottish Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 70.0,
+    "company_name": "Scottish Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 75.0,
+    "company_name": "Scottish Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 80.0,
+    "company_name": "Scottish Water",
+    "count": 8
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 85.0,
+    "company_name": "Scottish Water",
+    "count": 11
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 90.0,
+    "company_name": "Scottish Water",
+    "count": 15
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 95.0,
+    "company_name": "Scottish Water",
+    "count": 97
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 100.0,
+    "company_name": "Scottish Water",
+    "count": 92
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 0.0,
+    "company_name": "Severn Trent Water",
+    "count": 51
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 5.0,
+    "company_name": "Severn Trent Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 15.0,
+    "company_name": "Severn Trent Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 20.0,
+    "company_name": "Severn Trent Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 25.0,
+    "company_name": "Severn Trent Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 30.0,
+    "company_name": "Severn Trent Water",
+    "count": 7
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 35.0,
+    "company_name": "Severn Trent Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 40.0,
+    "company_name": "Severn Trent Water",
+    "count": 6
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 45.0,
+    "company_name": "Severn Trent Water",
+    "count": 8
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 50.0,
+    "company_name": "Severn Trent Water",
+    "count": 13
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 55.0,
+    "company_name": "Severn Trent Water",
+    "count": 16
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 60.0,
+    "company_name": "Severn Trent Water",
+    "count": 17
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 65.0,
+    "company_name": "Severn Trent Water",
+    "count": 30
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 70.0,
+    "company_name": "Severn Trent Water",
+    "count": 54
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 75.0,
+    "company_name": "Severn Trent Water",
+    "count": 54
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 80.0,
+    "company_name": "Severn Trent Water",
+    "count": 73
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 85.0,
+    "company_name": "Severn Trent Water",
+    "count": 115
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 90.0,
+    "company_name": "Severn Trent Water",
+    "count": 281
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 95.0,
+    "company_name": "Severn Trent Water",
+    "count": 1164
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 100.0,
+    "company_name": "Severn Trent Water",
+    "count": 568
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 0.0,
+    "company_name": "South West Water",
+    "count": 34
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 5.0,
+    "company_name": "South West Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 10.0,
+    "company_name": "South West Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 15.0,
+    "company_name": "South West Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 20.0,
+    "company_name": "South West Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 25.0,
+    "company_name": "South West Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 30.0,
+    "company_name": "South West Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 35.0,
+    "company_name": "South West Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 40.0,
+    "company_name": "South West Water",
+    "count": 5
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 45.0,
+    "company_name": "South West Water",
+    "count": 8
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 50.0,
+    "company_name": "South West Water",
+    "count": 14
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 55.0,
+    "company_name": "South West Water",
+    "count": 8
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 60.0,
+    "company_name": "South West Water",
+    "count": 14
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 65.0,
+    "company_name": "South West Water",
+    "count": 8
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 70.0,
+    "company_name": "South West Water",
+    "count": 8
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 75.0,
+    "company_name": "South West Water",
+    "count": 18
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 80.0,
+    "company_name": "South West Water",
+    "count": 31
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 85.0,
+    "company_name": "South West Water",
+    "count": 28
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 90.0,
+    "company_name": "South West Water",
+    "count": 85
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 95.0,
+    "company_name": "South West Water",
+    "count": 120
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 100.0,
+    "company_name": "South West Water",
+    "count": 978
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 0.0,
+    "company_name": "Southern Water",
+    "count": 15
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 5.0,
+    "company_name": "Southern Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 10.0,
+    "company_name": "Southern Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 15.0,
+    "company_name": "Southern Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 20.0,
+    "company_name": "Southern Water",
+    "count": 9
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 25.0,
+    "company_name": "Southern Water",
+    "count": 6
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 30.0,
+    "company_name": "Southern Water",
+    "count": 6
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 35.0,
+    "company_name": "Southern Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 40.0,
+    "company_name": "Southern Water",
+    "count": 9
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 45.0,
+    "company_name": "Southern Water",
+    "count": 7
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 50.0,
+    "company_name": "Southern Water",
+    "count": 12
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 55.0,
+    "company_name": "Southern Water",
+    "count": 10
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 60.0,
+    "company_name": "Southern Water",
+    "count": 10
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 65.0,
+    "company_name": "Southern Water",
+    "count": 8
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 70.0,
+    "company_name": "Southern Water",
+    "count": 12
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 75.0,
+    "company_name": "Southern Water",
+    "count": 12
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 80.0,
+    "company_name": "Southern Water",
+    "count": 7
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 85.0,
+    "company_name": "Southern Water",
+    "count": 9
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 90.0,
+    "company_name": "Southern Water",
+    "count": 23
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 95.0,
+    "company_name": "Southern Water",
+    "count": 520
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 100.0,
+    "company_name": "Southern Water",
+    "count": 291
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 0.0,
+    "company_name": "Thames Water",
+    "count": 89
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 5.0,
+    "company_name": "Thames Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 10.0,
+    "company_name": "Thames Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 20.0,
+    "company_name": "Thames Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 25.0,
+    "company_name": "Thames Water",
+    "count": 5
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 30.0,
+    "company_name": "Thames Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 40.0,
+    "company_name": "Thames Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 45.0,
+    "company_name": "Thames Water",
+    "count": 2
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 50.0,
+    "company_name": "Thames Water",
+    "count": 5
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 55.0,
+    "company_name": "Thames Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 60.0,
+    "company_name": "Thames Water",
+    "count": 9
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 65.0,
+    "company_name": "Thames Water",
+    "count": 9
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 70.0,
+    "company_name": "Thames Water",
+    "count": 13
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 75.0,
+    "company_name": "Thames Water",
+    "count": 32
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 80.0,
+    "company_name": "Thames Water",
+    "count": 24
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 85.0,
+    "company_name": "Thames Water",
+    "count": 29
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 90.0,
+    "company_name": "Thames Water",
+    "count": 62
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 95.0,
+    "company_name": "Thames Water",
+    "count": 293
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 100.0,
+    "company_name": "Thames Water",
+    "count": 112
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 0.0,
+    "company_name": "United Utilities",
+    "count": 117
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 5.0,
+    "company_name": "United Utilities",
+    "count": 1
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 20.0,
+    "company_name": "United Utilities",
+    "count": 2
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 25.0,
+    "company_name": "United Utilities",
+    "count": 3
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 30.0,
+    "company_name": "United Utilities",
+    "count": 1
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 35.0,
+    "company_name": "United Utilities",
+    "count": 7
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 40.0,
+    "company_name": "United Utilities",
+    "count": 3
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 45.0,
+    "company_name": "United Utilities",
+    "count": 6
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 50.0,
+    "company_name": "United Utilities",
+    "count": 6
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 55.0,
+    "company_name": "United Utilities",
+    "count": 13
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 60.0,
+    "company_name": "United Utilities",
+    "count": 10
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 65.0,
+    "company_name": "United Utilities",
+    "count": 11
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 70.0,
+    "company_name": "United Utilities",
+    "count": 19
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 75.0,
+    "company_name": "United Utilities",
+    "count": 18
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 80.0,
+    "company_name": "United Utilities",
+    "count": 20
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 85.0,
+    "company_name": "United Utilities",
+    "count": 34
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 90.0,
+    "company_name": "United Utilities",
+    "count": 85
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 95.0,
+    "company_name": "United Utilities",
+    "count": 533
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 100.0,
+    "company_name": "United Utilities",
+    "count": 1375
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 10.0,
+    "company_name": "Wessex Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 20.0,
+    "company_name": "Wessex Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 50.0,
+    "company_name": "Wessex Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 55.0,
+    "company_name": "Wessex Water",
+    "count": 3
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 60.0,
+    "company_name": "Wessex Water",
+    "count": 1
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 65.0,
+    "company_name": "Wessex Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 70.0,
+    "company_name": "Wessex Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 75.0,
+    "company_name": "Wessex Water",
+    "count": 6
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 80.0,
+    "company_name": "Wessex Water",
+    "count": 12
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 85.0,
+    "company_name": "Wessex Water",
+    "count": 23
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 90.0,
+    "company_name": "Wessex Water",
+    "count": 51
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 95.0,
+    "company_name": "Wessex Water",
+    "count": 583
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 100.0,
+    "company_name": "Wessex Water",
+    "count": 605
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 0.0,
+    "company_name": "Yorkshire Water",
+    "count": 33
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 5.0,
+    "company_name": "Yorkshire Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 10.0,
+    "company_name": "Yorkshire Water",
+    "count": 5
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 15.0,
+    "company_name": "Yorkshire Water",
+    "count": 4
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 20.0,
+    "company_name": "Yorkshire Water",
+    "count": 6
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 25.0,
+    "company_name": "Yorkshire Water",
+    "count": 7
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 30.0,
+    "company_name": "Yorkshire Water",
+    "count": 6
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 35.0,
+    "company_name": "Yorkshire Water",
+    "count": 7
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 40.0,
+    "company_name": "Yorkshire Water",
+    "count": 9
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 45.0,
+    "company_name": "Yorkshire Water",
+    "count": 5
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 50.0,
+    "company_name": "Yorkshire Water",
+    "count": 18
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 55.0,
+    "company_name": "Yorkshire Water",
+    "count": 9
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 60.0,
+    "company_name": "Yorkshire Water",
+    "count": 17
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 65.0,
+    "company_name": "Yorkshire Water",
+    "count": 31
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 70.0,
+    "company_name": "Yorkshire Water",
+    "count": 56
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 75.0,
+    "company_name": "Yorkshire Water",
+    "count": 42
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 80.0,
+    "company_name": "Yorkshire Water",
+    "count": 64
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 85.0,
+    "company_name": "Yorkshire Water",
+    "count": 81
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 90.0,
+    "company_name": "Yorkshire Water",
+    "count": 128
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 95.0,
+    "company_name": "Yorkshire Water",
+    "count": 771
+  },
+  {
+    "reporting_year": 2023,
+    "bin": 100.0,
+    "company_name": "Yorkshire Water",
+    "count": 892
   }
 ]

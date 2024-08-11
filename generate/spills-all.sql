@@ -2,7 +2,7 @@ with cons as (
     select *
     from edm_consent_view edm
              join grid_references grid on edm.effluent_grid_ref = grid.grid_reference
-    where reporting_year = 2021
+    where reporting_year = 2023
 ),
     agg as (
         select

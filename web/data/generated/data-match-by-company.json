@@ -171,7 +171,7 @@
     "reporting_year": 2021,
     "company_name": "South West Water",
     "type": "matched",
-    "count": 1367
+    "count": 1368
   },
   {
     "reporting_year": 2021,
@@ -238,5 +238,257 @@
     "company_name": "Yorkshire Water",
     "type": "unmatched",
     "count": 4
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Anglian Water",
+    "type": "matched",
+    "count": 1550
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Anglian Water",
+    "type": "unmatched",
+    "count": 2
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Dwr Cymru Welsh Water",
+    "type": "matched",
+    "count": 2165
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Dwr Cymru Welsh Water",
+    "type": "unmatched",
+    "count": 23
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Northumbrian Water",
+    "type": "matched",
+    "count": 1514
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Northumbrian Water",
+    "type": "unmatched",
+    "count": 50
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Scottish Water",
+    "type": "matched",
+    "count": 702
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Severn Trent Water",
+    "type": "matched",
+    "count": 2198
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Severn Trent Water",
+    "type": "unmatched",
+    "count": 268
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "South West Water",
+    "type": "matched",
+    "count": 1326
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "South West Water",
+    "type": "unmatched",
+    "count": 14
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Southern Water",
+    "type": "matched",
+    "count": 964
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Southern Water",
+    "type": "unmatched",
+    "count": 14
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Thames Water",
+    "type": "matched",
+    "count": 577
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Thames Water",
+    "type": "unmatched",
+    "count": 193
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "United Utilities",
+    "type": "matched",
+    "count": 2187
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "United Utilities",
+    "type": "unmatched",
+    "count": 65
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Wessex Water",
+    "type": "matched",
+    "count": 1292
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Wessex Water",
+    "type": "unmatched",
+    "count": 8
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Yorkshire Water",
+    "type": "matched",
+    "count": 2205
+  },
+  {
+    "reporting_year": 2022,
+    "company_name": "Yorkshire Water",
+    "type": "unmatched",
+    "count": 5
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Anglian Water",
+    "type": "matched",
+    "count": 1558
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Anglian Water",
+    "type": "unmatched",
+    "count": 5
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Dwr Cymru Welsh Water",
+    "type": "matched",
+    "count": 2206
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Dwr Cymru Welsh Water",
+    "type": "unmatched",
+    "count": 27
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Northumbrian Water",
+    "type": "matched",
+    "count": 1517
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Northumbrian Water",
+    "type": "unmatched",
+    "count": 48
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Scottish Water",
+    "type": "matched",
+    "count": 702
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Severn Trent Water",
+    "type": "matched",
+    "count": 2155
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Severn Trent Water",
+    "type": "unmatched",
+    "count": 317
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "South West Water",
+    "type": "matched",
+    "count": 1330
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "South West Water",
+    "type": "unmatched",
+    "count": 44
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Southern Water",
+    "type": "matched",
+    "count": 961
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Southern Water",
+    "type": "unmatched",
+    "count": 16
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Thames Water",
+    "type": "matched",
+    "count": 589
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Thames Water",
+    "type": "unmatched",
+    "count": 109
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "United Utilities",
+    "type": "matched",
+    "count": 2151
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "United Utilities",
+    "type": "unmatched",
+    "count": 113
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Wessex Water",
+    "type": "matched",
+    "count": 1279
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Wessex Water",
+    "type": "unmatched",
+    "count": 16
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Yorkshire Water",
+    "type": "matched",
+    "count": 2146
+  },
+  {
+    "reporting_year": 2023,
+    "company_name": "Yorkshire Water",
+    "type": "unmatched",
+    "count": 49
   }
 ]

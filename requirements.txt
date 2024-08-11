@@ -11,3 +11,4 @@ requests
 
 python-statemachine[diagrams]
 
+pydot

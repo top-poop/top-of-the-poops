@@ -1,12 +1,22 @@
 [
   {
     "reporting_year": 2021,
-    "hours": 3472490.345,
-    "count": 470101.0
+    "hours": 3472556.095,
+    "count": 470146.0
   },
   {
     "reporting_year": 2020,
     "hours": 3973147.61,
     "count": 508215.0
+  },
+  {
+    "reporting_year": 2023,
+    "hours": 4775221.758166667,
+    "count": 595050.0
+  },
+  {
+    "reporting_year": 2022,
+    "hours": 2509878.8661666666,
+    "count": 399771.0
   }
 ]

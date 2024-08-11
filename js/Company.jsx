@@ -22,6 +22,7 @@ const companies = [
     "Dwr Cymru Welsh Water",
     "Northumbrian Water",
     "Severn Trent Water",
+    "Scottish Water",
     "South West Water",
     "Southern Water",
     "Thames Water",
@@ -38,7 +39,7 @@ const CompanySpillsMap = ({company}) => {
                 type: "mercator",
                 domain: {
                     type: "MultiPoint",
-                    coordinates: [[-6, 49.9], [1.8, 55.9]],
+                    coordinates: [[-6, 49.9], [1.8, 58.9]],
                 },
             },
             height: 800,
@@ -49,7 +50,7 @@ const CompanySpillsMap = ({company}) => {
                     {
                         x: "lon",
                         y: "lat",
-                        r: "total_spill_hours",
+                        r: (d) =>  d['reporting_percent'] == 0.0 ? 1000 : d['total_spill_hours'],
                         fill: d => d["company_name"] == company ? "#f28e2c" : "#cccccc",
                         opacity: 0.7,
                         mixBlendMode: "multiply",
@@ -249,7 +250,7 @@ const CompanySummary = ({company}) => {
     const render = (data) => {
         const item = data
             .filter(it => it.company_name === company)
-            .filter(it => it.reporting_year === 2021)[0]
+            .filter(it => it.reporting_year === 2023)[0]
 
         return <CompanySummaryInfo hours={item.hours} count={item.count} locations={item.location_count}/>
     }
@@ -377,10 +378,13 @@ const CompanyApp = ({initial}) => {
         </Container>
         <Container fluid>
 
+            <Row>
+            <Col className="mb-2 sewage-map justify-content-md-center align-items-center">
+                <CompanySpillsMap company={company}/>
+            </Col>
+            </Row>
+
             <Row className="justify-content-md-center align-items-center">
-                <Col className="sewage-map" md={{span: 4, offset: 1}}>
-                    <CompanySpillsMap company={company}/>
-                </Col>
                 <Col md={4}>
                     <h4 className="display-4">{company}</h4>
                 </Col>

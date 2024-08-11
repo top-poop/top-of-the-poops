@@ -15,23 +15,23 @@ const GeoSpillsMap = ({company}) => {
         }
 
         return {
-            caption: "© CC-BY-SA-4.0 top-of-the-poops.org",
             projection: {
                 type: "mercator",
                 domain: {
                     type: "MultiPoint",
-                    coordinates: [[-6, 49.9], [1.8, 55.9]],
+                    coordinates: [[-6, 49.9], [1.8, 58.9]],
                 },
             },
-            height: 800,
-            r: {range: [1, 15], domain: [0, 8700]},
+            width: 1000,
+            height: 1400,
+            r: {range: [1, 15], domain: [0, 7000]},
             marks: [
                 Plot.dot(
                     data,
                     {
                         x: "lon",
                         y: "lat",
-                        r: "total_spill_hours",
+                        r: (d) =>  d['reporting_percent'] == 0.0 ? 1000 : d['total_spill_hours'],
                         fill: "company_name",
                         opacity: 0.7,
                         mixBlendMode: "multiply",
