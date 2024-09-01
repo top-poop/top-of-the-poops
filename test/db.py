@@ -26,7 +26,7 @@ select count(*) from edm_consent_view where rec_env_code_description is null
 def test_can_resolve_constituency_for_almost_every_grid_reference():
     # some grid references are way out in the sea. ?
     count = run_sql("""
-select count(*) as count from grid_references where pcon20nm is null;    
+select count(*) as count from grid_references where pcon24nm is null;
     """)[0]["count"]
 
     assert count == 56
@@ -46,8 +46,8 @@ def test_can_resolve_lat_long_for_every_grid_reference_in_consents():
 
 def test_can_match_every_constituency_to_an_mp():
     result = run_sql("""
-select * from pcon_dec_2020_uk_bfc as con
-left join mps on con.pcon20nm = mps.constituency
+select * from pcon_july_2024_uk_bfc as con
+left join mps on con.pcon24nm = mps.constituency
 where mps.constituency is null    
     """)
 

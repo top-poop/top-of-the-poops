@@ -6,7 +6,7 @@ select row_number() over () as id,
        excuses,
        grid.lat,
        grid.lon,
-       grid.pcon20nm
+       grid.pcon24nm
 from edm_consent_view as edm
          join grid_references as grid on edm.effluent_grid_ref = grid.grid_reference
 where bathing is not null

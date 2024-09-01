@@ -1,7 +1,7 @@
 
 DOWNLOAD=download
 
-CONSTITUENCIES_NAME=Westminster_Parliamentary_Constituencies_December_2020_UK_BFC.zip
+CONSTITUENCIES_NAME=Westminster_Parliamentary_Constituencies_July_2024_Boundaries_UK_BFC_8322311767861589132.zip
 
 ROOT_DIR:=$(shell dirname $(realpath $(firstword $(MAKEFILE_LIST))))
 
@@ -38,18 +38,19 @@ load-mps: mps.sql load_mps.sql $(DOWNLOAD)/mps.csv
 
 $(DOWNLOAD)/$(CONSTITUENCIES_NAME):
 	@mkdir -p $(DOWNLOAD)
-	$(CURL) -o $@ 'https://opendata.arcgis.com/api/v3/datasets/19841da5f8f6403e9fdcfb35c16e11e9_0/downloads/data?format=shp&spatialRefId=27700'
+	echo "You need to download the file, as there is no stable URL for it. - https://geoportal.statistics.gov.uk/datasets/ons::westminster-parliamentary-constituencies-july-2024-boundaries-uk-bfc-2/explore"
+	exit 1
 
-$(DOWNLOAD)/PCON_DEC_2020_UK_BFC.shp: $(DOWNLOAD)/$(CONSTITUENCIES_NAME)
+$(DOWNLOAD)/PCON_JULY_2024_UK_BFC.shp: $(DOWNLOAD)/$(CONSTITUENCIES_NAME)
 	unzip -o -d $(DOWNLOAD) $<
 	touch $@
 
 %.sql: %.shp
 	$(OGR2OGR) $@ $<
-	sed -i -e 's/NUMERIC(24,15)/NUMERIC/' $@
+	sed -i -e 's/NUMERIC(24,15)/NUMERIC/' -e 's/NUMERIC(12,11)/NUMERIC/' -e 's/NUMERIC(10,0)/NUMERIC/' $@
 
 .PHONY: load-constituencies
-load-constituencies: $(DOWNLOAD)/PCON_DEC_2020_UK_BFC.sql
+load-constituencies: $(DOWNLOAD)/PCON_JULY_2024_UK_BFC.sql
 	$(PSQL) -f $<
 
 
@@ -496,11 +497,15 @@ load-rivers: load-rivers-england load-rivers-wales load-river-views
 
 ## Rainfall
 
+# dont run this on existing database.
 .PHONY: rainfall
-rainfall:  rainfall.sql rainfall_views.sql
+rainfall:  rainfall.sql
 	$(PSQL) -f $<
-	$(PSQL) -f $(word 2,$^)
 
+
+.PHONY: rainfall-views
+rainfall-views:  rainfall_views.sql
+	$(PSQL) -f $<
 
 .PHONY: load-beach-mappings
 load-beach-mappings: bathing-classification-load.sql edm-bathing-to-beach-mapping.sql edm-bathing-to-beach-mapping-load.sql
@@ -513,7 +518,7 @@ load-beach-mappings: bathing-classification-load.sql edm-bathing-to-beach-mappin
 
 ## Grid References
 
-$(DOWNLOAD)/grid-references.csv: convert-grid-references.py .FORCE
+$(DOWNLOAD)/grid-references.csv: convert-grid-references.py
 	$(PYTHON) convert-grid-references.py $@
 
 grid-references: grid_references.sql
@@ -580,9 +585,12 @@ load-bathing-areas: $(DOWNLOAD)/bathing/data/Sensitive_Areas_Bathing_Waters.sql 
 
 load-bathing: load-bathing-areas load-beach-mappings
 
-load-edm-consent-view: edm_consent_view.sql bathing_views.sql load-edm load-consents
+.PHONY: load-bathing-view
+load-bathing-view: bathing_views.sql
 	$(PSQL) -f $<
-	$(PSQL) -f $(word 2,$^)
+
+load-edm-consent-view: edm_consent_view.sql load-edm load-consents
+	$(PSQL) -f $<
 
 .PHONY: load-sewage
 load-sewage: load-consents load-edm load-edm-consent-view

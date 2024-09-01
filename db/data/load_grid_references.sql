@@ -7,8 +7,8 @@ delete from grid_references;
 
 UPDATE grid_references SET point = ST_SETSRID(ST_MakePoint(lon, lat), 4326);
 
-update grid_references set pcon20nm = con.pcon20nm
-from pcon_dec_2020_uk_bfc con
+update grid_references set pcon24nm = con.pcon24nm
+from pcon_july_2024_uk_bfc con
  where st_covers(wkb_geometry, point);
 
 /*
@@ -26,20 +26,20 @@ begin;
 create temporary table t on commit drop as
 select grid_references.grid_reference,
        constituencies.distance,
-       constituencies.pcon20nm
+       constituencies.pcon24nm
 from grid_references
          cross join lateral (
     select point <-> con.wkb_geometry as distance,
-           con.pcon20nm
-    from pcon_dec_2020_uk_bfc con
+           con.pcon24nm
+    from pcon_july_2024_uk_bfc con
     order by distance
     limit 1
     ) constituencies
-where grid_references.pcon20nm is null
+where grid_references.pcon24nm is null
     and distance < 0.5
 ;
 
-update grid_references as g set pcon20nm = t.pcon20nm
+update grid_references as g set pcon24nm = t.pcon24nm
 from t
 where g.grid_reference = t.grid_reference;
 
