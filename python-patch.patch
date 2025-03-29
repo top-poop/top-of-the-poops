@@ -1,5 +1,5 @@
---- venv2/lib/python3.11/site-packages/xlsx2csv.py	2023-03-02 14:19:14.118680690 +0000
-+++ venv/lib/python3.11/site-packages/xlsx2csv.py	2023-03-02 14:13:15.216780680 +0000
+--- venv2/lib/python3.12/site-packages/xlsx2csv.py	2023-03-02 14:19:14.118680690 +0000
++++ venv/lib/python3.12/site-packages/xlsx2csv.py	2023-03-02 14:13:15.216780680 +0000
 @@ -829,7 +829,9 @@
              elif self.colType == "n":
                  format_type = "float"

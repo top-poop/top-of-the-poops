@@ -1,0 +1,5 @@
+GET http://environment.data.gov.uk/flood-monitoring/data/readings.csv?parameter=rainfall&date=2023-07-26&_limit=10000
+###
+GET http://environment.data.gov.uk/flood-monitoring/id/stations?parameter=rainfall
+###
+GET http://environment.data.gov.uk/flood-monitoring/id/measures/E82840-rainfall-tipping_bucket_raingauge-t-15_min-mm?date=2024-02-01

@@ -1,14 +1,14 @@
 version: '2.1'
 
 volumes:
-  db-data:
+  db-data-17:
 
 services:
-  db:
-    image: kartoza/postgis:14-3.1
+  db-17:
+    image: kartoza/postgis:17-3.5
     shm_size: 4gb
     volumes:
-      - db-data:/var/lib/postgresql
+      - db-data-17:/var/lib/postgresql
     ports:
       - "5432:5432"
     environment:

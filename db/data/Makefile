@@ -7,7 +7,9 @@ ROOT_DIR:=$(shell dirname $(realpath $(firstword $(MAKEFILE_LIST))))
 
 #Don't care about this.. its just a local database
 export PGPASSWORD=docker
-PSQL=psql -v ON_ERROR_STOP=1 -h localhost -d gis -U docker -q --pset=pager=off
+PGHOST ?=localhost
+PGPORT ?=5432
+PSQL=psql -v ON_ERROR_STOP=1 -p $(PGPORT) -h $(PGHOST) -d gis -U docker -q --pset=pager=off
 CURL=curl --fail --silent
 PYTHON=../../venv/bin/python3
 XLSX2CSV=../../venv/bin/xlsx2csv -e -i
@@ -221,6 +223,11 @@ $(DOWNLOAD)/edm-2022/edm-consolidated.csv: process_edms_2022.py $(EDM_2022_RETUR
 		$(PYTHON) process_edms_2022.py $@ $^
 
 
+.PHONY: load-edm-2022
+load-edm-2022: load_edm_2022.sql $(DOWNLOAD)/edm-2022/edm-consolidated.csv $(DOWNLOAD)/edm-wales-2022/edm-consolidated.csv
+	$(PSQL) -f $<
+
+
 
 
 ########## EDM 2023 ####################
@@ -291,8 +298,67 @@ load-edm-2023: load_edm_2023.sql $(DOWNLOAD)/edm-2023/edm-consolidated.csv
 ######################
 
 
-.PHONY: load-edm-2022
-load-edm-2022: load_edm_2022.sql $(DOWNLOAD)/edm-2022/edm-consolidated.csv $(DOWNLOAD)/edm-wales-2022/edm-consolidated.csv
+########## EDM 2024 ####################
+
+# EDM 2024
+
+EDM_ZIP_2024=EDM_2024_Storm_Overflow_Annual_Return.zip
+
+# jump through hoops to make a filename with no spaces
+$(DOWNLOAD)/edm-2024/all.xslx: $(DOWNLOAD)/$(EDM_ZIP_2024)
+	mkdir -p $(dir $@)
+	unzip -o -d $(DOWNLOAD)/edm-2024 $<
+	cp "$(dir $@)/EDM_2024_Storm_Overflow_Annual_Return/EDM 2024 Storm Overflow Annual Return - all water and sewerage companies.xlsx" $@
+
+
+EDM_2024_NAMES=anglian dcww northumbrian severn-trent south-west southern thames united wessex yorkshire
+EDM_2024_RETURNS=$(foreach name,$(EDM_2024_NAMES),$(DOWNLOAD)/edm-2024/company/$(name).csv)
+
+$(DOWNLOAD)/edm-2024/company/anglian.csv: $(DOWNLOAD)/edm-2024/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 1 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2024/company/dcww.csv: $(DOWNLOAD)/edm-2024/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 2 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2024/company/northumbrian.csv: $(DOWNLOAD)/edm-2024/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 3 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2024/company/severn-trent.csv: $(DOWNLOAD)/edm-2024/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 4 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2024/company/south-west.csv: $(DOWNLOAD)/edm-2024/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 5 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2024/company/southern.csv: $(DOWNLOAD)/edm-2024/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 6 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2024/company/thames.csv: $(DOWNLOAD)/edm-2024/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 7 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2024/company/united.csv: $(DOWNLOAD)/edm-2024/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 8 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2024/company/wessex.csv: $(DOWNLOAD)/edm-2024/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 9 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2024/company/yorkshire.csv: $(DOWNLOAD)/edm-2024/all.xslx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 10 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2024/edm-consolidated.csv: process_edms_2024.py $(EDM_2024_RETURNS)
+		$(PYTHON) process_edms_2024.py $@ $^
+
+.PHONY: load-edm-2024
+load-edm-2024: load_edm_2024.sql $(DOWNLOAD)/edm-2024/edm-consolidated.csv
 	$(PSQL) -f $<
 
 
@@ -450,6 +516,40 @@ $(EDM_WALES_2023)/edm-consolidated.csv: process_edms_2023_wales.py $(EDM_WALES_2
 
 
 
+########### WALES EDM 2024 ##################
+
+# CURL commands do not work due to SSL config of Dwr Cmyru site... 'unsafe legacy renegotiation disabled'
+
+EDM_WALES_2024=$(DOWNLOAD)/edm-wales-2024
+EDM_WALES_2024_XLS=$(wildcard $(EDM_WALES_2024)/*.xlsx)
+EDM_WALES_2024_CSVS=$(EDM_WALES_2024_XLS:.xlsx=.csv)
+
+wales-2024-clean:
+	rm $(EDM_WALES_2024)/*.csv
+
+$(EDM_WALES_2024)/edm-emergency.csv: $(EDM_WALES_2024)/edm-emergency.xlsx
+	$(XLSX2CSV) -s 2 $< $@ 2> /dev/null
+
+$(EDM_WALES_2024)/edm-unpermitted.csv: $(EDM_WALES_2024)/edm-unpermitted.xlsx
+	$(XLSX2CSV) -s 1 $< $@ 2> /dev/null
+
+$(EDM_WALES_2024)/edm-storm.csv: $(EDM_WALES_2024)/edm-storm.xlsx
+	$(XLSX2CSV) -s 2 $< $@ 2> /dev/null
+
+$(EDM_WALES_2024)/edm-annual.csv: $(EDM_WALES_2024)/edm-annual.xlsx
+	$(XLSX2CSV) -s 1 $< $@ 2> /dev/null
+
+$(EDM_WALES_2024)/edm-consolidated.csv: process_edms_2024_wales.py $(EDM_WALES_2024_CSVS)
+	echo $(EDM_WALES_2024_CSVS)
+
+	$(PYTHON) process_edms_2024_wales.py \
+			--storm $(EDM_WALES_2024)/edm-storm.csv \
+			--emergency $(EDM_WALES_2024)/edm-emergency.csv \
+			--annual $(EDM_WALES_2024)/edm-annual.csv \
+			--england $(DOWNLOAD)/edm-2024/edm-consolidated.csv $@
+
+
+
 #####################
 
 .FORCE:
@@ -581,6 +681,10 @@ load-bathing-areas: $(DOWNLOAD)/bathing/data/Sensitive_Areas_Bathing_Waters.sql 
 	$(PSQL) -f $(word 2,$^)
 	$(PSQL) -f $(word 3,$^)
 	$(PSQL) -f $(word 4,$^)
+
+
+load-countries: $(DOWNLOAD)/CTRY_DEC_2022_UK_BUC.sql
+	$(PSQL) -f $<
 
 
 load-bathing: load-bathing-areas load-beach-mappings
