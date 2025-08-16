@@ -36,9 +36,10 @@ client_secret:{{client-secret}}
 
 ###
 // Discharge Alert by consent/permit after 2022-12-01
-GET https://prod-tw-opendata-app.uk-e1.cloudhub.io/data/STE/v1/DischargeAlerts?col_1=PermitNumber&operand_1=eq&value_1=CTCR.1317
+GET https://prod-tw-opendata-app.uk-e1.cloudhub.io/data/STE/v1/DischargeAlerts?col_1=PermitNumber&operand_1=eq&value_1=CSAB.0541
 client_id:{{client-id}}
 client_secret:{{client-secret}}
+
 ###
 // Discharge Alert by location
 GET https://prod-tw-opendata-app.uk-e1.cloudhub.io/data/STE/v1/DischargeAlerts?col_1=LocationName&operand_1=eq&value_1=Aldershot Town

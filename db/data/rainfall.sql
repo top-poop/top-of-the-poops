@@ -14,3 +14,7 @@ create table rainfall_readings (
     reading_mm numeric
 );
 
+
+CREATE INDEX idx_rainfall_date_station
+    ON rainfall_readings(date_time, station_id);
+
