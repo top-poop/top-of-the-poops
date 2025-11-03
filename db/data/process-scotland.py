@@ -26,10 +26,13 @@ class NonReportedSummary:
     x: int
     y: int
     receiving_water: str
+    days_data_2024: int
     days_data_2023: int
     days_data_2022: int
+    count_2024: Optional[float]
     count_2023: Optional[float]
     count_2022: Optional[float]
+    duration_2024: Optional[timedelta]
     duration_2023: Optional[timedelta]
     duration_2022: Optional[timedelta]
     comment: str
@@ -51,22 +54,23 @@ class ReportedSummary:
     x: int
     y: int
     receiving_water: str
+    days_data_2024: int
     days_data_2023: int
+    count_2024: Optional[float]
     count_2023: Optional[float]
     count_2022: Optional[float]
     count_2021: Optional[float]
     count_2020: Optional[float]
-    count_2019: Optional[float]
+    duration_2024: Optional[timedelta]
     duration_2023: Optional[timedelta]
     duration_2022: Optional[timedelta]
     duration_2021: Optional[timedelta]
     duration_2020: Optional[timedelta]
-    duration_2019: Optional[timedelta]
+    volume_2024: Optional[float]
     volume_2023: Optional[float]
     volume_2022: Optional[float]
     volume_2021: Optional[float]
     volume_2020: Optional[float]
-    volume_2019: Optional[float]
     comment: str
 
 
@@ -83,7 +87,7 @@ def _fix_count(c) -> Optional[float]:
     return float(c)
 
 
-duration_re = re.compile("(\d+):(\d+):(\d+)")
+duration_re = re.compile(r"(\d+):(\d+):(\d+)")
 
 
 def _fix_duration(d: Any) -> Optional[timedelta]:
@@ -146,9 +150,9 @@ def consent_from_summary(summary: ReportedSummary | NonReportedSummary) -> Conse
         receiving_water=(summary.receiving_water or "Unknown"),
         outlet_grid_ref=osgb.format_grid(summary.x, summary.y, form='SSEEEEENNNNN'),
         effluent_grid_ref=osgb.format_grid(summary.x, summary.y, form='SSEEEEENNNNN'),
-        rec_env_code_description = "Freshwater river",
-        outlet_number = '1',
-        effluent_number = '1',
+        rec_env_code_description="Freshwater river",
+        outlet_number='1',
+        effluent_number='1',
         **consent_unknown
     )
 
@@ -180,8 +184,6 @@ def duration_to_hours(duration: Optional[datetime.timedelta]) -> float:
 
 
 def edm_from_summary(summary: ReportedSummary | NonReportedSummary) -> List[EDM]:
-    reporting_pct = summary.days_data_2023 / 365.0
-
     return [
         EDM(
             reporting_year=2022,
@@ -191,7 +193,7 @@ def edm_from_summary(summary: ReportedSummary | NonReportedSummary) -> List[EDM]
             consent_id=consent_id(summary),
             total_spill_hours=duration_to_hours(summary.duration_2022),
             spill_count=summary.count_2022 if summary.count_2022 else 0,
-            reporting_pct=reporting_pct,
+            reporting_pct=summary.days_data_2023 / 365.0,
             excuses=summary.comment,
             **edm_unknown
         ),
@@ -203,7 +205,19 @@ def edm_from_summary(summary: ReportedSummary | NonReportedSummary) -> List[EDM]
             consent_id=consent_id(summary),
             total_spill_hours=duration_to_hours(summary.duration_2023),
             spill_count=summary.count_2023 if summary.count_2023 else 0,
-            reporting_pct=reporting_pct,
+            reporting_pct=(summary.days_data_2023 / 365.0),
+            excuses=summary.comment,
+            **edm_unknown
+        ),
+        EDM(
+            reporting_year=2024,
+            company_name="Scottish Water",
+            site_name=summary.asset_name,
+            wasc_site_name=summary.asset_name,
+            consent_id=consent_id(summary),
+            total_spill_hours=duration_to_hours(summary.duration_2024),
+            spill_count=summary.count_2024 if summary.count_2024 else 0,
+            reporting_pct=(summary.days_data_2024 / 365.0),
             excuses=summary.comment,
             **edm_unknown
         )
@@ -226,24 +240,25 @@ def read_reported_summaries(path: pathlib.Path) -> List[ReportedSummary]:
             if summary.licence != '':
                 summaries.append(dataclasses.replace(
                     summary,
-                    count_2019=_fix_count(summary.count_2019),
                     count_2020=_fix_count(summary.count_2020),
                     count_2021=_fix_count(summary.count_2021),
                     count_2022=_fix_count(summary.count_2022),
                     count_2023=_fix_count(summary.count_2023),
-                    duration_2019=_fix_duration(summary.duration_2019),
+                    count_2024=_fix_count(summary.count_2024),
                     duration_2020=_fix_duration(summary.duration_2020),
                     duration_2021=_fix_duration(summary.duration_2021),
                     duration_2022=_fix_duration(summary.duration_2022),
                     duration_2023=_fix_duration(summary.duration_2023),
-                    volume_2019=_fix_volume(summary.volume_2019),
+                    duration_2024=_fix_duration(summary.duration_2024),
                     volume_2020=_fix_volume(summary.volume_2020),
                     volume_2021=_fix_volume(summary.volume_2021),
                     volume_2022=_fix_volume(summary.volume_2022),
                     volume_2023=_fix_volume(summary.volume_2023),
+                    volume_2024=_fix_volume(summary.volume_2024),
                     x=int(summary.x),
                     y=int(summary.y),
-                    days_data_2023=_fix_days(summary.days_data_2023)
+                    days_data_2023=_fix_days(summary.days_data_2023),
+                    days_data_2024=_fix_days(summary.days_data_2024)
                 ))
     return summaries
 
@@ -264,11 +279,14 @@ def read_nonreported_summaries(path: pathlib.Path) -> List[NonReportedSummary]:
                         summary,
                         count_2022=_fix_count(summary.count_2022),
                         count_2023=_fix_count(summary.count_2023),
+                        count_2024=_fix_count(summary.count_2024),
                         duration_2022=_fix_duration(summary.duration_2022),
                         duration_2023=_fix_duration(summary.duration_2023),
+                        duration_2024=_fix_duration(summary.duration_2024),
                         x=int(summary.x),
                         y=int(summary.y),
-                        days_data_2023=_fix_days(summary.days_data_2023)
+                        days_data_2023=_fix_days(summary.days_data_2023),
+                        days_data_2024=_fix_days(summary.days_data_2024),
                     )
                 )
 
@@ -278,8 +296,8 @@ def read_nonreported_summaries(path: pathlib.Path) -> List[NonReportedSummary]:
 if __name__ == "__main__":
     location = pathlib.Path("provided")
 
-    reported = read_reported_summaries(location / "scottish-water-reported-summary-2023.csv")
-    nonreported = read_nonreported_summaries(location / "scottish-water-nonreported-summary-2023.csv")
+    reported = read_reported_summaries(location / "scottish-water-reported-summary-2024.csv")
+    nonreported = read_nonreported_summaries(location / "scottish-water-nonreported-summary-2024.csv")
 
     consents = [consent_from_summary(r) for r in reported] + [consent_from_summary(n) for n in nonreported]
     edm = chain.from_iterable([edm_from_summary(r) for r in reported] + [edm_from_summary(n) for n in nonreported])
