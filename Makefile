@@ -24,6 +24,13 @@ python: $(PYTHON)
 	patch --forward -p0 -i python-patch.patch || true  #bit yuk
 	touch $@
 
+
+# create patch from a fresh install (venv2) of xls2csv to the currently-used one
+.PHONY: makepatch
+makepatch:
+	diff -u venv2/lib/python3.12/site-packages/xlsx2csv.py venv/lib/python3.12/site-packages/xlsx2csv.py > python-patch.patch.tmp ; [ $$? -eq 1 ]
+	mv python-patch.patch.tmp python-patch.patch
+
 $(PYTHON): .python_uptodate
 
 web/data/generated/%.json: generate/$(basename $(notdir %)).sql $(PYTHON) $(GENERATE) $(FILES)

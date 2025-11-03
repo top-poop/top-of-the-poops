@@ -5,7 +5,8 @@ create table rainfall_stations (
     station_id text primary key,
     lat numeric,
     lon numeric,
-    point GEOMETRY(point, 4326)
+    point GEOMETRY(point, 4326),
+    geog_point geography(Point, 4326) GENERATED ALWAYS AS (geography(point)) STORED
 );
 
 create table rainfall_readings (
