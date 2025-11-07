@@ -51,6 +51,11 @@ $(DOWNLOAD)/PCON_JULY_2024_UK_BFC.shp: $(DOWNLOAD)/$(CONSTITUENCIES_NAME)
 	$(OGR2OGR) $@ $<
 	sed -i -e 's/NUMERIC(24,15)/NUMERIC/' -e 's/NUMERIC(12,11)/NUMERIC/' -e 's/NUMERIC(10,0)/NUMERIC/' $@
 
+%.sql: %.gpkg
+	$(OGR2OGR) $@ $<
+	sed -i -e 's/NUMERIC(24,15)/NUMERIC/' -e 's/NUMERIC(12,11)/NUMERIC/' -e 's/NUMERIC(10,0)/NUMERIC/' $@
+
+
 .PHONY: load-constituencies
 load-constituencies: $(DOWNLOAD)/PCON_JULY_2024_UK_BFC.sql
 	$(PSQL) -f $<
@@ -645,6 +650,11 @@ bb-events:  bb_events.sql bb_events_load.sql
 	$(PSQL) -f bb_events.sql
 	$(PSQL) -f bb_events_load.sql
 
+# Urban Areas
+
+load-urban-areas: provided/os_open_built_up_areas.sql update-urban-areas.sql
+	$(PSQL) -f $<
+	$(PSQL) -f update-urban-areas.sql
 
 # Bathing water shapes
 
