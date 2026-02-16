@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 import argparse
+import contextlib
 import csv
 import re
 import sys
@@ -11,6 +12,18 @@ import psycopg2
 
 T = TypeVar('T')
 
+@contextlib.contextmanager
+def smart_open(filename=None):
+    if filename and filename != '-':
+        fh = open(filename, 'w')
+    else:
+        fh = sys.stdout
+
+    try:
+        yield fh
+    finally:
+        if fh is not sys.stdout:
+            fh.close()
 
 def iter_row(cursor, size=10, f: Callable[[Tuple], T] = lambda t: t) -> Iterable[T]:
     while True:
@@ -44,7 +57,7 @@ if __name__ == "__main__":
             references.add(o)
             references.add(r)
 
-    with open(args.output, "w") as fp:
+    with smart_open(args.output) as fp:
 
         writer = csv.writer(fp)
 

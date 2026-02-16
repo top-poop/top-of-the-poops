@@ -362,6 +362,10 @@ $(DOWNLOAD)/edm-2024/company/yorkshire.csv: $(DOWNLOAD)/edm-2024/all.xslx
 $(DOWNLOAD)/edm-2024/edm-consolidated.csv: process_edms_2024.py $(EDM_2024_RETURNS)
 		$(PYTHON) process_edms_2024.py $@ $^
 
+$(DOWNLOAD)/edm-2024/stream-cso-mapping.csv: process_edms_stream_2024.py $(EDM_2024_RETURNS)
+		$(PYTHON) process_edms_stream_2024.py $@ $^
+
+
 .PHONY: load-edm-2024
 load-edm-2024: load_edm_2024.sql $(DOWNLOAD)/edm-2024/edm-consolidated.csv
 	$(PSQL) -f $<
@@ -376,6 +380,11 @@ load-edm: edm.sql load_edm.sql $(DOWNLOAD)/edm-consolidated.csv $(DOWNLOAD)/edm-
 load-scotland: load_scotland.sql
 	$(PSQL) -f $<
 
+
+.PHONY: load-stream-mapping
+load-stream-mapping: $(DOWNLOAD)/edm-2024/stream-cso-mapping.csv
+	$(PSQL) -f stream_lookup.sql
+	$(PSQL) -f load_stream_lookup.sql
 
 ## Welsh Water Consents & EDMs
 
