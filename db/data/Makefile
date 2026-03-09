@@ -11,7 +11,7 @@ PGHOST ?=localhost
 PGPORT ?=5432
 PSQL=psql -v ON_ERROR_STOP=1 -p $(PGPORT) -h $(PGHOST) -d gis -U docker -q --pset=pager=off
 CURL=curl --fail --silent
-PYTHON=../../venv/bin/python3
+PYTHON=../../../totp/venv/bin/python3
 XLSX2CSV=../../venv/bin/xlsx2csv -e -i
 OGR2OGR=ogr2ogr -nlt PROMOTE_TO_MULTI -f PGDump -t_srs "EPSG:4326"
 
@@ -705,6 +705,14 @@ load-bathing-areas: $(DOWNLOAD)/bathing/data/Sensitive_Areas_Bathing_Waters.sql 
 load-countries: $(DOWNLOAD)/CTRY_DEC_2022_UK_BUC.sql
 	$(PSQL) -f $<
 
+
+$(DOWNLOAD)/os_open_postcodes_consolidated.csv: provided/codepo_gb.zip
+	unzip -o -d $(DOWNLOAD)/postcodes $<
+	cat $(wildcard $(DOWNLOAD)/postcodes/Data/CSV/*.csv) > $@
+
+.PHONY: load-postcodes
+load-postcodes: $(DOWNLOAD)/os_open_postcodes_consolidated.csv
+	$(PSQL) -f load_postcodes.sql
 
 load-bathing: load-bathing-areas load-beach-mappings
 

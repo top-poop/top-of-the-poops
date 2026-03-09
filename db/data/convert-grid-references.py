@@ -8,7 +8,7 @@ from typing import Callable, Iterable, Tuple
 from typing import TypeVar
 
 import osgb
-import psycopg2
+import psycopg
 
 T = TypeVar('T')
 
@@ -52,7 +52,7 @@ if __name__ == "__main__":
 
     references = set()
 
-    with psycopg2.connect(host="localhost", database="gis", user="docker", password="docker") as conn:
+    with psycopg.connect(host="localhost", dbname="gis", user="docker", password="docker") as conn:
         for o, r in select_many(conn, select_sql, f=lambda row: (row[0], row[1])):
             references.add(o)
             references.add(r)

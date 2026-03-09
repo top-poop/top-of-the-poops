@@ -12,3 +12,8 @@ requests
 python-statemachine[diagrams]
 
 pydot
+
+pyproj
+
+convertbng
+

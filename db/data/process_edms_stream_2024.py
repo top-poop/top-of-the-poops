@@ -44,9 +44,15 @@ if __name__ == "__main__":
                         else:
                             wfd_waterbody_id = wfd_waterbody_id[:14]
 
+                        stream_name = line[0]
+                        stream_name_old = line[27]
+
+                        if stream_name == stream_name_old:
+                            stream_name_old = None
+
                         row = {
-                            "stream_name": line[0],
-                            "stream_name_old": line[27],
+                            "stream_name": stream_name,
+                            "stream_name_old": stream_name_old,
                             "wfd_waterbody_id": wfd_waterbody_id,
                             "site_name_consent": site_name_consent,
                             "site_name_wasc": site_name_wasc,

@@ -10,7 +10,11 @@ select reporting_year,
        sum(edm.total_spill_hours) as total_spill_hours,
        sum(edm.spill_count) as total_spill_count,
        st_x(st_centroid(st_collect(point))) as lon,
-       st_y(st_centroid(st_collect(point))) as lat
+       st_y(st_centroid(st_collect(point))) as lat,
+       st_asgeojson(ST_MakeLine(grid.point::geometry ORDER BY
+           -- Morton/Z-order using scaled lat/lon
+           ((grid.lat + 90)::int << 16) | ((grid.lon + 180)::int & 65535)
+                                )) as geojson_line
 from edm_consent_view as edm
          join grid_references as grid on edm.effluent_grid_ref = grid.grid_reference
 where bathing is not null
