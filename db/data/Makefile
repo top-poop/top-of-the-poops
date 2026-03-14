@@ -714,6 +714,30 @@ $(DOWNLOAD)/os_open_postcodes_consolidated.csv: provided/codepo_gb.zip
 load-postcodes: $(DOWNLOAD)/os_open_postcodes_consolidated.csv
 	$(PSQL) -f load_postcodes.sql
 
+
+# Wales senedd
+provided/senedd_final_2026/senedd_final_2026.shp: provided/senedd_final_2026.zip
+	mkdir -p provided/senedd_final_2026
+	unzip -o -d provided/senedd_final_2026 $<
+
+provided/senedd_final_2026.sql: provided/senedd_final_2026/senedd_final_2026.shp
+	$(OGR2OGR) $@ $<
+	sed -i -e 's/NUMERIC(24,15)/NUMERIC/' $@
+
+
+.PHONY: load-senedd-shapes
+load-senedd-shapes: provided/senedd_final_2026.sql
+	$(PSQL) -f $<
+
+.PHONY: update-senedd-cons
+update-senedd-cons:
+	$(PSQL) -f update-senedd-cons-reference-data.sql
+
+
+.PHONY: load-senedd
+load-senedd: load-senedd-shapes update-senedd-cons
+
+
 load-bathing: load-bathing-areas load-beach-mappings
 
 .PHONY: load-bathing-view
