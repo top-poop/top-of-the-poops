@@ -68,15 +68,6 @@ $(DOWNLOAD)/edm-2025/edm-consolidated.csv: process_edms_2025.py $(EDM_2025_RETUR
 		$(PYTHON) process_edms_2025.py $@ $^
 
 
-#$(DOWNLOAD)/edm-2025/stream-cso-mapping.csv: process_edms_stream_2025.py $(EDM_2025_RETURNS)#
-		#$(PYTHON) process_edms_stream_2025.py $@ $^
-
-
-.PHONY: load-edm-2025
-load-edm-2025: load_edm_2025.sql $(DOWNLOAD)/edm-2025/edm-consolidated.csv
-	$(PSQL) -f $<
-
-
 EDM_WALES_2025=$(DOWNLOAD)/edm-wales-2025
 EDM_WALES_2025_XLS=$(wildcard $(EDM_WALES_2025)/*.xlsx)
 EDM_WALES_2025_CSVS=$(EDM_WALES_2025_XLS:.xlsx=.csv)
@@ -103,7 +94,6 @@ $(EDM_WALES_2025)/edm-annual.csv: $(EDM_WALES_2025)/edm-annual.xlsx
 returns: $(EDM_2025_RETURNS) $(EDM_WALES_2025_CSVS)
 
 
-
 $(EDM_WALES_2025)/edm-consolidated.csv: process_edms_2025_wales.py $(EDM_WALES_2025_CSVS)
 	$(PYTHON) process_edms_2025_wales.py \
 			--storm $(EDM_WALES_2025)/edm-storm.csv \
@@ -115,3 +105,6 @@ $(EDM_WALES_2025)/edm-consolidated.csv: process_edms_2025_wales.py $(EDM_WALES_2
 
 consolidated: $(DOWNLOAD)/edm-2025/edm-consolidated.csv $(EDM_WALES_2025)/edm-consolidated.csv
 
+.PHONY: load-edm-2025
+load-edm-2025: load_edm_2025.sql $(DOWNLOAD)/edm-2025/edm-consolidated.csv $(EDM_WALES_2025)/edm-consolidated.csv
+	$(PSQL) -f $<
