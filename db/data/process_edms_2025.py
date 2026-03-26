@@ -7,7 +7,7 @@ import re
 
 from edm_types import EDM, edm_writer
 
-nas = {"n/a", "#n/a", "#na", 'not applicable', "unknown"}
+nas = {"n/a", "#n/a", "#na", "not applicable", "unknown"}
 
 
 def ensure_not_na(thing):
@@ -76,33 +76,66 @@ def ensure_waterbody_id(maybe_waterbody_id: str):
         return None
 
 
+
+def time_to_hours(time_str: str) -> float:
+    if not time_str:
+        return 0.0
+
+    if not re.fullmatch(r'(\d+:)?\d{2}:\d{2}', time_str):
+
+        try:
+            # just see if it was a float wtf
+            return float(time_str)
+        except ValueError:
+            raise ValueError(f"Invalid time format. '{time_str}' Expected 'h:mm:ss' or 'mm:ss'.")
+
+    parts = list(map(int, time_str.split(':')))
+
+    if len(parts) == 2:  # mm:ss format
+        h, m, s = 0, *parts
+    else:  # h:mm:ss format
+        h, m, s = parts
+
+    if not (0 <= m < 60 and 0 <= s < 60):
+        raise ValueError("Minutes and seconds must be between 0 and 59.")
+
+    return h + m / 60 + s / 3600
+
+
+def sometimes_float_sometimes_time(whatever: str):
+    try:
+        return ensure_numeric(whatever)
+    except ValueError:
+        return time_to_hours(whatever)
+
+
 def bodge(row):
     return EDM(
-        reporting_year=2021,
-        company_name=row[0].replace("\\n", ""),
-        site_name=row[1].replace("\\n", ""),
-        wasc_site_name=row[2].replace("\\n", ""),
-        consent_id=epr_consent(row[0], row[3]),
-        activity_reference=row[5],
-        shellfishery=ensure_bathing_or_shellfish(row[11]).replace("\\n", ""),
-        bathing=ensure_bathing_or_shellfish(row[12]).replace("\\n", ""),
-        total_spill_hours=ensure_numeric(row[14]),
-        spill_count=int(ensure_numeric(row[15])),
-        reporting_pct=ensure_is_percentage(ensure_zero_if_empty(ensure_numeric_or_empty(row[16]))),
-        wfd_waterbody_id=ensure_waterbody_id(row[8]),
-        excuses=" ".join(row[17:21]).strip(),
-        edm_commissioning_info=row[13],
-        reporting_low_reason=row[17],
-        reporting_low_action=row[18],
-        spill_high_reason=row[19],
-        spill_high_action=row[20].replace("â€“", "-"),
-        spill_high_planning=row[21]
+        reporting_year=2025,
+        company_name=row[1].replace("\\n", ""),
+        site_name=row[2].replace("\\n", ""),
+        wasc_site_name=row[3].replace("\\n", ""),
+        consent_id=epr_consent(row[1], row[4]),
+        activity_reference=row[6],
+        wfd_waterbody_id=ensure_waterbody_id(row[9]),
+        shellfishery=ensure_bathing_or_shellfish(row[12]).replace("\\n", ""),
+        bathing=ensure_bathing_or_shellfish(row[13]).replace("\\n", ""),
+        total_spill_hours=time_to_hours(row[15]),
+        spill_count=int(sometimes_float_sometimes_time(row[16])),
+        reporting_pct=ensure_is_percentage(ensure_zero_if_empty(ensure_numeric_or_empty(row[19]))),
+        excuses=" ".join(row[20:]).strip(),
+        edm_commissioning_info=row[18],
+        reporting_low_reason=row[20],
+        reporting_low_action=row[21],
+        spill_high_reason=row[22],
+        spill_high_action=row[23].replace("â€“", "-"),
+        spill_high_planning=row[24]
     )
 
 
 if __name__ == "__main__":
 
-    parser = argparse.ArgumentParser(description="process EDM 2021 files")
+    parser = argparse.ArgumentParser(description="process EDM 2025 files")
 
     parser.add_argument("output", help="output file")
     parser.add_argument("input", nargs="+", help="inputs")
@@ -113,8 +146,15 @@ if __name__ == "__main__":
         with edm_writer(args.output) as writer:
             for edm in filter(lambda n: n.endswith(".csv"), args.input):
                 seen = set()
+
+                print(f"Processing {edm}")
+
                 with open(edm, encoding='windows-1252') as edm_file:
                     sewage = csv.reader(edm_file)
+                    next(sewage)
+                    next(sewage)
+                    next(sewage)
+                    next(sewage)
                     next(sewage)
                     next(sewage)
 

@@ -1,0 +1,117 @@
+
+DOWNLOAD=download
+
+ROOT_DIR:=$(shell dirname $(realpath $(firstword $(MAKEFILE_LIST))))
+
+#Don't care about this.. its just a local database
+export PGPASSWORD=docker
+PGHOST ?=localhost
+PGPORT ?=5432
+PSQL=psql -v ON_ERROR_STOP=1 -p $(PGPORT) -h $(PGHOST) -d gis -U docker -q --pset=pager=off
+CURL=curl --fail --silent
+PYTHON=../../../totp/venv/bin/python3
+XLSX2CSV=../../venv/bin/xlsx2csv -e -i
+OGR2OGR=ogr2ogr -nlt PROMOTE_TO_MULTI -f PGDump -t_srs "EPSG:4326"
+
+
+# jump through hoops to make a filename with no spaces
+$(DOWNLOAD)/edm-2025/all.xlsx:
+	echo "$@ Should exist!"
+	exit 1
+
+
+EDM_2025_NAMES=anglian dcww northumbrian severn-trent south-west southern thames united wessex yorkshire
+EDM_2025_RETURNS=$(foreach name,$(EDM_2025_NAMES),$(DOWNLOAD)/edm-2025/company/$(name).csv)
+
+$(DOWNLOAD)/edm-2025/company/anglian.csv: $(DOWNLOAD)/edm-2025/all.xlsx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 2 $< $@ #2> /dev/null
+
+$(DOWNLOAD)/edm-2025/company/dcww.csv: $(DOWNLOAD)/edm-2025/all.xlsx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 3 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2025/company/northumbrian.csv: $(DOWNLOAD)/edm-2025/all.xlsx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 4 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2025/company/severn-trent.csv: $(DOWNLOAD)/edm-2025/all.xlsx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 5 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2025/company/south-west.csv: $(DOWNLOAD)/edm-2025/all.xlsx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 6 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2025/company/southern.csv: $(DOWNLOAD)/edm-2025/all.xlsx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 7 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2025/company/thames.csv: $(DOWNLOAD)/edm-2025/all.xlsx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 8 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2025/company/united.csv: $(DOWNLOAD)/edm-2025/all.xlsx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 9 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2025/company/wessex.csv: $(DOWNLOAD)/edm-2025/all.xlsx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 10 $< $@ 2> /dev/null
+
+$(DOWNLOAD)/edm-2025/company/yorkshire.csv: $(DOWNLOAD)/edm-2025/all.xlsx
+	mkdir -p $(dir $@)
+	$(XLSX2CSV) -s 11 $< $@ 2> /dev/null
+
+
+$(DOWNLOAD)/edm-2025/edm-consolidated.csv: process_edms_2025.py $(EDM_2025_RETURNS)
+		$(PYTHON) process_edms_2025.py $@ $^
+
+
+#$(DOWNLOAD)/edm-2025/stream-cso-mapping.csv: process_edms_stream_2025.py $(EDM_2025_RETURNS)#
+		#$(PYTHON) process_edms_stream_2025.py $@ $^
+
+
+.PHONY: load-edm-2025
+load-edm-2025: load_edm_2025.sql $(DOWNLOAD)/edm-2025/edm-consolidated.csv
+	$(PSQL) -f $<
+
+
+EDM_WALES_2025=$(DOWNLOAD)/edm-wales-2025
+EDM_WALES_2025_XLS=$(wildcard $(EDM_WALES_2025)/*.xlsx)
+EDM_WALES_2025_CSVS=$(EDM_WALES_2025_XLS:.xlsx=.csv)
+
+wales-2025-clean:
+	rm $(EDM_WALES_2025)/*.csv
+
+$(EDM_WALES_2025)/edm-emergency.csv: $(EDM_WALES_2025)/edm-emergency.xlsx
+	$(XLSX2CSV) -s 1 $< $@ 2> /dev/null
+
+$(EDM_WALES_2025)/edm-emergency-2.csv: $(EDM_WALES_2025)/edm-emergency-2.xlsx
+	$(XLSX2CSV) -s 1 $< $@ 2> /dev/null
+
+$(EDM_WALES_2025)/edm-unpermitted.csv: $(EDM_WALES_2025)/edm-unpermitted.xlsx
+	$(XLSX2CSV) -s 1 $< $@ 2> /dev/null
+
+$(EDM_WALES_2025)/edm-storm.csv: $(EDM_WALES_2025)/edm-storm.xlsx
+	$(XLSX2CSV) -s 1 $< $@ 2> /dev/null
+
+$(EDM_WALES_2025)/edm-annual.csv: $(EDM_WALES_2025)/edm-annual.xlsx
+	$(XLSX2CSV) -s 1 $< $@ 2> /dev/null
+
+
+returns: $(EDM_2025_RETURNS) $(EDM_WALES_2025_CSVS)
+
+
+
+$(EDM_WALES_2025)/edm-consolidated.csv: process_edms_2025_wales.py $(EDM_WALES_2025_CSVS)
+	$(PYTHON) process_edms_2025_wales.py \
+			--storm $(EDM_WALES_2025)/edm-storm.csv \
+			--emergency $(EDM_WALES_2025)/edm-emergency.csv \
+			--emergency-2 $(EDM_WALES_2025)/edm-emergency-2.csv \
+			--annual $(EDM_WALES_2025)/edm-annual.csv \
+			--england $(DOWNLOAD)/edm-2025/edm-consolidated.csv $@
+
+
+consolidated: $(DOWNLOAD)/edm-2025/edm-consolidated.csv $(EDM_WALES_2025)/edm-consolidated.csv
+

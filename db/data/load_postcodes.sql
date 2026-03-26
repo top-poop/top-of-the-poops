@@ -34,6 +34,17 @@ FROM os_open_postcodes l
          JOIN pcon_july_2024_uk_bfc c
               ON ST_Contains(c.wkb_geometry, l.point);
 
-create index postcode_constituency_idx1 on outcode;
+create index postcode_constituency_idx1 on postcode_constituency(outcode);
+
+create materialized view postcode_place as
+SELECT distinct split_part(l.postcode, ' ', 1) AS outcode,
+                c.name1_text                     AS place
+FROM os_open_postcodes l
+         JOIN os_open_built_up_areas c
+              ON ST_Contains(c.geometry, l.point);
+
+create index postcode_place_idx1 on postcode_place(outcode);
+
+
 
 
